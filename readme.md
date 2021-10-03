@@ -16,9 +16,13 @@ the foot traffic data provided by Safegraph on census block group level (cbg).
 1.  Create a Google Places API using
     https://console.cloud.google.com/home/dashboard
 
-2.  Store the api in a json (key = ‘google_api_key’) and store it as config.json
+2.  Write the api_key to a json (key = ‘google_api_key’) and store it as
+    config.json in the config folder
 
-3.  Run the cbg rest etl ,  rest attr etl and review scraper etl
+3.  Download the webdriver for Chrome ensuring the same version as current
+    Chrome installation
+
+4.  Run the cbg rest etl , rest attr etl and review scraper etl
 
  
 
