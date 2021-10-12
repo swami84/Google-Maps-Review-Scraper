@@ -6,8 +6,8 @@ Google Maps Restaurant Review Scraper
 Description:
 ------------
 
-This is a scraper to scraper user reviews for restaurants from Google Maps using
-the foot traffic data provided by Safegraph on census block group level (cbg).
+This is a scraper to scrape restaurant reviews from Google Maps for restaurants
+in high foot traffic census block groups
 
 ###  
 
