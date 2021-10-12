@@ -1,12 +1,13 @@
-
+import copy
 import json
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
+from os.path import exists
 
-
+import json
 class rest_attr():
     def __init__(self):
         self.driver = self.__get_driver()
@@ -28,9 +29,14 @@ class rest_attr():
 
         return input_driver
 
-    def get_rest_info(self, cbg,place_id, rest_name, rest_add):
+    def get_rest_info(self, cbg,place_id, rest_name, rest_add,i=None):
+        path_to_file = '../data/outputs/rest_attrs/rest_attrs_compiled.json'
+        if exists(path_to_file):
+            rest_attrs = json.load(open(path_to_file))
 
-
+            if any(d['place_id'] == place_id for d in rest_attrs):
+                return None
+        rest_name = rest_name.replace('&', '+%26+')
         url = 'https://www.google.com/search?q=' + rest_name + ' ' + rest_add
 
 
@@ -39,18 +45,32 @@ class rest_attr():
         rest_dict = {}
         rest_dict['cbg'] = cbg
         rest_dict['place_id'] = place_id
-        response = BeautifulSoup(driver.page_source, 'html.parser')
+        response = BeautifulSoup(self.driver.page_source, 'html.parser')
+        map_url = None
         for res in response.find_all('a', href=True):
             if 'maps.google' in res['href']:
                 map_url = res['href']
-        self.driver.get(map_url)
+        if map_url:
+            self.driver.get(map_url)
+        else:
+            return None
         for res in self.driver.find_elements_by_xpath('//button[@jsaction=\'pane.rating.category\']'):
-            rest_dict['rest_type'] = res[0].text
+
+            rest_dict['rest_type'] = res.text
+
         for res in self.driver.find_elements_by_xpath('//button[@jsaction=\'pane.rating.moreReviews\']'):
-            rest_dict['no_of_reviews'] = int(res.text.split(' reviews')[0].replace(',', ''))
+            reviews_text = res.text
+            if 'reviews' in reviews_text:
+                rest_dict['no_of_reviews'] = int(reviews_text.split('reviews')[0].replace(',', ''))
+            else:
+                rest_dict['no_of_reviews'] = int(res.text[:2])
+
         resp = BeautifulSoup(self.driver.page_source, 'html.parser')
+
         for res in resp.find_all('span', jsinstance="*1"):
-            rest_dict['price_range_$'] = len(res.text.split('·')[1])
+            if '$' in res.text:
+
+                rest_dict['price_range_$'] = len(res.text.split('·')[1])
         for res in self.driver.find_elements_by_xpath('//button[starts-with (@jsaction,\'pane.attributes.expand\')]'):
             rest_summary_text = res.text.split('\n')
             rest_dict['rest_summary'] = rest_summary_text[0]
@@ -61,5 +81,24 @@ class rest_attr():
                 if 'at' in r['aria-label']:
                     time_int = r['aria-label'].split('at ')[1].replace('.','')
                     rest_dict[time_int] = r['aria-label'].split('%')[0]
-
+        path_to_file = '../data/outputs/rest_attrs/rest_attrs_' + str(i) + '.json'
+        if  len(rest_dict) >0:
+            self.write_rest_attr(rest_dict, path_to_file)
         return rest_dict
+
+    def write_rest_attr(self,rest_dict,path_to_file):
+
+
+        if not exists(path_to_file):
+
+            rest_attrs = []
+        else:
+            rest_attrs = json.load(open(path_to_file))
+        if not any(d['place_id'] == rest_dict['place_id'] for d in rest_attrs):
+            rest_attrs.append((rest_dict))
+
+            with open(path_to_file, 'w') as outfile:
+                json.dump(rest_attrs, outfile, indent=6)
+
+
+

@@ -5,4 +5,7 @@ config/
 catboost_info/
 data/inputs/
 geckodriver.log
-notebooks/
+!notebooks
+notebooks/*
+!notebooks/Review Scraper.ipynb
+data/outputs/
