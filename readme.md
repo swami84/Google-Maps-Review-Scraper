@@ -22,8 +22,10 @@ in high foot traffic census block groups
 3.  Download the webdriver for Chrome ensuring the same version as current
     Chrome installation
 
-4.  Run the Review [Scraper Notebook]
-    (https://nbviewer.org/github/swami84/Google-Maps-Review-Scraper/blob/main/notebooks/Review%20Scraper.ipynb)
+4.  Run the Review [Scraper
+    Notebook](https://nbviewer.org/github/swami84/Google-Maps-Review-Scraper/blob/main/notebooks/Review%20Scraper.ipynb)
+
+ 
 
  
 
