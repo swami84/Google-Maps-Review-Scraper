@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.295406,
+                        "lng":-76.584743
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2967578303,
+                              "lng":-76.5834903697
+                        },
+                        "southwest":{
+                              "lat":39.2940598697,
+                              "lng":-76.5861883303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Boli's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":675,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107406542926591362842\">Pizza Boli&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECK16yaTp30JkKNdf59pcIyeL1HfInRScw1C04hcb2XD8sViGfj5lY7EFRohXW_aGXvAslFeGH9LTFzA3s0KA_xomR-aYDo1pm5_pyxgIPvuRyAExpHGvauEaCMqtYpxWc2ZqX8jBddNMb1RwvnQyCblJdkpq8I1C3jrAFFoJdCQZzu",
+                        "width":1472
+                  }
+            ],
+            "place_id":"ChIJkeFmRmUEyIkRXZamJTtSP8g",
+            "plus_code":{
+                  "compound_code":"7CW8+54 Baltimore, MD, USA",
+                  "global_code":"87F57CW8+54"
+            },
+            "price_level":1.0,
+            "rating":3.2,
+            "reference":"ChIJkeFmRmUEyIkRXZamJTtSP8g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":242,
+            "vicinity":"243 North Patterson Park Avenue, Baltimore",
+            "CBG":245100603001,
+            "Radius":170.8647012727
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2963713,
+                        "lng":-76.5866304
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2978059803,
+                              "lng":-76.5852848697
+                        },
+                        "southwest":{
+                              "lat":39.2951080197,
+                              "lng":-76.5879828303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Island Breeze Restaurant & Lounge",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111527244777856557930\">Jean Hoyte<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhpZIjv96r4EPG3Fhu_d2UTY2o8HFhxcnhPuM5oIdVeyjDz2mWTwCn8jkLWvQYl40I8DUPu5sTC5OKoub_GktngGFiVIOwIOUuFBBfuX7eom-jkkTg7qPxw1aFJNQapzoLEm6gT8DfTZh7XhRLtF5ZwdHH0sPCv8rm1LMgGE5pHq20",
+                        "width":1840
+                  }
+            ],
+            "place_id":"ChIJP4Ox42QEyIkRc8u6rOdzEJw",
+            "plus_code":{
+                  "compound_code":"7CW7+G8 Baltimore, MD, USA",
+                  "global_code":"87F57CW7+G8"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJP4Ox42QEyIkRc8u6rOdzEJw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2139 Jefferson Street, Baltimore",
+            "CBG":245100603001,
+            "Radius":170.8647012727
+      }
+]

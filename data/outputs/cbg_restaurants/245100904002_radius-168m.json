@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.321634,
+                        "lng":-76.6093289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3229622303,
+                              "lng":-76.6080461197
+                        },
+                        "southwest":{
+                              "lat":39.3202642697,
+                              "lng":-76.6107440803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bottoms Up Bagels",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108702355667762357811\">Bottoms Up Bagels<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJWOQkC1doGIbay9sc9IMNvd6ACoDSos2LfXYiDMJY7_Q0ON9g8sXsZXEJld7WVnvNdkWK59MKAyt5pSipdBZu1XmSe36Vv25pHR0tUmm-WkJyvQHS_Vj7hTd7Td3mZADYXQIvKKJlw5_IMySYYghxTw8QMGrD_MsbRY6U_3We9VNR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqQiO544FyIkRmTyLt_SYobI",
+            "plus_code":{
+                  "compound_code":"89CR+M7 Baltimore, MD, USA",
+                  "global_code":"87F589CR+M7"
+            },
+            "rating":4.8,
+            "reference":"ChIJqQiO544FyIkRmTyLt_SYobI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"2731 Greenmount Avenue, Baltimore",
+            "CBG":245100904002,
+            "Radius":168.2950197499
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3207447,
+                        "lng":-76.6094517
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3220936803,
+                              "lng":-76.6080741197
+                        },
+                        "southwest":{
+                              "lat":39.3193957197,
+                              "lng":-76.6107720803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"#1 Sunny Carry Out Chinese & America Food",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJKdhE_-QEyIkRn2s1azfb-i4",
+            "plus_code":{
+                  "compound_code":"89CR+76 Baltimore, MD, USA",
+                  "global_code":"87F589CR+76"
+            },
+            "rating":2.3,
+            "reference":"ChIJKdhE_-QEyIkRn2s1azfb-i4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"United States",
+            "CBG":245100904002,
+            "Radius":168.2950197499
+      }
+]

@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9787951,
+                        "lng":-80.1412147
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.99185295,
+                              "lng":-80.13669215
+                        },
+                        "southwest":{
+                              "lat":25.96666275,
+                              "lng":-80.14380555
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"The Village at Gulfstream Park",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106037068117244718447\">Malva Bee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDxaj7EmsDMQ_QfFoGfnk8xgvGOGEGWVGbLD_c-kXEOrxLYecGIOMPljkLszX8AZ4vt_6RWNf-TPgCQ1yUjE-1v6Px4Chi3f6I4ClEkR8FHcNd0mSMqhr4zKB-3aZWErlG90Qj9L76nYhXqG-OAHyqQdJ1DaKvLvAQTMVZKdUdOJZS-",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJkQbFA4es2YgRoU5TosvlJuc",
+            "plus_code":{
+                  "compound_code":"XVH5+GG Hallandale Beach, FL, USA",
+                  "global_code":"76QXXVH5+GG"
+            },
+            "rating":4.5,
+            "reference":"ChIJkQbFA4es2YgRoU5TosvlJuc",
+            "scope":"GOOGLE",
+            "types":[
+                  "shopping_mall",
+                  "casino",
+                  "tourist_attraction",
+                  "travel_agency",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "clothing_store",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":8281.0,
+            "vicinity":"901 South Federal Highway, Hallandale Beach",
+            "CBG":120111003004,
+            "Radius":401.3553651957
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.976179,
+                        "lng":-80.1426621
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9776466803,
+                              "lng":-80.1413163697
+                        },
+                        "southwest":{
+                              "lat":25.9749487197,
+                              "lng":-80.1440143303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bio Vegan Laboratory",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJq6pO_oes2YgR0PK5iIs5bK8",
+            "plus_code":{
+                  "compound_code":"XVG4+FW Hallandale Beach, FL, USA",
+                  "global_code":"76QXXVG4+FW"
+            },
+            "rating":null,
+            "reference":"ChIJq6pO_oes2YgR0PK5iIs5bK8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"900 Federal Highway, Hallandale Beach",
+            "CBG":120111003004,
+            "Radius":401.3553651957
+      }
+]

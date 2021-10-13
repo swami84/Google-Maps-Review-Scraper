@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2809025,
+                        "lng":-76.6507626
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2822092303,
+                              "lng":-76.6493163697
+                        },
+                        "southwest":{
+                              "lat":39.2795112697,
+                              "lng":-76.6520143303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nick's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":470,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110684580053916215220\">Nick&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECuSjpWl78Cemf0oFebNHHDR362f-dJZ47vB4bWVOGlsehDOW97K67ZRChdoj0ELNUTNham95SwbrJ_m_DCgimps9rtvC_WZExVUZJ4Jc34NU6-C5XrnHJy5DuvQju4hgg008yQwJXsF-22poegfIFN3hNLhSW4EKnAoLhRy9_NOM-g",
+                        "width":603
+                  }
+            ],
+            "place_id":"ChIJea-QObAcyIkRCaTo1PKpLUY",
+            "plus_code":{
+                  "compound_code":"78JX+9M Baltimore, MD, USA",
+                  "global_code":"87F578JX+9M"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJea-QObAcyIkRCaTo1PKpLUY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":239,
+            "vicinity":"2200 Wilkens Avenue, Baltimore",
+            "CBG":245102005003,
+            "Radius":133.6331591884
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2801,
+                        "lng":-76.651633
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2815559303,
+                              "lng":-76.6503495197
+                        },
+                        "southwest":{
+                              "lat":39.2788579697,
+                              "lng":-76.6530474803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"B J Restaurant & Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111692632363520853433\">Blaque Bonnie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEApX-np7pEl9X6so-6aANU6gI7hJylMC5iZFwCwH9-kf4Y1eqErGAs_Mrq_J_aCHsD7_6zOPmwgz0ZBpfDdWhwu3wI9SScllHs7m0cnDynBr-8UoVZ39mm87MKDdexlc5SjdpzKYTZEMS4mKIQY0NcNMJT35XB_74VahQG4JtPfYBte",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ4RDIaLAcyIkRT3aMsWR9DCs",
+            "plus_code":{
+                  "compound_code":"78JX+28 Baltimore, MD, USA",
+                  "global_code":"87F578JX+28"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ4RDIaLAcyIkRT3aMsWR9DCs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":161,
+            "vicinity":"2251 Wilkens Avenue, Baltimore",
+            "CBG":245102005003,
+            "Radius":133.6331591884
+      }
+]

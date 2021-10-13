@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3365556,
+                        "lng":-76.6444488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3381291303,
+                              "lng":-76.6433011697
+                        },
+                        "southwest":{
+                              "lat":39.3354311697,
+                              "lng":-76.6459991303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Well Crafted Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101738871023920822847\">Well Crafted Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECejdB1cmGC3su3fa4KayfocFjb0e489MLyDDwskc63SiX8s3Yf7_hGBPGcryr3UUCJIVQoPl4oELoIvs5jEgfU4VqF_UmcNMGydvuyZqgTcTZKcjMo5BwVc9IWhbIVymP-Z_DJSQvqA4crogNf7QHlr7yqOA8vbaW5vmuCfTIC2YGx",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK8N-KC0byIkRONnmyyxquGM",
+            "plus_code":{
+                  "compound_code":"89P4+J6 Baltimore, MD, USA",
+                  "global_code":"87F589P4+J6"
+            },
+            "rating":4.4,
+            "reference":"ChIJK8N-KC0byIkRONnmyyxquGM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"1700 West 41st Street, Baltimore",
+            "CBG":245101308031,
+            "Radius":321.4331206126
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3357882,
+                        "lng":-76.6438304
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3372463803,
+                              "lng":-76.6424188697
+                        },
+                        "southwest":{
+                              "lat":39.3345484197,
+                              "lng":-76.6451168303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Vent Coffee Roasters",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114110542147741669144\">Karma Jin<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDMFfwaKWVhqqVuB-iFvPjw28VDgk3XOpgQ_L_nRFMwEsEzh3k2OFIscNdnlbqt-mFyO5dDfpuz7FblIqsVFFV4vhdPtnIMr02kjtnOeCqYTmQWre8HJUou-BX8hrCYpFSR_Tjzdxm-6FNC_u8ECeRlMZNWnpVJPJktSgufL0g8XEWe",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPds5T4UbyIkRQzRXaQvgZO8",
+            "plus_code":{
+                  "compound_code":"89P4+8F Baltimore, MD, USA",
+                  "global_code":"87F589P4+8F"
+            },
+            "rating":4.8,
+            "reference":"ChIJPds5T4UbyIkRQzRXaQvgZO8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":99,
+            "vicinity":"Union Collective, 1700 West 41st Street #480, Baltimore",
+            "CBG":245101308031,
+            "Radius":321.4331206126
+      }
+]

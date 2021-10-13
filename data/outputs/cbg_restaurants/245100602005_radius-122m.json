@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.29556,
+                        "lng":-76.5809249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2969137303,
+                              "lng":-76.5794537697
+                        },
+                        "southwest":{
+                              "lat":39.2942157697,
+                              "lng":-76.5821517303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Four Seasons Chinese Food and Sandwiches",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106637922326576376711\">\u6797\u9648<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECY8MYfJjXIn9Bcsw8rfpmR9mj4OmswaZnBCr5vAtGCO2CZGYY6JRSoe6JuGHCXz7roX2zuc_Zl0XHsftpCEthH_Xn9XaEtUzGLsizYhj_HpAytRPpTIP8IGhfJHz3t_6BFF9CLk6j6henQRmOZAAQWt6wRpZihun4SZtYrboiLt_k",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJXbTCtW8EyIkRAmlULJpn8Z0",
+            "plus_code":{
+                  "compound_code":"7CW9+6J Baltimore, MD, USA",
+                  "global_code":"87F57CW9+6J"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJXbTCtW8EyIkRAmlULJpn8Z0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":55,
+            "vicinity":"240 North Luzerne Avenue, Baltimore",
+            "CBG":245100602005,
+            "Radius":121.8492771056
+      }
+]

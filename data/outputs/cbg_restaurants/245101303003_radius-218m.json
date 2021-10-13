@@ -1,0 +1,48 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3104827,
+                        "lng":-76.6420655
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3118316803,
+                              "lng":-76.6407165197
+                        },
+                        "southwest":{
+                              "lat":39.3091337197,
+                              "lng":-76.6434144803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJxUWzuUobyIkRKtANdzKaXNw",
+            "plus_code":{
+                  "compound_code":"8965+55 Baltimore, MD, USA",
+                  "global_code":"87F58965+55"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJxUWzuUobyIkRKtANdzKaXNw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"1520 West North Avenue, Baltimore",
+            "CBG":245101303003,
+            "Radius":218.2196040526
+      }
+]

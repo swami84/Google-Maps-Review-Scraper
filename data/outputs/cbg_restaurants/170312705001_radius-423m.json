@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.873321,
+                        "lng":-87.720971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8746699803,
+                              "lng":-87.7196220197
+                        },
+                        "southwest":{
+                              "lat":41.8719720197,
+                              "lng":-87.7223199803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Original Maxwell Street",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109192371282249776333\">TA Sutton<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDll72WhCckITyVX-8oc_ZrPNvA2TAuK9wb7N0x-fMandfRzCqs-HsHAnR0y7xvi-yAgHDyprQMDqoerE0KRlfP3sawr27J-xE3juZ9e5EPMPWfZI0YuAsXa5n9EJcPsgeQKnYiLw3whITKwwsMtuf_ZVavA2ov1rkZt_vQPBo5m77g",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJLfrkl-syDogRXkDR1Yz4OE0",
+            "plus_code":{
+                  "compound_code":"V7FH+8J Chicago, IL, USA",
+                  "global_code":"86HJV7FH+8J"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJLfrkl-syDogRXkDR1Yz4OE0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1162,
+            "vicinity":"3801 West Harrison Street, Chicago",
+            "CBG":170312705001,
+            "Radius":422.7082914725
+      }
+]

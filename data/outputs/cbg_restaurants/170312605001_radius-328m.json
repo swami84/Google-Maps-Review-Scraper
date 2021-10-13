@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8746985,
+                        "lng":-87.7356216
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8760514803,
+                              "lng":-87.7340894197
+                        },
+                        "southwest":{
+                              "lat":41.8733535197,
+                              "lng":-87.7367873803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JJ Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109526714229784572927\">JJ Fish &amp; Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECodXStOub1btwXB6NZUgHz4pTuuvn-VJSAIa59QiuRTjjnveWw8EcaFo9w_N0hWhamFUYoqCNB0fKPOfqFwRnEYZlGIWAkuSyniNq6hYo4kjpl5EvV1PEx2KUsuNbWpwTQb_C9eAlz5EDUqoKfuI3yqhOrUkmc6-ChDeHysj6TI6ql",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJHbaCIiMzDogRDcxwtotfwnY",
+            "plus_code":{
+                  "compound_code":"V7F7+VQ Chicago, IL, USA",
+                  "global_code":"86HJV7F7+VQ"
+            },
+            "rating":4.0,
+            "reference":"ChIJHbaCIiMzDogRDcxwtotfwnY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":75.0,
+            "vicinity":"410 South Kostner Avenue, Chicago",
+            "CBG":170312605001,
+            "Radius":327.7902637526
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8746748,
+                        "lng":-87.7356624
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8760282303,
+                              "lng":-87.7341093697
+                        },
+                        "southwest":{
+                              "lat":41.8733302697,
+                              "lng":-87.7368073303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ali's Pizza",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJK60_tuEyDogRugqwLI-ZYpE",
+            "plus_code":{
+                  "compound_code":"V7F7+VP Chicago, IL, USA",
+                  "global_code":"86HJV7F7+VP"
+            },
+            "rating":null,
+            "reference":"ChIJK60_tuEyDogRugqwLI-ZYpE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"414 South Kostner Avenue, Chicago",
+            "CBG":170312605001,
+            "Radius":327.7902637526
+      }
+]

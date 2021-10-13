@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3429033,
+                        "lng":-76.6406334
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3442863803,
+                              "lng":-76.6392717697
+                        },
+                        "southwest":{
+                              "lat":39.3415884197,
+                              "lng":-76.6419697303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"krispy krunchy chicken",
+            "place_id":"ChIJr9H0NRsFyIkR4VJHWNYQwGo",
+            "plus_code":{
+                  "compound_code":"89V5+5P Baltimore, MD, USA",
+                  "global_code":"87F589V5+5P"
+            },
+            "price_level":1,
+            "reference":"ChIJr9H0NRsFyIkR4VJHWNYQwGo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4434 Falls Road, Baltimore",
+            "CBG":245101308032,
+            "Radius":232.9296855489
+      }
+]

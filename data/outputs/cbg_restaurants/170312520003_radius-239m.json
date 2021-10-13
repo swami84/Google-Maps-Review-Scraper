@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8803802,
+                        "lng":-87.772459
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8817291803,
+                              "lng":-87.7711100197
+                        },
+                        "southwest":{
+                              "lat":41.8790312197,
+                              "lng":-87.7738079803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Winners Sports Bar & Grill Inc.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110818631039684803644\">Brian Mcghee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBpIB0YK03lM84USxxDY47LPd_iFQMOGIHpKee7xb1WDmYoF54QdSAXsNylUf3GHOx-WWE5UMicC8YCnFDSoBqnxOyzrMYtelnD3BM_d8vzcm9Upf5OBDVi_TbJy9kdL4yT3y_6Igs-rDNkNqD1R_SCcX85XseInfUbLaMbbwBujZM",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ84w-W14zDogR3TiOYGeMMOo",
+            "plus_code":{
+                  "compound_code":"V6JH+52 Chicago, IL, USA",
+                  "global_code":"86HJV6JH+52"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ84w-W14zDogR3TiOYGeMMOo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"5912 West Madison Street, Chicago",
+            "CBG":170312520003,
+            "Radius":239.4451434033
+      }
+]

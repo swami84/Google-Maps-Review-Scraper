@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9043689,
+                        "lng":-87.7586026
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9057198803,
+                              "lng":-87.7570996697
+                        },
+                        "southwest":{
+                              "lat":41.9030219197,
+                              "lng":-87.7597976303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"3 JAY'S SNACK SHOP",
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112008965232466171476\">3 JAY&#39;S SNACK SHOP<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtfOGHtwZHVgUGp3-G8M7e8ELWpjmv9XPCtQ1-013cB2oz6f_YRiNANkwp4gvWQmHQ9Lh7XsqoOtdSPHyxHmzMnVi3inupJDPTwvjgb2cdE522acfiYKBV5c98Od3UEW-FNl9iFkkxxhHHS83V_Xi0Lj7JiFjmriDvUL8R0yMzuG0x",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJyxWdX1LND4gRc45h1p_x4UU",
+            "plus_code":{
+                  "compound_code":"W63R+PH Chicago, IL, USA",
+                  "global_code":"86HJW63R+PH"
+            },
+            "reference":"ChIJyxWdX1LND4gRc45h1p_x4UU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1308 North Lockwood Avenue, Chicago",
+            "CBG":170312507002,
+            "Radius":184.1273137466
+      }
+]

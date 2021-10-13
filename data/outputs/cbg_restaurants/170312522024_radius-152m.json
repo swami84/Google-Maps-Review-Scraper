@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8806831,
+                        "lng":-87.747856
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8820320803,
+                              "lng":-87.7465070197
+                        },
+                        "southwest":{
+                              "lat":41.8793341197,
+                              "lng":-87.7492049803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Joe's Barbeque & Fish",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112782270375300656963\">Jennifer Oliver O&#39;Connell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBPu3MnJ83Y5ft5QJn2LJF7HxZTVbtZ9dMgazLUaz-8fTV1cOKC2q-Sv_DsuMJ1go9RKI9fsBnVYUDEJcZk793GOYZw1XBeRCHbA4LaVgge6vaMimlFURklmeZsTydW7Ie8fShyBjXA6eb25fnm1webS4QU42DH7Qx-3yKOs1xK9g9A",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhXC13jwzDogRuqPZYxpIsho",
+            "plus_code":{
+                  "compound_code":"V7J2+7V Chicago, IL, USA",
+                  "global_code":"86HJV7J2+7V"
+            },
+            "price_level":2,
+            "rating":3.5,
+            "reference":"ChIJhXC13jwzDogRuqPZYxpIsho",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":307,
+            "vicinity":"4900 West Madison Street, Chicago",
+            "CBG":170312522024,
+            "Radius":151.9053606003
+      }
+]

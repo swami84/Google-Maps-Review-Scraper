@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8729576,
+                        "lng":-87.7612959
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8742564303,
+                              "lng":-87.7599456697
+                        },
+                        "southwest":{
+                              "lat":41.8715584697,
+                              "lng":-87.7626436303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Happy Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJq7HXAGwzDogRb-Sy2z9pDqQ",
+            "plus_code":{
+                  "compound_code":"V6FQ+5F Chicago, IL, USA",
+                  "global_code":"86HJV6FQ+5F"
+            },
+            "reference":"ChIJq7HXAGwzDogRb-Sy2z9pDqQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5448 West Harrison Street, Chicago",
+            "CBG":170312521023,
+            "Radius":233.8203394088
+      }
+]

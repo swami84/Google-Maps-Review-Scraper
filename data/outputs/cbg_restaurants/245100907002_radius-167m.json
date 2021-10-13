@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3208223,
+                        "lng":-76.5956423
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3221449303,
+                              "lng":-76.5942512697
+                        },
+                        "southwest":{
+                              "lat":39.3194469697,
+                              "lng":-76.5969492303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Grillotine Dinners to Go",
+            "place_id":"ChIJk-Cu_a4FyIkRf4twjRXSWJw",
+            "plus_code":{
+                  "compound_code":"8CC3+8P Baltimore, MD, USA",
+                  "global_code":"87F58CC3+8P"
+            },
+            "reference":"ChIJk-Cu_a4FyIkRf4twjRXSWJw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Homestead st. ( at, Robb Street, Baltimore",
+            "CBG":245100907002,
+            "Radius":166.870455274
+      }
+]

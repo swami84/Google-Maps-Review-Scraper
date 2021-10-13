@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3101384,
+                        "lng":-76.6465858
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3113607803,
+                              "lng":-76.6452251697
+                        },
+                        "southwest":{
+                              "lat":39.3086628197,
+                              "lng":-76.6479231303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"K K Carryout Services",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114752357004281925847\">Danielle Wardell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5I-voXgBdTnK3Nvjr79oEI8f-p8cQ5_3YdQ4SWr5diprqVjvAzSfcPgSoIO00-QEKIirV5ybChrlwMNujsxXQD3prbHht0sZe3hIVKnA9-Vxv9r2j4EwdwkA_ECQFWvxYaVDX1FKH1NdEenqk5shm2izoTNvTE1xvOywS2qgMiOOQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJf0lFL0obyIkR0s6Vg1b1qA4",
+            "plus_code":{
+                  "compound_code":"8963+39 Baltimore, MD, USA",
+                  "global_code":"87F58963+39"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJf0lFL0obyIkR0s6Vg1b1qA4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"1800 West North Avenue, Baltimore",
+            "permanently_closed":null,
+            "CBG":245101504002,
+            "Radius":225.4090962061
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.3096486,
+                        "lng":-76.6466711
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3109975803,
+                              "lng":-76.6453221197
+                        },
+                        "southwest":{
+                              "lat":39.3082996197,
+                              "lng":-76.6480200803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Troy's Chinese Food Carry Out",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107153797574973121390\">Maggie Davenport<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECARsKYx-KMIVkY0aYyitLM3UmICBkJg7YNMKbFiQWIe-DD7Htv9dKoKCsXVtWZM3VGsRUsmq4vgRt-_d-bb5WaJYXcsqVDd1_bUzjCuOtnUHo96jdVlVJz2UiYdOFVPa_6trECfI1Z-OSfYcuz5zMjpgoQB_FW9hnf8C8ubPkxV4IH",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJH90KLEobyIkRq79ateMd3HY",
+            "plus_code":{
+                  "compound_code":"8953+V8 Baltimore, MD, USA",
+                  "global_code":"87F58953+V8"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJH90KLEobyIkRq79ateMd3HY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"1803 West North Avenue, Baltimore",
+            "permanently_closed":true,
+            "CBG":245101504002,
+            "Radius":225.4090962061
+      }
+]

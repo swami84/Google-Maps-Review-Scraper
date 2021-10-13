@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3084401,
+                        "lng":-76.6237523
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3097331803,
+                              "lng":-76.6224894197
+                        },
+                        "southwest":{
+                              "lat":39.3070352197,
+                              "lng":-76.6251873803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"On the Hill Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115427071472231612656\">Shane Howard<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB4kq3iIUBtQV6Jscuag6_97qfruEc4joAoc6acN-HyNfAMAv_7MyWFYpMxAP6mrqq8BuuaWwR0bTnxkIBUSY1vM2pgj5vhrc8UHicPVIGIDUSKvkdBb5lT7p0o8N92e8xPAFKfJlvDkEZlYaBs3bCQjrUGv4uNHqrgUTT2kH2ndcQx",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJdSNpS78EyIkRMw8rd3VTGmw",
+            "plus_code":{
+                  "compound_code":"895G+9F Baltimore, MD, USA",
+                  "global_code":"87F5895G+9F"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJdSNpS78EyIkRMw8rd3VTGmw",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":409,
+            "vicinity":"1431 John Street, Baltimore",
+            "CBG":245101401001,
+            "Radius":230.8666257648
+      }
+]

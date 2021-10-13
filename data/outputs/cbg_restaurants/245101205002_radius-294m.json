@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3080059,
+                        "lng":-76.6105836
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3093115303,
+                              "lng":-76.6092324197
+                        },
+                        "southwest":{
+                              "lat":39.3066135697,
+                              "lng":-76.6119303803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Honey Carry-Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109454106770639764839\">Josh Sender<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJsg_ToPh8Uzm6EtyEajGY-kJzaHT2Ry0jdHxUzdVEUNTExFmCgBeBKQ0LWeLC3Ycv3qFLlzcxUWE2zqiJqf53rzTXqLL77_wYY0B_UYrh-PxJ6crwBtAUh-zcYxmx18NdwFjFSQxZkWmBhFQBDDGbB6HOC9F7Ve3rJ6Dg6frax9mO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAR1-y-wEyIkRppqEfwsr8M4",
+            "plus_code":{
+                  "compound_code":"895Q+6Q Baltimore, MD, USA",
+                  "global_code":"87F5895Q+6Q"
+            },
+            "rating":5.0,
+            "reference":"ChIJAR1-y-wEyIkRppqEfwsr8M4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"400 Federal Street, Baltimore",
+            "CBG":245101205002,
+            "Radius":294.0050330394
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3083025,
+                        "lng":-76.6120638
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3100430803,
+                              "lng":-76.6108211197
+                        },
+                        "southwest":{
+                              "lat":39.3073451197,
+                              "lng":-76.6135190803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Guilford Hall Brewery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103600980640368106662\">Guilford Hall Brewery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECtl0Ed-ndzMcpMKMsBoiqnnEfJQo3JuAs4fIeonGJCHoT2l9Xd5WbOzISYKgL5e4COCcwBwasvjcKs4LCllJQIh6EdHUN7LseIE49wP05gftCH8F4YXudUReXlJJquxRIQl9dsnbkqZ9gmpWCfMTuuBqoTMNi0V2yUSZMPbqbnqg8o",
+                        "width":1800
+                  }
+            ],
+            "place_id":"ChIJP0Sis6gFyIkRxVr7GlilAJQ",
+            "plus_code":{
+                  "compound_code":"895Q+85 Baltimore, MD, USA",
+                  "global_code":"87F5895Q+85"
+            },
+            "rating":4.7,
+            "reference":"ChIJP0Sis6gFyIkRxVr7GlilAJQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"1611 Guilford Avenue, Baltimore",
+            "CBG":245101205002,
+            "Radius":294.0050330394
+      }
+]

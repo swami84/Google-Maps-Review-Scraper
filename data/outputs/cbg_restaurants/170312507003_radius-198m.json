@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9024978,
+                        "lng":-87.7605345
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9037929303,
+                              "lng":-87.7593288697
+                        },
+                        "southwest":{
+                              "lat":41.9010949697,
+                              "lng":-87.7620268303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"BABA's Buffalo FAMOUS Crispy Chicken and Lemonade",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109278051297113516019\">BABA&#39;s Buffalo FAMOUS Crispy Chicken and Lemonade<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1i4n8_dYLYjnzU5zesgVO_YgVwFdly0Y0q6fc7kzVHsAMam1terYePT8rv6wQPQT3M8sR5ohPHiUH9R-7Alk8wP-xSJpAJ9EdU_urLYr3j6vOKmkyDJBywamAoclC1Sj0cLVxOwQx0E7DuQzi2uYmk_3pRXWXrETavBz-ltLxouTA",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ3cO52ErND4gR6mZwsJhOF_M",
+            "plus_code":{
+                  "compound_code":"W62Q+XQ Chicago, IL, USA",
+                  "global_code":"86HJW62Q+XQ"
+            },
+            "rating":4.8,
+            "reference":"ChIJ3cO52ErND4gR6mZwsJhOF_M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"5360 West Division Street, Chicago",
+            "CBG":170312507003,
+            "Radius":198.4063136961
+      }
+]

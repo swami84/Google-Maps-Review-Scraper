@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2944256,
+                        "lng":-76.5789998
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2957701803,
+                              "lng":-76.5777436197
+                        },
+                        "southwest":{
+                              "lat":39.2930722197,
+                              "lng":-76.5804415803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dilone Grocery & Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110062135476491984201\">Kevin Bates<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBWI6uOP6CnsADuskKIEW83Auc_nPlliAl6btsF-4e09RORn3yjRy2iWaQlOFAa-Qv2hPOIkBWLf1NxPg5T2XJutkhV0IH6htqu-q8KyyaA34jinciIxZ8ODUajS0bGxekM3fVArXVhA-_QWrdvn7OZz0jV9evR0sPnNIXIZ3fhHfq1",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJv93Zso4DyIkRyqZYOAoOu5k",
+            "plus_code":{
+                  "compound_code":"7CVC+QC Baltimore, MD, USA",
+                  "global_code":"87F57CVC+QC"
+            },
+            "rating":4.7,
+            "reference":"ChIJv93Zso4DyIkRyqZYOAoOu5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "grocery_or_supermarket",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"157 North Lakewood Avenue, Baltimore",
+            "CBG":245100602002,
+            "Radius":124.7063194441
+      }
+]

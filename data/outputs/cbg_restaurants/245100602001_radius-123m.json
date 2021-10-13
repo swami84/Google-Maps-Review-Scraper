@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2956438,
+                        "lng":-76.5791367
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2970435803,
+                              "lng":-76.5777908697
+                        },
+                        "southwest":{
+                              "lat":39.2943456197,
+                              "lng":-76.5804888303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Eden",
+            "place_id":"ChIJeyLkaW4EyIkRLgh98WZj8AM",
+            "plus_code":{
+                  "compound_code":"7CWC+78 Baltimore, MD, USA",
+                  "global_code":"87F57CWC+78"
+            },
+            "reference":"ChIJeyLkaW4EyIkRLgh98WZj8AM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":245100602001,
+            "Radius":123.27381018
+      }
+]

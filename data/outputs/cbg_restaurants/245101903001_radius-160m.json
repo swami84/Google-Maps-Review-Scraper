@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2879854,
+                        "lng":-76.6427949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2893343803,
+                              "lng":-76.6414459197
+                        },
+                        "southwest":{
+                              "lat":39.2866364197,
+                              "lng":-76.6441438803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tai Wong Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109850272899288659652\">Your Reaction News - #howdidyoureact<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDolLQEcUZrlWyguscJ0HwDyairsrKbob9vM-cMPSZgBzQ9-1H-2qpQG_qqdHwv6UJm126ZcOtJ7ghVlsRA-wlXTK4tiTrPhaqxYRBISxOt5fgp51EOGZP2ovxPrgQ0O9KZupCirdgzsNE1nDTrYFmBMpYi06IICgTZlAx05vQCmGeS",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ3d23F6scyIkRqXwIEfVqf94",
+            "plus_code":{
+                  "compound_code":"79Q4+5V Baltimore, MD, USA",
+                  "global_code":"87F579Q4+5V"
+            },
+            "rating":2.5,
+            "reference":"ChIJ3d23F6scyIkRqXwIEfVqf94",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1611 Frederick Avenue, Baltimore",
+            "CBG":245101903001,
+            "Radius":160.3479998519
+      }
+]

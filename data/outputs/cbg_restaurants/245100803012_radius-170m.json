@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.30733,
+                        "lng":-76.5808119
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3087610303,
+                              "lng":-76.5794699697
+                        },
+                        "southwest":{
+                              "lat":39.3060630697,
+                              "lng":-76.5821679303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"A & C Carry Out",
+            "permanently_closed":true,
+            "place_id":"ChIJyzcVp0IEyIkR8hRTi0J2Sk4",
+            "plus_code":{
+                  "compound_code":"8C49+WM Baltimore, MD, USA",
+                  "global_code":"87F58C49+WM"
+            },
+            "rating":4.4,
+            "reference":"ChIJyzcVp0IEyIkR8hRTi0J2Sk4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"2609 Llewelyn Avenue, Baltimore",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "CBG":245100803012,
+            "Radius":169.8126297104
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3070634,
+                        "lng":-76.5826892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3083671303,
+                              "lng":-76.5813971197
+                        },
+                        "southwest":{
+                              "lat":39.3056691697,
+                              "lng":-76.5840950803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jimmy's Carryout",
+            "permanently_closed":null,
+            "place_id":"ChIJV6tO2EIEyIkRCNoi_9D7VVk",
+            "plus_code":{
+                  "compound_code":"8C48+RW Baltimore, MD, USA",
+                  "global_code":"87F58C48+RW"
+            },
+            "rating":4.2,
+            "reference":"ChIJV6tO2EIEyIkRCNoi_9D7VVk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":478,
+            "vicinity":"2500 East Hoffman Street, Baltimore",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100575889291791706931\">victoria wilson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEACFpxcpp4Vz3bI1bVHfuT73iQV1EQqYVhzJvSvAwDOMypsjtCJMz6DDE8cWOiG9KJrxOljtph78C4HORmtyhFBNa2L-QBCou0MSxUA1dhIoxUkCAqtuT7-sNVI5q2PatSVZkJA2mfDNr3jUyM-ehnabTofFojjYus0L4Wrad7ROW2M",
+                        "width":1080
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":245100803012,
+            "Radius":169.8126297104
+      }
+]

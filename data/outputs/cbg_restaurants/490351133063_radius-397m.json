@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6904934,
+                        "lng":-111.9542785
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6918889803,
+                              "lng":-111.9529619697
+                        },
+                        "southwest":{
+                              "lat":40.6891910197,
+                              "lng":-111.9556599303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Costco Food Court",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104462331243355888082\">Rich Ferguson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECK9NZqAWUgLCB-tVgWI_gFf7ZdaoXqy0gDTjiAi1q7KE8kbtYrSoMSnuatuV8es_RX9YGblOD5yo5_aA9E90nTZJE9ETjax5MCjgapT3nVyU3knrIcOF-YZcFsnhKBvwJQSF3irdzXGJuB2iV2LFNdTfK4Vya0_uuM4MBQBoPEr8dC",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJm3Wsi4KMUocRM4ZJcE2ISEw",
+            "plus_code":{
+                  "compound_code":"M2RW+57 West Valley City, UT, USA",
+                  "global_code":"85GCM2RW+57"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJm3Wsi4KMUocRM4ZJcE2ISEw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"3747 2700 West, West Valley City",
+            "CBG":490351133063,
+            "Radius":396.6894756895
+      }
+]

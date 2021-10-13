@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8739465,
+                        "lng":-87.7356913
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8752836803,
+                              "lng":-87.7341138697
+                        },
+                        "southwest":{
+                              "lat":41.8725857197,
+                              "lng":-87.7368118303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Buffalo Sam's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101623873741387021664\">Buffalo Sam&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAhYwbwjVKSUT8Rbb8dNTmkljyhZ3TG52OieTZir-f4Idnc2AJh32JmKU-hHlKOT9-zxF2TPlfRP1MwGvXbFMH_WK9fTfe0wyzE6eualskhxbHlXOVs-0W9TsY-JCz8WDj-t3Dd8z2ubTHD7BAh4wePQkmhba8ZmIAv5uU89GfXoji5",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJHRwwvuEyDogRVsARcC1ufz0",
+            "plus_code":{
+                  "compound_code":"V7F7+HP Chicago, IL, USA",
+                  "global_code":"86HJV7F7+HP"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJHRwwvuEyDogRVsARcC1ufz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":458,
+            "vicinity":"508 South Kostner Avenue, Chicago",
+            "CBG":170312610001,
+            "Radius":292.8345039748
+      }
+]

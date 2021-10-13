@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2951264,
+                        "lng":-76.6527679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2963377303,
+                              "lng":-76.6514105197
+                        },
+                        "southwest":{
+                              "lat":39.2936397697,
+                              "lng":-76.6541084803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Spincycle Coin Laundry",
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111753873787421817603\">Kevin Stewart<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAd397d_oXOvvJeIcYCeHoGMPht_Yci2vo7sXoFZuPPUZBglATcyAuWeVI-c-HsBP7mEB-ubaPs0IqA9MfQNVVGAe-6MVUHrI0dhT7HjOwAMB6Q44G6vXxFR_FkQdKqH133DuAo7ctbzWqAdapboq9gzLhnfYCo_eb2usZBssvgAUwA",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJR3swflcbyIkR0TvB9LreePU",
+            "plus_code":{
+                  "compound_code":"78WW+3V Baltimore, MD, USA",
+                  "global_code":"87F578WW+3V"
+            },
+            "rating":3.4,
+            "reference":"ChIJR3swflcbyIkR0TvB9LreePU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2200 Edmondson Avenue, Baltimore",
+            "CBG":245101605002,
+            "Radius":221.4837575753
+      }
+]

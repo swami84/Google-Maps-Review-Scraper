@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8840219,
+                        "lng":-87.7542481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8853748303,
+                              "lng":-87.7527549197
+                        },
+                        "southwest":{
+                              "lat":41.8826768697,
+                              "lng":-87.7554528803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thee Soul Food Palace",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJYZvIftczDogRSWxfVuZtHvg",
+            "plus_code":{
+                  "compound_code":"V6MW+J8 Chicago, IL, USA",
+                  "global_code":"86HJV6MW+J8"
+            },
+            "reference":"ChIJYZvIftczDogRSWxfVuZtHvg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"178 North Leamington Avenue, Chicago",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":170312518002,
+            "Radius":262.8257661083
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.886357,
+                        "lng":-87.755065
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8877030803,
+                              "lng":-87.7538243697
+                        },
+                        "southwest":{
+                              "lat":41.8850051197,
+                              "lng":-87.7565223303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sun Submarine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJEYxrRjgzDogRwQnQSV7S1sc",
+            "plus_code":{
+                  "compound_code":"V6PV+GX Chicago, IL, USA",
+                  "global_code":"86HJV6PV+GX"
+            },
+            "reference":"ChIJEYxrRjgzDogRwQnQSV7S1sc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"321 North Laramie Avenue, Chicago",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110990144667361111533\">Lucinda Horton<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBBiQ4HcmbuH38A41UBOa9NQ3VJfGfHdV4NctkLkkU2rTlSnWZ_MFxs3T8HGwPxEU_iBXtgVJxFPcTJ9W07Ms9JAGPm_aFx1o41Zs3caasOlsbBZsnPVNKD6DxnIUK5BhLziLQthY8dIJ3fDZ2AsSMvM4BxVIxRL4qlx3Qm-VqhQWLm",
+                        "width":4032
+                  }
+            ],
+            "rating":3.9,
+            "user_ratings_total":182.0,
+            "CBG":170312518002,
+            "Radius":262.8257661083
+      }
+]

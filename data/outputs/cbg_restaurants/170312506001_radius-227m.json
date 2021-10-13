@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9091061,
+                        "lng":-87.7687161
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9104509303,
+                              "lng":-87.7672951197
+                        },
+                        "southwest":{
+                              "lat":41.9077529697,
+                              "lng":-87.7699930803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102529758259793002368\">Sebastian Rosiak<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBLFoPfjDooZkfmbPGQVY3QlTw0ApCLjilxXwyAJ67xXruDloewRrKaLoJBXJ0icFtAlcoiGw1GeCZEUvTdJ8HSlUS2m8SGTI8TfMJxjfuIShuTt1kclIOW1dHPb3JNUjqN015SSEBloSxPnv-NCw06RRjCWceQdTOSYWTH3R3v6bAd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJHcpKC6XMD4gR4sV5GVnx8iU",
+            "plus_code":{
+                  "compound_code":"W65J+JG Chicago, IL, USA",
+                  "global_code":"86HJW65J+JG"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJHcpKC6XMD4gR4sV5GVnx8iU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":238,
+            "vicinity":"5707 West North Avenue, Chicago",
+            "CBG":170312506001,
+            "Radius":227.0861321637
+      }
+]

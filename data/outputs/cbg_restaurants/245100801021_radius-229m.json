@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3207445,
+                        "lng":-76.5743456
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3221617303,
+                              "lng":-76.5730953197
+                        },
+                        "southwest":{
+                              "lat":39.3194637697,
+                              "lng":-76.5757932803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"4 brothers bar & grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":541,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118401114154564389880\">4 brothers bar &amp; grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBytImW8F5mbz-H-_3TohCiyF5DI1BBtBAelhUVrZUeVpDX-R0qb2uWN7rkw0ukOd3iuSmolo_hKF7VY-2nYprKkpqfFk6pWhelN1_v0GsMA88YfvLZ_lHq3JBNkGx7hTF_DVgi2hLW1Ci7hBPwHRTuCapRIPxv4K5Ws-myq1ZGPEgf",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJEZyQNVcFyIkRC6RIKzhxDp0",
+            "plus_code":{
+                  "compound_code":"8CCG+77 Baltimore, MD, USA",
+                  "global_code":"87F58CCG+77"
+            },
+            "rating":3.9,
+            "reference":"ChIJEZyQNVcFyIkRC6RIKzhxDp0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"3209 Belair Road, Baltimore",
+            "CBG":245100801021,
+            "Radius":229.2297487268
+      }
+]

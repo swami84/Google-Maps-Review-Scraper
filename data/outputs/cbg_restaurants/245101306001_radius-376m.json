@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3229749,
+                        "lng":-76.6305589
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3242328303,
+                              "lng":-76.6288868697
+                        },
+                        "southwest":{
+                              "lat":39.3215348697,
+                              "lng":-76.6315848303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cosima",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114743302317994190284\">Rob Kurth<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECbTgID7Bk-OmdUe2H8oryblXbeO0MJHB62srZOOLPgeHM8O5ZIhWPiMZGXCtvljtWC31nJ2Cn3vl7-FWMkNIHW8HCV7eAAlHOZovw0aROhpUIc5XbaE1o6of_lmTbIOa81lUTCPLhIsMcmPDkT7PSnQUCmRrfzWDLpyHaOvTROtAV-",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJJ7gkiNAEyIkREu1vALnO9nE",
+            "plus_code":{
+                  "compound_code":"89F9+5Q Baltimore, MD, USA",
+                  "global_code":"87F589F9+5Q"
+            },
+            "price_level":3,
+            "rating":4.5,
+            "reference":"ChIJJ7gkiNAEyIkREu1vALnO9nE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":519,
+            "vicinity":"Mill No. 1, 3000 Falls Road, Baltimore",
+            "CBG":245101306001,
+            "Radius":375.8540219264
+      }
+]

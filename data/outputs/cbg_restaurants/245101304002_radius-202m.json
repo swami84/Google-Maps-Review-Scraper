@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3153679,
+                        "lng":-76.646948
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3167913303,
+                              "lng":-76.6456899197
+                        },
+                        "southwest":{
+                              "lat":39.3140933697,
+                              "lng":-76.6483878803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ruskin",
+            "place_id":"ChIJyaUsoREbyIkR6x5_m_feQFo",
+            "plus_code":{
+                  "compound_code":"8983+46 Baltimore, MD, USA",
+                  "global_code":"87F58983+46"
+            },
+            "reference":"ChIJyaUsoREbyIkR6x5_m_feQFo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2229 Ruskin Avenue, Baltimore",
+            "CBG":245101304002,
+            "Radius":201.9483494793
+      }
+]

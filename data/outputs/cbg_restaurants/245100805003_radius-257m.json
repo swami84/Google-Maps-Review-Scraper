@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3136607,
+                        "lng":-76.5961878
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3149089303,
+                              "lng":-76.5948782197
+                        },
+                        "southwest":{
+                              "lat":39.3122109697,
+                              "lng":-76.5975761803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114631230763134207900\">McDonald&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED0cYsQudXDxWEJ8b-zkGSXm3cQOp4Nh_eOeZkl37luPw21oQ89gETkdjpsIRP5J1J9-_87ENKakvwQstEseucdwI35Q5LrViPHWO52Sp5lf0dMbCmPE9i0LSfYPXkQt13S4zVqSMNHuypppZLSqZw8BkaZo_yk31d6kaRq7okfZtY_",
+                        "width":1025
+                  }
+            ],
+            "place_id":"ChIJFfdnM_YEyIkRi3RKCKm6xl0",
+            "plus_code":{
+                  "compound_code":"8C73+FG Baltimore, MD, USA",
+                  "global_code":"87F58C73+FG"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJFfdnM_YEyIkRi3RKCKm6xl0",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1700,
+            "vicinity":"2001 North Broadway, Baltimore",
+            "CBG":245100805003,
+            "Radius":256.9584719578
+      }
+]

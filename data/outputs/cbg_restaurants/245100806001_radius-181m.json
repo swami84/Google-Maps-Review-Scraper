@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3107395,
+                        "lng":-76.590058
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3120834303,
+                              "lng":-76.5888446197
+                        },
+                        "southwest":{
+                              "lat":39.3093854697,
+                              "lng":-76.5915425803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"East Carryout",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111597877535505687944\">The Merovingian<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuU1A9rtQnKEpVk0kNVeo-UH7v3tJeMlPJVMgg6H0BLxyev5wmMc5euJe7tI_eqlKiFePvDAYPopdvoi0yfsRi0xRJVvphVmHzfTEXbrBW9_YDwugobHZdwnVRcSd2HxzutvuhyaEzVLQ7n3dZu0YgdSZvkPvXxYhaF2Gl0-HAy27P",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq6r7TFkEyIkRmqd1VgqnwVo",
+            "plus_code":{
+                  "compound_code":"8C65+7X Baltimore, MD, USA",
+                  "global_code":"87F58C65+7X"
+            },
+            "rating":4,
+            "reference":"ChIJq6r7TFkEyIkRmqd1VgqnwVo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1743 North Washington Street, Baltimore",
+            "CBG":245100806001,
+            "Radius":180.8577449385
+      }
+]

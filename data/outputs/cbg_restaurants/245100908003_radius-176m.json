@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3157941,
+                        "lng":-76.6094215
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3171431803,
+                              "lng":-76.6080925197
+                        },
+                        "southwest":{
+                              "lat":39.3144452197,
+                              "lng":-76.6107904803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pan's carry-out Chinese & American food",
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115813355782189774291\">Kevin Jones<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEASoSoGae2lMRqCkMk-g7xXmBgSiprCp5DGfSdu646LuNhvUR7nky6i-nH_HRuovKFT8K8y_ow97lDpmdLkHMI4xvIRUhxurxXZeZnzoGsGF_kx-2dMPsvDkqv-FI5aNuV9rKvS8nH2FTvq7Fv6RfUMj4IAFluHcW763xKNaO-eRlD4",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJTcMci4wFyIkRgiIcPhjNvfk",
+            "plus_code":{
+                  "compound_code":"898R+86 Baltimore, MD, USA",
+                  "global_code":"87F5898R+86"
+            },
+            "rating":5,
+            "reference":"ChIJTcMci4wFyIkRgiIcPhjNvfk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2301 Greenmount Avenue, Baltimore",
+            "opening_hours":null,
+            "CBG":245100908003,
+            "Radius":175.7882924165
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3168294,
+                        "lng":-76.6095923
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3181776803,
+                              "lng":-76.6081780197
+                        },
+                        "southwest":{
+                              "lat":39.3154797197,
+                              "lng":-76.6108759803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Greenmount Carry Out",
+            "photos":null,
+            "place_id":"ChIJsQegde8EyIkR36eQ3UDX0I0",
+            "plus_code":{
+                  "compound_code":"898R+P5 Baltimore, MD, USA",
+                  "global_code":"87F5898R+P5"
+            },
+            "rating":4,
+            "reference":"ChIJsQegde8EyIkR36eQ3UDX0I0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"United States",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "CBG":245100908003,
+            "Radius":175.7882924165
+      }
+]

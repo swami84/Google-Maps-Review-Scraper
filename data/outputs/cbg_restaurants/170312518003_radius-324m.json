@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8861157,
+                        "lng":-87.7456514
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8873798803,
+                              "lng":-87.7442413697
+                        },
+                        "southwest":{
+                              "lat":41.8846819197,
+                              "lng":-87.7469393303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Hook Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104626709087085619802\">Ron Sattar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAapzM6M0wkCALaY2AlpLp1NYCEO-WgbPctOkZY9XYDpzExQHjzKSH5rdl4jkfB0GhaH2CmwJpsqrq5G_gqW5zUhtHtloLdzyv18CF9jrfuMaKtUXxCfrJ2efrbrPLVjWk5JytcfoHMq5YXUeMrkCk-4ddHRpHGLedTCHwST09ssHcX",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJmzhbPCUzDogReUVMn8QwMNQ",
+            "plus_code":{
+                  "compound_code":"V7P3+CP Chicago, IL, USA",
+                  "global_code":"86HJV7P3+CP"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJmzhbPCUzDogReUVMn8QwMNQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":210,
+            "vicinity":"4800 West Fulton Street, Chicago",
+            "CBG":170312518003,
+            "Radius":324.1366133788
+      }
+]

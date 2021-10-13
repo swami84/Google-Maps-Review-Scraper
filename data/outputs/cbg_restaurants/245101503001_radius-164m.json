@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3094014,
+                        "lng":-76.6523846
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3108397303,
+                              "lng":-76.6510664197
+                        },
+                        "southwest":{
+                              "lat":39.3081417697,
+                              "lng":-76.6537643803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mamas Carryout Inc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115985218726258080977\">Herald Lafayette<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECLWFGlkTdxjp5LrjXuPt9zFwEIf1aR05OIUJKX4RSKvLO4O-5yLXe4w0ge-wvN3g-bEYRLdtRtUfMd4PV7aCCONQBMb77rG6mDuwU3hRZRN3Xk-NPJurnaQ7g-7jTewJG_UmtwGENKef5bPTpKakq9dd9Gb4FVv4vDFe-BotZvVI7T",
+                        "width":752
+                  }
+            ],
+            "place_id":"ChIJTSj1mkgbyIkRY7kKLUMm1nU",
+            "plus_code":{
+                  "compound_code":"885X+Q2 Baltimore, MD, USA",
+                  "global_code":"87F5885X+Q2"
+            },
+            "rating":4.1,
+            "reference":"ChIJTSj1mkgbyIkRY7kKLUMm1nU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"1825 North Smallwood Street, Baltimore",
+            "price_level":null,
+            "CBG":245101503001,
+            "Radius":164.2828616434
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3098237,
+                        "lng":-76.6542182
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3111408303,
+                              "lng":-76.6528141197
+                        },
+                        "southwest":{
+                              "lat":39.3084428697,
+                              "lng":-76.6555120803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pak Man Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111321168668783403845\">Jony Perez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwOlXbDVu8hsM6mU5PXLFbFQTl4KnZKv2bOdm2fsrChjgjobM4IKbu5iioK52lviOVelR4J-G7wpArEOPN2JhqHdKrARCCiq-U_9VEcGDQMnXM-MIWbgMf1wRDWBtcmbDUOU8bbu5UkKnAd0PMKJBWduJu77c4ljOeFYAiMUp6Knp5",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ01UdSEYbyIkRVdw1soSTjpk",
+            "plus_code":{
+                  "compound_code":"885W+W8 Baltimore, MD, USA",
+                  "global_code":"87F5885W+W8"
+            },
+            "rating":4.2,
+            "reference":"ChIJ01UdSEYbyIkRVdw1soSTjpk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":206,
+            "vicinity":"2300 West North Avenue, Baltimore",
+            "price_level":1.0,
+            "CBG":245101503001,
+            "Radius":164.2828616434
+      }
+]

@@ -1,0 +1,63 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.090239,
+                        "lng":-80.159288
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0916419303,
+                              "lng":-80.1579598697
+                        },
+                        "southwest":{
+                              "lat":26.0889439697,
+                              "lng":-80.1606578303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"RaceTrac",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100331321233815555831\">RaceTrac<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC3i2Umw0L7ByyqWfROpOXSUAhU7ucttp-D7LChv7mt1wXG8gxTeTuHR-MeDnYAG1LO6pWaAUlNkNS3uTqibZxgpzCeMoaTX-BOPFfXy-NH0T2yHkeGN4UIpH_Mr0EFizMbW-L8vz61uqV-y4aqJ6irR3SmpqpstH1i5-UPusvHd6Zl",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJN-h12ZsA2YgRBmCrmuOwmwI",
+            "plus_code":{
+                  "compound_code":"3RRR+37 Fort Lauderdale, FL, USA",
+                  "global_code":"76RX3RRR+37"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJN-h12ZsA2YgRBmCrmuOwmwI",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "meal_takeaway",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":144,
+            "vicinity":"1410 West State Road 84, Fort Lauderdale",
+            "CBG":120111106002,
+            "Radius":530.5689358929
+      }
+]

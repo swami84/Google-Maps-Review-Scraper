@@ -27,12 +27,13 @@ in high foot traffic census block groups
 
  
 
- 
-
 ### Data
 
--   Restaurant data is acquired on census block groups based on high foot
-    traffic data
+-   Restaurant data is acquired based on census block group foot traffic
+
+-   Google Places API request requires location data (lat, lng) and radius of
+    search. I have assumed that cbgs are circular and calculated radius from the
+    area of cbg (available)
 
 -   Output data includes the Census Block Group (restaurants withing radius of
     search), Restaurant Attributes (Restaurant type, Caption, Keywords) and

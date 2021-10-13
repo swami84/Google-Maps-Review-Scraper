@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3063133,
+                        "lng":-76.6284563
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3077629303,
+                              "lng":-76.6271584697
+                        },
+                        "southwest":{
+                              "lat":39.3050649697,
+                              "lng":-76.6298564303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Tilted Row",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112783687533503286542\">The Tilted Row<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDSheJv-qUPoCxqpBRqFLFEjMRAXqi-csE3RrMSB4K2yAbF6TXEvDuQ6FJ_9UqigAeMORQGPqkkGQIhj5GFDD7KKmoorJ8S7_xf0zdVrv1YUMDsIjNaVobFPN-N8QNHy8OPxtdtH6ZM9XjLdZ-pU0tvcZ3fSl_ONjUT5blCJo5ZzydN",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ88Y6pbkEyIkRqssllREVn6Y",
+            "plus_code":{
+                  "compound_code":"894C+GJ Baltimore, MD, USA",
+                  "global_code":"87F5894C+GJ"
+            },
+            "rating":4.6,
+            "reference":"ChIJ88Y6pbkEyIkRqssllREVn6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":117,
+            "vicinity":"305 Mc Mechen Street, Baltimore",
+            "CBG":245101402001,
+            "Radius":181.3024784901
+      }
+]

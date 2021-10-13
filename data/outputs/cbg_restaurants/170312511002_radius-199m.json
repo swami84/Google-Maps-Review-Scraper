@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8952191,
+                        "lng":-87.7500203
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8964401803,
+                              "lng":-87.7486698697
+                        },
+                        "southwest":{
+                              "lat":41.8937422197,
+                              "lng":-87.7513678303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"City Grill & Cafe",
+            "place_id":"ChIJHz69pzMzDogRRhE-1QGTgqw",
+            "plus_code":{
+                  "compound_code":"V6WX+3X Chicago, IL, USA",
+                  "global_code":"86HJV6WX+3X"
+            },
+            "rating":5,
+            "reference":"ChIJHz69pzMzDogRRhE-1QGTgqw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"4942 West Chicago Avenue, Chicago",
+            "CBG":170312511002,
+            "Radius":198.89663387
+      }
+]

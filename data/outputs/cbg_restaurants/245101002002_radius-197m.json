@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3002092,
+                        "lng":-76.6019361
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3015751303,
+                              "lng":-76.6005880697
+                        },
+                        "southwest":{
+                              "lat":39.2988771697,
+                              "lng":-76.6032860303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Crossroads Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJZ8VNwY4EyIkR5XlfdpOLVUw",
+            "plus_code":{
+                  "compound_code":"892X+36 Baltimore, MD, USA",
+                  "global_code":"87F5892X+36"
+            },
+            "reference":"ChIJZ8VNwY4EyIkR5XlfdpOLVUw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"900 Ashland Avenue, Baltimore",
+            "CBG":245101002002,
+            "Radius":197.0371036076
+      }
+]

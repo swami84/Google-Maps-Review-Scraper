@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8990424,
+                        "lng":-87.6970654
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9004076303,
+                              "lng":-87.6955713197
+                        },
+                        "southwest":{
+                              "lat":41.8977096697,
+                              "lng":-87.6982692803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Rootstock Wine & Beer Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108668369558303014815\">Frederick Brown<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED36qKgIhbKCTHK84ohqFzm3bMAYxLcDc6Q6joxWSQ9V_V5YZ5Q6JTXGV6uta46Kn1N-Wcuhjw5a3zc14aj-axpBWKljCZpw8uRqs7X9S639EEOcJrTE3snf2HIsS7a90lRQZV0kHKn65QcWXxwPHy8wYJHPryda7u5hnAicKUYsD86",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJV2NsiKrSD4gRJWTZ71R0h9w",
+            "plus_code":{
+                  "compound_code":"V8X3+J5 Chicago, IL, USA",
+                  "global_code":"86HJV8X3+J5"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJV2NsiKrSD4gRJWTZ71R0h9w",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":304,
+            "vicinity":"954 North California Avenue, Chicago",
+            "CBG":170312426004,
+            "Radius":181.4279664781
+      }
+]

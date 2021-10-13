@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8988777,
+                        "lng":-87.7460764
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9002275303,
+                              "lng":-87.7446336697
+                        },
+                        "southwest":{
+                              "lat":41.8975295697,
+                              "lng":-87.7473316303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Karla's Kitchen INC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJwcwtltLMD4gRMg6czKJ97KI",
+            "plus_code":{
+                  "compound_code":"V7X3+HH Chicago, IL, USA",
+                  "global_code":"86HJV7X3+HH"
+            },
+            "rating":4.1,
+            "reference":"ChIJwcwtltLMD4gRMg6czKJ97KI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"1002 North Cicero Avenue, Chicago",
+            "photos":null,
+            "CBG":170312510001,
+            "Radius":385.5339062948
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8988186,
+                        "lng":-87.7461687
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9001688303,
+                              "lng":-87.7446793197
+                        },
+                        "southwest":{
+                              "lat":41.8974708697,
+                              "lng":-87.7473772803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Philly Corner",
+            "opening_hours":null,
+            "place_id":"ChIJJ6eu_LvND4gRnTP9fF4_Xao",
+            "plus_code":{
+                  "compound_code":"V7X3+GG Chicago, IL, USA",
+                  "global_code":"86HJV7X3+GG"
+            },
+            "rating":3.0,
+            "reference":"ChIJJ6eu_LvND4gRnTP9fF4_Xao",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1000 North Cicero Avenue, Chicago",
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101900526755608742573\">Ahmad Jafar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7es_gJQgCjJidkJ1qe1PQRa8omnaJ0AbOPo3e8vx_TTF9D8Xd1zbnXFVrj3s6Q9ip3O4XDLkGQ6qUzKgafm98898Bf4COIznJpDRvx_8Vkn3ReWkYTrnCBrDnFv8HZVEHM4JeZGKMHw5EeIJ-DQ915JVFFxlDXfZ46z-L8p-gtf1Z",
+                        "width":1800
+                  }
+            ],
+            "CBG":170312510001,
+            "Radius":385.5339062948
+      }
+]

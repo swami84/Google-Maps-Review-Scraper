@@ -1,0 +1,105 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3071548,
+                        "lng":-76.6003676
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3083722803,
+                              "lng":-76.5991830697
+                        },
+                        "southwest":{
+                              "lat":39.3056743197,
+                              "lng":-76.6018810303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Central Carry-Out & Grocery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJBS_ervQEyIkRKKZy1x56PJY",
+            "plus_code":{
+                  "compound_code":"894X+VV Baltimore, MD, USA",
+                  "global_code":"87F5894X+VV"
+            },
+            "rating":4.1,
+            "reference":"ChIJBS_ervQEyIkRKKZy1x56PJY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"1441 North Central Avenue, Baltimore",
+            "photos":null,
+            "price_level":null,
+            "CBG":245100909002,
+            "Radius":185.7666493231
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3081637,
+                        "lng":-76.600782
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3095032303,
+                              "lng":-76.5993626697
+                        },
+                        "southwest":{
+                              "lat":39.3068052697,
+                              "lng":-76.6020606303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Torinos Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJEycynvQEyIkRCgor2L86wA0",
+            "plus_code":{
+                  "compound_code":"895X+7M Baltimore, MD, USA",
+                  "global_code":"87F5895X+7M"
+            },
+            "rating":4.0,
+            "reference":"ChIJEycynvQEyIkRCgor2L86wA0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":383,
+            "vicinity":"1516 Harford Avenue, Baltimore",
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104011717757628464773\">Torinos Carry Out<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECkAyzWiWblkiOuRAImzu16_PrRI2DZm2o1AG-ITIfUqNP4y8NUevoy2QckxFz_nTj_yMVHPhJM8mbzUSvXrdJoH9Swa8gtzR7c9rvq_CcL5ScJ_4Vt_xDwL6PwvLf175RBy0BpkO8hTstmVyvigpWLDdH0FXanmhkclZ45TvAM3ffm",
+                        "width":1067
+                  }
+            ],
+            "price_level":2.0,
+            "CBG":245100909002,
+            "Radius":185.7666493231
+      }
+]

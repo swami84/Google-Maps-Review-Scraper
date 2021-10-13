@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2855358,
+                        "lng":-76.6411246
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2868339803,
+                              "lng":-76.6397724197
+                        },
+                        "southwest":{
+                              "lat":39.2841360197,
+                              "lng":-76.6424703803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mission Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":630,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103578553397209865336\">Mission Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAhICe8oO0t8xHKpt0F473MEwTP55M82-wm2opd1kiDIwFr7N_r4OWrkN42KJHlwNSsVyGQA2lAQ9dZSzT9XDByFVcWJ2nVBiyStfg9T8FlEh257CcP7o97l7pzT86mzkDnP7g-X7sA0RtfsKXOF54Py91nj7r1DWn1_OULZDk8glRl",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJd_S7qUYDyIkR0zzasHrmNTA",
+            "plus_code":{
+                  "compound_code":"79P5+6H Baltimore, MD, USA",
+                  "global_code":"87F579P5+6H"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJd_S7qUYDyIkR0zzasHrmNTA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":45,
+            "vicinity":"1500 West Pratt Street, Baltimore",
+            "CBG":245101902001,
+            "Radius":196.3857956668
+      }
+]

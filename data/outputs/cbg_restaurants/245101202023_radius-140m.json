@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3291296,
+                        "lng":-76.6177191
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3304785803,
+                              "lng":-76.6163701197
+                        },
+                        "southwest":{
+                              "lat":39.3277806197,
+                              "lng":-76.6190680803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jordanian Hala Food Truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114695222390145776531\">Isabella Sarria<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDKy3t8jtdhqIru_2vTqCX76h4oHTJ27TOoJJ_Pj16f2SCeM_-TlHfJdxXB1ifvgMhHByBJedD_PdC1Zqogx1AM3pa93rz4T0uUiiz3DYY8Y4kM4iAE9lGaASs_5dv2snzL7ZN6qOBj_twJHwOHOybxipfRp1jkiwzJ9WyN0bA1jzxK",
+                        "width":900
+                  }
+            ],
+            "place_id":"ChIJtas2sNIFyIkRCVKwfxttIgM",
+            "plus_code":{
+                  "compound_code":"89HJ+MW Baltimore, MD, USA",
+                  "global_code":"87F589HJ+MW"
+            },
+            "rating":4.9,
+            "reference":"ChIJtas2sNIFyIkRCVKwfxttIgM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"E 34th St &, North Charles Street, Baltimore",
+            "CBG":245101202023,
+            "Radius":139.8985405996
+      }
+]

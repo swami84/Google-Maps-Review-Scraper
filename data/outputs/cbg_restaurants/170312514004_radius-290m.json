@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8881515,
+                        "lng":-87.7737752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8895004803,
+                              "lng":-87.7724262197
+                        },
+                        "southwest":{
+                              "lat":41.8868025197,
+                              "lng":-87.7751241803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chef Daddy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100864237849710809533\">Chef Daddy&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC4L5AKqAv3nAvNdJpv_dr_L43z0VpE_s-YGRK4iprgYi0_XYXUf4Bk7FXFMiQNJjxmP9wSYKEifUSvPsMU01ZuyDwVigCFecO3ApDYmrsTV_ppjEKYPtRMqxp7K5TRhb_BK39Yddvmb0If7ZnPv4BhiGI6eru0ugAMUGmJGhtG1Si3",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJZUG-xkYzDogRYOtk43O7fwc",
+            "plus_code":{
+                  "compound_code":"V6QG+7F Chicago, IL, USA",
+                  "global_code":"86HJV6QG+7F"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJZUG-xkYzDogRYOtk43O7fwc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":585,
+            "vicinity":"5944 West Lake Street, Chicago",
+            "CBG":170312514004,
+            "Radius":290.1476240954
+      }
+]

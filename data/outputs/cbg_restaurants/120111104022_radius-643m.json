@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9736725,
+                        "lng":-80.2347679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9749395303,
+                              "lng":-80.2334151197
+                        },
+                        "southwest":{
+                              "lat":25.9722415697,
+                              "lng":-80.2361130803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Ninja Street Obstacle Academy",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":845,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103286364314127821235\">Ninja Street Obstacle Academy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBIdGWDg9vFVNTR12PkmjLltoD5pTB0Bb37GQ_guI8pp2_b4QT-8iriHt4NIJX3aJ1E2U_eo8WzqEdZrI8_ArE5ucmkCSuetXssH7OSnlnxyzxXx0bCjKPZGHA23Chdr7rwc2KnZYOUiL89xSO_j_TLK9Og6I020S9Owgn5GCvGocst",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJD_ErF6mv2YgRXtn0SIXzhWQ",
+            "plus_code":{
+                  "compound_code":"XQF8+F3 Miramar, FL, USA",
+                  "global_code":"76QXXQF8+F3"
+            },
+            "rating":5,
+            "reference":"ChIJD_ErF6mv2YgRXtn0SIXzhWQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "gym",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"7429 Riviera Boulevard Unit #9, Miramar",
+            "CBG":120111104022,
+            "Radius":643.4131401793
+      }
+]

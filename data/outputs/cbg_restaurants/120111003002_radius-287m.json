@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9839125,
+                        "lng":-80.1425841
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9852688803,
+                              "lng":-80.1411444197
+                        },
+                        "southwest":{
+                              "lat":25.9825709197,
+                              "lng":-80.1438423803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Acquo 124",
+            "photos":[
+                  {
+                        "height":12000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114804203504696954771\">Ricardo Ghigliazza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBD7GZmBfV-87-9iPrcjfVol7laThAXSkzbmUP5rxpFXRaqw2PqdiiZJ82S1F7SUlmf1C-lmXBWsxVdZXvhLcjNrDcR8EBbSF8jDYzG9hWJHD4m_mG7-g3BUwGl-8lY0wiszXPTnppwWIqbjsVsSNfPm_OC10AZlkw8S_JE1gCvTxqS",
+                        "width":9000
+                  }
+            ],
+            "place_id":"ChIJqUaInICs2YgRHwgJk_SYfxA",
+            "plus_code":{
+                  "compound_code":"XVM4+HX Hallandale Beach, FL, USA",
+                  "global_code":"76QXXVM4+HX"
+            },
+            "reference":"ChIJqUaInICs2YgRHwgJk_SYfxA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Hallandale Beach",
+            "opening_hours":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":120111003002,
+            "Radius":286.8641896885
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9857385,
+                        "lng":-80.147111
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9870856803,
+                              "lng":-80.1457017197
+                        },
+                        "southwest":{
+                              "lat":25.9843877197,
+                              "lng":-80.1483996803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"A Touch of Cuba Restaurant",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115218109502486581344\">Jorge J Gomez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBPriJJqScYSk7MFclj77g4-Qb6xaTO1u2JDWSeLIOHTbXhoJ9kzhQHwNPYYM0viuKXNloBKxPf-qMPcMonlpjzumccsT4ZNx_6aX9tH1BdFqFVtuT7kDTRZgaGm5OnG_0TsJx0lTSl0YRQ10bEH94wrfUbAPrOz5l-KgoZP4LS4Aoo",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJaxFnIn-s2YgRxGM-U03r9IY",
+            "plus_code":{
+                  "compound_code":"XVP3+75 Hallandale Beach, FL, USA",
+                  "global_code":"76QXXVP3+75"
+            },
+            "reference":"ChIJaxFnIn-s2YgRxGM-U03r9IY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"117 East Hallandale Beach Boulevard, Hallandale Beach",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "user_ratings_total":1469.0,
+            "CBG":120111003002,
+            "Radius":286.8641896885
+      }
+]

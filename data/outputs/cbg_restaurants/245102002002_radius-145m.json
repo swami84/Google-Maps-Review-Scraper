@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2896058,
+                        "lng":-76.6500223
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2909517803,
+                              "lng":-76.6487586197
+                        },
+                        "southwest":{
+                              "lat":39.2882538197,
+                              "lng":-76.6514565803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Pino's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ1ccRVagcyIkRQZPIm5lls-E",
+            "plus_code":{
+                  "compound_code":"78QX+RX Baltimore, MD, USA",
+                  "global_code":"87F578QX+RX"
+            },
+            "reference":"ChIJ1ccRVagcyIkRQZPIm5lls-E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":245102002002,
+            "Radius":144.9846483729
+      }
+]

@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3098253,
+                        "lng":-76.6429772
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3112676303,
+                              "lng":-76.6416229197
+                        },
+                        "southwest":{
+                              "lat":39.3085696697,
+                              "lng":-76.6443208803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Penn North Carryout",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJa2WS6EobyIkRShTdXEQUtHE",
+            "plus_code":{
+                  "compound_code":"8954+WR Baltimore, MD, USA",
+                  "global_code":"87F58954+WR"
+            },
+            "rating":4.5,
+            "reference":"ChIJa2WS6EobyIkRShTdXEQUtHE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"1615 West North Avenue, Baltimore",
+            "CBG":245101501001,
+            "Radius":156.6121587869
+      }
+]

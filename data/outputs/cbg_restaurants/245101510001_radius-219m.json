@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3392016,
+                        "lng":-76.6797787
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3404399303,
+                              "lng":-76.6785009697
+                        },
+                        "southwest":{
+                              "lat":39.3377419697,
+                              "lng":-76.6811989303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Phee's Kitchen",
+            "place_id":"ChIJm7hekiIbyIkRld_xTKDae2Q",
+            "plus_code":{
+                  "compound_code":"88QC+M3 Baltimore, MD, USA",
+                  "global_code":"87F588QC+M3"
+            },
+            "reference":"ChIJm7hekiIbyIkRld_xTKDae2Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3826 Dolfield Avenue, Baltimore",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":245101510001,
+            "Radius":218.7295419307
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.339417,
+                        "lng":-76.6830449
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3407661803,
+                              "lng":-76.6815855697
+                        },
+                        "southwest":{
+                              "lat":39.3380682197,
+                              "lng":-76.6842835303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"QueenKee",
+            "place_id":"ChIJ94sOiD0byIkR4qVFvYs4rqg",
+            "plus_code":{
+                  "compound_code":"88Q8+QQ Baltimore, MD, USA",
+                  "global_code":"87F588Q8+QQ"
+            },
+            "reference":"ChIJ94sOiD0byIkR4qVFvYs4rqg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4612 Wallington Avenue, Baltimore",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105162386279646479655\">QueenKee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtuelTlGKq4FuK13dvLy2CZMDWsNykTDx73H02AVR7JpJzBRvHduKrVaay1s3_D98ZaI9nsger8l1FCeJSg2krwpnlnCGJ-7i8c8O_OG0a28XWmnuHGZedaPIZ8dvNoVlNt_L-GRRaYW2SzJb2GIcy4M9xhc4BY5vrENwdEGmeQGdP",
+                        "width":3024
+                  }
+            ],
+            "CBG":245101510001,
+            "Radius":218.7295419307
+      }
+]

@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3121598,
+                        "lng":-76.5842885
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3135569803,
+                              "lng":-76.5830216197
+                        },
+                        "southwest":{
+                              "lat":39.3108590197,
+                              "lng":-76.5857195803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Montford Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117646522519262372572\">Derrick Cox<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBi0gStDVcXj1d9-SBKxcW5-nZfXFk8oQDNfAXo4--xZr29rwcH61OdiYhr5Q5KujXuEbP7KJxkN-9r6AdDLRjtp8ijTBX5VXSmmX2gyK2-efvBkKIVaSosJYPDEaYpyN0mcdpSBAMxvMpll14OnFDKHrJFUeklu1ijPR4FkGvUYOPb",
+                        "width":1944
+                  }
+            ],
+            "place_id":"ChIJfSaAJlsEyIkRiRNmNxbb_mE",
+            "plus_code":{
+                  "compound_code":"8C68+V7 Baltimore, MD, USA",
+                  "global_code":"87F58C68+V7"
+            },
+            "price_level":1.0,
+            "rating":4,
+            "reference":"ChIJfSaAJlsEyIkRiRNmNxbb_mE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"1843 North Montford Avenue, Baltimore",
+            "CBG":245100802002,
+            "Radius":179.9791300613
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3123204,
+                        "lng":-76.5849145
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3137784803,
+                              "lng":-76.5835747197
+                        },
+                        "southwest":{
+                              "lat":39.3110805197,
+                              "lng":-76.5862726803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Two Brothers BBQ",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJBWKX-xgFyIkRwYovohtJcA4",
+            "plus_code":{
+                  "compound_code":"8C68+W2 Baltimore, MD, USA",
+                  "global_code":"87F58C68+W2"
+            },
+            "price_level":null,
+            "rating":5,
+            "reference":"ChIJBWKX-xgFyIkRwYovohtJcA4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2351 East North Avenue, Baltimore",
+            "CBG":245100802002,
+            "Radius":179.9791300613
+      }
+]

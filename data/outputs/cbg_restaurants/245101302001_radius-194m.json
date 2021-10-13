@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3112072,
+                        "lng":-76.6267969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3126039803,
+                              "lng":-76.6254594197
+                        },
+                        "southwest":{
+                              "lat":39.3099060197,
+                              "lng":-76.6281573803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Capriotti's Sandwich Shop",
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104631677392483664704\">Capriotti&#39;s Sandwich Shop<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA1dJQ6UggnCMJIxDvj-IcE2hMequwEDwne6JUhnfEAN6JmzTKTE6KBRNMG1aLefXaHnpmIG8vakuVaWxq5CUwpDiQ8O91u_Oj8nNNt8zbU6CjT8yN8dIpg4en_03lkUY2EDjsQ9Eviz0AMCxb944bcdCLThF4JFYjg_3_D7wmmbdCf",
+                        "width":2396
+                  }
+            ],
+            "place_id":"ChIJhd1-hKIFyIkRu3PKtdp4gf0",
+            "plus_code":{
+                  "compound_code":"896F+F7 Baltimore, MD, USA",
+                  "global_code":"87F5896F+F7"
+            },
+            "rating":4.5,
+            "reference":"ChIJhd1-hKIFyIkRu3PKtdp4gf0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"698 Watts Street, Baltimore",
+            "CBG":245101302001,
+            "Radius":194.0746562856
+      }
+]

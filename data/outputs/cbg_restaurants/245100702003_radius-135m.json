@@ -1,0 +1,91 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2988218,
+                        "lng":-76.5791312
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3002473803,
+                              "lng":-76.5777875697
+                        },
+                        "southwest":{
+                              "lat":39.2975494197,
+                              "lng":-76.5804855303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yee Hing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJqckVvNQFyIkRAecyhVYcQyE",
+            "plus_code":{
+                  "compound_code":"7CXC+G8 Baltimore, MD, USA",
+                  "global_code":"87F57CXC+G8"
+            },
+            "reference":"ChIJqckVvNQFyIkRAecyhVYcQyE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2709 East Monument Street, Baltimore",
+            "permanently_closed":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":245100702003,
+            "Radius":134.8743551811
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.2988441,
+                        "lng":-76.5791474
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3002582303,
+                              "lng":-76.5778029697
+                        },
+                        "southwest":{
+                              "lat":39.2975602697,
+                              "lng":-76.5805009303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lu's Chinese Restaurant",
+            "opening_hours":null,
+            "place_id":"ChIJm6zutW4EyIkRlcSI2HcgIRA",
+            "plus_code":{
+                  "compound_code":"7CXC+G8 Baltimore, MD, USA",
+                  "global_code":"87F57CXC+G8"
+            },
+            "reference":"ChIJm6zutW4EyIkRlcSI2HcgIRA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2709 East Monument Street, Baltimore",
+            "permanently_closed":true,
+            "rating":4.5,
+            "user_ratings_total":24.0,
+            "CBG":245100702003,
+            "Radius":134.8743551811
+      }
+]

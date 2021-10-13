@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.31083,
+                        "lng":-76.636382
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3122385303,
+                              "lng":-76.6349323197
+                        },
+                        "southwest":{
+                              "lat":39.3095405697,
+                              "lng":-76.6376302803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Douglass Enterprises",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJz4vN97UEyIkRlNvfeNXiJJU",
+            "plus_code":{
+                  "compound_code":"8967+8C Baltimore, MD, USA",
+                  "global_code":"87F58967+8C"
+            },
+            "rating":4.5,
+            "reference":"ChIJz4vN97UEyIkRlNvfeNXiJJU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2222 Madison Avenue, Baltimore",
+            "CBG":245101303001,
+            "Radius":180.6834207856
+      }
+]

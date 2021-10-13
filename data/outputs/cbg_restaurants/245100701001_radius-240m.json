@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2993451,
+                        "lng":-76.5737031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3006114803,
+                              "lng":-76.5723890197
+                        },
+                        "southwest":{
+                              "lat":39.2979135197,
+                              "lng":-76.5750869803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nephews Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118029299442967437209\">Nephews Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAu_MXX4bUaYhjaj5XP4ahCRC2wItDr1hbVNTNBNb-TfK5TW7gsRKFh-9BqYeZoajTVw60Q_xfo90MQ6DTFJ0V2UUCOpT7mCWfrPvs2TqnsuQJbYK5OwtRbE6x1N0CP65gpd9NIceCc81NJzvAHamzvhVIZekuLi4jSjZt076wC-4M",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJk3g0aWsEyIkRcllz3I7Mrv8",
+            "plus_code":{
+                  "compound_code":"7CXG+PG Baltimore, MD, USA",
+                  "global_code":"87F57CXG+PG"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJk3g0aWsEyIkRcllz3I7Mrv8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":254.0,
+            "vicinity":"3100 East Monument Street #2806, Baltimore",
+            "CBG":245100701001,
+            "Radius":240.0817275019
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2990003,
+                        "lng":-76.5741876
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3004303803,
+                              "lng":-76.5728441197
+                        },
+                        "southwest":{
+                              "lat":39.2977324197,
+                              "lng":-76.5755420803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Casa Monument",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJNZVVqd8FyIkRFi2fSVgZJHE",
+            "plus_code":{
+                  "compound_code":"7CXG+J8 Baltimore, MD, USA",
+                  "global_code":"87F57CXG+J8"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJNZVVqd8FyIkRFi2fSVgZJHE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"3029 East Monument Street, Baltimore",
+            "CBG":245100701001,
+            "Radius":240.0817275019
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3017565,
+                        "lng":-76.5947179
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3031054803,
+                              "lng":-76.5933689197
+                        },
+                        "southwest":{
+                              "lat":39.3004075197,
+                              "lng":-76.5960668803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Broadway Carry-Out Chinese Foods",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":610,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110789427705717056280\">Vision World<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECT9E5BVwyd1OaXjFnU-goPZYTxyvq0wQSbz7BL2uo_Cf9AanD8ZpTFBq8t4xtjSKiyqa87P-eOUeaQmuRtwWkheXDiYFEpEtQbLjNKH08-mX1FJ6_5Jy7Ef28Q0qmedKM7yh-4OybaAe225WGbOgv7CRiAXwHfaTkQIKztOJ9K2cIl",
+                        "width":828
+                  }
+            ],
+            "place_id":"ChIJdzKP42EEyIkRG593unAxdWs",
+            "plus_code":{
+                  "compound_code":"8C24+P4 Baltimore, MD, USA",
+                  "global_code":"87F58C24+P4"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJdzKP42EEyIkRG593unAxdWs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":53,
+            "vicinity":"946 North Broadway, Baltimore",
+            "CBG":245100808002,
+            "Radius":238.3732705077
+      }
+]

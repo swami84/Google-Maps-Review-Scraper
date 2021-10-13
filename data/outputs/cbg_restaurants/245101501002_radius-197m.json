@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.308125,
+                        "lng":-76.6403892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3095181303,
+                              "lng":-76.6390752697
+                        },
+                        "southwest":{
+                              "lat":39.3068201697,
+                              "lng":-76.6417732303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Calabar Grill & Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":950,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111652928104737644221\">Calabar Grill &amp; Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1Ca-ZZZ_zhN89OrligGPoS_Olk7Y2EUeIDArNxXxtxTOElS8j2hXTYmcUdxHOnUV3AX7fmDWAe0kyZPZz8p-MQhjDHZBjo-KkVvmqd7ooaM3Z13GBHLyJp2zbmWnlscj1DZAewhkIVZ2L90eUJfmygTlReYbTLeGWqOAraO1VwH1O",
+                        "width":650
+                  }
+            ],
+            "place_id":"ChIJszcpxbQEyIkRFy0JwQPJtvc",
+            "plus_code":{
+                  "compound_code":"8955+6R Baltimore, MD, USA",
+                  "global_code":"87F58955+6R"
+            },
+            "reference":"ChIJszcpxbQEyIkRFy0JwQPJtvc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2242 Pennsylvania Avenue, Baltimore",
+            "CBG":245101501002,
+            "Radius":197.4123458529
+      }
+]

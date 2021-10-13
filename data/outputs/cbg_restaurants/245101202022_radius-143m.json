@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3290934,
+                        "lng":-76.6157283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3304943303,
+                              "lng":-76.6143837697
+                        },
+                        "southwest":{
+                              "lat":39.3277963697,
+                              "lng":-76.6170817303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tamber's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102767751265615253072\">Chandni Mahtani<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAICflRQCJkiE0e8_ycb-IyDNLMDA3INLGW4SLxBCKIlddvzdloC8H7jM6jiusNBoB7xKNFIIf-tru1tsaLMzQJlF3slxr0BY3k1IckWYNF5Zah72LqhE2wLWO6XORdfGsw33_-wBZK5YJU_yFMqKmtfiJ6n8RjWVAC9wT8vt0Zfivl",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJwxGV1h8FyIkRrE7wd3yfU6M",
+            "plus_code":{
+                  "compound_code":"89HM+JP Baltimore, MD, USA",
+                  "global_code":"87F589HM+JP"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJwxGV1h8FyIkRrE7wd3yfU6M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":521,
+            "vicinity":"3327 Saint Paul Street, Baltimore",
+            "CBG":245101202022,
+            "Radius":142.6161460262
+      }
+]

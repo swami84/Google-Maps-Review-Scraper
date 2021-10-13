@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":25.9835941,
+                        "lng":-80.118723
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9849172303,
+                              "lng":-80.1174737197
+                        },
+                        "southwest":{
+                              "lat":25.9822192697,
+                              "lng":-80.1201716803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafe Cita On The Beach",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPA0N7IK-ci7G2jPR9-0CS9rqWUn-M-q36O-bBg1GX0freOI-boAeiboKJZOT59xRFwSYQ79sv2qdEcEtI_0zcTa-N1xuUajfjMTRgJQnUcQva7cK0LmbHmfE0NYQZm-tmdYK_FAb2PMWeAErw6V09pxF0vSlViuoL_gKgaLOyzQF6",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJRWLeDSOr2YgRKFFwLYKuTcw",
+            "plus_code":{
+                  "compound_code":"XVMJ+CG Hallandale Beach, FL, USA",
+                  "global_code":"76QXXVMJ+CG"
+            },
+            "rating":4.5,
+            "reference":"ChIJRWLeDSOr2YgRKFFwLYKuTcw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":190,
+            "vicinity":"1870 South Ocean Drive, Hallandale Beach",
+            "CBG":120111001051,
+            "Radius":282.3040285113
+      }
+]

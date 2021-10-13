@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2847892,
+                        "lng":-76.6514048
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2861762303,
+                              "lng":-76.6499960697
+                        },
+                        "southwest":{
+                              "lat":39.2834782697,
+                              "lng":-76.6526940303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"NY Chicken & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3506,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115436608860752488682\">Nichole Morris<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECq0fPT9nvt_TdvTzZ9JlFcDcU3AnyNL0bvspbubTRDwpjfNXo_CrXagTmmuUZrKPtWtyegZDutAl60xlTc7JrRCV5oXRmGFAWLLwUAutb40ZTzKgEy4mLrcPrGUAHdIk67Dmn4SaZrNSlagrN6Ksix_x7R3jM0WdJbHeLxG6BbrGIB",
+                        "width":2735
+                  }
+            ],
+            "place_id":"ChIJI6GkdK8cyIkRaHgQHiNofNc",
+            "plus_code":{
+                  "compound_code":"78MX+WC Baltimore, MD, USA",
+                  "global_code":"87F578MX+WC"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJI6GkdK8cyIkRaHgQHiNofNc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"2101 West Pratt Street, Baltimore",
+            "CBG":245102005001,
+            "Radius":142.4453007115
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.284805,
+                        "lng":-76.65025
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2861539803,
+                              "lng":-76.6489010197
+                        },
+                        "southwest":{
+                              "lat":39.2834560197,
+                              "lng":-76.6515989803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Me-Me's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJhZJ4A68cyIkRiIp-Pwf8oak",
+            "plus_code":{
+                  "compound_code":"78MX+WW Baltimore, MD, USA",
+                  "global_code":"87F578MX+WW"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJhZJ4A68cyIkRiIp-Pwf8oak",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2109 West Pratt Street, Baltimore",
+            "CBG":245102005001,
+            "Radius":142.4453007115
+      }
+]

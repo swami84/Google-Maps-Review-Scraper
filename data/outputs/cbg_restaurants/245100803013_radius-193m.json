@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3048242,
+                        "lng":-76.5839134
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3061709303,
+                              "lng":-76.5826540697
+                        },
+                        "southwest":{
+                              "lat":39.3034729697,
+                              "lng":-76.5853520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Psycho pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJHT68R94FyIkRNvGgTBXvY6E",
+            "plus_code":{
+                  "compound_code":"8C38+WC Baltimore, MD, USA",
+                  "global_code":"87F58C38+WC"
+            },
+            "rating":1,
+            "reference":"ChIJHT68R94FyIkRNvGgTBXvY6E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1201 North Montford Avenue, Baltimore",
+            "CBG":245100803013,
+            "Radius":193.3483547201
+      }
+]

@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2811272,
+                        "lng":-76.6462892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2824722803,
+                              "lng":-76.6450569697
+                        },
+                        "southwest":{
+                              "lat":39.2797743197,
+                              "lng":-76.6477549303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Young's Carryout",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJRWO2CLIcyIkRTx7TO5yAVko",
+            "plus_code":{
+                  "compound_code":"79J3+FF Baltimore, MD, USA",
+                  "global_code":"87F579J3+FF"
+            },
+            "rating":4.9,
+            "reference":"ChIJRWO2CLIcyIkRTx7TO5yAVko",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"549 South Monroe Street, Baltimore",
+            "CBG":245101903004,
+            "Radius":222.3307869937
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8960964,
+                        "lng":-87.6808612
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8973191303,
+                              "lng":-87.6795091697
+                        },
+                        "southwest":{
+                              "lat":41.8946211697,
+                              "lng":-87.6822071303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Takie Outit",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102183159860199810637\">Takie Outit<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA1ri95cexfZma_aQAmot_Py5_KUvpLDj9pjQI1WqTiHcmbo4imfQgwJug5_d2CgY6EmITwn5AY67ya3oebFH1aTCsCJwxmhknMWN_YFcUpCVRSDtTzUsdGWBblaZKQ9GwPh8NR0X8E6P9_0hZJ30Sjq3aHN_vIx8_9bcJxeI1hoTJB",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9V0QLkstDogRetKlFC04RBc",
+            "plus_code":{
+                  "compound_code":"V8W9+CM Chicago, IL, USA",
+                  "global_code":"86HJV8W9+CM"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJ9V0QLkstDogRetKlFC04RBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":136,
+            "vicinity":"2132 West Chicago Avenue, Chicago",
+            "CBG":170312423002,
+            "Radius":228.7119079456
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8960754,
+                        "lng":-87.6778955
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8973336303,
+                              "lng":-87.6765437197
+                        },
+                        "southwest":{
+                              "lat":41.8946356697,
+                              "lng":-87.6792416803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lao Peng You",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3521,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116692335644964218879\">Lao Peng You<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECSJuNLmObR8XBdTPlYXJiL4HifIsyBTMn1SY4GpP3i5sh9CkFdRiIyggd-ntpHbPZ8jORqQb_2puiPmWWa8CYWBCDGiY4BvKB676Nvx7O-DLeTrflooV6_2SbNE_GXwt2GsCMRWHuNVBKIQNFkh7us_VzxQTN2bexhNqOxK40xTEds",
+                        "width":2670
+                  }
+            ],
+            "place_id":"ChIJOxXGyFAtDogR7u-PLnGpdPM",
+            "plus_code":{
+                  "compound_code":"V8WC+CR Chicago, IL, USA",
+                  "global_code":"86HJV8WC+CR"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJOxXGyFAtDogR7u-PLnGpdPM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":141,
+            "vicinity":"2020 West Chicago Avenue, Chicago",
+            "CBG":170312423002,
+            "Radius":228.7119079456
+      }
+]

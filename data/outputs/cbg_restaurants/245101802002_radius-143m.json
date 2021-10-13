@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2888265,
+                        "lng":-76.6353049
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2901754803,
+                              "lng":-76.6339559197
+                        },
+                        "southwest":{
+                              "lat":39.2874775197,
+                              "lng":-76.6366538803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"New Taste of China",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109850272899288659652\">Your Reaction News - #howdidyoureact<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAlzjzHqd4hIB5-mcmWjs6e4NifP6jqhNr0iipRDxvY4pBR68OUlZ9JZ4fmG3p22PaNjvZezQ0H27cIHGCOIEvfGftyixLyfFe18cABFBsJuWHFu29U8PGc-kF31Eq3czE0D6Q8LK2r85CXpWqRDONyxhhc09sdoIFatOuSUrNK6HA2",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJEbg6dFYDyIkRiKzxrdgTO3g",
+            "plus_code":{
+                  "compound_code":"79Q7+GV Baltimore, MD, USA",
+                  "global_code":"87F579Q7+GV"
+            },
+            "rating":3.6,
+            "reference":"ChIJEbg6dFYDyIkRiKzxrdgTO3g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"1044 West Baltimore Street, Baltimore",
+            "CBG":245101802002,
+            "Radius":142.6708179404
+      }
+]

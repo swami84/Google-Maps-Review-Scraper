@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9094498,
+                        "lng":-87.7729941
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9107430303,
+                              "lng":-87.7716429197
+                        },
+                        "southwest":{
+                              "lat":41.9080450697,
+                              "lng":-87.7743408803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Big O's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ3_0lR6bMD4gRHWWp_CFMrg8",
+            "plus_code":{
+                  "compound_code":"W65G+QR Chicago, IL, USA",
+                  "global_code":"86HJW65G+QR"
+            },
+            "reference":"ChIJ3_0lR6bMD4gRHWWp_CFMrg8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Chicago",
+            "CBG":170312504003,
+            "Radius":200.8031494582
+      }
+]

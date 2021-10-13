@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0008995,
+                        "lng":-80.3194977
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0022484803,
+                              "lng":-80.3181487197
+                        },
+                        "southwest":{
+                              "lat":25.9995505197,
+                              "lng":-80.3208466803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gigi's Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112440813323112341638\">sarah swanson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECyqau74VXnEaQRlNR-AyQSOA-HkLttV9c1tfbrhh7vzx28GKr19yVOIbndizXTDen3UB_Fj3M9B91XsiKNIHBiPWOfzF1YyvffTL8orYeNMYx82bp_Fnt0MmaNRZ51eZsA4MThtowIHuurtMErQB20dWwyxisAsAUsGPOncN9JwZ7i",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJ_RfFL36m2YgR1RdKDnpG7y0",
+            "plus_code":{
+                  "compound_code":"2M2J+96 Pembroke Pines, FL, USA",
+                  "global_code":"76RX2M2J+96"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ_RfFL36m2YgR1RdKDnpG7y0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"701 Southwest Flamingo West Drive, Pembroke Pines",
+            "CBG":120111103353,
+            "Radius":391.2023200962
+      }
+]

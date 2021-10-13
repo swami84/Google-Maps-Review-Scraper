@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.316489,
+                        "lng":-76.598684
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3178982803,
+                              "lng":-76.5974323697
+                        },
+                        "southwest":{
+                              "lat":39.3152003197,
+                              "lng":-76.6001303303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dorothy's Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116576103945238099008\">T Money<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDLliFckx-ieAshI7TL26b61R3hjUoeBCVGtR2EPLOovseznoYZS5s36q3XzAHt5TMNO8wS7RZORkgAazSyIB2mZ1eUPRrqKFteoOYmm1pg1kVUvMuWVm4P8IOeeN5AMrTRHo7UD0vDgRu7HI0-JXta_-JIH8W98QDJOpqRMKX-QiOK",
+                        "width":1944
+                  }
+            ],
+            "place_id":"ChIJ_RDuYvcEyIkRAABU-h207yM",
+            "plus_code":{
+                  "compound_code":"8C82+HG Baltimore, MD, USA",
+                  "global_code":"87F58C82+HG"
+            },
+            "rating":4.1,
+            "reference":"ChIJ_RDuYvcEyIkRAABU-h207yM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"2401 Aisquith Street, Baltimore",
+            "CBG":245100908002,
+            "Radius":210.5651974008
+      }
+]

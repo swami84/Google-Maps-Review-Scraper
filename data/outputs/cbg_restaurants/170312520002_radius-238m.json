@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.880709,
+                        "lng":-87.765447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8818501303,
+                              "lng":-87.7638651697
+                        },
+                        "southwest":{
+                              "lat":41.8791521697,
+                              "lng":-87.7665631303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JJ Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113007053592499961440\">JJ Fish &amp; Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDUyUpa7O9jBxK4wGG4pSiKtNOIoLiH52Xce83Us8mEbMMa4VzEgMrabm8LgX1DDaMOBuQeVhE9DQdcn7fPYXHQVV0h20imgHRCtYOXRou_LyYeFwBhmjnfbIGQShLvSqKhTVIKbYoJE2-VWq1Hy2FZB6DN1MClSTi2a81YfP72Yf3n",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJbWav4EIzDogRQpRTK8eTEMg",
+            "plus_code":{
+                  "compound_code":"V6JM+7R Chicago, IL, USA",
+                  "global_code":"86HJV6JM+7R"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJbWav4EIzDogRQpRTK8eTEMg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":587,
+            "vicinity":"5608 West Madison Street #3937, Chicago",
+            "CBG":170312520002,
+            "Radius":237.891392582
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.894666,
+                        "lng":-87.757267
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8961364303,
+                              "lng":-87.7559227697
+                        },
+                        "southwest":{
+                              "lat":41.8934384697,
+                              "lng":-87.7586207303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jamaican Grill",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112654427884054359670\">lclat baxter<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC2h1QFBJ-7WyKSc5ZPfORb8mFPgOuna8TfUrx8WjXxWA3Tjr846vUd-pfHPwrGuYJpOkN-e_BuAuLE1-nrUNCroVjZB2MBYtXupiUhS6ratO9PUoUzEMjH5lZ8CXZHBhWsbqaWF5QTxdGAsTlvgvNnB3Yf6e5DynEEF3jfbbvAmLt5",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ75AxklUzDogRlBo2PhGitWg",
+            "plus_code":{
+                  "compound_code":"V6VV+V3 Oak Park, IL, USA",
+                  "global_code":"86HJV6VV+V3"
+            },
+            "rating":3.4,
+            "reference":"ChIJ75AxklUzDogRlBo2PhGitWg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"5241 West Chicago Avenue, Oak Park",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":170312515001,
+            "Radius":202.4788303026
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8946997,
+                        "lng":-87.7566154
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8960711303,
+                              "lng":-87.7551973697
+                        },
+                        "southwest":{
+                              "lat":41.8933731697,
+                              "lng":-87.7578953303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Hook Fish & Chicken",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100549405752888404658\">Dezire&#39; Garth<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDYZ5pWPBImFnvJ0NddZlTROI_azdJ8tZod8g2Bc2HDcjFwoUTydCvpeH9afto4qM_ecNMo-lPbtjrhijhnILIhGSirR3TECYpiQTSj2B7uY8J4LIObTJydmb9_f9p5tBVxaRq7h96li5PuFUFxu5l3HNstuvSZGVt3wlZ3e_dUh93s",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJBQJfhDUzDogRRwQR7f4tbrE",
+            "plus_code":{
+                  "compound_code":"V6VV+V9 Chicago, IL, USA",
+                  "global_code":"86HJV6VV+V9"
+            },
+            "rating":3.9,
+            "reference":"ChIJBQJfhDUzDogRRwQR7f4tbrE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":200,
+            "vicinity":"5215 West Chicago Avenue, Chicago",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":1.0,
+            "CBG":170312515001,
+            "Radius":202.4788303026
+      }
+]

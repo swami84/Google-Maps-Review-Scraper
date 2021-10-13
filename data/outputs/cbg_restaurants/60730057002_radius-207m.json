@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7270632,
+                        "lng":-117.164729
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7284123303,
+                              "lng":-117.1634180697
+                        },
+                        "southwest":{
+                              "lat":32.7257143697,
+                              "lng":-117.1661160303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"SAN Gourmet and Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJifCN4j2r3oARvOQcDKJkQHY",
+            "plus_code":{
+                  "compound_code":"PRGP+R4 San Diego, CA, USA",
+                  "global_code":"8544PRGP+R4"
+            },
+            "rating":4.6,
+            "reference":"ChIJifCN4j2r3oARvOQcDKJkQHY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"San Diego",
+            "CBG":60730057002,
+            "Radius":206.9122511881
+      }
+]

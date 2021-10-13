@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.995533,
+                        "lng":-80.1700192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9968806803,
+                              "lng":-80.1687408197
+                        },
+                        "southwest":{
+                              "lat":25.9941827197,
+                              "lng":-80.1714387803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Latin D'Lite",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ0SRDryGr2YgRoV7VNRwDlqk",
+            "plus_code":{
+                  "compound_code":"XRWH+6X Hallandale Beach, FL, USA",
+                  "global_code":"76QXXRWH+6X"
+            },
+            "rating":4.7,
+            "reference":"ChIJ0SRDryGr2YgRoV7VNRwDlqk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"3140 W Pembroke Park, Hallandale Beach",
+            "CBG":120111005011,
+            "Radius":730.2248044244
+      }
+]

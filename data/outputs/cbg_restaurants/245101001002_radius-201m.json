@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3038935,
+                        "lng":-76.6078119
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3052472803,
+                              "lng":-76.6065323197
+                        },
+                        "southwest":{
+                              "lat":39.3025493197,
+                              "lng":-76.6092302803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dragon Phoenix",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105994160857760307048\">Dragon Phoenix<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECGBHuspBMgtrW3cyTK1_qr-Nh52D7IUwKNjucKXy1lng14jDXJKeiPn10sa3ZvjAtqqydEu3lu6PHfWAUe9p3n9YGCrPSOYJEDXVfdr_RKjE9ikEbgZQM5Z1TBq2kvNO_gzoX9lowTwByirbxPVVBcxlRY1sHmqn-Hwi_9D6Ka6Jq0",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJBQuva5IEyIkRTpKNdPBwg0A",
+            "plus_code":{
+                  "compound_code":"893R+HV Baltimore, MD, USA",
+                  "global_code":"87F5893R+HV"
+            },
+            "rating":3.7,
+            "reference":"ChIJBQuva5IEyIkRTpKNdPBwg0A",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"1201 Greenmount Avenue, Baltimore",
+            "CBG":245101001002,
+            "Radius":200.9029912122
+      }
+]

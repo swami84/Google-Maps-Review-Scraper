@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0089063,
+                        "lng":-80.1444884
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0101677803,
+                              "lng":-80.1431368697
+                        },
+                        "southwest":{
+                              "lat":26.0074698197,
+                              "lng":-80.1458348303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Office Space Available in Hollywood, Florida",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106009800123750170892\">Hasan Al Zahid<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBRNxM2QVpr6SbtUy4wgAtHSgNGTaQ9GNFNsnK27DMaADMx9uoMjX3AdcjaM3okmFvGOXV2zp2N3-t_zKDgyJkkAaR7QrNVt-4-CGMJHmcZ--vZE0YJO7o53KnCMvcHmrLX8DtXQkLP0w23cV9HUbEZ2gHubYwRqceiUB4b6Q_tM-FO",
+                        "width":1413
+                  }
+            ],
+            "place_id":"ChIJvU3U8Gir2YgRcyDaqp8qiYI",
+            "plus_code":{
+                  "compound_code":"2V54+H6 Hollywood, FL, USA",
+                  "global_code":"76RX2V54+H6"
+            },
+            "reference":"ChIJvU3U8Gir2YgRcyDaqp8qiYI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Hollywood",
+            "CBG":120110919022,
+            "Radius":351.0809934864
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0044424,
+                        "lng":-80.1482444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0057843303,
+                              "lng":-80.1470922197
+                        },
+                        "southwest":{
+                              "lat":26.0030863697,
+                              "lng":-80.1497901803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jewsy Jerk",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108827854691672732479\">Chef Shamiwan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBM-5G0pv6fwxmg1TVYKiMvL0-Cr3gUpJ7T2e6seI43crms5Zh2QAJrtuzhuVGUyXujoMkSIC55MvzOpZC5MGrrlhdvW2RN9KgPlaPC6RjvPMxhD4uAEc36mcupsuLyM9rqb-MR0MrsbStvnbnhXvnlsn_9EtV-7pbcemZcCur_HSql",
+                        "width":3752
+                  }
+            ],
+            "place_id":"ChIJSVb2KYWr2YgRd8p0tfKPiRk",
+            "plus_code":{
+                  "compound_code":"2V32+QP Hollywood, FL, USA",
+                  "global_code":"76RX2V32+QP"
+            },
+            "reference":"ChIJSVb2KYWr2YgRd8p0tfKPiRk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"815 South 21st Avenue, Hollywood",
+            "CBG":120110919022,
+            "Radius":351.0809934864
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9094768,
+                        "lng":-87.7768658
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9108230303,
+                              "lng":-87.7753680197
+                        },
+                        "southwest":{
+                              "lat":41.9081250697,
+                              "lng":-87.7780659803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"KFC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100409635943648185049\">Pamela Kenealy-Bunyea<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBR2jNI9lwOLgGWV1W_Y7ZpWYgYMhjG0Yq-hdnsfNj5Ag69GnJT-3h862K-Yozr3NjxqrZ0U0sx2IJmUqDNvQnBDAOKxjFgfUYJH468KrcshzhJOQI7DqHFj9f4VzV-YemDU87gBHwL8bdzoM_povJrM-53aTwYUm5l2Lg1fFeeAdlU",
+                        "width":2880
+                  }
+            ],
+            "place_id":"ChIJvwp6dFjLD4gR0wyphNurt8k",
+            "plus_code":{
+                  "compound_code":"W65F+Q7 Chicago, IL, USA",
+                  "global_code":"86HJW65F+Q7"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJvwp6dFjLD4gR0wyphNurt8k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":412,
+            "vicinity":"6034 West North Avenue, Chicago",
+            "CBG":170312504004,
+            "Radius":197.2841175139
+      }
+]

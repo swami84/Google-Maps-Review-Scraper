@@ -1,0 +1,82 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6309005,
+                        "lng":-111.899469
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6322684803,
+                              "lng":-111.8981171697
+                        },
+                        "southwest":{
+                              "lat":40.6295705197,
+                              "lng":-111.9008151303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Utah Food Trucks",
+            "place_id":"ChIJB21FTqGJUocRzTvpaxgi7Ak",
+            "plus_code":{
+                  "compound_code":"J4J2+96 Murray, UT, USA",
+                  "global_code":"85GCJ4J2+96"
+            },
+            "reference":"ChIJB21FTqGJUocRzTvpaxgi7Ak",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Murray",
+            "permanently_closed":null,
+            "CBG":490351122023,
+            "Radius":508.9180813665
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.629727,
+                        "lng":-111.893099
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6310390803,
+                              "lng":-111.8917502197
+                        },
+                        "southwest":{
+                              "lat":40.6283411197,
+                              "lng":-111.8944481803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"At Home Grocery Delivery, LLC.",
+            "place_id":"ChIJ10R_-GyJUocRUewa3dZSKqc",
+            "plus_code":{
+                  "compound_code":"J4H4+VQ Murray, UT, USA",
+                  "global_code":"85GCJ4H4+VQ"
+            },
+            "reference":"ChIJ10R_-GyJUocRUewa3dZSKqc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"46 W. Lester Ave Unit #G13, Murray",
+            "permanently_closed":true,
+            "CBG":490351122023,
+            "Radius":508.9180813665
+      }
+]

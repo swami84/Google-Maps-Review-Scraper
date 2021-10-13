@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.3096486,
+                        "lng":-76.6466711
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3109975803,
+                              "lng":-76.6453221197
+                        },
+                        "southwest":{
+                              "lat":39.3082996197,
+                              "lng":-76.6480200803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Troy's Chinese Food Carry Out",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107153797574973121390\">Maggie Davenport<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBtPzddgjl5LBGLWFqGE23HuLMGTujU7Wtg0QWfHFI3UhqnmtnnnaUBkTAWCCooKIzCcRZCOrvLeH_USIuAz66Acjvjdw7XzleEipkCCvHFeaLIQmhFdiHmjV_0fWzbyD-il_JKJteN2bgHmrhk9sv17eEvceV1G1Lhfqn0G3Gzbtqe",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJH90KLEobyIkRq79ateMd3HY",
+            "plus_code":{
+                  "compound_code":"8953+V8 Baltimore, MD, USA",
+                  "global_code":"87F58953+V8"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJH90KLEobyIkRq79ateMd3HY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"1803 West North Avenue, Baltimore",
+            "CBG":245101502003,
+            "Radius":193.1597611021
+      }
+]

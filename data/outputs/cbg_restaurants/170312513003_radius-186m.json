@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8949406,
+                        "lng":-87.7705682
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8962060803,
+                              "lng":-87.7692166697
+                        },
+                        "southwest":{
+                              "lat":41.8935081197,
+                              "lng":-87.7719146303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mc Carthy",
+            "place_id":"ChIJwf-XkFMzDogRA7TUkeG0LuU",
+            "plus_code":{
+                  "compound_code":"V6VH+XQ Chicago, IL, USA",
+                  "global_code":"86HJV6VH+XQ"
+            },
+            "reference":"ChIJwf-XkFMzDogRA7TUkeG0LuU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5806 West Chicago Avenue, Chicago",
+            "CBG":170312513003,
+            "Radius":186.36455299
+      }
+]

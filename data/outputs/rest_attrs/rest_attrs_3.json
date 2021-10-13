@@ -36956,5 +36956,4873 @@
             "3 PM": "15",
             "6 PM": "74",
             "9 PM": "0"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJk6Xb98bSD4gRohNq2uKmnR4",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 282,
+            "price_range_$": 1,
+            "rest_summary": "Lively bar featuring daily food & drink specials, plus weekend DJs, sports on TV & a pool table.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "8",
+            "9 PM": "19",
+            "12 AM": "28"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJKXHMk8XSD4gRJwbwxfytC5E",
+            "rest_type": "Bar",
+            "no_of_reviews": 871,
+            "price_range_$": 2,
+            "rest_summary": "Modern-rustic bar with a large roof deck offering pub fare & cocktails, plus movie & karaoke nights.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "15",
+            "9 PM": "23"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJgf1aesbSD4gR3glVzhrCmvI",
+            "rest_type": "Hot dog restaurant",
+            "no_of_reviews": 783,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "45",
+            "3 PM": "57",
+            "6 PM": "45",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJN9NsVRXTD4gR9x78Q5dpWCk",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 5,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJPRWxdNTTD4gRGBHA7sE-iB8",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 606,
+            "price_range_$": 2,
+            "rest_summary": "Funky outpost with a New Orleans vibe, creative fare, live music & specialty retail products.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "57",
+            "9 PM": "46",
+            "12 AM": "3"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJvWcyFdfTD4gRCZYpAbpna2Q",
+            "rest_type": "Ramen restaurant",
+            "no_of_reviews": 97,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "59",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJPRW4wsXSD4gRLJyXTTPMr-8",
+            "rest_type": "Sushi restaurant",
+            "no_of_reviews": 234,
+            "price_range_$": 2,
+            "rest_summary": "Casual neighborhood BYOB spot for specialty maki & hot Japanese dishes in a small storefront space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "7",
+            "3 PM": "6",
+            "6 PM": "18",
+            "9 PM": "20"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJ74_-pV3TD4gRJZnF7aSwSOs",
+            "rest_type": "Health food restaurant",
+            "no_of_reviews": 71,
+            "rest_summary": "Locavore-friendly counter-serve chain specializing in organic salads, soup & bowls.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "85",
+            "3 PM": "37",
+            "6 PM": "81",
+            "9 PM": "39"
+      },
+      {
+            "cbg": 170312415003,
+            "place_id": "ChIJ48Kc7vTTD4gRieoQ09WJKRY",
+            "rest_type": "Health food restaurant",
+            "no_of_reviews": 77,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "39",
+            "12 PM": "56",
+            "3 PM": "43",
+            "6 PM": "47",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312416001,
+            "place_id": "ChIJxXAHLdvSD4gRV6CF2nQJZQs",
+            "rest_type": "New American restaurant",
+            "no_of_reviews": 191,
+            "price_range_$": 4,
+            "rest_summary": "Chef Michael Carlson showcases inventive New American fixed-price menus in a simple, homey space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312416001,
+            "place_id": "ChIJn7fIAnsyDogROPlgsX5HJgg",
+            "rest_type": "Persian restaurant",
+            "no_of_reviews": 242,
+            "price_range_$": 2,
+            "rest_summary": "Middle Eastern eatery & bar with exotic decor, hookahs & belly dancers on the weekends.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "8",
+            "6 PM": "3",
+            "9 PM": "24"
+      },
+      {
+            "cbg": 170312416001,
+            "place_id": "ChIJNUF_09rSD4gRiYIkxsTm__c",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 31,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "88",
+            "3 PM": "42",
+            "6 PM": "42",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312416002,
+            "place_id": "ChIJFU0Z_NDSD4gRnjaHlDG4fqY",
+            "rest_type": "Japanese restaurant",
+            "no_of_reviews": 296,
+            "price_range_$": 2,
+            "rest_summary": "Brick-lined Japanese BYOB spot with a modern menu of maki, sashimi & more plus a few cooked dishes.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "35",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312416002,
+            "place_id": "ChIJ8UrAPL_TD4gRAGpNB-EVCM4",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 82,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "42",
+            "3 PM": "45",
+            "6 PM": "50",
+            "9 PM": "34"
+      },
+      {
+            "cbg": 170312416002,
+            "place_id": "ChIJA7iRG9DSD4gR9E3wbY5dUrU",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 314,
+            "price_range_$": 1,
+            "rest_summary": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "50",
+            "12 PM": "52",
+            "3 PM": "50",
+            "6 PM": "46",
+            "9 PM": "4"
+      },
+      {
+            "cbg": 170312416002,
+            "place_id": "ChIJ1xnX157TD4gRcUryxQK6El8",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 31,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312416002,
+            "place_id": "ChIJL3Pdg27TD4gRvQPkxPUCYLU",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312420001,
+            "place_id": "ChIJw0cVUdHSD4gRZADPW6blGZY",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 1106,
+            "price_range_$": 2,
+            "rest_summary": "Game, oysters & tap brews are served in a stylish lodge space with TVs, a fireplace & a beer garden.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "47",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420001,
+            "place_id": "ChIJKx-ZHNLSD4gRntTb6VqiXew",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1804,
+            "price_range_$": 2,
+            "rest_summary": "Seafood with a Mexican bent delivered in a bright, festive space inside a boat-shaped building.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "19",
+            "3 PM": "25",
+            "6 PM": "28",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420001,
+            "place_id": "ChIJdZ8iEtLSD4gRnbo11-QkYXY",
+            "rest_type": "Chinese restaurant",
+            "no_of_reviews": 385,
+            "price_range_$": 2,
+            "rest_summary": "Standard eatery offering familiar Chinese fare for dine-in & carryout since 1982.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "98",
+            "3 PM": "45",
+            "6 PM": "77",
+            "9 PM": "22"
+      },
+      {
+            "cbg": 170312420001,
+            "place_id": "ChIJaXmKFNLSD4gRYlx6CZBRFj4",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 548,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "17",
+            "12 PM": "83",
+            "3 PM": "61",
+            "6 PM": "39",
+            "9 PM": "18"
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJ7RB-UdPSD4gR0VhtxMG-ElA",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 509,
+            "price_range_$": 2,
+            "rest_summary": "Bar food, bourbon & DJs in a funky, rock 'n' roll-themed lounge with a pool table & tattoo art.",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJLwU9LS0tDogRinHmp_NFikk",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 244,
+            "price_range_$": 2,
+            "rest_summary": "Lively eatery serving French-inspired Mexican fare plus weekend brunch in a clean-lined space.",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJH_ZL1NLSD4gRLf_av_2kx-c",
+            "rest_type": "Italian restaurant",
+            "no_of_reviews": 152,
+            "price_range_$": 1,
+            "rest_summary": "Cozy pizza joint offering whole pies & slices plus salads & sandwiches for carryout or delivery.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "28",
+            "3 PM": "28",
+            "6 PM": "65",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJZ5S6TNPSD4gRm4ClmguK-wA",
+            "rest_type": "Puerto Rican restaurant",
+            "no_of_reviews": 613,
+            "price_range_$": 1,
+            "rest_summary": "Small, casual BYOB eatery serving Puerto Rican comfort food in no-frills surroundings.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "75",
+            "3 PM": "27",
+            "6 PM": "50",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJ25TzivfSD4gRhQSOvgot6wI",
+            "rest_type": "Southwestern restaurant (US)",
+            "no_of_reviews": 625,
+            "price_range_$": 1,
+            "rest_summary": "Hip spot for Southwestern dining & cocktails in a chill storefront setting with a spacious patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "12",
+            "3 PM": "13",
+            "6 PM": "26",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJLwlex_7TD4gRGPKEsZApggo",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 163,
+            "rest_summary": "Inventive Korean cuisine with elegant presentations, served in minimal environs with full bar.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJF8uVOLnTD4gRXqki_66DpZo",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 116,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup"
+            ],
+            "6 AM": "0",
+            "9 AM": "39",
+            "12 PM": "51",
+            "3 PM": "36",
+            "6 PM": "43",
+            "9 PM": "0",
+            "12 AM": "0",
+            "3 AM": "0"
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJxcJv8I_TD4gR8gts7O7w7-8",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 10,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJwROcHV3TD4gR7_x7PSf9pbM",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 42,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJ_aQalc7TD4gR62mnGQ1q1Ws",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 42,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJj5px1dLSD4gR30XvELCiqgw",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJxzHfl1XTD4gRMlr1IEfRsRM",
+            "rest_type": "Cafe",
+            "no_of_reviews": 59,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "17",
+            "12 PM": "60",
+            "3 PM": "60",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420002,
+            "place_id": "ChIJ78IGifbTD4gRiCoEjam_qBI",
+            "rest_type": "Thai restaurant",
+            "no_of_reviews": 460,
+            "rest_summary": "Casual Thai spot with a large menu of faves including pad Thai & curries in a sleek, warm space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "32",
+            "3 PM": "18",
+            "6 PM": "58",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312420003,
+            "place_id": "ChIJMUJjb7QsDogR-QvGlOuQPhg",
+            "rest_type": "Delivery Chinese restaurant",
+            "no_of_reviews": 155,
+            "price_range_$": 2,
+            "rest_summary": "Bright, spacious Chinese storefront spot serving comfort fare for dine-in, delivery or takeout.",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery",
+                  "Dine-in"
+            ]
+      },
+      {
+            "cbg": 170312420003,
+            "place_id": "ChIJLy48c9HSD4gRLrpihKmHjRs",
+            "rest_type": "Asian restaurant",
+            "no_of_reviews": 141,
+            "price_range_$": 2,
+            "rest_summary": "Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls, ductwork & a lounge area.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "33",
+            "3 PM": "41",
+            "6 PM": "73",
+            "9 PM": "73"
+      },
+      {
+            "cbg": 170312421001,
+            "place_id": "ChIJgXLY3tHSD4gRzRO4g7Ljdhk",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 1777,
+            "price_range_$": 2,
+            "rest_summary": "No-frills neighborhood taqueria serving counter-serve Mexican classics since 1976.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "88",
+            "3 PM": "23",
+            "6 PM": "44",
+            "9 PM": "29"
+      },
+      {
+            "cbg": 170312421001,
+            "place_id": "ChIJGcq0BdLSD4gRkkxMBndp-E4",
+            "rest_type": "Seafood restaurant",
+            "no_of_reviews": 1452,
+            "price_range_$": 2,
+            "rest_summary": "Snug, bustling Mexican-style seafood restaurant in a no-frills setting with a BYOB policy.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "17",
+            "3 PM": "17",
+            "6 PM": "34",
+            "9 PM": "17"
+      },
+      {
+            "cbg": 170312421001,
+            "place_id": "ChIJgTWf-dHSD4gRFfWgrRRAi_0",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 249,
+            "price_range_$": 2,
+            "rest_summary": "Counter-serve outfit offering sandwiches & gyros along with wings & fried fare in a no-frills setup.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "29",
+            "12 PM": "56",
+            "3 PM": "75",
+            "6 PM": "56",
+            "9 PM": "29",
+            "12 AM": "20",
+            "3 AM": "18"
+      },
+      {
+            "cbg": 170312421001,
+            "place_id": "ChIJ__8739HSD4gRuKgGEgcnPvM",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 378,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "22",
+            "3 PM": "24",
+            "6 PM": "34",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312421003,
+            "place_id": "ChIJnZBanmgsDogRUVITJiGWLnA",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 438,
+            "price_range_$": 1,
+            "rest_summary": "Casual Mexican counter-serve eatery serving tacos & burritos with various house salsas.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "44",
+            "3 PM": "33",
+            "6 PM": "79",
+            "9 PM": "59"
+      },
+      {
+            "cbg": 170312421003,
+            "place_id": "ChIJd5DYTc3SD4gRIpMLLV5Sj4w",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 52,
+            "price_range_$": 1,
+            "rest_summary": "Simple Mexican kitchen with a BYOB policy fixing up casual eats like tacos, gorditas & burritos.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312421003,
+            "place_id": "ChIJez5SOx7TD4gRjzH66LA-HVE",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 37,
+            "rest_summary": "Laid-back restaurant & takeaway spot serving pasta dishes & meal kits in snug surrounds.",
+            "rest_labels": [
+                  "Takeout",
+                  "Dine-in"
+            ]
+      },
+      {
+            "cbg": 170312421003,
+            "place_id": "ChIJTSbkTM3SD4gRaR8ueBbORrQ",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 73,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "36",
+            "12 PM": "59",
+            "3 PM": "33",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312421003,
+            "place_id": "ChIJ9_t3DsotDogR2KcUgu8TZQ8",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 531,
+            "price_range_$": 2,
+            "rest_summary": "German classics get a Southern spin from an open kitchen in a stylized beer-hall setting.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "42",
+            "9 PM": "34"
+      },
+      {
+            "cbg": 170312421003,
+            "place_id": "ChIJeZ2dVc3SD4gRiAbhO2dm8Bk",
+            "rest_type": "Catering"
+      },
+      {
+            "cbg": 170312422001,
+            "place_id": "ChIJccHhHs3TD4gRxVcCWUh7-xQ",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 225,
+            "rest_summary": "Laid-back eatery serving creative sweet & savory pastries, plus Filipino offerings, coffee & wine.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "30",
+            "12 PM": "56",
+            "3 PM": "27",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312422001,
+            "place_id": "ChIJBaAW_sjSD4gRCG58SxozWDs",
+            "rest_type": "Sushi restaurant",
+            "no_of_reviews": 1731,
+            "price_range_$": 2,
+            "rest_summary": "Sleek spot for all-you-can-eat sushi & signature rolls along with classic cooked starters & entrees.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "20",
+            "3 PM": "16",
+            "6 PM": "45",
+            "9 PM": "30"
+      },
+      {
+            "cbg": 170312422002,
+            "place_id": "ChIJI06KKzUtDogRNqs5Ha0G54w",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1183,
+            "price_range_$": 2,
+            "rest_summary": "Relaxed pizzeria & bar featuring thin, malted crust pies & an all-Midwestern beer list.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "52",
+            "3 PM": "23",
+            "6 PM": "58",
+            "9 PM": "31"
+      },
+      {
+            "cbg": 170312422002,
+            "place_id": "ChIJndQC3qwyDogRnZpeao9UunA",
+            "rest_type": "Bakery",
+            "no_of_reviews": 750,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "36",
+            "12 PM": "40",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312422002,
+            "place_id": "ChIJz3R5KzUtDogRKWrvcPaUq6w",
+            "rest_type": "New American restaurant",
+            "no_of_reviews": 186,
+            "price_range_$": 2,
+            "rest_summary": "Rooftop restaurant, serving farm-to-table New American fare sourced from an on-site garden.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312422002,
+            "place_id": "ChIJ5w1t7BnTD4gRQEosodGMf7U",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 180,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312422002,
+            "place_id": "ChIJZ-wEJZPTD4gRZKNXY4SKGsM",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 44,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312422002,
+            "place_id": "ChIJNYb_4gHTD4gRXSQxX7JaVeo",
+            "rest_type": "Rice restaurant",
+            "no_of_reviews": 27,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "9",
+            "3 PM": "2",
+            "6 PM": "13",
+            "9 PM": "9"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJf6JfKLbSD4gRK2J23lfqVNk",
+            "rest_type": "Sports bar",
+            "no_of_reviews": 765,
+            "price_range_$": 2,
+            "rest_summary": "Burgers, BBQ & fried food join beer on the American menu at this big sports bar with TVs & a patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "23",
+            "3 PM": "32",
+            "6 PM": "54",
+            "9 PM": "56"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJ_QijSLbSD4gR8_o2ZnmPcoI",
+            "rest_type": "Thai restaurant",
+            "no_of_reviews": 233,
+            "price_range_$": 2,
+            "rest_summary": "Classic Thai dining with beer & wine in an intimate, brick-lined space with eclectic decorations.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "60",
+            "3 PM": "32",
+            "6 PM": "21",
+            "9 PM": "16"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJE6NfZ67SD4gRjZO9aR-80PM",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 340,
+            "price_range_$": 1,
+            "rest_summary": "Funky, casual American bar & eatery with sports on the TV, billiards & DJ dance parties most nights.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "13",
+            "9 PM": "57",
+            "12 AM": "2"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJcUfdU7bSD4gR5NotOwi6iXk",
+            "rest_type": "Argentinian restaurant",
+            "no_of_reviews": 798,
+            "price_range_$": 2,
+            "rest_summary": "Beef-centric Argentinean menu with pastas & empanadas in a rustic candlelit setting with a full bar.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJSRtUX7bSD4gRvroxWVHusCA",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 120,
+            "price_range_$": 1,
+            "rest_summary": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "3 AM": "0",
+            "6 AM": "29",
+            "9 AM": "90",
+            "12 PM": "36",
+            "3 PM": "25",
+            "6 PM": "0"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJpXyzOrbSD4gR0nqRMLn9Y8A",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 94,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve chain specializing in sub & club sandwiches, plus signature potato chips.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "45",
+            "3 PM": "40",
+            "6 PM": "42",
+            "9 PM": "22"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJD5N0R7bSD4gRM-93HgCAYjo",
+            "rest_type": "Pub",
+            "no_of_reviews": 679,
+            "price_range_$": 2,
+            "rest_summary": "Loads of tap beers & ciders paired with Indian-accented pub fare in a space with booths & a bar.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJNyhIh3HTD4gREM0wUveVOR8",
+            "rest_type": "Health food restaurant",
+            "no_of_reviews": 48,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "38",
+            "12 PM": "65",
+            "3 PM": "46",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312423001,
+            "place_id": "ChIJw053SbbSD4gRd9c6vsBfXKY",
+            "rest_type": "Bar",
+            "no_of_reviews": 309,
+            "price_range_$": 2,
+            "rest_summary": "Funky, late-night haunt with BBQ & fried chicken, a generous brown spirits selection & live music.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312423002,
+            "place_id": "ChIJ9V0QLkstDogRetKlFC04RBc",
+            "rest_type": "Chinese restaurant",
+            "no_of_reviews": 136,
+            "price_range_$": 1,
+            "rest_summary": "Chinese eatery offering up a lengthy menu of familiar fare, mostly for carryout & delivery.",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "": ""
+      },
+      {
+            "cbg": 170312423002,
+            "place_id": "ChIJOxXGyFAtDogR7u-PLnGpdPM",
+            "rest_type": "Chinese restaurant",
+            "no_of_reviews": 141,
+            "price_range_$": 1,
+            "rest_summary": "Fresh dumpling & noodles star in traditional Chinese cooking, served at a counter in relaxed digs.",
+            "rest_labels": [
+                  "Takeout",
+                  "Dine-in",
+                  "Delivery"
+            ],
+            "": ""
+      },
+      {
+            "cbg": 170312424001,
+            "place_id": "ChIJq6qqqrbSD4gR0adygs0vZJE"
+      },
+      {
+            "cbg": 170312424001,
+            "place_id": "ChIJq6qqqrbSD4gRQVlPPxRH_-o"
+      },
+      {
+            "cbg": 170312424001,
+            "place_id": "ChIJ0Z8vEqPTD4gRn7drcmudrlI"
+      },
+      {
+            "cbg": 170312424001,
+            "place_id": "ChIJm9pCtj7TD4gR232q_lWqvbA",
+            "rest_type": "Pizza Takeout",
+            "no_of_reviews": 116,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "85",
+            "9 PM": "27"
+      },
+      {
+            "cbg": 170312424001,
+            "place_id": "ChIJFXGMEKfTD4gRZ1qQmwKMGNA",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 48,
+            "price_range_$": 1,
+            "rest_summary": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "9",
+            "12 PM": "92",
+            "3 PM": "45",
+            "6 PM": "22",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312424002,
+            "place_id": "ChIJ6aEjrEwtDogRcYFtaGcZMBM",
+            "rest_type": "Ukrainian restaurant",
+            "no_of_reviews": 229,
+            "price_range_$": 1,
+            "rest_summary": "Homey, old-world spot serving a buffet of hearty Ukrainian fare such as stuffed cabbage & pierogi.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "20",
+            "3 PM": "42",
+            "6 PM": "35",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312424002,
+            "place_id": "ChIJH_GKxUwtDogRiyxdmyYypdk",
+            "rest_type": "Jamaican restaurant",
+            "no_of_reviews": 635,
+            "price_range_$": 2,
+            "rest_summary": "Caribbean cooking & tropical drinks served in a sleek, casual setting with reggae album art & DJs.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "68",
+            "9 PM": "52"
+      },
+      {
+            "cbg": 170312424002,
+            "place_id": "ChIJxW-uyEwtDogRlwsbRTRHo-8",
+            "rest_type": "Hot dog restaurant",
+            "no_of_reviews": 1782,
+            "price_range_$": 1,
+            "rest_summary": "Char dogs, burgers & fried shrimp served in a no-frills hot dog house with late-night weekend hours.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "35",
+            "3 PM": "33",
+            "6 PM": "51",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312424002,
+            "place_id": "ChIJJ2yNyrLSD4gR9XmZTGplIEk",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 101,
+            "price_range_$": 1,
+            "rest_summary": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "45",
+            "9 AM": "60",
+            "12 PM": "35",
+            "3 PM": "29",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312424002,
+            "place_id": "ChIJg5HJyrLSD4gRP9NEoNpXhDU",
+            "rest_type": "Gas station",
+            "no_of_reviews": 25,
+            "price_range_$": 2,
+            "6 AM": "34",
+            "9 AM": "89",
+            "12 PM": "35",
+            "3 PM": "35",
+            "6 PM": "16",
+            "9 PM": "1",
+            "12 AM": "1",
+            "3 AM": "1"
+      },
+      {
+            "cbg": 170312424002,
+            "place_id": "ChIJT38CzkwtDogRO_xEIElFqbU",
+            "rest_type": "Restaurant or cafe",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312425001,
+            "place_id": "ChIJuVqF9a7SD4gRjXfj_voA7vE",
+            "rest_type": "Family restaurant",
+            "no_of_reviews": 990,
+            "price_range_$": 1,
+            "rest_summary": "Tiny, beach-themed BYOB eatery serving up Puerto Rican fare, including jibarito & pollo chon.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "27",
+            "3 PM": "52",
+            "6 PM": "47",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312425001,
+            "place_id": "ChIJU3SKRa7SD4gRNRfn7-HKtjw",
+            "rest_type": "Puerto Rican restaurant",
+            "no_of_reviews": 838,
+            "price_range_$": 2,
+            "rest_summary": "Puerto Rican breakfast & lunch in a comfy space with exposed-brick walls, known for coconut oatmeal.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "39",
+            "12 PM": "42",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312425001,
+            "place_id": "ChIJDYoHCo3ND4gR2fW0nlksfnQ",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 318,
+            "price_range_$": 1,
+            "rest_summary": "Basic storefront spot for counter-serve Mexican fare & American breakfast classics.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "80",
+            "3 PM": "50",
+            "6 PM": "58",
+            "9 PM": "34"
+      },
+      {
+            "cbg": 170312425001,
+            "place_id": "ChIJbRkRhMjTD4gRe3owyftXaGQ",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 175,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "": ""
+      },
+      {
+            "cbg": 170312425001,
+            "place_id": "ChIJ75FYo1XTD4gR09XzaIkt9Pw",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 191,
+            "rest_summary": "Small cafe preparing creative takes on Mexican-Korean fare including tacos, wings & burritos.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "53",
+            "3 PM": "38",
+            "6 PM": "40",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312425002,
+            "place_id": "ChIJd_lmOp8tDogRiWVkC1xzpb4",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 115,
+            "price_range_$": 2,
+            "rest_summary": "Rustic little spot for Mexican comfort foods including Indian variations plus burgers & fries.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "35",
+            "6 PM": "37",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312425002,
+            "place_id": "ChIJHao_JlMtDogRXh-oorEUqIc",
+            "rest_type": "Ukrainian restaurant",
+            "no_of_reviews": 363,
+            "price_range_$": 1,
+            "rest_summary": "European cafe offering pastries, cookies & a savory breakfast/lunch menu with cr\u00eapes & pierogi.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "54",
+            "3 PM": "25",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312425002,
+            "place_id": "ChIJj90Z0FItDogRSHAXnID2wa4",
+            "rest_type": "New American restaurant",
+            "no_of_reviews": 328,
+            "price_range_$": 2,
+            "rest_summary": "Updated American comfort foods & craft cocktails are offered in a funky space with a vintage vibe.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "33",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312426001,
+            "place_id": "ChIJZy1UpKnSD4gRe9XAoQVNytk",
+            "rest_type": "Puerto Rican restaurant",
+            "no_of_reviews": 449,
+            "price_range_$": 2,
+            "rest_summary": "This casual establishment known for its Puerto Rican specialties also features a full bar.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup"
+            ],
+            "": ""
+      },
+      {
+            "cbg": 170312426001,
+            "place_id": "ChIJuz9T-KjSD4gRt3CXqjVQV30",
+            "rest_type": "Restaurant",
+            "rest_summary": "Delivery",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312426001,
+            "place_id": "ChIJVwNwO6nSD4gRW_mVhpN4_RY",
+            "rest_type": "Puerto Rican restaurant",
+            "no_of_reviews": 606,
+            "rest_summary": "Compact cafe offering java drinks, sandwiches & pastries in a comfy setting.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "92",
+            "12 PM": "55",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312426001,
+            "place_id": "ChIJb5_E7m7TD4gRtExL13J_bMQ",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 101,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "4",
+            "3 PM": "8",
+            "6 PM": "11",
+            "9 PM": "12",
+            "12 AM": "3"
+      },
+      {
+            "cbg": 170312426001,
+            "place_id": "ChIJM4bqv-XTD4gRpD1dnMdlTwU",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 86,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "15",
+            "9 AM": "17",
+            "12 PM": "42",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312426002,
+            "place_id": "ChIJeYBK8anSD4gR6GVgW56PiAk",
+            "rest_type": "Breakfast restaurant",
+            "no_of_reviews": 340,
+            "price_range_$": 2,
+            "rest_summary": "Colorful spot with exposed brick & open ductwork turns out classic breakfast fare & veggie options.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "29",
+            "12 PM": "41",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312426002,
+            "place_id": "ChIJuQSrmanSD4gRgYeFWXAhQbw",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 43,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "45",
+            "3 PM": "19",
+            "6 PM": "64",
+            "9 PM": "48"
+      },
+      {
+            "cbg": 170312426002,
+            "place_id": "ChIJ01oANuLTD4gRrbE4BFeFxPQ",
+            "rest_type": "Bar & grill",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312426002,
+            "place_id": "ChIJH46VRFLTD4gRR2yXkzUs17Y",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312426002,
+            "place_id": "ChIJ16F5d4LMD4gR5e-i5_pGxHs",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312426002,
+            "place_id": "ChIJxUs9NanSD4gRawJ6-oXGUE0",
+            "rest_type": "Puerto Rican restaurant",
+            "no_of_reviews": 235,
+            "price_range_$": 1,
+            "rest_summary": "Upbeat eatery offering homestyle Puerto Rican cooking amid tropical murals & a thatched-roof patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "": ""
+      },
+      {
+            "cbg": 170312426004,
+            "place_id": "ChIJV2NsiKrSD4gRJWTZ71R0h9w",
+            "rest_type": "Bar",
+            "no_of_reviews": 304,
+            "price_range_$": 2,
+            "rest_summary": "Loungey local gathering place for pairing wine & beer with gastropub plates in homey-chic digs.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "49",
+            "9 PM": "45"
+      },
+      {
+            "cbg": 170312427001,
+            "place_id": "ChIJ8fx6waoyDogR7O2C9mwDk1s",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 739,
+            "price_range_$": 1,
+            "rest_summary": "Pint-sized counter serve featuring tacos, burritos & other Mexican street eats in an unfussy space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "3 PM": "28",
+            "6 PM": "38",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312427001,
+            "place_id": "ChIJ7ZGfqFXND4gRYI7KFSxZRhA",
+            "rest_type": "Puerto Rican restaurant",
+            "no_of_reviews": 275,
+            "price_range_$": 1,
+            "rest_summary": "Simple counter-serve spot for Puerto Rican sandwiches & plates, plus a market for everyday items.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "65",
+            "3 PM": "41",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312427001,
+            "place_id": "ChIJqdjfxFIzDogR6Q4v51V76aY",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 246,
+            "price_range_$": 1,
+            "rest_summary": "Casual counter-service place known for hot dogs with chili, onions & mustard, burgers & milkshakes.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "3 PM": "34",
+            "6 PM": "53",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312428001,
+            "place_id": "ChIJl2EeQVMtDogRG3q6FV9B8EU",
+            "rest_type": "Japanese restaurant",
+            "no_of_reviews": 478,
+            "price_range_$": 3,
+            "rest_summary": "Sushi bar & restaurant featuring a creative tasting menu in a small, BYOB setting.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "84",
+            "9 PM": "65"
+      },
+      {
+            "cbg": 170312428001,
+            "place_id": "ChIJzyd6JVMtDogRAnlJ0Ca5ifo",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 397,
+            "price_range_$": 1,
+            "rest_summary": "Low-lit tavern serving pub food & craft beer in a rustic brick-lined space with pool table & patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "40",
+            "9 PM": "41",
+            "12 AM": "22"
+      },
+      {
+            "cbg": 170312429002,
+            "place_id": "ChIJEen_lU4tDogRQBET71CVlRc",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 82,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ],
+            "6 AM": "8",
+            "9 AM": "21",
+            "12 PM": "65",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312429002,
+            "place_id": "ChIJn50NbE4tDogRIw--BJqTbYE",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 1163,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve Mexican cafe serving all-day breakfast & late-night grub in snug digs with a patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "23",
+            "9 AM": "44",
+            "3 PM": "49",
+            "6 PM": "40",
+            "9 PM": "47",
+            "12 AM": "45",
+            "3 AM": "29"
+      },
+      {
+            "cbg": 170312429002,
+            "place_id": "ChIJQQ0uoDctDogRKqX8KBncmwo",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 32,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "83",
+            "3 PM": "12",
+            "6 PM": "45",
+            "9 PM": "77",
+            "12 AM": "35"
+      },
+      {
+            "cbg": 170312430001,
+            "place_id": "ChIJYyFSQjUtDogRLk3jGqua3FM",
+            "rest_type": "Hamburger restaurant",
+            "no_of_reviews": 238,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "3 PM": "39",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312430001,
+            "place_id": "ChIJYyFSQjUtDogRx2CeE-Dv7jY",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 2,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312430002,
+            "place_id": "ChIJZZasjEktDogRFT7Yck_a-LE",
+            "rest_type": "Vegan restaurant",
+            "no_of_reviews": 524,
+            "price_range_$": 1,
+            "rest_summary": "Cafe serving light vegan fare in a bright, modern space attached to Upton's Naturals seitan factory.",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "3 PM": "38",
+            "6 PM": "39",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312431001,
+            "place_id": "ChIJ602BrjQtDogRY8RBlUEBeHk",
+            "rest_type": "Japanese restaurant",
+            "no_of_reviews": 343,
+            "price_range_$": 3,
+            "rest_summary": "Contemporary sushi spot serving creative rolls & cooked Japanese fare plus sake, beer & wine.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "66",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312431001,
+            "place_id": "ChIJlS4cMDUtDogRs6G4vrzuSXQ",
+            "rest_type": "Sports bar",
+            "no_of_reviews": 678,
+            "price_range_$": 1,
+            "rest_summary": "Neighborhood bar & grill offering craft beers, classic pub grub served late & soccer on TV.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312431001,
+            "place_id": "ChIJOycCLzUtDogReXXnxVrtZrU",
+            "rest_type": "Soul food restaurant",
+            "no_of_reviews": 978,
+            "price_range_$": 2,
+            "rest_summary": "Cozy option for modernized soul & Creole cooking with BYOB (with a fee) beverages in a casual space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "31",
+            "6 PM": "43",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312431001,
+            "place_id": "ChIJgVDs9jAtDogRsdmB8GZw0QI",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312431001,
+            "place_id": "ChIJTdOuWJAtDogRuERpY-arhEI",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312431001,
+            "place_id": "ChIJrxnNrjQtDogR5md_Heq1g0k",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 98,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "68",
+            "3 PM": "4",
+            "6 PM": "50",
+            "9 PM": "27"
+      },
+      {
+            "cbg": 170312431002,
+            "place_id": "ChIJF2VuWDEtDogRyLEDGtBvRMQ",
+            "rest_type": "Breakfast restaurant",
+            "no_of_reviews": 759,
+            "price_range_$": 1,
+            "rest_summary": "Corner cafe serving homestyle breakfast & American lunch fare with sidewalk tables & a BYOB policy.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "40",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312431002,
+            "place_id": "ChIJvWz_EzYtDogRpWqbrn3BPk0",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 225,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve joint doling out basic American meals for breakfast & lunch in a bare-bones setting.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "31",
+            "9 AM": "92",
+            "12 PM": "45",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312431002,
+            "place_id": "ChIJjz-R9XQtDogRNjDajOXeR-c",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 116,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "35",
+            "3 PM": "38",
+            "6 PM": "64",
+            "9 PM": "59",
+            "12 AM": "14"
+      },
+      {
+            "cbg": 170312432001,
+            "place_id": "ChIJRXC74KItDogRS1jY87jf22g",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 63,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "24",
+            "3 PM": "0",
+            "6 PM": "39",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312432001,
+            "place_id": "ChIJy-EPtDItDogRTieqt5JGKrQ",
+            "rest_type": "Greek restaurant",
+            "no_of_reviews": 343,
+            "price_range_$": 2,
+            "rest_summary": "Greek & American eats are served all day at this funky spot with espresso & roof bars plus DJ tunes.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312432001,
+            "place_id": "ChIJof7V-TgtDogRaw12EBuul24",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 100,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "31",
+            "3 PM": "21",
+            "6 PM": "34",
+            "9 PM": "20"
+      },
+      {
+            "cbg": 170312432002,
+            "place_id": "ChIJbSueiTEtDogR1WajNSntCvQ",
+            "rest_type": "Filipino restaurant",
+            "no_of_reviews": 840,
+            "price_range_$": 1,
+            "rest_summary": "Cozy, no-frills American-Filipino joint serving hearty portions of all-day-breakfast fare & lunch.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "7",
+            "9 AM": "30",
+            "12 PM": "31",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312432002,
+            "place_id": "ChIJ4-v5YTEtDogRWh3pjgS_RXo",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 329,
+            "price_range_$": 2,
+            "rest_summary": "Veteran Italian canteen offering a range of pizzas including thin crust, Chicago-style & stuffed.",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "11",
+            "6 PM": "61",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312432002,
+            "place_id": "ChIJRRAA5TEtDogRM4CgvDJ39_U",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312432002,
+            "place_id": "ChIJRx-RsTotDogRAxGJf9tq8Q4",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 110,
+            "price_range_$": 1,
+            "rest_summary": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery",
+                  "Dine-in"
+            ],
+            "3 AM": "0",
+            "6 AM": "76",
+            "9 AM": "63",
+            "12 PM": "26",
+            "3 PM": "25",
+            "6 PM": "8",
+            "9 PM": "1"
+      },
+      {
+            "cbg": 170312433001,
+            "place_id": "ChIJv9qywm0tDogRWJ4G6ip1glk",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 212,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "63",
+            "3 PM": "30",
+            "6 PM": "60",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312433001,
+            "place_id": "ChIJseVXOfHTD4gRZ3f6t3Gmkok",
+            "rest_type": "Italian restaurant",
+            "no_of_reviews": 33,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJtTyP4CstDogRR8DhTOnE2Rs",
+            "rest_type": "Italian restaurant",
+            "no_of_reviews": 246,
+            "price_range_$": 2,
+            "rest_summary": "Family-owned restaurant serving generous portions of Southern Italian favorites in a casual setting.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "29",
+            "3 PM": "25",
+            "6 PM": "52",
+            "9 PM": "9"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJE-YC3istDogRM8z_bt6hbro",
+            "rest_type": "Deli",
+            "no_of_reviews": 423,
+            "price_range_$": 2,
+            "rest_summary": "Hybrid deli, sandwich shop & grocery market with artisanal fare, full bar & prepared foods to go.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "87",
+            "3 PM": "37",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJw0rilSstDogR5m7kVE8IsrE",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 120,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "6",
+            "12 PM": "30",
+            "3 PM": "39",
+            "6 PM": "27",
+            "9 PM": "48"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJM5StWCktDogReVLweryMIjE",
+            "rest_type": "Hamburger restaurant",
+            "no_of_reviews": 438,
+            "price_range_$": 1,
+            "rest_summary": "Longtime spot for burgers, hot dogs & sandwiches, plus breakfast, in a counter-service setting.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "4",
+            "9 AM": "24",
+            "12 PM": "85",
+            "3 PM": "35",
+            "6 PM": "22",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJlXhtdi4tDogRbMuu-kpynx0",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 112,
+            "rest_summary": "Straightforward joint dishing up tacos, burgers & other Mexican & American quick bites.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "12",
+            "9 AM": "17",
+            "12 PM": "75",
+            "3 PM": "50",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJp9LuAYotDogR-Kor0suOvog"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJs5h6Uq0tDogR3jZpBkF-80k",
+            "rest_type": "Taco restaurant",
+            "no_of_reviews": 36,
+            "price_range_$": 1,
+            "rest_summary": "Offbeat hybrid of meat shop & eatery specializing in funky Japanese tacos with fusion ingredients.",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJK7j-lCstDogRg2mZSv4BWNo",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 709,
+            "price_range_$": 1,
+            "rest_summary": "Casual deli featuring multi-ethnic sandwiches, with Cuban steak, falafel, empanadas, hummus & pita.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "10",
+            "12 PM": "45",
+            "3 PM": "32",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJ2ekBRCktDogRGtjIxo0SAyg",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 47,
+            "rest_summary": "Takeout",
+            "rest_labels": [],
+            "6 AM": "0",
+            "9 AM": "93",
+            "12 PM": "66",
+            "3 PM": "74",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312433002,
+            "place_id": "ChIJiS4qBzYtDogRDpd1L7Sm5r4",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312434001,
+            "place_id": "ChIJX7077yotDogRpMlL2F68NSw",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 268,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "100",
+            "3 PM": "29",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434001,
+            "place_id": "ChIJOw30ZMrTD4gRtFN66xuJYgI",
+            "rest_type": "Indian restaurant",
+            "no_of_reviews": 168,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "74",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJte6JJyotDogRpt4_t21uNCM",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 764,
+            "price_range_$": 2,
+            "rest_summary": "Casual pizzeria serving coal-oven pies with crispy thin crusts & premium toppings, plus beer & wine.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "67",
+            "9 PM": "29"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJ0dH3BCotDogR8Yn-VWG_yYI",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 1064,
+            "price_range_$": 2,
+            "rest_summary": "Neighborhood biker bar/restaurant serving burgers & pub grub plus Bloody Marys & weekend brunch.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "16",
+            "3 PM": "31",
+            "6 PM": "46",
+            "9 PM": "63",
+            "12 AM": "41"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJWV2JB9YsDogRcuju2Btcuyk",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 651,
+            "price_range_$": 2,
+            "rest_summary": "Old-school eatery & bar serving Italian-American fare amid brick walls & red-checked tablecloths.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "39",
+            "3 PM": "36",
+            "6 PM": "43",
+            "9 PM": "39"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJTYZMDiotDogRvZPaS632PK0",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 64,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve chain specializing in sub & club sandwiches, plus signature potato chips.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "64",
+            "3 PM": "40",
+            "6 PM": "27",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJ6U7cECotDogRSDSIy1bbsAU",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 376,
+            "price_range_$": 2,
+            "rest_summary": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "46",
+            "9 AM": "92",
+            "12 PM": "56",
+            "3 PM": "42",
+            "6 PM": "17",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJ-auSyWItDogRQwUqcwljejE",
+            "rest_type": "Chicken restaurant",
+            "no_of_reviews": 176,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "66",
+            "3 PM": "64",
+            "6 PM": "75",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJXVcj_NUsDogRYuRaxmKFkjc",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 184,
+            "price_range_$": 1,
+            "rest_summary": "No-frills, takeout-oriented neighborhood deli with massive made-to-order sandwiches.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "21",
+            "12 PM": "73",
+            "3 PM": "20",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJQxn8HS0tDogRz-XT8BXKN-E",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 32,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJ9zXq3dUsDogR7YKh6-UzM_w",
+            "rest_type": "Sushi restaurant",
+            "no_of_reviews": 211,
+            "price_range_$": 2,
+            "rest_summary": "Sushi & Japanese seafood entrees prepared with imported fish & served in a hip, modern dining room.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "41",
+            "9 PM": "75"
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJr9GEO2gtDogRVsoDToH4elA",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312434002,
+            "place_id": "ChIJQx9XEb8tDogRhNB2sB6gxgA",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 97,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "42",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312434003,
+            "place_id": "ChIJ993OQCktDogRkWAiDhfOC8M",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 704,
+            "price_range_$": 2,
+            "rest_summary": "Lots of American breakfast classics & a few lunch entrees in a homey space with early opening hours.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "10",
+            "9 AM": "36",
+            "12 PM": "39",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJV2KSLNQsDogRHCI2x1e5YCo",
+            "rest_type": "Grocery store",
+            "no_of_reviews": 881,
+            "price_range_$": 1,
+            "rest_summary": "Compact Italian deli & grocery serving takeaway sandwiches, salads, soups & sides.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "37",
+            "12 PM": "79",
+            "3 PM": "49",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJw3ZukNYsDogRJxj5dBCbB70",
+            "rest_type": "Bar",
+            "no_of_reviews": 694,
+            "price_range_$": 2,
+            "rest_summary": "Cozy neighborhood tavern with gourmet pub fare, craft beers & a patio with skyline views.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "68",
+            "9 PM": "43",
+            "12 AM": "28"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJlXMCgNYsDogRqUYBlMRWJAM",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 767,
+            "price_range_$": 1,
+            "rest_summary": "Traditional Italian bakery in a corner location selling breads, cannoli, pizza, subs & other eats.",
+            "rest_labels": [
+                  "Takeout"
+            ],
+            "6 AM": "0",
+            "9 AM": "28",
+            "12 PM": "97",
+            "3 PM": "31",
+            "6 PM": "27",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJN2WVRNosDogRH0Xxop-bnMo",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 246,
+            "price_range_$": 2,
+            "rest_summary": "Classic American barbecue amid retrofitted mason jar lights & exposed brick. Open late.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJc1lu4SstDogRcVnLIqAn9g8",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 226,
+            "price_range_$": 2,
+            "rest_summary": "Classic Italian dishes, such as spaghetti with meatballs & ravioli, served in comfortable environs.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "13",
+            "3 PM": "5",
+            "6 PM": "21",
+            "9 PM": "24"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJP9VSIdQsDogRE8_qtgPgxHs",
+            "rest_type": "Mexican restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJT0k0YxPTD4gR3J9tfW5gxOI",
+            "no_of_reviews": 246,
+            "price_range_$": 2,
+            "rest_summary": "Classic American barbecue amid retrofitted mason jar lights & exposed brick. Open late.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJeytlcvd0XUARIVpIeNi_Olo",
+            "rest_type": "Japanese restaurant",
+            "no_of_reviews": 856,
+            "price_range_$": 2,
+            "rest_summary": "Easygoing, low-lit sushi bar also featuring stir-fries, teriyaki & Thai curries.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "13",
+            "3 PM": "22",
+            "6 PM": "57",
+            "9 PM": "30"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJCRY6DaotDogRwuo0FYh895s",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 111,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "31",
+            "3 PM": "18",
+            "6 PM": "63",
+            "9 PM": "39"
+      },
+      {
+            "cbg": 170312435001,
+            "place_id": "ChIJX0lzRa_HD4gRYNkO14wCaAE",
+            "rest_type": "Real estate agents",
+            "no_of_reviews": 3
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJpTdPExMtDogRmejNxDDrAAE",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 76,
+            "rest_summary": "Cocktail lounge with classic & modern variations plus happy hour in an eclectic, art-filled space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "5",
+            "6 PM": "42",
+            "9 PM": "49"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJ85VWsRPTD4gRXhvMYWNMXxc",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 16,
+            "price_range_$": 1,
+            "rest_summary": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "2",
+            "3 PM": "0",
+            "6 PM": "48",
+            "9 PM": "53"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJMROtU9rTD4gRMLTkU-rGmwQ",
+            "rest_type": "Chicken wings restaurant"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJ6eRYx3PTD4gRnEYfHy3RbDs",
+            "rest_type": "Asian restaurant",
+            "no_of_reviews": 5,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJlb2qSebTD4gRF1aoXuShUX4",
+            "rest_type": "Pizza Takeout",
+            "no_of_reviews": 21,
+            "price_range_$": 1,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery",
+                  "Dine-in"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJcwhpFzvTD4gRqtAX4R8x7s8",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 13,
+            "price_range_$": 2,
+            "rest_summary": "BBQ chain eatery featuring house-smoked meats, stuffed baked potatoes & classic sides.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJVWwPwenTD4gRr7AQYJKEkt4",
+            "rest_type": "Sushi restaurant",
+            "no_of_reviews": 26,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery",
+                  "Dine-in"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJxZFWtWfTD4gRgeta4wx0Qc4",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 4,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJEZfhCm7TD4gRPrzu9XLY1dU",
+            "rest_type": "Indian takeaway",
+            "no_of_reviews": 8,
+            "price_range_$": 2,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJST71IDXTD4gRYLGyEqGIaxk",
+            "rest_type": "Mediterranean restaurant",
+            "no_of_reviews": 25,
+            "price_range_$": 1,
+            "rest_summary": "Humble eatery serving local & Mediterranean staples such as burgers, falafel, kebab & shawarma.",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "34",
+            "3 PM": "27",
+            "6 PM": "55",
+            "9 PM": "44"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJoVn2HS_TD4gRh1KP2lSZ6zw",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJcb_18ZXTD4gRtKa97N_vgGA",
+            "rest_type": "Indian takeaway",
+            "no_of_reviews": 8,
+            "price_range_$": 2,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery",
+                  "Dine-in"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJpQlwsM_TD4gR8DD9kUGjwnE",
+            "rest_type": "Health food restaurant",
+            "no_of_reviews": 3,
+            "price_range_$": 2,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJfdYqIeTTD4gRt3q3cgSgs8k",
+            "rest_type": "Indian restaurant",
+            "no_of_reviews": 84,
+            "price_range_$": 2,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "66",
+            "3 PM": "0",
+            "6 PM": "52",
+            "9 PM": "55"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJNYn7sN_TD4gRIPJVuhFbCUA",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJHex0X1YtDogRLpU2V9ltASI",
+            "rest_type": "Breakfast restaurant",
+            "no_of_reviews": 228,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "31",
+            "12 PM": "31",
+            "3 PM": "13",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJaS8RcbXTD4gRjsmH2W3zlsU"
+      },
+      {
+            "cbg": 170312435002,
+            "place_id": "ChIJH3G4SfTTD4gRw4OZhmz-mB0",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 74,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "57",
+            "3 PM": "18",
+            "6 PM": "48",
+            "9 PM": "13"
+      },
+      {
+            "cbg": 170312502002,
+            "place_id": "ChIJS2g_BsXMD4gRvAzeBZdtg8k",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 1262,
+            "price_range_$": 1,
+            "rest_summary": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "Delivery"
+            ],
+            "6 AM": "5",
+            "9 AM": "42",
+            "12 PM": "79",
+            "3 PM": "80",
+            "6 PM": "78",
+            "9 PM": "43",
+            "12 AM": "5"
+      },
+      {
+            "cbg": 170312502002,
+            "place_id": "ChIJE86vrcXMD4gRxdPD5OEJI1I",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 858,
+            "price_range_$": 1,
+            "rest_summary": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "Delivery"
+            ],
+            "6 AM": "7",
+            "9 AM": "46",
+            "12 PM": "76",
+            "3 PM": "75",
+            "6 PM": "68",
+            "9 PM": "42",
+            "12 AM": "5"
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJW5kiTLjMD4gRR3lTXHwUVsU",
+            "rest_type": "Chicken restaurant",
+            "no_of_reviews": 4,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJW5kiTLjMD4gRFwyt5rPZdIA",
+            "rest_type": "Jamaican restaurant",
+            "no_of_reviews": 475,
+            "price_range_$": 1,
+            "rest_summary": "Spartan window serve dishing up rustic Caribbean classics in a snug, storefront setup.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "43",
+            "6 PM": "55",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJR9P5DZjND4gRLnRmqKsbdj0",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJcQWotLnMD4gRDmE__xP5H1g",
+            "rest_type": "Restaurant"
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJ2WQlQrjMD4gR7tFi0hM5waE",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 4,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "32",
+            "3 PM": "32",
+            "6 PM": "58",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJ7dowhrnMD4gRlXylhTtKxDw",
+            "rest_type": "Pizza delivery",
+            "no_of_reviews": 172,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "29",
+            "6 PM": "100",
+            "9 PM": "50"
+      },
+      {
+            "cbg": 170312503002,
+            "place_id": "ChIJYeBR61fND4gRY8iJHbw9Aes",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 27,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "53",
+            "3 PM": "28",
+            "6 PM": "26",
+            "9 PM": "0",
+            "12 AM": "0",
+            "3 AM": "0"
+      },
+      {
+            "cbg": 170312504002,
+            "place_id": "ChIJHcpKC6XMD4gR4sV5GVnx8iU",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 238,
+            "price_range_$": 1,
+            "rest_summary": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "Delivery"
+            ],
+            "3 AM": "0",
+            "6 AM": "46",
+            "9 AM": "63",
+            "12 PM": "22",
+            "3 PM": "25",
+            "6 PM": "13"
+      },
+      {
+            "cbg": 170312504002,
+            "place_id": "ChIJBUJaMKXMD4gRMKGjmDBZtI8",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 864,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "40",
+            "12 PM": "71",
+            "3 PM": "39",
+            "6 PM": "76",
+            "9 PM": "57",
+            "12 AM": "30"
+      },
+      {
+            "cbg": 170312504002,
+            "place_id": "ChIJvccIzbrMD4gRNQJPDyLNffg",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 1252,
+            "price_range_$": 1,
+            "rest_summary": "Fast-food chain serving signature beef, chicken & fish sliders, plus extras such as onion rings.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "Delivery"
+            ],
+            "6 AM": "1",
+            "9 AM": "34",
+            "12 PM": "81",
+            "3 PM": "89",
+            "6 PM": "74",
+            "9 PM": "59",
+            "12 AM": "32",
+            "3 AM": "1"
+      },
+      {
+            "cbg": 170312504003,
+            "place_id": "ChIJ3_0lR6bMD4gRHWWp_CFMrg8"
+      },
+      {
+            "cbg": 170312504004,
+            "place_id": "ChIJvwp6dFjLD4gR0wyphNurt8k",
+            "rest_type": "Chicken restaurant",
+            "no_of_reviews": 412,
+            "price_range_$": 1,
+            "rest_summary": "Restaurant chain known for its buckets of fried chicken, plus wings & sides.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "38",
+            "3 PM": "74",
+            "6 PM": "90",
+            "9 PM": "22"
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJ7SMX5kXLD4gR4kbvZR5JVB8",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 32,
+            "price_range_$": 1,
+            "rest_summary": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJnyvm5EXLD4gRY2gy89gncdQ",
+            "rest_type": "Chinese restaurant",
+            "no_of_reviews": 72,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "91",
+            "3 PM": "73",
+            "6 PM": "71",
+            "9 PM": "22"
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJS4xOmEXLD4gRw5B_9PPXX_A",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 620,
+            "price_range_$": 1,
+            "rest_summary": "Local chain cooking Mexican staples in a down-to-earth, counter-serve space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "48",
+            "3 PM": "50",
+            "6 PM": "61",
+            "9 PM": "48"
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJd2fuX_vLD4gRyV-1J1npJ1Q",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 17,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "1",
+            "6 PM": "30",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJ8cKp6nLLD4gRbZnWgp1O4w8",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 153,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "100",
+            "3 PM": "33",
+            "6 PM": "16",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJGSE1Zl3LD4gRY5_LoTcahUo",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJ_RHPJ67LD4gRyNHTfVgWUw0",
+            "rest_type": "Greek restaurant",
+            "no_of_reviews": 30,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "79",
+            "3 PM": "40",
+            "6 PM": "57",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505002,
+            "place_id": "ChIJlSeIQ0XLD4gRhzl2C0kTZ1Y",
+            "rest_type": "Italian grocery store",
+            "no_of_reviews": 263,
+            "price_range_$": 2,
+            "rest_summary": "Time-tested specialty market offering classic Italian deli sandwiches & imported grocery items.",
+            "rest_labels": [
+                  "In-store shopping",
+                  "In-store pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "39",
+            "12 PM": "90",
+            "3 PM": "55",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505003,
+            "place_id": "ChIJ5c4b8wYFBYgRFwtSMQdVZjs",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 294,
+            "price_range_$": 2,
+            "rest_summary": "Outpost of the longtime casual pizza-parlor chain serving pies, pasta & other Italian faves.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "9",
+            "6 PM": "52",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505003,
+            "place_id": "ChIJh4pA7znLD4gRqAFzVeXXGTg",
+            "rest_type": "Soul food restaurant",
+            "no_of_reviews": 1068,
+            "price_range_$": 1,
+            "rest_summary": "Easygoing soul food restaurant serving homestyle fare in a brick-lined space with a wraparound bar.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "28",
+            "3 PM": "50",
+            "6 PM": "68",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505003,
+            "place_id": "ChIJKw-j3DnLD4gRS_z-ny5B38k",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 116,
+            "price_range_$": 2,
+            "rest_summary": "Cozy, brick-&-mortar spin-off of a food truck for smoked meats, Southern sides & classic desserts.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "100",
+            "3 PM": "57",
+            "6 PM": "73",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505003,
+            "place_id": "ChIJV_7DGTjLD4gR1LjfpgYFDkU",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 154,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "1",
+            "9 AM": "45",
+            "12 PM": "30",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505003,
+            "place_id": "ChIJT1Ww5jnLD4gRoik6K5telqE",
+            "rest_type": "Deli",
+            "no_of_reviews": 228,
+            "price_range_$": 1,
+            "rest_summary": "Long-standing deli with a front patio, many specialty sandwiches & a diner serving breakfast.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "26",
+            "12 PM": "100",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505003,
+            "place_id": "ChIJGwTVIDjLD4gRgSSvieI5CvI",
+            "rest_type": "Thai restaurant",
+            "no_of_reviews": 124,
+            "price_range_$": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "46",
+            "3 PM": "53",
+            "6 PM": "70",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312505007,
+            "place_id": "ChIJtUmUTCPLD4gR43GIM_E5Lqs",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 739,
+            "price_range_$": 2,
+            "rest_summary": "South-of-the border favorites served amid murals depicting Mexico, with some outdoor seating.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "50",
+            "9 PM": "22"
+      },
+      {
+            "cbg": 170312505007,
+            "place_id": "ChIJOcajtSTLD4gRytFBQZUEo10",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 391,
+            "price_range_$": 1,
+            "rest_summary": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "Delivery"
+            ],
+            "6 AM": "9",
+            "9 AM": "54",
+            "12 PM": "75",
+            "3 PM": "57",
+            "6 PM": "71",
+            "9 PM": "27"
+      },
+      {
+            "cbg": 170312505007,
+            "place_id": "ChIJz6PyMjvLD4gRCXQBvPR-PAY",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 335,
+            "price_range_$": 1,
+            "rest_summary": "Longtime Italian parlor offering thin-crust pies, pasta & sandwiches in family-friendly digs.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "12",
+            "3 PM": "17",
+            "6 PM": "38",
+            "9 PM": "22"
+      },
+      {
+            "cbg": 170312505007,
+            "place_id": "ChIJz5A3syTLD4gRE0ZU3uJYY_Q",
+            "rest_type": "Pizza delivery",
+            "no_of_reviews": 208,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve chain offering deep-dish or classic pizzas with flavored crusts, plus wings & subs.",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "32",
+            "3 PM": "78",
+            "6 PM": "78",
+            "9 PM": "11"
+      },
+      {
+            "cbg": 170312505007,
+            "place_id": "ChIJA9DJmVXLD4gRLIpRvx-ubCA"
+      },
+      {
+            "cbg": 170312506002,
+            "place_id": "ChIJV6Zkwq3MD4gRhWdA4RR5puA",
+            "rest_type": "Chicken restaurant",
+            "no_of_reviews": 393,
+            "price_range_$": 1,
+            "rest_summary": "No-frills outpost serving up fish, shrimp & chicken, including wings, plus other casual fare.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "35",
+            "3 PM": "45",
+            "6 PM": "84",
+            "9 PM": "50",
+            "12 AM": "10"
+      },
+      {
+            "cbg": 170312506002,
+            "place_id": "ChIJASFU3a3MD4gRMdk4WstNOhU"
+      },
+      {
+            "cbg": 170312506002,
+            "place_id": "ChIJofCozK3MD4gReF2V6fZOjso",
+            "rest_type": "Soul food restaurant",
+            "no_of_reviews": 140,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "": ""
+      },
+      {
+            "cbg": 170312506004,
+            "place_id": "ChIJxS9myKfMD4gRpZeHG_9bwLw",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 414,
+            "price_range_$": 2,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "30",
+            "6 PM": "63",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312506004,
+            "place_id": "ChIJa-sV0k_ND4gRpztl9APtb-0",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 1,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312507002,
+            "place_id": "ChIJyxWdX1LND4gRc45h1p_x4UU",
+            "rest_type": "Snack bar",
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery",
+                  "Dine-in"
+            ]
+      },
+      {
+            "cbg": 170312507003,
+            "place_id": "ChIJ3cO52ErND4gR6mZwsJhOF_M",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 24,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "56",
+            "3 PM": "71",
+            "6 PM": "91",
+            "9 PM": "52"
+      },
+      {
+            "cbg": 170312508001,
+            "place_id": "ChIJseJXXsXMD4gRaCdCmH80lE0",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 5,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312508001,
+            "place_id": "ChIJf4nJYMbMD4gRvoSIhiFVeyE",
+            "rest_type": "Breakfast restaurant",
+            "no_of_reviews": 582,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ],
+            "6 AM": "1",
+            "9 AM": "31",
+            "12 PM": "20",
+            "3 PM": "1",
+            "6 PM": "1",
+            "9 PM": "10",
+            "12 AM": "0",
+            "3 AM": "1"
+      },
+      {
+            "cbg": 170312508001,
+            "place_id": "ChIJYVdWQ8bMD4gR6VOkIUkL14o"
+      },
+      {
+            "cbg": 170312510001,
+            "place_id": "ChIJwcwtltLMD4gRMg6czKJ97KI",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 9,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312510001,
+            "place_id": "ChIJJ6eu_LvND4gRnTP9fF4_Xao",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 2,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312511002,
+            "place_id": "ChIJHz69pzMzDogRRhE-1QGTgqw",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312511003,
+            "place_id": "ChIJwYSlqjUzDogRP_nGr3pn-WA",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 157,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "43",
+            "3 PM": "21",
+            "6 PM": "32",
+            "9 PM": "30",
+            "12 AM": "51",
+            "3 AM": "16"
+      },
+      {
+            "cbg": 170312512002,
+            "place_id": "ChIJgxoIRL4zDogRR_otaOJzHxg",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 12,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312512002,
+            "place_id": "ChIJ42Yee0ozDogRdC-SrdurvyQ",
+            "rest_type": "Breakfast restaurant",
+            "no_of_reviews": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312512002,
+            "place_id": "ChIJIa0zZ0ozDogR1N9xd5UaluE",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 2,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312512002,
+            "place_id": "ChIJCUYyZ0ozDogR7uSN9r8sBq8",
+            "rest_type": "Chicken restaurant",
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312513002,
+            "place_id": "ChIJObbH7q3MD4gR-b8EC-DUvNc",
+            "rest_type": "Pizza restaurant",
+            "no_of_reviews": 522,
+            "price_range_$": 1,
+            "rest_summary": "Casual eatery offering a range of pies, plus fast-food favorites like wings, gyros, subs & BBQ.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "36",
+            "3 PM": "41",
+            "6 PM": "59",
+            "9 PM": "43"
+      },
+      {
+            "cbg": 170312513002,
+            "place_id": "ChIJz5h8elIzDogRgDuu28QU6Ic",
+            "rest_type": "Soul food restaurant",
+            "no_of_reviews": 16,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "4",
+            "3 PM": "16",
+            "6 PM": "32",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312513002,
+            "place_id": "ChIJZbt8elIzDogRkymjRC45bJ4"
+      },
+      {
+            "cbg": 170312513003,
+            "place_id": "ChIJwf-XkFMzDogRA7TUkeG0LuU",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312514004,
+            "place_id": "ChIJZUG-xkYzDogRYOtk43O7fwc",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 585,
+            "price_range_$": 1,
+            "rest_summary": "Plate of homestyle soul food, plus old-school desserts, turned out in humble, compact quarters.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "52",
+            "3 PM": "45",
+            "6 PM": "42",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312515001,
+            "place_id": "ChIJ75AxklUzDogRlBo2PhGitWg",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 40,
+            "rest_summary": "Jamaican surf 'n' turf fare punctuated by spicy jerk seasoning in a snug, straightforward setting.",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312515001,
+            "place_id": "ChIJBQJfhDUzDogRRwQR7f4tbrE",
+            "rest_type": "Seafood restaurant",
+            "no_of_reviews": 200,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "20",
+            "3 PM": "30",
+            "6 PM": "58",
+            "9 PM": "53",
+            "12 AM": "70"
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJY_q1bC4zDogRGi0FGSYy9x4",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 2
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJpcw0Ey4zDogROUZ4GzsYzmU",
+            "rest_type": "Chicken restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJLYAaasEzDogRV5c0iyVluPU",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 29,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "20",
+            "3 PM": "25",
+            "6 PM": "70",
+            "9 PM": "25"
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJaey5hy4zDogRhI5ConOY0To",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJXRS3arozDogRnUcXSBOE7F8",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 10,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ]
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJUfyANX4zDogRLfYmY4d5KO4",
+            "rest_type": "Jamaican restaurant",
+            "no_of_reviews": 7
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJc2o2dC4zDogRm5lHRFL1suc",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312517001,
+            "place_id": "ChIJ__8rSTAzDogRcDGZjJbUxXg",
+            "rest_type": "Down home cooking restaurant",
+            "no_of_reviews": 4,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312518001,
+            "place_id": "ChIJw44Qe0AzDogRaGqOVq4KA4Q",
+            "rest_type": "Hamburger restaurant",
+            "no_of_reviews": 10,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312518001,
+            "place_id": "ChIJ005GHyMzDogRVLO-RCIyTbo",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 135,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "2",
+            "12 PM": "73",
+            "3 PM": "29",
+            "6 PM": "28",
+            "9 PM": "27",
+            "12 AM": "3",
+            "3 AM": "2"
+      },
+      {
+            "cbg": 170312518001,
+            "place_id": "ChIJ36LsB34zDogR1LL0c62hnPQ",
+            "rest_type": "American restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312518001,
+            "place_id": "ChIJJ-jthj4zDogR7jU-qEWx2dI",
+            "rest_type": "Seafood restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312518002,
+            "place_id": "ChIJYZvIftczDogRSWxfVuZtHvg",
+            "rest_type": "Restaurant",
+            "rest_summary": "Takeout",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312518002,
+            "place_id": "ChIJEYxrRjgzDogRwQnQSV7S1sc",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 182,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "64",
+            "3 PM": "48",
+            "6 PM": "86",
+            "9 PM": "76",
+            "12 AM": "29"
+      },
+      {
+            "cbg": 170312518003,
+            "place_id": "ChIJmzhbPCUzDogReUVMn8QwMNQ",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 210,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "1",
+            "12 PM": "42",
+            "3 PM": "63",
+            "6 PM": "55",
+            "9 PM": "31",
+            "12 AM": "11",
+            "3 AM": "1"
+      },
+      {
+            "cbg": 170312519002,
+            "place_id": "ChIJffwdhcEzDogRuYsKJEFRqAM",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 5,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "7",
+            "3 PM": "38",
+            "6 PM": "61",
+            "9 PM": "38"
+      },
+      {
+            "cbg": 170312519003,
+            "place_id": "ChIJqbVjE0UzDogRn3vHzf_1muw",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 28,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312520002,
+            "place_id": "ChIJbWav4EIzDogRQpRTK8eTEMg",
+            "rest_type": "Chicken restaurant",
+            "no_of_reviews": 587,
+            "price_range_$": 1,
+            "rest_summary": "This 24-hour counter-service chain offers fried seafood & chicken in a strip-mall setting.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "83",
+            "3 PM": "49",
+            "6 PM": "72",
+            "9 PM": "51"
+      },
+      {
+            "cbg": 170312520003,
+            "place_id": "ChIJ84w-W14zDogR3TiOYGeMMOo",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 34,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312521023,
+            "place_id": "ChIJq7HXAGwzDogRb-Sy2z9pDqQ",
+            "rest_type": "Restaurant",
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312521024,
+            "place_id": "ChIJv1ZQnEEzDogR5kwZfJ0YOec",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 2387,
+            "price_range_$": 1,
+            "rest_summary": "Cafeteria dishing up hearty Southern comfort food such as fried chicken, meatloaf & collard greens.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "58",
+            "3 PM": "47",
+            "6 PM": "53",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312521024,
+            "place_id": "ChIJ6RRFr0EzDogRjCnimqFn-DM",
+            "rest_type": "Chinese restaurant",
+            "no_of_reviews": 161,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "51",
+            "3 PM": "32",
+            "6 PM": "53",
+            "9 PM": "27"
+      },
+      {
+            "cbg": 170312521024,
+            "place_id": "ChIJldi-6UgzDogR3-u0MOR7biU",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 104,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "29",
+            "6 PM": "47",
+            "9 PM": "23"
+      },
+      {
+            "cbg": 170312521024,
+            "place_id": "ChIJkQAJc3UzDogRVUTpxx_EMPU",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 117,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "36",
+            "3 PM": "64",
+            "6 PM": "84",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312521024,
+            "place_id": "ChIJha75ikAzDogRYdk2hGbfxLY",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312521024,
+            "place_id": "ChIJ_6PjZEAzDogRYCaeT-O11LY",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 365,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "43",
+            "6 PM": "66",
+            "9 PM": "47",
+            "12 AM": "25"
+      },
+      {
+            "cbg": 170312522011,
+            "place_id": "ChIJwT4y04MzDogRsCY7IkBJ-q8",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 591,
+            "price_range_$": 2,
+            "rest_summary": "Miami-style soul food outpost owned by DJ Khaled serving hearty fare, lobster & flavored lemonades.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "32",
+            "6 PM": "61",
+            "9 PM": "36"
+      },
+      {
+            "cbg": 170312522011,
+            "place_id": "ChIJo-HKtD0zDogR9mYgEpB8t5A",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 1361,
+            "price_range_$": 1,
+            "rest_summary": "Classic, long-running fast-food chain known for its burgers & fries.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "No-contact delivery"
+            ],
+            "6 AM": "13",
+            "9 AM": "90",
+            "12 PM": "75",
+            "6 PM": "55",
+            "9 PM": "28",
+            "12 AM": "8",
+            "3 AM": "1"
+      },
+      {
+            "cbg": 170312522023,
+            "place_id": "ChIJjzlDoxkzDogRekP8SByANWQ",
+            "rest_type": "Takeout Restaurant",
+            "no_of_reviews": 2,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312522023,
+            "place_id": "ChIJh1OVHmczDogRmffj5khdi00",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 25,
+            "price_range_$": 1,
+            "rest_summary": "Curbside pickup",
+            "rest_labels": [
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "17",
+            "6 PM": "68",
+            "9 PM": "41"
+      },
+      {
+            "cbg": 170312522023,
+            "place_id": "ChIJs4jsWhgzDogRJnYcewOnejg",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312522024,
+            "place_id": "ChIJhXC13jwzDogRuqPZYxpIsho",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 307,
+            "price_range_$": 2,
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "64",
+            "3 PM": "40",
+            "6 PM": "48",
+            "9 PM": "17"
+      },
+      {
+            "cbg": 170312522025,
+            "place_id": "ChIJE6S0M5QzDogRc79wdxUfO-g",
+            "rest_type": "Taco restaurant",
+            "no_of_reviews": 9,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312601001,
+            "place_id": "ChIJO-pjJsAzDogRZLcArC9TsLo",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 67,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "25",
+            "12 PM": "51",
+            "6 PM": "51",
+            "9 PM": "57"
+      },
+      {
+            "cbg": 170312602001,
+            "place_id": "ChIJVbAG8IMzDogRxrwQ0jrRQYU",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312605001,
+            "place_id": "ChIJHbaCIiMzDogRDcxwtotfwnY",
+            "rest_type": "Seafood restaurant",
+            "no_of_reviews": 75,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "11",
+            "3 PM": "15",
+            "6 PM": "23",
+            "9 PM": "42"
+      },
+      {
+            "cbg": 170312605001,
+            "place_id": "ChIJK60_tuEyDogRugqwLI-ZYpE",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312606001,
+            "place_id": "ChIJddIeGFQzDogRBrpPc6k9ei8",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312606001,
+            "place_id": "ChIJQ-jyeSXTD4gRHlloXnNmolc"
+      },
+      {
+            "cbg": 170312606001,
+            "place_id": "ChIJSXyd_d4yDogRsjTUerHfkNs",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 199,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "40",
+            "6 PM": "63",
+            "9 PM": "41"
+      },
+      {
+            "cbg": 170312607001,
+            "place_id": "ChIJv5MD-9wyDogR0J15tqqMZS8",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 467,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery",
+                  "Dine-in"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "60",
+            "6 PM": "45",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312607001,
+            "place_id": "ChIJG3fywdwyDogRaQPmeQ2JPC0",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312607001,
+            "place_id": "ChIJp4lAehgzDogRZa_dyjs7Png",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 3,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312607002,
+            "place_id": "ChIJZ9e1ROgyDogRZcn4Q4uqOC8",
+            "rest_type": "Chinese restaurant",
+            "no_of_reviews": 22,
+            "rest_summary": "Takeout",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312607002,
+            "place_id": "ChIJl8F2Q-gyDogRusweeSt2gws"
+      },
+      {
+            "cbg": 170312607002,
+            "place_id": "ChIJQzYcI-gyDogRUwsMBnciazY",
+            "rest_type": "Jamaican restaurant",
+            "no_of_reviews": 1215,
+            "price_range_$": 2,
+            "rest_summary": "Modest counter whipping up eclectic Caribbean eats, like jerk tacos, burritos & pizza.",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "63",
+            "6 PM": "76",
+            "9 PM": "73"
+      },
+      {
+            "cbg": 170312608001,
+            "place_id": "ChIJs11Dw8MyDogRZyyCeI3Gov0",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 4,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312608001,
+            "place_id": "ChIJYyYwwcMyDogR9i0KzV1oWYo",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 988,
+            "price_range_$": 1,
+            "rest_summary": "Fast-food chain serving signature beef, chicken & fish sliders, plus extras such as onion rings.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Drive-through",
+                  "Delivery"
+            ],
+            "6 AM": "1",
+            "9 AM": "41",
+            "12 PM": "71",
+            "6 PM": "45",
+            "9 PM": "28",
+            "12 AM": "22",
+            "3 AM": "2"
+      },
+      {
+            "cbg": 170312608001,
+            "place_id": "ChIJU5-9laYzDogR8VDAmoKU3Es",
+            "rest_type": "Seafood restaurant",
+            "no_of_reviews": 5,
+            "rest_summary": "Takeout",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312608001,
+            "place_id": "ChIJs2lvw8MyDogRW2XIzICpiVQ",
+            "rest_type": "Barbecue restaurant",
+            "no_of_reviews": 973,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve eatery doling out smoked BBQ meats, chicken wings & seafood in a no-frills space.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "6 PM": "96",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312608001,
+            "place_id": "ChIJ2d0bwsMyDogR1hSWRQRCoV8",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 71,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "27",
+            "3 PM": "27",
+            "6 PM": "81",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312609001,
+            "place_id": "ChIJo7tSXD4zDogRlQ3BemTzLvg",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout"
+            ]
+      },
+      {
+            "cbg": 170312609002,
+            "place_id": "ChIJfVu4JO8yDogRYKe_AsEPO1Q",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 3
+      },
+      {
+            "cbg": 170312609002,
+            "place_id": "ChIJ8aKGM0YzDogRhxN5N8pef3I",
+            "rest_type": "Fast food restaurant",
+            "no_of_reviews": 5,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "61",
+            "3 PM": "72",
+            "6 PM": "11",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312609002,
+            "place_id": "ChIJJXonW0ozDogRM6TB2muBY_A",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 13,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "86",
+            "3 PM": "56",
+            "6 PM": "21",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312610001,
+            "place_id": "ChIJHRwwvuEyDogRVsARcC1ufz0",
+            "rest_type": "Chicken wings restaurant",
+            "no_of_reviews": 458,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "33",
+            "6 PM": "75",
+            "9 PM": "46"
+      },
+      {
+            "cbg": 170312705001,
+            "place_id": "ChIJLfrkl-syDogRXkDR1Yz4OE0",
+            "rest_type": "Hamburger restaurant",
+            "no_of_reviews": 1162,
+            "price_range_$": 1,
+            "rest_summary": "Takeout",
+            "rest_labels": [
+                  "Delivery"
+            ],
+            "6 AM": "20",
+            "9 AM": "41",
+            "12 PM": "56",
+            "6 PM": "47",
+            "9 PM": "53",
+            "12 AM": "59",
+            "3 AM": "37"
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJjUnmWJgyDogRmstvsauVHF4",
+            "rest_type": "Seafood restaurant",
+            "no_of_reviews": 487,
+            "price_range_$": 1,
+            "rest_summary": "No-nonsense restaurant doling out seafood, chicken wings & other grub in a casual space.",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "8",
+            "6 PM": "54",
+            "9 PM": "44"
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJ9fb9CuAzDogR4slfzKzSqtU",
+            "rest_type": "Restaurant",
+            "rest_summary": "Takeout",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJD7RTPM8zDogRCsEmtPF6HkM",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 35,
+            "rest_summary": "Takeout",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJBUvinaIyDogRsH6EQ-jpe78",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 20,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJ2WHuK6IyDogR94fOyjc11VQ",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJJxJRZpgyDogRvceNt9CKE2E",
+            "rest_type": "Breakfast restaurant",
+            "no_of_reviews": 297,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "28",
+            "9 AM": "80",
+            "12 PM": "59",
+            "3 PM": "0",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312712001,
+            "place_id": "ChIJDSr2b58yDogROJ5gHc3Bb4w",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 231,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "6 PM": "81",
+            "9 PM": "74"
+      },
+      {
+            "cbg": 170312713001,
+            "place_id": "ChIJVTTZTJYyDogRQOWs6MKxplo"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJNYrg38UsDogRP1lxJuC05hw",
+            "rest_type": "Mediterranean restaurant",
+            "no_of_reviews": 1555,
+            "price_range_$": 3,
+            "rest_summary": "Inventive small & large plates served in a cozy, minimalist space with communal seating.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "76",
+            "9 PM": "75"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJufo-n88sDogRT_JGk4egawU"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJ9UWPMNosDogR63ijWQvYXqM",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 1571,
+            "price_range_$": 2,
+            "rest_summary": "Southern dishes & breakfast with a Cajun spin is served in a relaxed setting with spacious patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "9",
+            "12 PM": "35",
+            "6 PM": "22",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJ_0NFbsYsDogRHqnXKkBCgs8",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 739,
+            "price_range_$": 3,
+            "rest_summary": "Seasonal, inventive, upscale American in a brick, tile & wood interior evoking classic Chicago.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "59",
+            "9 PM": "55"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJY0qTp8gsDogRcTgsdABFPuM",
+            "rest_type": "Vietnamese restaurant",
+            "no_of_reviews": 776,
+            "price_range_$": 2,
+            "rest_summary": "Pho, banh mi & other Vietnamese classics get a modern makeover in a minimalist wood & steel space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "71",
+            "6 PM": "81",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJxX302sgsDogRSGh85i6fXPk",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 615,
+            "price_range_$": 2,
+            "rest_summary": "Quaint neighborhood bar with a pub-grub menu in a cozy bi-level space with a dog-friendly patio.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "27",
+            "6 PM": "61",
+            "9 PM": "67",
+            "12 AM": "54"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJk1_wbMYsDogRetsg_ee9jLE",
+            "rest_type": "Distillery",
+            "no_of_reviews": 408,
+            "price_range_$": 2,
+            "rest_summary": "Industrial-chic lounge features cocktails sourced from on-site stills & snazzy New American bites.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "58",
+            "9 PM": "46"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJXcNDqMgsDogRsNF5V-soQ6o",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 61,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve chain specializing in sub & club sandwiches, plus signature potato chips.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "55",
+            "3 PM": "31",
+            "6 PM": "16",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJS-H_g8gsDogREqE0ZhW6Z50",
+            "rest_type": "Bar & grill",
+            "no_of_reviews": 421,
+            "price_range_$": 2,
+            "rest_summary": "Vintage train photos, comfort food & a global beer menu in a historical beaux-arts-style building.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "48",
+            "3 PM": "51",
+            "6 PM": "100",
+            "9 PM": "54",
+            "12 AM": "27"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJD-dqScYsDogRnD43f5MI6GM",
+            "rest_type": "Grocery store",
+            "no_of_reviews": 21,
+            "rest_summary": "Old-world full-service grocery store stocking many Eastern European items & prepared foods.",
+            "rest_labels": [
+                  "In-store shopping",
+                  "In-store pickup",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJY0qTp8gsDogRT1Y7eO9uohQ",
+            "rest_type": "Vietnamese restaurant",
+            "no_of_reviews": 43,
+            "price_range_$": 2,
+            "rest_summary": "Vietnamese mini-chain outpost serving a menu of banh mi sandwiches & bao in the French Market.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJhcxrVc8sDogR9wOMwOURG7s",
+            "rest_type": "Sandwich shop",
+            "no_of_reviews": 56,
+            "price_range_$": 1,
+            "rest_summary": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "17",
+            "12 PM": "100",
+            "3 PM": "23",
+            "6 PM": "11",
+            "9 PM": "5"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJmfaE-MUsDogRGgPzuxQsp4I",
+            "rest_type": "Pizza delivery",
+            "no_of_reviews": 382,
+            "price_range_$": 2,
+            "rest_summary": "Pizza & casual Italian food from a no-frills counter-service chain that also offers delivery.",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "1",
+            "12 PM": "6",
+            "3 PM": "13",
+            "6 PM": "11",
+            "9 PM": "18",
+            "12 AM": "47",
+            "3 AM": "1"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJg8Jbe88sDogRhDDyoU8q34Q",
+            "rest_type": "American restaurant",
+            "no_of_reviews": 462,
+            "price_range_$": 2,
+            "rest_summary": "American spot for creative takes on old-school, customizable comfort-food platters.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "73",
+            "9 PM": "38"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJVfR-OcksDogR0hNHOAm7Ii8",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 444,
+            "price_range_$": 2,
+            "rest_summary": "Mexican eatery featuring an extensive tequila selection, weekend brunch & an array of guacamoles.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "28",
+            "6 PM": "51",
+            "9 PM": "29"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJLcv1bsgsDogRQAyUkrD-GXg",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 232,
+            "price_range_$": 2,
+            "rest_summary": "Stylish spot offering New American breakfast, lunch & dinner with cocktails & nonalcoholic drinks.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "66",
+            "3 PM": "72",
+            "6 PM": "44",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJHWlq98UsDogRp_HbXNnb8vg",
+            "rest_type": "Hamburger restaurant",
+            "no_of_reviews": 261,
+            "price_range_$": 1,
+            "rest_summary": "Counter-serve spot serving signature Italian beef & sausage, hot dogs & all-day breakfast.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "9",
+            "9 AM": "27",
+            "12 PM": "100",
+            "3 PM": "23",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJuSgCrMgsDogR7O-motHEiTc",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 136,
+            "price_range_$": 2,
+            "rest_summary": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "52",
+            "9 AM": "100",
+            "12 PM": "81",
+            "3 PM": "56",
+            "6 PM": "24",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJu_zFIMYsDogRpb4ofSthCK8",
+            "rest_type": "Coffee shop",
+            "no_of_reviews": 79,
+            "price_range_$": 1,
+            "rest_summary": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ],
+            "6 AM": "77",
+            "9 AM": "62",
+            "12 PM": "12",
+            "3 PM": "3",
+            "6 PM": "0",
+            "9 PM": "0"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJTe_DS8YsDogRaTU-UsfVhB0",
+            "rest_type": "Juice shop",
+            "no_of_reviews": 27,
+            "price_range_$": 1,
+            "rest_summary": "Contemporary counter-serve offering fresh fruit & vegetable drinks, plus customized cleanses.",
+            "rest_labels": []
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJn9LDSsYsDogR6GU3-G0k1Is",
+            "rest_type": "Belgian restaurant",
+            "no_of_reviews": 28,
+            "price_range_$": 2,
+            "rest_summary": "French Market food stand serving hand-cut Belgian fries with assorted toppings, plus cheeseburgers.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJd-VJcsgsDogRP0yORZrIpVQ",
+            "rest_type": "Italian restaurant",
+            "no_of_reviews": 1757,
+            "price_range_$": 3,
+            "rest_summary": "High-style Italian steak & pasta spot on 3 levels with a vast wine list, 2 fireplaces & a roof deck.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "28",
+            "3 PM": "40",
+            "6 PM": "70",
+            "9 PM": "65"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJVVVFV88sDogRIs6NMpEi61s",
+            "rest_type": "Bar",
+            "no_of_reviews": 165,
+            "rest_summary": "Creative Japanese fare & craft drinks, including an omakase cocktail tasting, presented in hip digs.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Takeout"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "23",
+            "9 PM": "87"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJaza9nustDogRXG4JLMYJBNQ",
+            "rest_type": "Restaurant",
+            "no_of_reviews": 7,
+            "rest_summary": "Reservations-only option for Japanese omakase menus with beverage pairings in a restaurant basement.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Delivery"
+            ]
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJrRnek7YtDogRbw0TRdevLKA",
+            "rest_type": "Restaurant",
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup"
+            ]
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJ4_ovZs8sDogRyw3X3QCiI-Y",
+            "rest_type": "Fine dining restaurant",
+            "no_of_reviews": 470,
+            "price_range_$": 4,
+            "rest_summary": "Intimate, high-end kitchen serving an extended New American tasting menu in a stylish space.",
+            "rest_labels": [
+                  "Dine-in",
+                  "Delivery"
+            ],
+            "6 AM": "0",
+            "9 AM": "0",
+            "12 PM": "0",
+            "3 PM": "0",
+            "6 PM": "63",
+            "9 PM": "71"
+      },
+      {
+            "cbg": 170312801001,
+            "place_id": "ChIJ724iP7otDogR_B04zLx4gGU",
+            "rest_type": "Mexican restaurant",
+            "no_of_reviews": 31,
+            "price_range_$": 1,
+            "rest_summary": "Dine-in",
+            "rest_labels": [
+                  "Curbside pickup",
+                  "No-contact delivery"
+            ]
       }
 ]

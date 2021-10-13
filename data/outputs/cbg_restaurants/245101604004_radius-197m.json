@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2949635,
+                        "lng":-76.6493789
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2963715803,
+                              "lng":-76.6480344197
+                        },
+                        "southwest":{
+                              "lat":39.2936736197,
+                              "lng":-76.6507323803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Little Lantern House Chinese",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ9dCs-1YbyIkR9gN6-6IYad8",
+            "plus_code":{
+                  "compound_code":"79V2+X6 Baltimore, MD, USA",
+                  "global_code":"87F579V2+X6"
+            },
+            "rating":3.9,
+            "reference":"ChIJ9dCs-1YbyIkR9gN6-6IYad8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"2009 Edmondson Avenue, Baltimore",
+            "photos":null,
+            "CBG":245101604004,
+            "Radius":197.0298338047
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2949088,
+                        "lng":-76.6494739
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2963419303,
+                              "lng":-76.6481313197
+                        },
+                        "southwest":{
+                              "lat":39.2936439697,
+                              "lng":-76.6508292803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"China Taste Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJe3GF-1YbyIkRFKzhIQQd_XA",
+            "plus_code":{
+                  "compound_code":"79V2+X6 Baltimore, MD, USA",
+                  "global_code":"87F579V2+X6"
+            },
+            "rating":3.4,
+            "reference":"ChIJe3GF-1YbyIkRFKzhIQQd_XA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":106,
+            "vicinity":"2013 Edmondson Avenue, Baltimore",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103327569795744336616\">Hello Bunny<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDNJNEJxnLMlJJOHyHS9_wMBrm8m3RyO9aO8kQqlLC612EBB-Rt54Y4y_sO1L0iyqeC4AbbMCNVL4PlC712hqk0epFj8hOxznZOILEGpnd91k8IlP40tMheCeG6BGDRvSZeMyUA31e-MOynAPBruIXeToMOFdBvMpS0Gd-sWCOJE0dJ",
+                        "width":3024
+                  }
+            ],
+            "CBG":245101604004,
+            "Radius":197.0298338047
+      }
+]

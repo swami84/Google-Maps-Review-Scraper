@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.669293,
+                        "lng":-111.9280846
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6705498803,
+                              "lng":-111.9267089197
+                        },
+                        "southwest":{
+                              "lat":40.6678519197,
+                              "lng":-111.9294068803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/golf-71.png",
+            "icon_background_color":"#13B5C7",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/golf_pinlet",
+            "name":"Fore Lakes Golf Course",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105320736498417519358\">Fore Lakes Golf Course<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA--zpqXjE6ocjjU4VmWV5qglLfrMPQKjpLXPR-RZRkgYRFcON2VC6XuXUpbqTnRnIKa2Xj_re-MZsR40YJv8H9kUVqurFY2hfmz8AYfy9QXfiKLfpVK11Iq-x_OJq_HxGKz1bKPwOCUSHMDn7h25X7GGjsqlJc-mjuRPU2jGmXOtn5",
+                        "width":6720
+                  }
+            ],
+            "place_id":"ChIJnXzWpeqLUocRFzkuv6fal1g",
+            "plus_code":{
+                  "compound_code":"M39C+PQ Taylorsville, UT, USA",
+                  "global_code":"85GCM39C+PQ"
+            },
+            "rating":4.5,
+            "reference":"ChIJnXzWpeqLUocRFzkuv6fal1g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "school",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":154,
+            "vicinity":"1285 West 4700 South, Taylorsville",
+            "CBG":490351135112,
+            "Radius":450.7595846664
+      }
+]
