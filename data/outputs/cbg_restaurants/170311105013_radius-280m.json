@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9746967,
+                        "lng":-87.7554882
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9760482803,
+                              "lng":-87.7540285697
+                        },
+                        "southwest":{
+                              "lat":41.9733503197,
+                              "lng":-87.7567265303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mike's Brew & Que",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ2ZBE4cTND4gRYWMYjnuohiU",
+            "plus_code":{
+                  "compound_code":"X6FV+VR Chicago, IL, USA",
+                  "global_code":"86HJX6FV+VR"
+            },
+            "reference":"ChIJ2ZBE4cTND4gRYWMYjnuohiU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5142 North Leclaire Avenue, Chicago",
+            "CBG":170311105013,
+            "Radius":280.2557452145
+      }
+]

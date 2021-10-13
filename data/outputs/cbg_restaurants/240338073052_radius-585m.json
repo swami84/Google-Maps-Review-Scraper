@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0145072,
+                        "lng":-76.976705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0159180303,
+                              "lng":-76.9755783697
+                        },
+                        "southwest":{
+                              "lat":39.0132200697,
+                              "lng":-76.9782763303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wendy's Wonderful Snow Cones",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105303808167340439382\">Wendy&#39;s Wonderful Snow Cones<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAj_Ef0cPoChPdtUElLzuEoy6bBudQhlGMWFq6aBOOBXhe9wdJn9e-JGNEylYKg0YGJoB1J_Ql3EJ-3d1aFEMqD7Xec8lrMpBJwEMHldRmYiBXF40hewKKO7ra2SpbrwJ0UIXpIShv3BruG4v04Z_IlMa86rfLg198vYX5i8_6shJ0k",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ8VTmCKfFt4kRLegzqnmpU-w",
+            "plus_code":{
+                  "compound_code":"227F+R8 Silver Spring, MD, USA",
+                  "global_code":"87F5227F+R8"
+            },
+            "rating":4.6,
+            "reference":"ChIJ8VTmCKfFt4kRLegzqnmpU-w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"9625 Mount Pisgah Road, Silver Spring",
+            "CBG":240338073052,
+            "Radius":585.1287936247
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.858047,
+                        "lng":-118.301077
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8594332803,
+                              "lng":-118.2997281697
+                        },
+                        "southwest":{
+                              "lat":33.8567353197,
+                              "lng":-118.3024261303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wienerschnitzel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115276859017780259216\">Dushan Wickremasinghe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEArK9cIbU8cqmBxiEmGw12snF3aMqnKUJKwUWLR_y99-RbG_IeXv7VjDPKXREl9BD43Gy4DTyYQyDmz-GblaBEDNTQHfZ0KknOjVCz936gJhn_Qz24WMGMLT3MAeY5Rx-0j7Fm7YgD8wXruF6cf7bO8lc4cSas5mqTf7TA_3rsFpVkF",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ7xB1k1e1woAR45iFH_31OSA",
+            "plus_code":{
+                  "compound_code":"VM5X+6H Torrance, CA, USA",
+                  "global_code":"8553VM5X+6H"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ7xB1k1e1woAR45iFH_31OSA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":743,
+            "vicinity":"1352 West 190th Street, Torrance",
+            "CBG":60372913001,
+            "Radius":356.4624620432
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.631828,
+                        "lng":-122.1448655
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6331327303,
+                              "lng":-122.1433805697
+                        },
+                        "southwest":{
+                              "lat":47.6304347697,
+                              "lng":-122.1460785303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101972054654599755553\">Shreyas M.N.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECbQXSgZr51LNH2450hNoWbbvkeDxx_ULRkgRe2MmF_qUdwtvlSsAG_nzomUUeVA9maR0BH22ZwlbkmqdRt_5Mdb8MPazb658JAYMgw9QuCfFrHDHs54hPTd15qwpbhSpn_8zSjy9Jppcs-OGMwDfXfPGWKfAeC8vW7YqAeSbdIPJ8W",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJkepyfghtkFQRkSlbtgnkrhE",
+            "plus_code":{
+                  "compound_code":"JVJ4+P3 Bellevue, WA, USA",
+                  "global_code":"84VVJVJ4+P3"
+            },
+            "price_level":1,
+            "rating":3,
+            "reference":"ChIJkepyfghtkFQRkSlbtgnkrhE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":865,
+            "vicinity":"14620 Northeast 24th Street, Bellevue",
+            "CBG":530330228014,
+            "Radius":395.6634639103
+      }
+]

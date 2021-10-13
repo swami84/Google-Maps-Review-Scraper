@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.866371,
+                        "lng":-77.1387495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8677199803,
+                              "lng":-77.1374005197
+                        },
+                        "southwest":{
+                              "lat":38.8650220197,
+                              "lng":-77.1400984803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chick-fil-A",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2023,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113152492762954080995\">HD Serpas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-KmKRbhcfu5aZhfO-2XqemO2XPjBW99GZ63z_ykhAaL7iU_viXx1I1x9F0N2GrIU3KQXfiBEjf_-OCWFkaSa48B8QsI5Y4SPfmhoQC0Qu7rLmbahD3gAY9n-dnZvXPwAIC6LB6qZ54a6lPyKvMP3Ns888UW9SvbxGOarM_shLW6Hb",
+                        "width":3641
+                  }
+            ],
+            "place_id":"ChIJpzKXbGO0t4kRTw6T83hm0Tw",
+            "plus_code":{
+                  "compound_code":"VV86+GG Falls Church, VA, USA",
+                  "global_code":"87C4VV86+GG"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJpzKXbGO0t4kRTw6T83hm0Tw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1534,
+            "vicinity":"6108C Arlington Boulevard, Falls Church",
+            "CBG":510594515013,
+            "Radius":296.0431289568
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8335186,
+                        "lng":-118.3883524
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8348705303,
+                              "lng":-118.3868846197
+                        },
+                        "southwest":{
+                              "lat":33.8321725697,
+                              "lng":-118.3895825803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mi Burrito",
+            "place_id":"ChIJuyXD3iu1woARpqU5XCPwDdA",
+            "plus_code":{
+                  "compound_code":"RJM6+CM Redondo Beach, CA, USA",
+                  "global_code":"8553RJM6+CM"
+            },
+            "rating":5.0,
+            "reference":"ChIJuyXD3iu1woARpqU5XCPwDdA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"529 South Catalina Avenue, Redondo Beach",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60376213241,
+            "Radius":372.6992148538
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8334917,
+                        "lng":-118.3883362
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8348794803,
+                              "lng":-118.3868679697
+                        },
+                        "southwest":{
+                              "lat":33.8321815197,
+                              "lng":-118.3895659303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Los Caballitos - Mexican and American Food",
+            "place_id":"ChIJJ4i-Pam0woARguCCSdD46wE",
+            "plus_code":{
+                  "compound_code":"RJM6+9M Redondo Beach, CA, USA",
+                  "global_code":"8553RJM6+9M"
+            },
+            "rating":4.5,
+            "reference":"ChIJJ4i-Pam0woARguCCSdD46wE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"529 South Catalina Avenue, Redondo Beach",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116844923292442215681\">Tom Bowlby<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1YkjhYkg7QfcLaa2aVfX58k_D0oZV2HEzbBaqws5Ozm1cjTvr5x5m_haaarR9qM7I-1feFfqe_K_Z_EB80wyzCAzsmTAupkL8RQXZoOXH_bfY9BBA6FISvMbDCaeLmP5bQVlYG-3GAWYy7n31EWpG9drhyWfFsSEIIKZtmH1PYttH",
+                        "width":1920
+                  }
+            ],
+            "CBG":60376213241,
+            "Radius":372.6992148538
+      }
+]

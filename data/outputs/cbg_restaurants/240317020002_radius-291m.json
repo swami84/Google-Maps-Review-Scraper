@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9927894,
+                        "lng":-76.9921765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9942191303,
+                              "lng":-76.9907928697
+                        },
+                        "southwest":{
+                              "lat":38.9915211697,
+                              "lng":-76.9934908303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tijuana Mexican Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":610,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115511185399001814519\">Tijuana Mexican Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAFmia2XtokjK5r5ngbW-bimbsUF4YVWyvghW_RyXDzJL5szg5-857uK4g-vviNACV6x6W6OSd7NwSLuYPWDOAXrJ-tbyLWg8RufC9nfyXmaMVPAugg_tUPPmyH86r5YIXSGIdS6jeE-VYKwDqw6aUq52On8iX3u4ND36k36SQkvGjJ",
+                        "width":1125
+                  }
+            ],
+            "place_id":"ChIJja5MERLGt4kRgVY7QpysACU",
+            "plus_code":{
+                  "compound_code":"X2V5+44 Takoma Park, MD, USA",
+                  "global_code":"87C5X2V5+44"
+            },
+            "price_level":2.0,
+            "rating":4.1,
+            "reference":"ChIJja5MERLGt4kRgVY7QpysACU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"949 University Boulevard East, Takoma Park",
+            "CBG":240317020002,
+            "Radius":291.3753813261
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9927337,
+                        "lng":-76.992351
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9941632303,
+                              "lng":-76.9908683197
+                        },
+                        "southwest":{
+                              "lat":38.9914652697,
+                              "lng":-76.9935662803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Campeon Pollo a la Brasa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109458003192149806198\">Joe Aventura Martini<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwEhzlecGbJ_231-JbxPXHVe9dUZ0XohH8PW08kqLAYZ3qeqIur_ryztR_wvn1k1EmGDXqCnCXo-E4TA9d-S_avFTtDTQ-UGj1vwUzilTdcnlKzncCLa4nUyNbJZ-c0lzkgy2YwoJParGUjdqrltYdPLJlEHKzgRZBTxIfvkgYt7cM",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJ9Yr0IhLGt4kRYcFkjcMDt7E",
+            "plus_code":{
+                  "compound_code":"X2V5+33 Takoma Park, MD, USA",
+                  "global_code":"87C5X2V5+33"
+            },
+            "price_level":null,
+            "rating":3.9,
+            "reference":"ChIJ9Yr0IhLGt4kRYcFkjcMDt7E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"902 Merrimac Drive, Takoma Park",
+            "CBG":240317020002,
+            "Radius":291.3753813261
+      }
+]

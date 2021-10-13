@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8990075,
+                        "lng":-87.7167752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9004062303,
+                              "lng":-87.7154276197
+                        },
+                        "southwest":{
+                              "lat":41.8977082697,
+                              "lng":-87.7181255803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Design2print Offset And Digital Printing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJrRoEhUrND4gRSLurxDrLIac",
+            "plus_code":{
+                  "compound_code":"V7XM+J7 Chicago, IL, USA",
+                  "global_code":"86HJV7XM+J7"
+            },
+            "rating":5,
+            "reference":"ChIJrRoEhUrND4gRSLurxDrLIac",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3607 West Augusta Boulevard, Chicago",
+            "CBG":170312311001,
+            "Radius":236.9468633154
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.4812534,
+                        "lng":-122.265187
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.4825684303,
+                              "lng":-122.2639373697
+                        },
+                        "southwest":{
+                              "lat":47.4798704697,
+                              "lng":-122.2666353303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Billy Baroo's Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116464560901723614660\">Billy Baroo&#39;s Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDz0A84XFMpbmjk9XaQ4FSTHwQ_baKVzYkmrkPAouzshPmfmxfCKD2LHPAk8YKxk7t9GpNlItTKhyF4Y4y3tRhpxOTpZrZMaTnQ6i6QiJoa4LTxnbh-7BGvqi1iQ2hjr1ad_sDuFi9bBgK2_2hFGFjFzmedvUKViJW0ov85NQjB5N6U",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJgzZv8N1CkFQRfB8hJ3W6YuM",
+            "plus_code":{
+                  "compound_code":"FPJM+GW Tukwila, WA, USA",
+                  "global_code":"84VVFPJM+GW"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJgzZv8N1CkFQRfB8hJ3W6YuM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":554,
+            "vicinity":"13500 Interurban Avenue South, Tukwila",
+            "CBG":530330262002,
+            "Radius":428.5865716519
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.477818,
+                        "lng":-122.261755
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.4790860303,
+                              "lng":-122.2605015697
+                        },
+                        "southwest":{
+                              "lat":47.4763880697,
+                              "lng":-122.2631995303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Fortune Casino Tukwila",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":369,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107862245063416232775\">Fortune Casino Tukwila<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECcaWpmhBgRxBnG-ylHvs0lPgFOuOMTXepEjERIWhhMSYWkRWGJHxnufD70K1VwHDu59C2a9lEd-Z4qZN6ybWSorIS36dC9wRE9bUq6bLLYDzK2xoXCnITuRy2JYBmLarbEFMf9KAR2SmELkGDLHaP7E0vGO7uwOPz6G-_UHymMs4Cf",
+                        "width":657
+                  }
+            ],
+            "place_id":"ChIJza1uBtxCkFQRIk4N4jta6dE",
+            "plus_code":{
+                  "compound_code":"FPHQ+47 Tukwila, WA, USA",
+                  "global_code":"84VVFPHQ+47"
+            },
+            "price_level":null,
+            "rating":3.9,
+            "reference":"ChIJza1uBtxCkFQRIk4N4jta6dE",
+            "scope":"GOOGLE",
+            "types":[
+                  "casino",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":98,
+            "vicinity":"14025 Interurban Avenue South, Tukwila",
+            "CBG":530330262002,
+            "Radius":428.5865716519
+      }
+]

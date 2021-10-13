@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9835113,
+                        "lng":-118.2836884
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9847426303,
+                              "lng":-118.2823389697
+                        },
+                        "southwest":{
+                              "lat":33.9820446697,
+                              "lng":-118.2850369303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Antdog Burger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114168300799709482109\">Antdog Burger<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAeu-_jsIzDXdgqTL-nXUwP5iKUm2nzYYNyak6wGB-qHCZi3jGuspsRXS8eHokJ_WhMcnNPCKQxY4J_FqVzrFkOUjVaFM1XVnOI_JvpK2nNQBC5iHA3iNyoJBiGL4kGaYQ5aKRoen2QK3WxaovmhfHzuH-VweKwajMw-DZOmoViY4-P",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJo3qSCUjJwoARa68bhQCeHqk",
+            "plus_code":{
+                  "compound_code":"XPM8+CG Los Angeles, CA, USA",
+                  "global_code":"8553XPM8+CG"
+            },
+            "reference":"ChIJo3qSCUjJwoARa68bhQCeHqk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"527 West 62nd Street, Los Angeles",
+            "CBG":60372371022,
+            "Radius":247.3918249581
+      }
+]

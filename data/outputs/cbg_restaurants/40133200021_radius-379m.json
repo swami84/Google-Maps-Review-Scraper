@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3732872,
+                        "lng":-111.9632492
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3746363803,
+                              "lng":-111.9618599697
+                        },
+                        "southwest":{
+                              "lat":33.3719384197,
+                              "lng":-111.9645579303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los 3 de Culiacan",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJSdp9i9UFK4cR7a2qoVo1e4w",
+            "plus_code":{
+                  "compound_code":"92FP+8P Guadalupe, AZ, USA",
+                  "global_code":"855C92FP+8P"
+            },
+            "rating":5.0,
+            "reference":"ChIJSdp9i9UFK4cR7a2qoVo1e4w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"8037 South Avenida del Yaqui, Guadalupe",
+            "photos":null,
+            "price_level":null,
+            "CBG":40133200021,
+            "Radius":379.3653719833
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3750431,
+                        "lng":-111.9628149
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3763549803,
+                              "lng":-111.9615283197
+                        },
+                        "southwest":{
+                              "lat":33.3736570197,
+                              "lng":-111.9642262803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"3sixty Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJbXgtAXQEK4cRNNyU6QBtO4o",
+            "plus_code":{
+                  "compound_code":"92GP+2V Guadalupe, AZ, USA",
+                  "global_code":"855C92GP+2V"
+            },
+            "rating":2.5,
+            "reference":"ChIJbXgtAXQEK4cRNNyU6QBtO4o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"7841 South Avenida del Yaqui, Guadalupe",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102316144476970558471\">3sixty Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBi7JRNTCzTo6bD4OoRL8MYiZUowbPdtMdF78VJGckpHsZq2mA4567Fc6SMqAPjjnuRlDPeWtNwqJiAD3cZKSCwpZxvDmOvIJTe-TDszXq1AtNXq1zcW-ggavLmlEOfOPA1Hu0fbUv2qdbaKuBam-CE19JQOpTPF8FDgGQ4Vf-8RCH7",
+                        "width":3024
+                  }
+            ],
+            "price_level":2.0,
+            "CBG":40133200021,
+            "Radius":379.3653719833
+      }
+]

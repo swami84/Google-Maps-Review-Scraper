@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9157044,
+                        "lng":-87.7156628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9169376303,
+                              "lng":-87.7143111697
+                        },
+                        "southwest":{
+                              "lat":41.9142396697,
+                              "lng":-87.7170091303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Flaming Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103856900256430525743\">Flaming Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAihQL5bqm5XVxLfsXsIBMmQLrybCj8EAv30seTO9NH3ukGQbKfodmfAP6PbLsU7Saeq3MkNdAy8Rm_M0A6RUnCPpJGgsfAZ1WLicuXiRQAYf1T3vL0Jla9cR597u7MdpsVEfHIxEYm5PAKGQVLd01hOXJEOvf6kkWHobh3hhw2L_U0",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJFbjvBvbND4gRC6WFHOtMl5k",
+            "plus_code":{
+                  "compound_code":"W78M+7P Chicago, IL, USA",
+                  "global_code":"86HJW78M+7P"
+            },
+            "reference":"ChIJFbjvBvbND4gRC6WFHOtMl5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3556 West Cortland Street, Chicago",
+            "CBG":170312228001,
+            "Radius":188.2939944945
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9157044,
+                        "lng":-87.7156628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9169376303,
+                              "lng":-87.7143111697
+                        },
+                        "southwest":{
+                              "lat":41.9142396697,
+                              "lng":-87.7170091303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Flaming Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109324428241059752930\">Flaming Burgers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEByBnPWW7XGBnUPE8_WZLT8oLL07w1-6fxyJD9pLWHBhUPRCQDJ4_trZUD86_vYJnKnviixM_eHFqw23VIx1eZ8qUU5aLnVhh69koC3ul3-Wjyw2KU6HdU27iFoDSa0VA-fSXPSvNks6sx4VC4j3vBd67m7eSO3LM0dr8TA4_nCdBj1",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJyTcXThDND4gREFQcJwdx-vU",
+            "plus_code":{
+                  "compound_code":"W78M+7P Chicago, IL, USA",
+                  "global_code":"86HJW78M+7P"
+            },
+            "reference":"ChIJyTcXThDND4gREFQcJwdx-vU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3556 West Cortland Street, Chicago",
+            "CBG":170312228001,
+            "Radius":188.2939944945
+      }
+]

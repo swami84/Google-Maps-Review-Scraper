@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8758308,
+                        "lng":-77.3763326
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8771797803,
+                              "lng":-77.3749836197
+                        },
+                        "southwest":{
+                              "lat":38.8744818197,
+                              "lng":-77.3776815803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ymir & Historias Smoothie Caf\u00e9",
+            "place_id":"ChIJUXq4HQVPtokR8s5HkwmM3Q4",
+            "plus_code":{
+                  "compound_code":"VJGF+8F Fairfax, VA, USA",
+                  "global_code":"87C4VJGF+8F"
+            },
+            "reference":"ChIJUXq4HQVPtokR8s5HkwmM3Q4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"12520 Fanleaf Court, Fairfax",
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":510594826024,
+            "Radius":443.7737525846
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8757982,
+                        "lng":-77.3762683
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8770439303,
+                              "lng":-77.3749972197
+                        },
+                        "southwest":{
+                              "lat":38.8743459697,
+                              "lng":-77.3776951803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sashas Potato Market",
+            "place_id":"ChIJeU5KVLlPtokRJCuIRi_l5Ks",
+            "plus_code":{
+                  "compound_code":"VJGF+8F Fairfax, VA, USA",
+                  "global_code":"87C4VJGF+8F"
+            },
+            "reference":"ChIJeU5KVLlPtokRJCuIRi_l5Ks",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"12516 Fanleaf Court, Fairfax",
+            "rating":5.0,
+            "user_ratings_total":1.0,
+            "CBG":510594826024,
+            "Radius":443.7737525846
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.0106266,
+                        "lng":-118.3018388
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0120809303,
+                              "lng":-118.3004887197
+                        },
+                        "southwest":{
+                              "lat":34.0093829697,
+                              "lng":-118.3031866803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Natural Soul Food Non Profit cafe",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2986,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110307315683484598470\">Adolfo Palma<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECEz0jWrBqmeOpTc-_1MUZrmJ_mjLbSmtCB6FDV8a5DGOcx6GYDoJgP1TYFJ63n9x6Gx8p5QPbtmuaYrwttzBswfoENi0ZgalhtFyxG8SMDbCpCoVhyu5aoO8hhJ719Vo_m4YPTdxyDBMjadXtPL_yp9flAZ_QKpmVDY_0Mlo7hkWvZ",
+                        "width":3935
+                  }
+            ],
+            "place_id":"ChIJt8xPpP-3woARFyk4gMkHch8",
+            "plus_code":{
+                  "compound_code":"2M6X+77 Los Angeles, CA, USA",
+                  "global_code":"85632M6X+77"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJt8xPpP-3woARFyk4gMkHch8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"1444 West Martin Luther King Junior Boulevard, Los Angeles",
+            "opening_hours":null,
+            "CBG":60372316004,
+            "Radius":260.8033096781
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0106487,
+                        "lng":-118.3017719
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0120917303,
+                              "lng":-118.3004219197
+                        },
+                        "southwest":{
+                              "lat":34.0093937697,
+                              "lng":-118.3031198803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Fiesta Bakery and Restaurant",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":2986,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110307315683484598470\">Adolfo Palma<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7ZAqjlGhb7BO8tGObK8m8YcONHThSkjlQL4PtDAvMHh04kXksj2qCpzbmJ9GfSAYsmZSSN72V5ccE1T5dvDhhZO5Pf30VXv4e9zamhLDCHzgSiDsp5mGo1bofeJJxmEOpQz8_OdC6FZN3HFakcDvmvnwDHax1EK9ETiBpF0UPbWga",
+                        "width":3935
+                  }
+            ],
+            "place_id":"ChIJW9oCpf-3woARrxZFqyY4l0A",
+            "plus_code":{
+                  "compound_code":"2M6X+77 Los Angeles, CA, USA",
+                  "global_code":"85632M6X+77"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJW9oCpf-3woARrxZFqyY4l0A",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"1442 West Martin Luther King Junior Boulevard, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "CBG":60372316004,
+            "Radius":260.8033096781
+      }
+]

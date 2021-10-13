@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9414587,
+                        "lng":-118.2424729
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9428674303,
+                              "lng":-118.2411308197
+                        },
+                        "southwest":{
+                              "lat":33.9401694697,
+                              "lng":-118.2438287803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TACOS WATTS",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109661292602502466114\">TACOS WATTS<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAigU_4ErBZh49PHtsy52HWM-3Ivjg42h02EYLcEcrrb_W5KGHD8Rl9OAEBM1vxCVCd3Cg8GA-rfuY0CYRAoSfv5Boq7nHfgOIJvuV9PdOYWxvI4_FQgF1SxYSUC2HAR0Hmk64niHi1mt6deN7s58HZQc4Oy3B3O_16EpW1F8XucqEa",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJT_158LHLwoARkE9tU7sczSQ",
+            "plus_code":{
+                  "compound_code":"WQR5+H2 Los Angeles, CA, USA",
+                  "global_code":"8553WQR5+H2"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJT_158LHLwoARkE9tU7sczSQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"10400 Graham Avenue, Los Angeles",
+            "CBG":60372427005,
+            "Radius":304.240508041
+      }
+]

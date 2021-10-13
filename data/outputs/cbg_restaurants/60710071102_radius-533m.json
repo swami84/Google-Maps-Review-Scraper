@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0623517,
+                        "lng":-117.2887219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0640817303,
+                              "lng":-117.2874213197
+                        },
+                        "southwest":{
+                              "lat":34.0613837697,
+                              "lng":-117.2901192803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Royal Truck Stop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116711214488180874761\">Royal Truck Stop<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAoHKTuovrYc_pgcStIa9sSOlKnjxrf4PaNXjyRZzVc_udrU9jd-Ke8c5l9BcTTUMdknvV0IFqxaWC89HfCF7VJvSrV7gRy3qI_jDZ-JyxGxE2AOtgn2yW-UGRTYojXbhz6xe7MW_fNYVWizOnLdF_U7X_RA_8feeglXXMycHEJywRw",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJl-j6_oys3IARVPkGV_3WqLw",
+            "plus_code":{
+                  "compound_code":"3P66+WG Colton, CA, USA",
+                  "global_code":"85643P66+WG"
+            },
+            "rating":3.6,
+            "reference":"ChIJl-j6_oys3IARVPkGV_3WqLw",
+            "scope":"GOOGLE",
+            "types":[
+                  "rv_park",
+                  "lodging",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":574,
+            "vicinity":"2300 East Steel Road, Colton",
+            "CBG":60710071102,
+            "Radius":532.8244182907
+      }
+]

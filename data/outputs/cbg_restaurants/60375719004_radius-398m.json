@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8292612,
+                        "lng":-118.1846958
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8305302803,
+                              "lng":-118.1834246697
+                        },
+                        "southwest":{
+                              "lat":33.8278323197,
+                              "lng":-118.1861226303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ramen Hub & Poke",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105637509709327588211\">Martin Lee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCdmpMLAoQgT41rWPfZMoWwWkcg-8jD6TOLVNa6dnexhloxS2S5iefXEd8ls3hmmZ2fFllysjm4ps9gzqK_qk-IzK0llftv-812hn_Kt7vV0jieK6atdGqvwkQvculuNWnON-www58boDsYO-46cFQki8zOZaoRWHxWSzUCgvseBMb",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAa8xVi4z3YAR3JX7_kwU3F4",
+            "plus_code":{
+                  "compound_code":"RRH8+P4 Long Beach, CA, USA",
+                  "global_code":"8553RRH8+P4"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJAa8xVi4z3YAR3JX7_kwU3F4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1102,
+            "vicinity":"3900 Atlantic Avenue #101, Long Beach",
+            "CBG":60375719004,
+            "Radius":397.5995747914
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8297622,
+                        "lng":-118.1848203
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8310605303,
+                              "lng":-118.1835369697
+                        },
+                        "southwest":{
+                              "lat":33.8283625697,
+                              "lng":-118.1862349303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dream Come True Tea & Party Room",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112956381717487698464\">Dream Come True Tea &amp; Party Room<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDqrV1DOguVt0-hRf1L_RzFmuJ3_-A8uXkc3gV5pS4Yjtb38qNWfsgVh4ZCLB58hv_nYUEXOY7ApwK2lH-qWvkrBF2CQjc0dQoz31VtXMVguSX9XmbkTqhKTWzMVnS-GOgx97MnWdXmVALFa0Khrlw-BNQg-fqmaqIE_PvbDD-ufSdI",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJkQIDOu4t3YARBbAFenl5esc",
+            "plus_code":{
+                  "compound_code":"RRH8+W3 Long Beach, CA, USA",
+                  "global_code":"8553RRH8+W3"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJkQIDOu4t3YARBbAFenl5esc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":35,
+            "vicinity":"3924 Atlantic Avenue, Long Beach",
+            "CBG":60375719004,
+            "Radius":397.5995747914
+      }
+]

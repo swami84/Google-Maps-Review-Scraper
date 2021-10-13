@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.040053,
+                        "lng":-118.3229781
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0413260303,
+                              "lng":-118.3216278697
+                        },
+                        "southwest":{
+                              "lat":34.0386280697,
+                              "lng":-118.3243258303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lemonade Restaurant Group, Llc",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJnxu0fV24woAR2a9HE75Ktr0",
+            "plus_code":{
+                  "compound_code":"2MRG+2R Los Angeles, CA, USA",
+                  "global_code":"85632MRG+2R"
+            },
+            "reference":"ChIJnxu0fV24woAR2a9HE75Ktr0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3515 West Washington Boulevard, Los Angeles",
+            "CBG":60372181203,
+            "Radius":170.3366746929
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0426642,
+                        "lng":-87.9275222
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0440123303,
+                              "lng":-87.9259969197
+                        },
+                        "southwest":{
+                              "lat":43.0413143697,
+                              "lng":-87.9286948803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Farmer's Fridge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJL3wHkZIZBYgRrhNzRqwLZos",
+            "plus_code":{
+                  "compound_code":"23VC+3X Milwaukee, WI, USA",
+                  "global_code":"86MJ23VC+3X"
+            },
+            "reference":"ChIJL3wHkZIZBYgRrhNzRqwLZos",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Aurora Sinai Medical Center, 945 North 12th Street, Milwaukee",
+            "CBG":550790146001,
+            "Radius":282.88130399
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1020238,
+                        "lng":-118.2996004
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1033214803,
+                              "lng":-118.2981839697
+                        },
+                        "southwest":{
+                              "lat":34.1006235197,
+                              "lng":-118.3008819303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cruzer Pizza 100% Vegan",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112200750059133653193\">Loren C<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDa-ppaVQiS6r4v5eKDgdvqjgAfAGYdeCasvhRJqT_2jtixNWiD5BrvoydBVi8NXg3waY36CWL5ff9otEwcTbywBpTKPbradh0sxDSWeOmtzc4WteSmfVSejZs8ok25yqjmdm8XrXmQBZxklVHzPhg_RmKQ57mT9F3z5TvbAtksTjUu",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJrRxLbbLAwoARVFiPIIU5s2o",
+            "plus_code":{
+                  "compound_code":"4P22+R5 Los Angeles, CA, USA",
+                  "global_code":"85634P22+R5"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJrRxLbbLAwoARVFiPIIU5s2o",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":392,
+            "vicinity":"5051 Hollywood Boulevard, Los Angeles",
+            "CBG":60371892011,
+            "Radius":227.6859745209
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1022194,
+                        "lng":-118.2998404
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1033410803,
+                              "lng":-118.2984921197
+                        },
+                        "southwest":{
+                              "lat":34.1006431197,
+                              "lng":-118.3011900803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Angry Chickz",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110861749545624217690\">Kai Pan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBleinBlbAl2belG9XQS08FZxbu63iSzMnW2CSC35tvLT5vIG3PIW4PIv3rgHLSsigcZgl1S1AoUQd44NcApMAv2IGV0hAVaDN9LqVoyQfbVRSjPMcmNdt6jeGrppUSIkzdVhnM1Y1L1-PjT8tLICzVDkXkV-dn4yPrCMhyOAFg3r4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJDyG-RRG_woARaC-fu4OCWRs",
+            "plus_code":{
+                  "compound_code":"4P22+V3 Los Angeles, CA, USA",
+                  "global_code":"85634P22+V3"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJDyG-RRG_woARaC-fu4OCWRs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":356,
+            "vicinity":"5065 Hollywood Boulevard, Los Angeles",
+            "CBG":60371892011,
+            "Radius":227.6859745209
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9138394,
+                        "lng":-118.1509698
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9151875303,
+                              "lng":-118.1495793197
+                        },
+                        "southwest":{
+                              "lat":33.9124895697,
+                              "lng":-118.1522772803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Asia Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115266597179247928700\">Shimei Luo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAKyeXs88g9XpwcuCRgbrrRBvb6qA2mh5YBsFLoexLbcljH9YVgmFNsB6_hNVZ9s5fVpbGkcwPiQVgTFmplwj2SBR7EGx-amLrOCefQZ8ltZXFcNypr-Xyab4FtDCv3aFdgDVS8WGhYI-ddhtZxjWhR3lifPCHLdDB7KbmfStc9MtSY",
+                        "width":4928
+                  }
+            ],
+            "place_id":"ChIJA0Ny3KPNwoARu-YfQzrP_yE",
+            "plus_code":{
+                  "compound_code":"WR7X+GJ Paramount, CA, USA",
+                  "global_code":"8553WR7X+GJ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJA0Ny3KPNwoARu-YfQzrP_yE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"13116 Downey Avenue, Paramount",
+            "CBG":60375535031,
+            "Radius":367.0503133997
+      }
+]

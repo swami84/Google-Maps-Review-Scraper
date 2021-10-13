@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0797022,
+                        "lng":-87.9165084
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0810511803,
+                              "lng":-87.9151594197
+                        },
+                        "southwest":{
+                              "lat":43.0783532197,
+                              "lng":-87.9178573803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sam's Place Jazz Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115247721741768156175\">solomon BUNN<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAsBDLZSYMU90XOktXFjST-ebm_GVY3d9RCwg-cR5y14kpqJnLzlWrfY0AokCauMwf-ap-U-YLgxHRrN6Ne59NtZX-Mnhcju4tzsTsc08lifvMeaxn5EFI2MU-4xI9gmiRuDpCALp_qgPzeaM-vr5CDA_LEkZjNtZn5_WkJD0xZ4GNF",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJO7kKkTsfBYgREpROQUMCStI",
+            "plus_code":{
+                  "compound_code":"33HM+V9 Milwaukee, WI, USA",
+                  "global_code":"86MJ33HM+V9"
+            },
+            "rating":4.3,
+            "reference":"ChIJO7kKkTsfBYgREpROQUMCStI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":90,
+            "vicinity":"3338 North Doctor Martin Luther King Junior Drive, Milwaukee",
+            "CBG":550790068001,
+            "Radius":256.7949035727
+      }
+]

@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7895923,
+                        "lng":-118.1463219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7907682803,
+                              "lng":-118.1450771197
+                        },
+                        "southwest":{
+                              "lat":33.7880703197,
+                              "lng":-118.1477750803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Food",
+            "place_id":"ChIJzZKdcqYx3YARTT5mzFOy6I8",
+            "plus_code":{
+                  "compound_code":"QVQ3+RF Long Beach, CA, USA",
+                  "global_code":"8553QVQ3+RF"
+            },
+            "rating":5,
+            "reference":"ChIJzZKdcqYx3YARTT5mzFOy6I8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3900 Pacific Coast Highway, Long Beach",
+            "CBG":60375750021,
+            "Radius":380.3554281473
+      }
+]

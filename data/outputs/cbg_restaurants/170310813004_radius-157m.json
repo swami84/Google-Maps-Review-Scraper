@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.898653,
+                        "lng":-87.619671
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8999015303,
+                              "lng":-87.6183169197
+                        },
+                        "southwest":{
+                              "lat":41.8972035697,
+                              "lng":-87.6210148803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Le Petit Paris",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104577210526050953152\">Terry s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBseu9WIAdb1ziavDspLY9K4JqlEyMY6ZFPfN2wIbkZDuRq6UMXQhYTT4QgSSdclvbFljQXLdXtZkpmX-TIY0cKRRyYc4bY7GyUQp5g77WKAuEPEcsJ9fLIgKLa05E1Q3vlapSibR5sgzmFJvbQ0iC76SEikVOB3h2Kgn0kejms26u3",
+                        "width":1844
+                  }
+            ],
+            "place_id":"ChIJl671kVXTD4gRgkcdFiC7Tpc",
+            "plus_code":{
+                  "compound_code":"V9XJ+F4 Chicago, IL, USA",
+                  "global_code":"86HJV9XJ+F4"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJl671kVXTD4gRgkcdFiC7Tpc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":187,
+            "vicinity":"260 East Chestnut Street, Chicago",
+            "CBG":170310813004,
+            "Radius":157.3188808458
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1673541,
+                        "lng":-80.2034621
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1687288303,
+                              "lng":-80.2021118197
+                        },
+                        "southwest":{
+                              "lat":26.1660308697,
+                              "lng":-80.2048097803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Granja",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDsbCJoTFz3O8DijVUFz5i2M9x_mHnCqkZSRnNhlqqIza3Qu3pNSAJYGe0ww1OTJQaTcnL3iKzbP98DxsV7Qb2TI7qz9XgTCd-pfjbfvw9BX3Z7XWszWnNRHCrLj9eciSn6rh6cUXxpXw4Jlf42JsKjkdvBjgRwCdHGThczwOxP40I5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJd31draQG2YgR_e4iB24tML0",
+            "plus_code":{
+                  "compound_code":"5Q8W+WJ Lauderdale Lakes, FL, USA",
+                  "global_code":"76RX5Q8W+WJ"
+            },
+            "price_level":1.0,
+            "rating":4.0,
+            "reference":"ChIJd31draQG2YgR_e4iB24tML0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":944,
+            "vicinity":"3399 Florida 7, Lauderdale Lakes",
+            "CBG":120110503061,
+            "Radius":474.9655400408
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1696506,
+                        "lng":-80.2026025
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1709072803,
+                              "lng":-80.2012895197
+                        },
+                        "southwest":{
+                              "lat":26.1682093197,
+                              "lng":-80.2039874803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fern Gully Grill - Lauderdale Lakes",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDt2YAaAkHkvwWegKOwoGg6qI2neK2TnKQZ9IcmXMTWAS-oLAC7qaLZGR3EGGf_CJVh4n58doI4CeBaRV7h5KZOX_Qbv3jjobTiC6Nqu3UwFf6tSD5TMnoLuxlPBJbqkbkyXkTk0N2VyVWwZInB3XwErh_QspBcL3sXDtQRFy07qWgN",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJWQrzV4IH2YgRTnplWJY_L50",
+            "plus_code":{
+                  "compound_code":"5Q9W+VX Lauderdale Lakes, FL, USA",
+                  "global_code":"76RX5Q9W+VX"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJWQrzV4IH2YgRTnplWJY_L50",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":158,
+            "vicinity":"3450 N. State Road, Lauderdale Lakes",
+            "CBG":120110503061,
+            "Radius":474.9655400408
+      }
+]

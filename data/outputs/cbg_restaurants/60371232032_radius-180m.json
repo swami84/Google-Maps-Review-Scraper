@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1936889,
+                        "lng":-118.3888278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1951031303,
+                              "lng":-118.3875242697
+                        },
+                        "southwest":{
+                              "lat":34.1924051697,
+                              "lng":-118.3902222303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salsa & Beer #4",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2320,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104045476523299786055\">Christina Torres<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYk5vOc5qS3cysge3mR2ULSvWIkhRCgsL1nVr_0VZ0KaUZVgXcviAGy5FhcSdZpM0gA1dQCPYjBXcS-vQpHZrcGNgaR9W-Z8xfJ6x-vI9976NBaVjWyM_eJp5QaT3Y20iDNmRETESpG-IqLB6HKQ8vplnBjkvc2aXlwsfiKORs8Rcr",
+                        "width":4640
+                  }
+            ],
+            "place_id":"ChIJucRjkW-VwoARKf6W_P3ic5k",
+            "plus_code":{
+                  "compound_code":"5JV6+FF North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JV6+FF"
+            },
+            "rating":4.3,
+            "reference":"ChIJucRjkW-VwoARKf6W_P3ic5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":167,
+            "vicinity":"11720 Vanowen Street, North Hollywood",
+            "CBG":60371232032,
+            "Radius":179.7419823194
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.194258,
+                        "lng":-118.388005
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1955543303,
+                              "lng":-118.3866581197
+                        },
+                        "southwest":{
+                              "lat":34.1928563697,
+                              "lng":-118.3893560803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Teriyaki House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1338,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102818347743898626084\">Emanuel T<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECB-Pj3jlgvUElzXKDJQdy047ZGY_aWFiWke8qrKUlHS4-azEYUSEiyqoG5ESWz8C5se33kejjhe0MZWG2euOZP47M1gRbfciKc5WNHYCqRPGLFOaqtgg0DG8ie3BYTt2ZfMlNsS1e-252IMSPnGWuOAV7uyd3YvPsBpBOPdFAprXCm",
+                        "width":3492
+                  }
+            ],
+            "place_id":"ChIJ0TIvNVWVwoARssns6tECk_w",
+            "plus_code":{
+                  "compound_code":"5JV6+PQ North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JV6+PQ"
+            },
+            "rating":4.7,
+            "reference":"ChIJ0TIvNVWVwoARssns6tECk_w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"6801 Lankershim Boulevard #115, North Hollywood",
+            "CBG":60371232032,
+            "Radius":179.7419823194
+      }
+]

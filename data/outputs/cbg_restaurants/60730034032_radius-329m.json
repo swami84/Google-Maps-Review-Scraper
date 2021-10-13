@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.711281,
+                        "lng":-117.104391
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7127362303,
+                              "lng":-117.1030486697
+                        },
+                        "southwest":{
+                              "lat":32.7100382697,
+                              "lng":-117.1057466303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taste of Chicago Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117837563684927858365\">Juan Rios Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECyBQrlTJZRZ8jF4hfK4WO6fXZA-A50aUzxa_ldy7i7P094ubJrA8SksEP_txeSfwPzWixO7e3Twfw7yu6xvH0Bw9DcvM8GmXIFdPePh3Z6JCVFQiTUTh3QPRKx83QfzP9Y9S4vt2OxdEOJA0-MMH_OePa2iHlEaF7NeMY5x6JKiWnr",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJD2oEvpRT2YARTsEaCKEKMRU",
+            "plus_code":{
+                  "compound_code":"PV6W+G6 San Diego, CA, USA",
+                  "global_code":"8544PV6W+G6"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJD2oEvpRT2YARTsEaCKEKMRU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":365,
+            "vicinity":"4211 Market Street, San Diego",
+            "CBG":60730034032,
+            "Radius":328.9002685471
+      }
+]

@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9089485,
+                        "lng":-87.6382532
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9103049303,
+                              "lng":-87.6370475697
+                        },
+                        "southwest":{
+                              "lat":41.9076069697,
+                              "lng":-87.6397455303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Kap\u00e9j Coffee",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104401950727299525580\">Kap\u00e9j Coffee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAI8XUGrMLXRqU-V4iBPOGAT_HGGsKuUwg8BVjaPesND5DUvWR1C28MrEN6hiw6drVnSu7pFiAVmQM1b7d6FF-gxMTS6L7chyvgW4mzaduqBnYccUsGsSBLsHaB3h-DMl-nv6kbCYvFz0-NtNriBgGuSiWwgWPPrRF22sVwWcp8WZJb",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYR_bnzjTD4gRb32OsMuQ0hY",
+            "plus_code":{
+                  "compound_code":"W956+HM Chicago, IL, USA",
+                  "global_code":"86HJW956+HM"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJYR_bnzjTD4gRb32OsMuQ0hY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":308,
+            "vicinity":"1447 North Sedgwick Street, Chicago",
+            "CBG":170310803003,
+            "Radius":172.4907582492
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.910546,
+                        "lng":-87.6383568
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9118930303,
+                              "lng":-87.6371195697
+                        },
+                        "southwest":{
+                              "lat":41.9091950697,
+                              "lng":-87.6398175303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pazza Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111965433909284938535\">Pazza Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBOZJvT38v1AiwcP06O7Yp0c-i3QfnQVKvKBh857symIt2nuFY1weClOW-drc5FVzODGpPwl-dlS7NymjxorSuxYvD2BJNh9l2be_-C-4UeWvYtEjY1zB3DKDYDGytrWBk9gP6SYtF-9qrMqhbf9yyCgmW3uctM-8Rx42Ds3P_N9JXN",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJM4hL-jzTD4gRHYR-18lJ7Wg",
+            "plus_code":{
+                  "compound_code":"W966+6M Chicago, IL, USA",
+                  "global_code":"86HJW966+6M"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJM4hL-jzTD4gRHYR-18lJ7Wg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"1543 North Sedgwick Street, Chicago",
+            "CBG":170310803003,
+            "Radius":172.4907582492
+      }
+]

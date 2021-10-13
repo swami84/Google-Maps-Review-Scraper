@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.6459204,
+                        "lng":-88.0894762
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.6472710803,
+                              "lng":-88.0879949197
+                        },
+                        "southwest":{
+                              "lat":30.6445731197,
+                              "lng":-88.0906928803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"B 2 Sea Food",
+            "place_id":"ChIJjVhBG4JOmogRuAMtJymFg9I",
+            "plus_code":{
+                  "compound_code":"JWW6+96 Mobile, AL, USA",
+                  "global_code":"862HJWW6+96"
+            },
+            "reference":"ChIJjVhBG4JOmogRuAMtJymFg9I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Mobile",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":10970023021,
+            "Radius":503.8257206275
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.6458768,
+                        "lng":-88.0895152
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.6472277303,
+                              "lng":-88.0880140697
+                        },
+                        "southwest":{
+                              "lat":30.6445297697,
+                              "lng":-88.0907120303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"J&D Cajun Seafood",
+            "place_id":"ChIJ-ZvyudtPmogRr-u8TDq4QrE",
+            "plus_code":{
+                  "compound_code":"JWW6+95 Mobile, AL, USA",
+                  "global_code":"862HJWW6+95"
+            },
+            "reference":"ChIJ-ZvyudtPmogRr-u8TDq4QrE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1318 Dauphin Island Parkway, Mobile",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104028871498417734051\">J&amp;D Cajun Seafood<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECNZbj-_Pb2bnWKoEdb3IJpKmQTp7Uw-kqTGSKWcPmF0z4M51Zla5OdNfxCOOLTy7Va2QpSMKclqUoC-Dx1VRSW0RKN2eqC7Fplu-6kjMOpNNewHulr8ViHEMZZEA0fHgNB5TdNfBZxEUwOG3BGcyg_7jPRxY72Mqj0vpPEaCLEBLW7",
+                        "width":3024
+                  }
+            ],
+            "CBG":10970023021,
+            "Radius":503.8257206275
+      }
+]

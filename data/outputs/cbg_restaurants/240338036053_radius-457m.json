@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9650054,
+                        "lng":-76.8974292
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9662453303,
+                              "lng":-76.8960360697
+                        },
+                        "southwest":{
+                              "lat":38.9635473697,
+                              "lng":-76.8987340303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"House of China",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114334166980033751232\">Remus Novac<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAeDT91jx93rqoblEjO-bDbVqr4HA8tgSdd_R3JhD5tn1RlfW5iRWruAXlFKfZAwEQSr09j5XHK90mohVHNS85gxFkpuQ8Y3MFsZcRtC97_DKvJO0DauOvxDVEQNu_MDFv3S_0pfmxAzdKUi5xBfp6VEyckUJpeVEC9km3dIYhWCXqq",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJj5nNBz3Bt4kRn7qvets7sbk",
+            "plus_code":{
+                  "compound_code":"X483+22 East Riverdale, MD, USA",
+                  "global_code":"87C5X483+22"
+            },
+            "rating":3.2,
+            "reference":"ChIJj5nNBz3Bt4kRn7qvets7sbk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"6818 Riverdale Road UNIT A, Riverdale",
+            "CBG":240338036053,
+            "Radius":457.2358909862
+      }
+]

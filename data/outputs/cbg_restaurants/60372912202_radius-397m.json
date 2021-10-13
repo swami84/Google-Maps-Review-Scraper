@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8784298,
+                        "lng":-118.2907118
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8797878303,
+                              "lng":-118.2894619697
+                        },
+                        "southwest":{
+                              "lat":33.8770898697,
+                              "lng":-118.2921599303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"O-Top Thai Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104205435473569863069\">Juve Da Great<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDpPhjzObJmMskWTNdn9L1Ocock-IAPamQrHEBUPUxRfaqgbz_Da3IQ9Bhi-onein7aIcNm2d7ZSOM7P1hK2qp3rd8pdQz2Fi10UnZUMGvsvsjW76MTHipUntdQgSXhRBoK5thEZd4RMG3hAcwmT5RwVrkhv0SRtFff8JmD1Su4U8mV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ0f-jsZvKwoARPY0_Dfw2sf4",
+            "plus_code":{
+                  "compound_code":"VPH5+9P Gardena, CA, USA",
+                  "global_code":"8553VPH5+9P"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ0f-jsZvKwoARPY0_Dfw2sf4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":134,
+            "vicinity":"16822 Vermont Avenue, Gardena",
+            "CBG":60372912202,
+            "Radius":396.9433590334
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8786863,
+                        "lng":-118.2907417
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8800125803,
+                              "lng":-118.2894899197
+                        },
+                        "southwest":{
+                              "lat":33.8773146197,
+                              "lng":-118.2921878803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"N Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100559167793070743175\">N Caf\u00e9<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDI-sTa2RxPlvsvOxu_UeLyVkmPpWO-jaNc9kqmZrfFBqLKiugzmVxVtlHp2obtADC-l_bRy3Z47ErGX8e4SkHDAu_YZUAT-wCB-S4PWLwT3nh8XBgUg5bpQq1y3O2Pz24oaMu0aZj8jaoyrBezG-BF_7r946OJVDD3mzbQME-TYHO7",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJS2V4v-fLwoARpHhURLYpTcY",
+            "plus_code":{
+                  "compound_code":"VPH5+FP Gardena, CA, USA",
+                  "global_code":"8553VPH5+FP"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJS2V4v-fLwoARpHhURLYpTcY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"16814 Vermont Avenue, Gardena",
+            "CBG":60372912202,
+            "Radius":396.9433590334
+      }
+]

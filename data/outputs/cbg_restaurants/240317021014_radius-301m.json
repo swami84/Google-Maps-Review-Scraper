@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0019879,
+                        "lng":-76.9954315
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0033340803,
+                              "lng":-76.9941388197
+                        },
+                        "southwest":{
+                              "lat":39.0006361197,
+                              "lng":-76.9968367803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"HOA",
+            "place_id":"ChIJOXK2s3jHt4kR0_n1SSd85GM",
+            "plus_code":{
+                  "compound_code":"2223+QR Silver Spring, MD, USA",
+                  "global_code":"87F52223+QR"
+            },
+            "reference":"ChIJOXK2s3jHt4kR0_n1SSd85GM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"University Boulevard East, Silver Spring",
+            "CBG":240317021014,
+            "Radius":301.3073473517
+      }
+]

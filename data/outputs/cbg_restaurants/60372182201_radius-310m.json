@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0403357,
+                        "lng":-118.3314208
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0416361303,
+                              "lng":-118.3299793197
+                        },
+                        "southwest":{
+                              "lat":34.0389381697,
+                              "lng":-118.3326772803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"GRINGO'S Mariscos and Beer",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108814942131791669414\">Benji<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBEO-gA_PX4fXHZy3eJb4BqKgXYh-dr1gum9OUCyWz7NPGDwQlVTYaBIZ5NXlAs1x8uEXV53hDFkawMi5IR1qNPSdMfVEV6RbzNRsLBK9smN7Xtqv-0EmEg1KGSWSvLDYTlNEUcUi62UL6hEpryfJhJOykFxXl5C-CAMpcQdCI4n8kn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJk_aScVm4woARfJ3bY5D4wQ8",
+            "plus_code":{
+                  "compound_code":"2MR9+4C Los Angeles, CA, USA",
+                  "global_code":"85632MR9+4C"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJk_aScVm4woARfJ3bY5D4wQ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":648,
+            "vicinity":"4209 West Washington Boulevard #104, Los Angeles",
+            "CBG":60372182201,
+            "Radius":310.1652440094
+      }
+]

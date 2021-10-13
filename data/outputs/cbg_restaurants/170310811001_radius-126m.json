@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8996995,
+                        "lng":-87.6285313
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9010702303,
+                              "lng":-87.6270648697
+                        },
+                        "southwest":{
+                              "lat":41.8983722697,
+                              "lng":-87.6297628303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Adalina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112760089856719759797\">NaywriChi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGbLzxSZP9pVu0Qxnv44fl3al45b_rOmLppdZXtn3IjsB5763YSe9t5c8wfSybzqvch7xHjL1Pe8mZq_WN3ob16g3ZhHrBWbD3yTXk3JMt3IW3HOgHPxngIxRhfgWQEd7oSMjRIJLqFU8Idt3UfTAc_WtGeTZW4Zh9_Ws3494zgS8u",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJnSLeTnrTD4gRRTd6C6ZTstg",
+            "plus_code":{
+                  "compound_code":"V9XC+VH Chicago, IL, USA",
+                  "global_code":"86HJV9XC+VH"
+            },
+            "rating":4.4,
+            "reference":"ChIJnSLeTnrTD4gRRTd6C6ZTstg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"912 North State Street, Chicago",
+            "CBG":170310811001,
+            "Radius":125.514114294
+      }
+]

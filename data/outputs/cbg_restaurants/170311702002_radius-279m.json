@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9455549,
+                        "lng":-87.7794462
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9469960803,
+                              "lng":-87.7780736197
+                        },
+                        "southwest":{
+                              "lat":41.9442981197,
+                              "lng":-87.7807715803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Huaraches Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109685275059165981419\">Huaraches Mexican Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEArS5DdDg67gKVfJAsze34mMrFNrECbpyu0azI7og-6X1nzb6C_erjc1pzVvfNq9dpwe6D-YgI4l7n240oWjq3QY9XTeL7p47phWFzPv42QuYAhCcJBaHOSxWW4ugY5x17W-NTye7503dPpaKSuNATuBF8a1Y-EXZXpRfIhqMbwzyYi",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJjW7gB3LLD4gREA9w2mjUMMQ",
+            "plus_code":{
+                  "compound_code":"W6WC+66 Chicago, IL, USA",
+                  "global_code":"86HJW6WC+66"
+            },
+            "price_level":2,
+            "rating":5,
+            "reference":"ChIJjW7gB3LLD4gREA9w2mjUMMQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6107 West Addison Street, Chicago",
+            "CBG":170311702002,
+            "Radius":279.1604130152
+      }
+]

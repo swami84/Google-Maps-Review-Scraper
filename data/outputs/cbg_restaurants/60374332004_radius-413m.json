@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0675,
+                        "lng":-118.0427778
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0688666303,
+                              "lng":-118.0413488197
+                        },
+                        "southwest":{
+                              "lat":34.0661686697,
+                              "lng":-118.0440467803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Comalero Pupuseria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117737852100251397272\">Maria Hernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBaisrRHtwHD-_nx5NsSj191mycIYLvb2EI8ZgCcyWI3ANuz9dDfy-c7y_55RwwcEOtspsFHMrYBc2Zxai8Nw72IW31X5qv76VPc2UaoCvzpbLCEgcC5W4W0Lrzzxd3kX8Z6ob6pIbxoqParym8sr8oUDkOi0QYuaTblquqS5S0XA9W",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ0YDwC5jQwoAR_RiLfJbp4fU",
+            "plus_code":{
+                  "compound_code":"3X84+XV El Monte, CA, USA",
+                  "global_code":"85633X84+XV"
+            },
+            "rating":3.8,
+            "reference":"ChIJ0YDwC5jQwoAR_RiLfJbp4fU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":236,
+            "vicinity":"3253 Santa Anita Avenue, El Monte",
+            "CBG":60374332004,
+            "Radius":412.5611013416
+      }
+]

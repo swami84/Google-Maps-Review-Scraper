@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.5794586,
+                        "lng":-77.4698387
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5808075803,
+                              "lng":-77.4684897197
+                        },
+                        "southwest":{
+                              "lat":37.5781096197,
+                              "lng":-77.4711876803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Richmond Technical Center Bistro",
+            "place_id":"ChIJ563q8vwXsYkRgZ9tYraGhp4",
+            "plus_code":{
+                  "compound_code":"HGHJ+Q3 Richmond, VA, USA",
+                  "global_code":"8794HGHJ+Q3"
+            },
+            "reference":"ChIJ563q8vwXsYkRgZ9tYraGhp4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2015 Seddon Way 2nd floor, Richmond",
+            "CBG":517600102004,
+            "Radius":488.3692299473
+      }
+]

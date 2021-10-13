@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7819085,
+                        "lng":-118.1966233
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7831656803,
+                              "lng":-118.1951857697
+                        },
+                        "southwest":{
+                              "lat":33.7804677197,
+                              "lng":-118.1978837303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Classic Southern Comforts",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110280508657751543651\">Classic Southern Comforts<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECG7jHYejyiPdVZ1yd83Zt9dwFIAPJD6VUQ1fMheVYp96Q3AyWksP3LeKc4RZyCCR1okLb2yXsvcWh0O1Bcd2GYh95gtT5ipk-6a3hNPVQbnul2QTsNMQnXp8FO9pqIx_a4KVIFkOS5a5BCwkHn69h707v82TiED-BRhrv0wchiLvqV",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ0fSrM3sx3YARtxw6fdc7Gdk",
+            "plus_code":{
+                  "compound_code":"QRJ3+Q9 Long Beach, CA, USA",
+                  "global_code":"8553QRJ3+Q9"
+            },
+            "reference":"ChIJ0fSrM3sx3YARtxw6fdc7Gdk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1259 North Loma Vista Drive, Long Beach",
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60375758021,
+            "Radius":225.772430212
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7824839,
+                        "lng":-118.1963675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7838940303,
+                              "lng":-118.1950182697
+                        },
+                        "southwest":{
+                              "lat":33.7811960697,
+                              "lng":-118.1977162303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafecito Salv",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108685561185703230141\">Dj joker La potencia musical<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBCvHF-k0WzBmlDXkSVENrfsShf8viuzvlE8jbzAy6BvlNT22t9rrrXbIzb2vBsFWJvpHfzwhgbnnEhoV-mePZbCwptqINdo--G6kBjZhIzeO4oy45XUZMbXbU6xgufS6pBxk9zcUiuNm3wG2c1gz_y_DvyQqARXyuraGRVJ7rN7lyH",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJjw32JVAx3YARy5vnIoBfAnA",
+            "plus_code":{
+                  "compound_code":"QRJ3+XF Long Beach, CA, USA",
+                  "global_code":"8553QRJ3+XF"
+            },
+            "reference":"ChIJjw32JVAx3YARy5vnIoBfAnA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"412 West Anaheim Street, Long Beach",
+            "price_level":1.0,
+            "rating":4.1,
+            "user_ratings_total":298.0,
+            "CBG":60375758021,
+            "Radius":225.772430212
+      }
+]

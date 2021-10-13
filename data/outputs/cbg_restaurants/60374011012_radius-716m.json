@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1282919,
+                        "lng":-117.8491964
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1297187803,
+                              "lng":-117.8478910197
+                        },
+                        "southwest":{
+                              "lat":34.1270208197,
+                              "lng":-117.8505889803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"House of Tacos & Sandwiches",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109313146400701703936\">David Cho<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBXcQYlWZIIwNtIk1-DJHxpviHC_A-Lz7gHPmuRoaUUjSk_U5w7hqW6PEj_ILwhEm9WZB-K26lV_4slyFuM_K9E4IEtqJdwcw0UJsy4gu2LhbJQGj3hvJwMaue3pyGNAE84VJjLWlEgzABwvpa_2m1b2iMUXsQ0MpphQY8bX7Js0KqL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJaSG9oB4mw4ARzmddnH6VuJQ",
+            "plus_code":{
+                  "compound_code":"45H2+88 Glendora, CA, USA",
+                  "global_code":"856445H2+88"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJaSG9oB4mw4ARzmddnH6VuJQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"1004 East Route 66, Glendora",
+            "CBG":60374011012,
+            "Radius":716.1061717219
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1290092,
+                        "lng":-117.8511298
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1302756303,
+                              "lng":-117.8497695197
+                        },
+                        "southwest":{
+                              "lat":34.1275776697,
+                              "lng":-117.8524674803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cabo Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102959041779638689345\">Cabo Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZVLZmYswxlk9qePSiIle5T6_oYaNaKYgi0MrpkT8OGmkiu8BPcGLe4Np5pTj9TDMFvpcBjWWUAoLoD7-9u6Ix01zALZHs0hG5CspIFqoWc25LZ5hEG_j3HM5G9ptfKZsLmX2n8_lmL5RIsXnI4IsAt9Q5uDKDmmhXLDjcVyiGrX2y",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5TMiLRkmw4ARE19LSHRClyk",
+            "plus_code":{
+                  "compound_code":"44HX+JG Glendora, CA, USA",
+                  "global_code":"856444HX+JG"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ5TMiLRkmw4ARE19LSHRClyk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":363,
+            "vicinity":"853 East Route 66, Glendora",
+            "CBG":60374011012,
+            "Radius":716.1061717219
+      }
+]

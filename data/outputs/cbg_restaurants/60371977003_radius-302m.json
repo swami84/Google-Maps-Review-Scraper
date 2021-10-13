@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0656304,
+                        "lng":-118.2427869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0669793803,
+                              "lng":-118.2414379197
+                        },
+                        "southwest":{
+                              "lat":34.0642814197,
+                              "lng":-118.2441358803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La guerra birria taco truck",
+            "place_id":"ChIJZ7IN9jjHwoARsigUL-ZDgfM",
+            "plus_code":{
+                  "compound_code":"3Q84+7V Los Angeles, CA, USA",
+                  "global_code":"85633Q84+7V"
+            },
+            "reference":"ChIJZ7IN9jjHwoARsigUL-ZDgfM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"E 83rd St & Compton Ave, Florence-Graham",
+            "CBG":60371977003,
+            "Radius":301.7607425766
+      }
+]

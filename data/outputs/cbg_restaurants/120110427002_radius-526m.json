@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1073673,
+                        "lng":-80.1661111
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1085988803,
+                              "lng":-80.1647610697
+                        },
+                        "southwest":{
+                              "lat":26.1059009197,
+                              "lng":-80.1674590303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Delicias chapinas restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1936,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115340371819468999921\">Delicias chapinas restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOSeuvFu07BMt3i5HwAc_hWnivFTg2dnPZJpUoVg-GPwCUoZZTlLsmqhvQuZCyNUOBJzF-p6CFbsUZXV-ORxw6IvVWOLtO_emATK9u28F_U1LbImcmI1cBVpYk8DFFJuKY4YSIxGCMpXrp8xUxbnnoQ-px9ozTegKie5z6azpvr6fG",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJywiWrl0B2YgRjNCOBFcQ-TY",
+            "plus_code":{
+                  "compound_code":"4R4M+WH Fort Lauderdale, FL, USA",
+                  "global_code":"76RX4R4M+WH"
+            },
+            "rating":4.5,
+            "reference":"ChIJywiWrl0B2YgRjNCOBFcQ-TY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":45,
+            "vicinity":"1879 Davie Boulevard, Fort Lauderdale",
+            "CBG":120110427002,
+            "Radius":526.295143859
+      }
+]

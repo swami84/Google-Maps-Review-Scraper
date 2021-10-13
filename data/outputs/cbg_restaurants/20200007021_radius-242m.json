@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":61.2263273,
+                        "lng":-149.7426735
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":61.2275626303,
+                              "lng":-149.7415544197
+                        },
+                        "southwest":{
+                              "lat":61.2248646697,
+                              "lng":-149.7442523803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"IHOP",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110742629690722583225\">IHOP<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDSMXBM3vkKdsJib4TJ6TP95HP0dVeg7d_bYsPj7YLnriSlKq1eAU3iYNNisTl_1X5_qdG40jFB98faYhQCRd5rFk7M4TFdgHpFgtUmlpvpg43tszb-UkHRMPayKFOtyRz0seQX3uPFtKZ-ZwoIMH8nxuE-GLGv-619LO0m8YH7K3tS",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJLZp_Vi-UyFYR_AtHE2Oz_Rg",
+            "plus_code":{
+                  "compound_code":"67G4+GW Northeast Anchorage, Anchorage, AK, USA",
+                  "global_code":"93HG67G4+GW"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJLZp_Vi-UyFYR_AtHE2Oz_Rg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":687,
+            "vicinity":"1106 North Muldoon Road, Anchorage",
+            "CBG":20200007021,
+            "Radius":242.3166347257
+      }
+]

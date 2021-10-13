@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0572464,
+                        "lng":-118.2528775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0584589303,
+                              "lng":-118.2514559697
+                        },
+                        "southwest":{
+                              "lat":34.0557609697,
+                              "lng":-118.2541539303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Crepes De Paris",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108180462194120192356\">Tammy Mur<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1n54QchzvptuklwsfrXpBHrQ8ZRIt63VvlKKSkgEoXHcHDBZDsHi23PkVyEYE7EtgrplPWvRlE5yD7Flh0-AJ00pDuCoMlnwo02BbklOWZL8DWaAVMfvcgm2J73mDVegiAHBFZvEj3eX-FYio4W6SU8yGKzl9I5AWE9v8cnfErKc",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq1ZFMq3HwoARjAiaIuq5CAk",
+            "plus_code":{
+                  "compound_code":"3P4W+VR Los Angeles, CA, USA",
+                  "global_code":"85633P4W+VR"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJq1ZFMq3HwoARjAiaIuq5CAk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":245,
+            "vicinity":"Prominade Towers, 123 South Figueroa Street #122, Los Angeles",
+            "CBG":60372075011,
+            "Radius":206.7791384096
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0562184,
+                        "lng":-118.2508578
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0575705303,
+                              "lng":-118.2492112197
+                        },
+                        "southwest":{
+                              "lat":34.0548725697,
+                              "lng":-118.2519091803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\u00c2u L\u1ea1c LA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116324648588692178041\">\u00c2u L\u1ea1c LA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECiQISx7gULxdHx42MmDddBn1qZmmYwNM7b4arekjyOc0ldpBvl6gvh3hePhBeo63uuIWYDq1OVkPNrgy6QrG6XBVi4biSmpkrswIdQuwoKy6qyNF8a9CQIsGkG4Xt_rkENbmSEKVnt4jmjPzGaGI5MxNp0Z9sK7gXtTeaRS7gBRdfL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe0sPnFLGwoARxFDUYFEjhuQ",
+            "plus_code":{
+                  "compound_code":"3P4X+FM Los Angeles, CA, USA",
+                  "global_code":"85633P4X+FM"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJe0sPnFLGwoARxFDUYFEjhuQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":841,
+            "vicinity":"710 West 1st Street, Los Angeles",
+            "CBG":60372075011,
+            "Radius":206.7791384096
+      }
+]

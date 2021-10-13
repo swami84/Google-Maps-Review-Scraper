@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9163144,
+                        "lng":-118.1385752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9176150803,
+                              "lng":-118.1371306697
+                        },
+                        "southwest":{
+                              "lat":33.9149171197,
+                              "lng":-118.1398286303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chick-fil-A Imperial & Lakewood",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2336,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109937723354576036348\">Andy Segura Felipe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECnYzx21q8dSt_tsFGg-RWUsyQKiwPWH63NAPuzvB3yzFkGvedjSznct3s6_yvs9_D9MCYJR3_QRG7Y5Pl2rCx7iXVZ0UoeQHHdHOpSA0DbGgc0nwIX3cRl5-bB9M1Cn4-_LljcONNkPyJszr1sglESdKQSROqGuAyD_-G_xS9Ltjv-",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJOzcH0gnNwoARnARnv9Rv6ZI",
+            "plus_code":{
+                  "compound_code":"WV86+GH Downey, CA, USA",
+                  "global_code":"8553WV86+GH"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJOzcH0gnNwoARnARnv9Rv6ZI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"8900 Imperial Highway, Downey",
+            "CBG":60375518003,
+            "Radius":308.1399803648
+      }
+]

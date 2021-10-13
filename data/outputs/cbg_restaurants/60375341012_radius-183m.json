@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9735767,
+                        "lng":-118.1642664
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9749448803,
+                              "lng":-118.1628493697
+                        },
+                        "southwest":{
+                              "lat":33.9722469197,
+                              "lng":-118.1655473303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Negro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110790176602210942983\">Tacos El Negro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA-aU4EciqYzEVn66PEKWAA67e3kiU84Lvi01TOvB33jYRw_v71KMkfwA6J_A3PQlVl8LSzYXXSpVjKHdNClJMCUqWvAk8b0N0K9bEQiDtyBMyXvUD7hggomH6kjs3xaDSUbyEwhCgv0YzvNlLNjR-YqLun1ZHTwXFuTdBc4KUz3q0k",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJuXOicobOwoARttN91fVI3PM",
+            "plus_code":{
+                  "compound_code":"XRFP+C7 Bell Gardens, CA, USA",
+                  "global_code":"8553XRFP+C7"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJuXOicobOwoARttN91fVI3PM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":671,
+            "vicinity":"6525 Eastern Avenue, Bell Gardens",
+            "CBG":60375341012,
+            "Radius":182.6728778399
+      }
+]

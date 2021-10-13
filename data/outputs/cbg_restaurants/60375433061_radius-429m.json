@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8320961,
+                        "lng":-118.2493133
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8333676803,
+                              "lng":-118.2479630697
+                        },
+                        "southwest":{
+                              "lat":33.8306697197,
+                              "lng":-118.2506610303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rosario's Italian Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1552,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102729724599625897703\">Martin Starkovich<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA-Z-BSWUD2-w7TOJjjIiI7Ag4UMR83cR-bxI_T-tEvmucyv8v9KhreL_Vd6Ht4YiHh2yyJIgYbaMK9XO_K64q-KcgmoXu3M9xC2Bha1gSe56bkXWJgoyWxHhEdFdsmAsuE-q9v5zNXiUTPYtb_ZPnEXfJS-2fY-U9FUdu67d7DdCqM",
+                        "width":2591
+                  }
+            ],
+            "place_id":"ChIJPfr93-I03YAR1dA-XkSt3bY",
+            "plus_code":{
+                  "compound_code":"RQJ2+R7 Carson, CA, USA",
+                  "global_code":"8553RQJ2+R7"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJPfr93-I03YAR1dA-XkSt3bY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":411,
+            "vicinity":"1343 East Carson Street, Carson",
+            "CBG":60375433061,
+            "Radius":428.5821154478
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8320821,
+                        "lng":-118.2497491
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8333619303,
+                              "lng":-118.2483761197
+                        },
+                        "southwest":{
+                              "lat":33.8306639697,
+                              "lng":-118.2510740803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Poly Grill & Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102943491471401110492\">Poly Grill &amp; Bakery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECpb-1y71ATaaaBYYkjPZGgVlemsDVlcRYXcfKUKQlcljXNOXYHMNPIYEthPNCW4oWzi7hWAI7mm8t29sRknI-CeF61jJNGxviUIfrYrygE1XZP5bzwqnEJT3__nF5zOkZ2vKpDnY2DHbNIeLZO68Km8KLDUHZc5YCsM4D94Kda-CqR",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJfUG54OI03YARHuHkXj5Wbrg",
+            "plus_code":{
+                  "compound_code":"RQJ2+R4 Carson, CA, USA",
+                  "global_code":"8553RQJ2+R4"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJfUG54OI03YARHuHkXj5Wbrg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"1329 East Carson Street, Carson",
+            "CBG":60375433061,
+            "Radius":428.5821154478
+      }
+]

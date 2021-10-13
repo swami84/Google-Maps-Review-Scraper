@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9021326,
+                        "lng":-118.3361414
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9035936803,
+                              "lng":-118.3349229197
+                        },
+                        "southwest":{
+                              "lat":33.9008957197,
+                              "lng":-118.3376208803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lindo Acapulco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2792,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106857039824279058468\">Lindo Acapulco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB574eSqzsUcacWXE5ZOLffpnfK-zCCr9fDlVA6TVvDnifoiU_r1aOSPw4bbGHsQYsC1YxmPULVEMn3YIFFi8plKnqIagirLi9nIxKOawc82gnAnSquKlZBV_qnqoBEaLJD7vqBaBKrXiTTumCbQzb2Ijq_JCuCL5tOORNwhDJTyotT",
+                        "width":3670
+                  }
+            ],
+            "place_id":"ChIJxX3VIsi1woARmHkqFtT-A4I",
+            "plus_code":{
+                  "compound_code":"WM27+VG Hawthorne, CA, USA",
+                  "global_code":"8553WM27+VG"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJxX3VIsi1woARmHkqFtT-A4I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":100,
+            "vicinity":"3627 Rosecrans Avenue, Hawthorne",
+            "CBG":60376025042,
+            "Radius":226.486809281
+      }
+]

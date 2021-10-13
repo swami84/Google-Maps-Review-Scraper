@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0096643,
+                        "lng":-80.2167109
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0110240803,
+                              "lng":-80.2153782697
+                        },
+                        "southwest":{
+                              "lat":26.0083261197,
+                              "lng":-80.2180762303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"bp",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109514023369887676617\">Carlos Mendoza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzeb9X1N-B7Vz7zy8ITuu4OTBSOPgHX2IxY-UzW7rqJMwJ5fEAb5n_Oqwu2fjJYMHd5akQwy50w1cxJFmLc6ft48kT3_G9jm5jvKJrnh_8UEE6X9ovacBKTKQbXGLhaESC9NIvBAxLdoW6NLfhJzMiVg6OWigksGoOND3EXJh3UDjn",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJN_TXjDup2YgRpjjCMzPNjKg",
+            "plus_code":{
+                  "compound_code":"2Q5M+V8 Pembroke Pines, FL, USA",
+                  "global_code":"76RX2Q5M+V8"
+            },
+            "rating":3.2,
+            "reference":"ChIJN_TXjDup2YgRpjjCMzPNjKg",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"6450 Pines Boulevard, Pembroke Pines",
+            "CBG":120110912021,
+            "Radius":531.0354846123
+      }
+]

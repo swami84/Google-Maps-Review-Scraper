@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1641667,
+                        "lng":-118.3694444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1655901303,
+                              "lng":-118.3681412197
+                        },
+                        "southwest":{
+                              "lat":34.1628921697,
+                              "lng":-118.3708391803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Flame Broiler",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117284050473197159797\">Jessie Garcia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwg-BEMIr6Kg677LXXr9ifmUiAzgt98YFJXr5PaCcsNECwldFNR2gDEXC67APZzpxMIEQnyNvaRy7SeP3eLrG-31lPyRlcak3n5pKOMqnxV8r-gsZIejQOxxFD5ITPs6Mxbg-AQk3-lYLDMFOdcEgr8K0OsPvDtvgej6VTjKVqOWBk",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJmT6Zq_SVwoAR7EaNC_o6zJk",
+            "plus_code":{
+                  "compound_code":"5J7J+M6 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J7J+M6"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJmT6Zq_SVwoAR7EaNC_o6zJk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":180.0,
+            "vicinity":"5160 Vineland Avenue #107, North Hollywood",
+            "CBG":60371255011,
+            "Radius":265.4612415638
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1627735,
+                        "lng":-118.3661942
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1640596803,
+                              "lng":-118.3648451197
+                        },
+                        "southwest":{
+                              "lat":34.1613617197,
+                              "lng":-118.3675430803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mesa Otsego",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJwXm_rIuVwoARE5fY0gQcMdY",
+            "plus_code":{
+                  "compound_code":"5J7M+4G North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J7M+4G"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJwXm_rIuVwoARE5fY0gQcMdY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"10803 Otsego Street, North Hollywood",
+            "CBG":60371255011,
+            "Radius":265.4612415638
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8665186,
+                        "lng":-77.2793182
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8678723303,
+                              "lng":-77.2779688197
+                        },
+                        "southwest":{
+                              "lat":38.8651743697,
+                              "lng":-77.2806667803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Antojitos de tu Pa\u00eds",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105885754210764543547\">Nora Vegas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA8BHcSS0yH2mDDApQrWzoHoXZjEzJAvr8Phn8lOXsCx0NeincY4JWarj3fAmRjTO3ug9pO3cK99qoO3D5-VGYB4daZE9KBFmRA8M4u2LUtjBI4gECH9Vol5K07tQ_FFA3ubj_Mp2WDy4yDo3dvJDRMf-EXnNoj8K-jmF_1VtFiK-sV",
+                        "width":900
+                  }
+            ],
+            "place_id":"ChIJkQd6HgRMtokREifJRzWinjI",
+            "plus_code":{
+                  "compound_code":"VP8C+J7 Fairfax, VA, USA",
+                  "global_code":"87C4VP8C+J7"
+            },
+            "rating":4.6,
+            "reference":"ChIJkQd6HgRMtokREifJRzWinjI",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":157,
+            "vicinity":"3160 Spring Street Unit B, Fairfax",
+            "CBG":510594619011,
+            "Radius":241.0133112507
+      }
+]

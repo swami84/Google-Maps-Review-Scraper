@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1577998,
+                        "lng":-118.4132803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1591900303,
+                              "lng":-118.4118171697
+                        },
+                        "southwest":{
+                              "lat":34.1564920697,
+                              "lng":-118.4145151303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hugo's Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112595977383393776144\">Hugo&#39;s Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECXDxrjoQInShHjen2LXRSbmSZoR5l9I0qJ3btF2D78-C0MZ5HwNV93kGYQhhuShjpjs7JxNmg22PNKiQL7xOavBUMx4NFPLerC_GmMP5ri1TbMSqHChpoPaqUZJ5MAXyigdP1h1ooSzsJy39vyUNhzGxxHPXgmAGs4UliJ6IvE4lmb",
+                        "width":4900
+                  }
+            ],
+            "place_id":"ChIJ6cIVzBmWwoARhSdO0XcmXdk",
+            "plus_code":{
+                  "compound_code":"5H5P+4M Valley Village, Los Angeles, CA, USA",
+                  "global_code":"85635H5P+4M"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ6cIVzBmWwoARhSdO0XcmXdk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":918,
+            "vicinity":"12851 Riverside Drive, Valley Village",
+            "CBG":60371247003,
+            "Radius":340.7873216449
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1573216,
+                        "lng":-118.4139925
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1586346303,
+                              "lng":-118.4126190197
+                        },
+                        "southwest":{
+                              "lat":34.1559366697,
+                              "lng":-118.4153169803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hugo's Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115030550033768869161\">Eddie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjg2C2t04EctDL8YVGTCEP6PJrDAXz9isXgxGcuDlPddUOG3A5hylxQ2ug1lOIKOfCy12nqNzD5_k6CkzHv_-TEhPTM5NrztCDil3m5Ib7YN6jTX7nRAfykaYQh2DaNK5sdyoTUFsVt2F4lGJmQR692Nkv517D9XigYb24_xXBTlkN",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJa8kfNxiWwoARD2sK_jeDmXU",
+            "plus_code":{
+                  "compound_code":"5H4P+WC Studio City, Los Angeles, CA, USA",
+                  "global_code":"85635H4P+WC"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJa8kfNxiWwoARD2sK_jeDmXU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":497,
+            "vicinity":"4749 Coldwater Canyon Avenue, Studio City",
+            "CBG":60371247003,
+            "Radius":340.7873216449
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.90345,
+                        "lng":-118.1771317
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9048058803,
+                              "lng":-118.1756660197
+                        },
+                        "southwest":{
+                              "lat":33.9021079197,
+                              "lng":-118.1783639803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Compa Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106677508959422649623\">Victor Conriquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED25yVekh2M71b4ma-lQmf1y3DLOEU9g2vcceyBLWj94qrMBXU5tVw04NdTwRuICxgVcha_1xh7HVenx9_OhBVZkj0Uo15vzrszvlZi_6_MBDCQhZfDuJVjz5LBgxQVwQeEOMLWEXaBl_phRy0jzrZTnx0DAX_Gm2r0LpJUcy5B9KSO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-6Br3OvMwoARHp4gNExKcXE",
+            "plus_code":{
+                  "compound_code":"WR3F+94 Paramount, CA, USA",
+                  "global_code":"8553WR3F+94"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ-6Br3OvMwoARHp4gNExKcXE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":342,
+            "vicinity":"7010 Rosecrans Avenue, Paramount",
+            "CBG":60375537011,
+            "Radius":445.6762040293
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0688295,
+                        "lng":-118.2988292
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0701879303,
+                              "lng":-118.2976830697
+                        },
+                        "southwest":{
+                              "lat":34.0674899697,
+                              "lng":-118.3003810303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"One More Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102237650196815080920\">One More Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJptSYXIfOzyc3YyGB9Q5S55qAEhtGQH_QWcy8UY2CMjFhYgBFeEBumFcQ21-mA8XqPGxDz4s3Wwgx1R8c_xYsswxj0fIv15VMfa3krwuSpbW6m-cf5eO6OM2VC-k_n8olHIdMve0FDNvQeEcq64IiuGKn20I9CXyjwN0-am0zol2w",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJI44mCBbHwoARlJnOdu_J40Y",
+            "plus_code":{
+                  "compound_code":"3P92+GF Los Angeles, CA, USA",
+                  "global_code":"85633P92+GF"
+            },
+            "rating":4.8,
+            "reference":"ChIJI44mCBbHwoARlJnOdu_J40Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"300 South Mariposa Avenue, Los Angeles",
+            "CBG":60372119101,
+            "Radius":123.0929278725
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9935809,
+                        "lng":-118.3184283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9949061303,
+                              "lng":-118.3169808697
+                        },
+                        "southwest":{
+                              "lat":33.9922081697,
+                              "lng":-118.3196788303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fish Town",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111737347815970159901\">Jesse Barber<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDNNUugb31ztVe6cGQDZ8iB1j4ijfv8gC260tij8z1cIawbLdVnl63eIEbOpgLz4t6P3JYKJJ9D0ciFAq41h5OKJVc7W0rDB4dyr4HqpjclJz4_fT-OZV-2l-UIxW-mLWE2y7_Ci3LegvhTtaQSWHELV83qrwg3qA3K9GuFxYnkYy28",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ3VBkEuy3woARxg61_3Ov-P8",
+            "plus_code":{
+                  "compound_code":"XMVJ+CJ Los Angeles, CA, USA",
+                  "global_code":"8553XMVJ+CJ"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJ3VBkEuy3woARxg61_3Ov-P8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":503,
+            "vicinity":"5351 Arlington Avenue, Los Angeles",
+            "CBG":60372346001,
+            "Radius":315.4384920263
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9893094,
+                        "lng":-118.3198975
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9905583303,
+                              "lng":-118.3185452197
+                        },
+                        "southwest":{
+                              "lat":33.9878603697,
+                              "lng":-118.3212431803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Slauson Dree tacos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":809,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117491386922659369041\">Slauson Dree tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDa7ehPyIlVE4M2PDDsWMJkziGYHPCyh2MC4sRYpLujScQMWh-m8WgygEGX5jAfwmK6e4_1lLGbCLXIxfvkjolp6H75KXPkT6JWy77iPls_CSarcHBPSd_Zu4R1psnpDHn05a3Lv0PAhD6x2u4Lzhu4Xluc_FW8INX9esU-A56r17KM",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJFyql5PO3woARCf9aF3l6t4g",
+            "plus_code":{
+                  "compound_code":"XMQJ+P2 Los Angeles, CA, USA",
+                  "global_code":"8553XMQJ+P2"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJFyql5PO3woARCf9aF3l6t4g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2415 West Slauson Avenue, Los Angeles",
+            "CBG":60372346001,
+            "Radius":315.4384920263
+      }
+]

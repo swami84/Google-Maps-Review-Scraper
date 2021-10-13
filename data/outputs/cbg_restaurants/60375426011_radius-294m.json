@@ -1,0 +1,90 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9066504,
+                        "lng":-118.2258088
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9079444803,
+                              "lng":-118.2246137197
+                        },
+                        "southwest":{
+                              "lat":33.9052465197,
+                              "lng":-118.2273116803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Daisy's popusas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ_yYDjhDLwoARU5uKASTsszc",
+            "plus_code":{
+                  "compound_code":"WQ4F+MM Compton, CA, USA",
+                  "global_code":"8553WQ4F+MM"
+            },
+            "rating":5.0,
+            "reference":"ChIJ_yYDjhDLwoARU5uKASTsszc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1520 North Willowbrook Avenue, Compton",
+            "CBG":60375426011,
+            "Radius":293.5027873599
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9036169,
+                        "lng":-118.2241271
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9048373303,
+                              "lng":-118.2227761697
+                        },
+                        "southwest":{
+                              "lat":33.9021393697,
+                              "lng":-118.2254741303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El pollo dorado",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJx22jCqnLwoARQIcHOR-0hvA",
+            "plus_code":{
+                  "compound_code":"WQ3G+C8 Compton, CA, USA",
+                  "global_code":"8553WQ3G+C8"
+            },
+            "rating":3.7,
+            "reference":"ChIJx22jCqnLwoARQIcHOR-0hvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1301 East Rosecrans Avenue, Compton",
+            "CBG":60375426011,
+            "Radius":293.5027873599
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0834221,
+                        "lng":-118.3071989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0848157303,
+                              "lng":-118.3058504697
+                        },
+                        "southwest":{
+                              "lat":34.0821177697,
+                              "lng":-118.3085484303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Victoria's Pupuseria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJYZXJZHy5woARSCWadGhFz_g",
+            "plus_code":{
+                  "compound_code":"3MMV+94 Los Angeles, CA, USA",
+                  "global_code":"85633MMV+94"
+            },
+            "reference":"ChIJYZXJZHy5woARSCWadGhFz_g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Parking Lot, 4904 Melrose Ave Across Serrano ave. Enter by, Los Angeles",
+            "CBG":60371925102,
+            "Radius":231.9381936955
+      }
+]

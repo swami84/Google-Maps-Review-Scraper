@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9537853,
+                        "lng":-87.741389
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9551325303,
+                              "lng":-87.7401197697
+                        },
+                        "southwest":{
+                              "lat":41.9524345697,
+                              "lng":-87.7428177303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chicago's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110414740963539188370\">Aaron Weiche<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA9NtzKDU0ZHq4hwg4koa8IN2fBjVSOq46D-iELVSYiFUo1GgYLJUOUABH6ZyuEWmD950w_yBvo-XM8SRrm6gFqYmftve5dpK5TGTDFKLD-WNi0jn5ERKVDgQJ_Vo2j_I5id6qQvP2kFBN1Lz6-LdXx1X3576gI0lJegYrO3RAnd70Y",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJEVl820vMD4gRupCXMAtOqbY",
+            "plus_code":{
+                  "compound_code":"X735+GC Chicago, IL, USA",
+                  "global_code":"86HJX735+GC"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJEVl820vMD4gRupCXMAtOqbY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":552,
+            "vicinity":"4520 West Irving Park Road, Chicago",
+            "CBG":170311602004,
+            "Radius":395.2110782372
+      }
+]

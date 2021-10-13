@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8757328,
+                        "lng":-118.4059299
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8771344803,
+                              "lng":-118.4046100697
+                        },
+                        "southwest":{
+                              "lat":33.8744365197,
+                              "lng":-118.4073080303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Pe\u00f1ita Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114118641425706531333\">I-Lin L<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAE3UiCzB5LxgZuwP986vbVyKMur3Ogo3QxXBS8LZLA5oOpLMoDhTXaK4Ree77sppzk6jzSPB5-q3MG6sGW8tHz3GdXTK4W5rLSV762zEZgRJxAQjw_llsv7gBub73kCb8qza_kx4Bbh3WaGtFQ-c02tc6RKegP8n51CRBSJY7tHJ50",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ3dqXN5CzwoAR0R08UM7dz7A",
+            "plus_code":{
+                  "compound_code":"VHGV+7J Hermosa Beach, CA, USA",
+                  "global_code":"8553VHGV+7J"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJ3dqXN5CzwoAR0R08UM7dz7A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"200 Longfellow Avenue, Hermosa Beach",
+            "CBG":60376210041,
+            "Radius":169.8304363093
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8760005,
+                        "lng":-118.4060857
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8773125803,
+                              "lng":-118.4048150197
+                        },
+                        "southwest":{
+                              "lat":33.8746146197,
+                              "lng":-118.4075129803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brother's Burritos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109726740564907750096\">Tim Powers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBtTQRcvdonichgfFdoGnldfMvA6XUqC9LItQvf2Orp1QTdARKXibRgcFNoJPKIiLukFc4AUoOMoMcQG9u2D_nCvny-HquWEbtMOX0Pa1qFq9c8EDJ2i35xDXBvak3yyRex18VZfc6YfQtidzzDwk9EHZwk-jeETfSlngfyxC2JfgTP",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJk4GHNZCzwoARylE5lcMYaJY",
+            "plus_code":{
+                  "compound_code":"VHGV+CH Hermosa Beach, CA, USA",
+                  "global_code":"8553VHGV+CH"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJk4GHNZCzwoARylE5lcMYaJY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"3216 Manhattan Avenue, Hermosa Beach",
+            "CBG":60376210041,
+            "Radius":169.8304363093
+      }
+]

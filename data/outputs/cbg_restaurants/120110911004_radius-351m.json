@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0208076,
+                        "lng":-80.2082876
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0221174303,
+                              "lng":-80.2068364697
+                        },
+                        "southwest":{
+                              "lat":26.0194194697,
+                              "lng":-80.2095344303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Las Vegas Cuban Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1868,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA88c0VcaK2xEhJBhPBunLIh5VVpwbCuuypYcx5gwhYai0gFO3v6Zr8I0g7qKkS9jy4x-ReGvK6SlBiKQjYoy8ICBXCMHVjMCIF5zL5DCZ3un2Wi1wDuqoo7T6T6N8-0NDG8wsh_UjziEGBlh7WzWGqrLEcTsYAU2MPrG-LqwNlgaVW",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJI-AM0OKq2YgROEzmgEQxoD4",
+            "plus_code":{
+                  "compound_code":"2QCR+8M Hollywood, FL, USA",
+                  "global_code":"76RX2QCR+8M"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJI-AM0OKq2YgROEzmgEQxoD4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":771,
+            "vicinity":"1212 North State Road 7, Hollywood",
+            "CBG":120110911004,
+            "Radius":350.5379395353
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.02003,
+                        "lng":-80.20833
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0213841303,
+                              "lng":-80.2068454697
+                        },
+                        "southwest":{
+                              "lat":26.0186861697,
+                              "lng":-80.2095434303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Villa Rose Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1868,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC22k2avlYrhkoYC4z1NTl-ruNwJJBl8AFCK0v2yKcylhNASOlQ64v0P7yRdWvpUsy3SQFeAWRfgeToQmi9F8dRd5y1uN7s48KkqYeXbCMwYmGznlp5Ig3ownhZvoYCLbZXccUmX4rnGNPGZ5BqcHfoLhJtkXFduEBOJwCR_kRiRFbs",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJvxs1FWup2YgRFgyJT5xwYkc",
+            "plus_code":{
+                  "compound_code":"2QCR+2M Hollywood, FL, USA",
+                  "global_code":"76RX2QCR+2M"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJvxs1FWup2YgRFgyJT5xwYkc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":580,
+            "vicinity":"1114 North State Road 7, Hollywood",
+            "CBG":120110911004,
+            "Radius":350.5379395353
+      }
+]

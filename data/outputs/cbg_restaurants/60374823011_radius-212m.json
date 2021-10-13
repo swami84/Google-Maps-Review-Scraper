@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0746346,
+                        "lng":-118.0902714
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0759515303,
+                              "lng":-118.0891010197
+                        },
+                        "southwest":{
+                              "lat":34.0732535697,
+                              "lng":-118.0917989803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carl's Jr.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":694,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102106775154194163599\">Carl&#39;s Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED7uyzuqhnntVMG6EfShdwpAotXs6R2dGC2twxyxHfyJE5F8Q17778mrZFS04Z7oF2W76lHTCS6nMLDM5MJsJj7qFqraXwQYpZE0npuHH3yVQm8xrvBhZjyYOO7N230lRA-nXKQzBgb4wyvc_mabZ-8s_lkTgHjZsa5c2S1NSE0Pfwf",
+                        "width":1234
+                  }
+            ],
+            "place_id":"ChIJsWxMyaLawoARSgE4DMqIihA",
+            "plus_code":{
+                  "compound_code":"3WF5+VV San Gabriel, CA, USA",
+                  "global_code":"85633WF5+VV"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJsWxMyaLawoARSgE4DMqIihA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":551,
+            "vicinity":"1900 San Gabriel Boulevard, San Gabriel",
+            "CBG":60374823011,
+            "Radius":211.8762883345
+      }
+]

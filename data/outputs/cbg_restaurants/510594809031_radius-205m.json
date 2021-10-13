@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9561286,
+                        "lng":-77.3935351
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9576169303,
+                              "lng":-77.3920842197
+                        },
+                        "southwest":{
+                              "lat":38.9549189697,
+                              "lng":-77.3947821803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Anu's Cupcakes & Cakes",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJu1u_iV9HtokRUVVTDEezFtI",
+            "plus_code":{
+                  "compound_code":"XJ44+FH Herndon, VA, USA",
+                  "global_code":"87C4XJ44+FH"
+            },
+            "reference":"ChIJu1u_iV9HtokRUVVTDEezFtI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"12913 Alton Square, Herndon",
+            "CBG":510594809031,
+            "Radius":204.8054814986
+      }
+]

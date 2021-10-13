@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.989508,
+                        "lng":-118.4600719
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9908480803,
+                              "lng":-118.4587036197
+                        },
+                        "southwest":{
+                              "lat":33.9881501197,
+                              "lng":-118.4614015803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Food Shop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104249231818243786362\">Daniel Russell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQlRJrU-eE41uKLRs8Npd8YkCBRc4B2axMMFlLb2So6jMA0PiO9R71_xGNvAelvMxTHRsiS87fiNLLdRtACsdr4g0ybfvoB9f-cQRspbmaHZyeEnNfK9SKhhORDkTx8zaSVB53rr7Fs2hdsAyUctoHcIMg2lzAY-Od2UZVH6GWMY6P",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgb2qkTa7woAR1ODKQoOwIEA",
+            "plus_code":{
+                  "compound_code":"XGQQ+RX Venice, Los Angeles, CA, USA",
+                  "global_code":"8553XGQQ+RX"
+            },
+            "rating":4.7,
+            "reference":"ChIJgb2qkTa7woAR1ODKQoOwIEA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"Venice",
+            "CBG":60372738003,
+            "Radius":213.5179932668
+      }
+]

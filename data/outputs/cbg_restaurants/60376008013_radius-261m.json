@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9623232,
+                        "lng":-118.3268309
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9636054303,
+                              "lng":-118.3254049697
+                        },
+                        "southwest":{
+                              "lat":33.9609074697,
+                              "lng":-118.3281029303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Big Fish Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":533,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117975862458023868775\">Big Fish Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEArlNPi1LyrOrlId4ia2BscmZyCzGxY3Rh4ebASqGdbqDNH9BxwtKCaq3hkiTR7E2x3yulLu7VjyNwt1LEee1Mf9UjjUvoYkNRoR_PDfGXLmRCZZQXRngdEQ4HuOuTuWVBwx_n2d6IGA5DGHIQN8KVu711PUOQslWrtSqU6vGAqxYj2",
+                        "width":800
+                  }
+            ],
+            "place_id":"ChIJF6N8pEu2woARruLI_6dPz7I",
+            "plus_code":{
+                  "compound_code":"XM6F+W7 Inglewood, CA, USA",
+                  "global_code":"8553XM6F+W7"
+            },
+            "rating":4.4,
+            "reference":"ChIJF6N8pEu2woARruLI_6dPz7I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":852,
+            "vicinity":"8409 8th Avenue, Inglewood",
+            "price_level":null,
+            "CBG":60376008013,
+            "Radius":260.8643274342
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.962335,
+                        "lng":-118.3269034
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9636120803,
+                              "lng":-118.3255359697
+                        },
+                        "southwest":{
+                              "lat":33.9609141197,
+                              "lng":-118.3282339303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Louisiana Famous Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106412468427574667273\">Sharon Gomez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC086EXwgujqMXIcpyWToMs7kEAqIzkDWQroKE2UxLDEH2cVmF7BQx08HM3B-vN4XVVq6WZpWNn941zN84Ea_Wyp8Dan7MhPaV5LfC2OqRHjxn8KSKw95LOlgCI4cIy6GelgarE7V_Fi6OdiZGu5l-fVbhi6BA-i0VKz5AgkSI6AlVU",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJF6N8pEu2woAR5Vo2kfKs-5g",
+            "plus_code":{
+                  "compound_code":"XM6F+W6 Inglewood, CA, USA",
+                  "global_code":"8553XM6F+W6"
+            },
+            "rating":4.2,
+            "reference":"ChIJF6N8pEu2woAR5Vo2kfKs-5g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":115,
+            "vicinity":"8409 8th Avenue # A, Inglewood",
+            "price_level":1.0,
+            "CBG":60376008013,
+            "Radius":260.8643274342
+      }
+]

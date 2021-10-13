@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9676674,
+                        "lng":-118.2042203
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9690867303,
+                              "lng":-118.2028591197
+                        },
+                        "southwest":{
+                              "lat":33.9663887697,
+                              "lng":-118.2055570803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mariscos el levanton",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111060445487378760031\">Ruben Ramirez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBT_MbQtPKulQbnbBktODJXAXKDYdHXIzS6Oct2RS8MwTUKZfDZLzmAi-C6U1WcQmA-mGnX4eXUJiBIXZWmFUyiVMsnsnUKk7yjat1B16JZvmee_V-_JiKAslzIcTxq61R3GznlGPI2FZVPBRoj1Aqkv2hnWs0fyB6VyKGsa5X9ZUkT",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJv-U7IEHPwoARXrsRSbaUvd4",
+            "plus_code":{
+                  "compound_code":"XQ9W+38 Huntington Park, CA, USA",
+                  "global_code":"8553XQ9W+38"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJv-U7IEHPwoARXrsRSbaUvd4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":177,
+            "vicinity":"7651 California Avenue, Huntington Park",
+            "CBG":60375345022,
+            "Radius":222.1503201752
+      }
+]

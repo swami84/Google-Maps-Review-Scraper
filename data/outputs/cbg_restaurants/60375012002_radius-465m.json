@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9927289,
+                        "lng":-118.0676113
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9941418303,
+                              "lng":-118.0663498197
+                        },
+                        "southwest":{
+                              "lat":33.9914438697,
+                              "lng":-118.0690477803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carl's Jr.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":694,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104170767593275956116\">Carl&#39;s Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAhwj9jpn8oXL2JuNMzaxeTiGQyxrMhBa3xiega8PnmL-DM_IWvRKvGuClKEJ_S3E4v8DbJl4Bgm_K4G3L06tHAOkV7JnkyJ3PR6YnvkVCaakMAbAVpDSvuFEgG8mTUAQLk5CZ0BYUb4sDJaWwZbeTBTn93rNKKhZRzHMm3e4lXNUkK",
+                        "width":1234
+                  }
+            ],
+            "place_id":"ChIJy8ZWl4HRwoARLLChnrAM2Us",
+            "plus_code":{
+                  "compound_code":"XWVJ+3X Whittier, CA, USA",
+                  "global_code":"8553XWVJ+3X"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJy8ZWl4HRwoARLLChnrAM2Us",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":812,
+            "vicinity":"10409 Whittier Boulevard, Whittier",
+            "CBG":60375012002,
+            "Radius":465.498804198
+      }
+]

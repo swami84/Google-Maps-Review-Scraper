@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7480875,
+                        "lng":-117.1540577
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7495939303,
+                              "lng":-117.1527142697
+                        },
+                        "southwest":{
+                              "lat":32.7468959697,
+                              "lng":-117.1554122303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mateo's Hot Spot",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101488748519701564270\">Mateo&#39;s Hot Spot<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7ybuwJTd32_D3H2FOmHKF29RSzXtWCZdBoHCM0N2sGrSAWyjQ50TO_fbIFzEdD-iSRUBxyn1oJojDFHmAT4up4TFE7MIIrMuFzgYoFq939mXv3EEHaHdlFFhY5XzvWprRCCmQRRDRO1hSkcI_PXS6mXqwtfRL7CGXHVp-EGbo9kF_",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJw5KQHGVV2YARqGLjNzU8mZA",
+            "plus_code":{
+                  "compound_code":"PRXW+69 San Diego, CA, USA",
+                  "global_code":"8544PRXW+69"
+            },
+            "rating":5,
+            "reference":"ChIJw5KQHGVV2YARqGLjNzU8mZA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1051 University Avenue, San Diego",
+            "CBG":60730007001,
+            "Radius":343.1177293496
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7976281,
+                        "lng":-118.2936334
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7990313303,
+                              "lng":-118.2922838697
+                        },
+                        "southwest":{
+                              "lat":33.7963333697,
+                              "lng":-118.2949818303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Miguelon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115135496267752349005\">Tacos Miguelon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBt-L7t160t65GTNfAxf4CBMSP-fhqwcPyNGNyhA67nGmMXpazS3jZfT4avETBYLO3ybQad8TVgB733SvIU20NOmE8e64yqv5JE0FMaJFbtteQ_4jLpGr5aYgEbwmH7ytSrwXJqds9z8YME4nvGxW8s_hHKgtb19RK3_6Q4ZlcF6sgp",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJQea06nQ13YARYWAI9aQcW1Y",
+            "plus_code":{
+                  "compound_code":"QPX4+3G Harbor City, Los Angeles, CA, USA",
+                  "global_code":"8553QPX4+3G"
+            },
+            "reference":"ChIJQea06nQ13YARYWAI9aQcW1Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1022 West Lomita Boulevard, Harbor City",
+            "CBG":60375436031,
+            "Radius":486.1831513855
+      }
+]

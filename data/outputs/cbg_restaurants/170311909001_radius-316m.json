@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9280514,
+                        "lng":-87.7462159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9293981803,
+                              "lng":-87.7449458697
+                        },
+                        "southwest":{
+                              "lat":41.9267002197,
+                              "lng":-87.7476438303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Restaurante Y Tamaleria La Bendicion",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109559545181302484586\">Jose Cruz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBTWWKYTgcVKpxQhhho9D4tWdoD3DmhuA4DkJ1FX_zuOIfw6YPgAO0zxTtyw_rzpLULgrw1EZhySUbbuH9MNzmGptDu3btZ_BdFwJQlncvVjhNZQuVzu594j-lBbcCqnKyirsj0GNKclKqXhLrkpBOC9cmKtSZV6KM9tU5Bdse-9Vk3",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJgTgrrPrMD4gR2_8oNRNQyzA",
+            "plus_code":{
+                  "compound_code":"W7H3+6G Chicago, IL, USA",
+                  "global_code":"86HJW7H3+6G"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJgTgrrPrMD4gR2_8oNRNQyzA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":167,
+            "vicinity":"2567 North Cicero Avenue, Chicago",
+            "CBG":170311909001,
+            "Radius":316.4681147591
+      }
+]

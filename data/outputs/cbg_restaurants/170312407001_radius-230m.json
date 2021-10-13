@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9103926,
+                        "lng":-87.6947154
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9116889303,
+                              "lng":-87.6933515197
+                        },
+                        "southwest":{
+                              "lat":41.9089909697,
+                              "lng":-87.6960494803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Tip Top Food & Liqours",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106542795877099028668\">Tip Top Food &amp; Liqours<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDaTcNEMZ7T0Y7G6OGKn__3Yh8rIrzv9kmkaMIYGbJHww0FSHzNxqxhf7SsYgi451ed1LZ2K-uA9PTs5_7HUsMLIrB_34R1Q49nrs6LBYBgbmtjp0D7XqKqTce_ESKIyIm6Vm9AeWM1BjDpEG9zwsQbxiv8djLSP3qjLpAHCicqUu-B",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJLyoHvaTSD4gRFJsbdNtUJ2I",
+            "plus_code":{
+                  "compound_code":"W864+54 Chicago, IL, USA",
+                  "global_code":"86HJW864+54"
+            },
+            "rating":4.6,
+            "reference":"ChIJLyoHvaTSD4gRFJsbdNtUJ2I",
+            "scope":"GOOGLE",
+            "types":[
+                  "liquor_store",
+                  "atm",
+                  "grocery_or_supermarket",
+                  "meal_takeaway",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":21,
+            "vicinity":"2700 West North Avenue, Chicago",
+            "CBG":170312407001,
+            "Radius":229.779671514
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9104169,
+                        "lng":-87.6931738
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9117658803,
+                              "lng":-87.6918248197
+                        },
+                        "southwest":{
+                              "lat":41.9090679197,
+                              "lng":-87.6945227803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria El Heredero",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2016,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111186029809064178807\">Taqueria El Heredero<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEASDafLw4QjVK-b75g1tBb_1oSyAngktAWrk8ibfRGioNi7Fv_7QvZwtVj2psbppvIN28IxfMCRt06ICM0d03jr933qOD7poh-xvZkYsvfVXFbT7x0kR8cWln00Xt1bl9-nkOk0zf0c0tpCGx_X3shtlTPZ9TCL2tI8EIi70ULVwQUa",
+                        "width":1504
+                  }
+            ],
+            "place_id":"ChIJAy8Z38vTD4gRO2GadA4E-Po",
+            "plus_code":{
+                  "compound_code":"W864+5P Chicago, IL, USA",
+                  "global_code":"86HJW864+5P"
+            },
+            "rating":4.5,
+            "reference":"ChIJAy8Z38vTD4gRO2GadA4E-Po",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"2624 West North Avenue, Chicago",
+            "CBG":170312407001,
+            "Radius":229.779671514
+      }
+]

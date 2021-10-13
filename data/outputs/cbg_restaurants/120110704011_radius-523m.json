@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.053907,
+                        "lng":-80.314139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0552655303,
+                              "lng":-80.3124023197
+                        },
+                        "southwest":{
+                              "lat":26.0525675697,
+                              "lng":-80.3151002803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Lou's Seafood and catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107352051925077561058\">Lou&#39;s Seafood and catering<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECiqoLJgkGOO0zLySwcOMAooDzffBJwA-nX6oZenWSbE6bEHMWSxdR7ru_9joyK66WfLrbk3PXBuluaG2CTN2u-hCqrsrYIw2rGiRUdSc7_WzyIE7ayBkdB9g9_JpPtDsrkB0dJMouD8mdw--Oxoh6GRr1K5v6PjzzYJy3JS-2utrJ9",
+                        "width":4031
+                  }
+            ],
+            "place_id":"ChIJn6287q6n2YgRqJtvNxWbfEw",
+            "plus_code":{
+                  "compound_code":"3M3P+H8 Cooper City, FL, USA",
+                  "global_code":"76RX3M3P+H8"
+            },
+            "rating":4.1,
+            "reference":"ChIJn6287q6n2YgRqJtvNxWbfEw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":13.0,
+            "vicinity":"5150 South Flamingo Road, Cooper City",
+            "CBG":120110704011,
+            "Radius":523.2678178196
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0501232,
+                        "lng":-80.3112653
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0514290303,
+                              "lng":-80.3099158197
+                        },
+                        "southwest":{
+                              "lat":26.0487310697,
+                              "lng":-80.3126137803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"the mags group",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJZ4unlq2n2YgRe3vWnJ4WnQU",
+            "plus_code":{
+                  "compound_code":"3M2Q+2F Cooper City, FL, USA",
+                  "global_code":"76RX3M2Q+2F"
+            },
+            "rating":null,
+            "reference":"ChIJZ4unlq2n2YgRe3vWnJ4WnQU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"12240 Southwest 53rd Street, Cooper City",
+            "CBG":120110704011,
+            "Radius":523.2678178196
+      }
+]

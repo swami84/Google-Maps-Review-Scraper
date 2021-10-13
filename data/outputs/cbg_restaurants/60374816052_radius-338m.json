@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0699619,
+                        "lng":-118.1222943
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0712172303,
+                              "lng":-118.1210393197
+                        },
+                        "southwest":{
+                              "lat":34.0685192697,
+                              "lng":-118.1237372803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Circle K",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1180,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101886097598910199168\">Circle K<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDW9jQlVbjgwj2lcARXnq4SYLTK9qRguE1SzA4Q1pFVEUR8kQ4Ss3-bLBAq_4eAF_AJA50bCB13Vwh0BJu-ZyM57FNJjNrdplIvFVHHdW_-NDcXuOPKDs7iQ3LIIEMLepqvll_G_DolJMdDdG114qjdKjaBl5wr3PaNI6y1u1lvMxGs",
+                        "width":1770
+                  }
+            ],
+            "place_id":"ChIJwelrCk_FwoARGQa2WzDPw5Y",
+            "plus_code":{
+                  "compound_code":"3V9H+X3 Alhambra, CA, USA",
+                  "global_code":"85633V9H+X3"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJwelrCk_FwoARGQa2WzDPw5Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"1 East Hellman Avenue, Alhambra",
+            "permanently_closed":null,
+            "CBG":60374816052,
+            "Radius":337.8318043066
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.0701237,
+                        "lng":-118.1223031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0713894803,
+                              "lng":-118.1212345697
+                        },
+                        "southwest":{
+                              "lat":34.0686915197,
+                              "lng":-118.1239325303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hanashima Restaurant",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3835,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106737791002747281059\">Esther Tam<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDus6Rbe4W7Rn38vrCp0-nZFxtNb4tWKyCd7ciRCmtBBqj1TmVLR0mzvaTjclottSEpkrG4AiH9tcibhGWcegSzz3uWMdF_Fb45Np4R05dLk3Ug1wc6Tg0KQEHX-9ChwEcEYAv74aQb4O1Yk-oYCkjl8ZPCzlx6K2LbtevUfXLtiW6W",
+                        "width":2954
+                  }
+            ],
+            "place_id":"ChIJlabrCk_FwoARewuo2gG6AAA",
+            "plus_code":{
+                  "compound_code":"3VCH+23 Alhambra, CA, USA",
+                  "global_code":"85633VCH+23"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJlabrCk_FwoARewuo2gG6AAA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":153,
+            "vicinity":"1 East Hellman Avenue, Alhambra",
+            "permanently_closed":true,
+            "CBG":60374816052,
+            "Radius":337.8318043066
+      }
+]

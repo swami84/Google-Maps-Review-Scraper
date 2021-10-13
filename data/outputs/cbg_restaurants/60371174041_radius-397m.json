@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2343651,
+                        "lng":-118.4812119
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2358082303,
+                              "lng":-118.4798597197
+                        },
+                        "southwest":{
+                              "lat":34.2331102697,
+                              "lng":-118.4825576803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fenix Bed One",
+            "place_id":"ChIJdZ1NhA3FwoARRg3L4wQcY-U",
+            "plus_code":{
+                  "compound_code":"6GM9+PG North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GM9+PG"
+            },
+            "reference":"ChIJdZ1NhA3FwoARRg3L4wQcY-U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"9118 Woodley Avenue, North Hills",
+            "CBG":60371174041,
+            "Radius":396.6345064015
+      }
+]

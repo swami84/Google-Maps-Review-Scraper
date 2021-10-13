@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.202301,
+                        "lng":-118.431495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2036499803,
+                              "lng":-118.4301442197
+                        },
+                        "southwest":{
+                              "lat":34.2009520197,
+                              "lng":-118.4328421803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Tacon\u2019Todo Sinaloa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113485345669937279448\">Briseyda Montes<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECf1m-9jJ4NqTx2O9NAYGQTcWNT00GSGMHKJ1L_sleS1kDs3wDbEVz1MkhNZ6aMy57_rDONMSvd6ll9IMYL7KwS8qXztp2EVWoGBhv0UJ8PLeh38bqpkQatdzS_rYbubX6YyFdos6e3G-EoYc6o-_kHz910tMUSLNRDv-ZvLOhsVH1R",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJS7LUVjyXwoARpLMY7ICemUA",
+            "plus_code":{
+                  "compound_code":"6H29+WC Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636H29+WC"
+            },
+            "rating":5,
+            "reference":"ChIJS7LUVjyXwoARpLMY7ICemUA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"7251 Woodman Avenue, Van Nuys",
+            "CBG":60371271031,
+            "Radius":298.5757161493
+      }
+]

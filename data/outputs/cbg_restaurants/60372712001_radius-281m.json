@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0346925,
+                        "lng":-118.4392078
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0361409803,
+                              "lng":-118.4379304197
+                        },
+                        "southwest":{
+                              "lat":34.0334430197,
+                              "lng":-118.4406283803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger Bitch",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117667410778614711979\">Burger Bitch<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKQnvafnOvGGu3ObJgjFyeYPRoZ9jh1hCcAyP9Ai25hMoVG58Kp_Fi_oHtKsoftj-lcLBcFecyiQfZwDB1hIm4Br8_PaWJ6XQ_TJfyrKZ83ju4--LOzzKat1R-JQqSZKZ-8CyX0VFsx6vaZO6AqGoxrmVJ1chJJkUmctEzgCNfkhiw",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJh6iMCBC7woARrDvE4h44hZE",
+            "plus_code":{
+                  "compound_code":"2HM6+V8 Los Angeles, CA, USA",
+                  "global_code":"85632HM6+V8"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJh6iMCBC7woARrDvE4h44hZE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"11326 West Pico Boulevard, Los Angeles",
+            "CBG":60372712001,
+            "Radius":281.2245976461
+      }
+]

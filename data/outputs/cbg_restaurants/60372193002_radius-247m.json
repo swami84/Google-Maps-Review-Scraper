@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0265393,
+                        "lng":-118.334789
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0278345803,
+                              "lng":-118.3335051197
+                        },
+                        "southwest":{
+                              "lat":34.0251366197,
+                              "lng":-118.3362030803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4656,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111584577131063300264\">Donovan McCloud<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECZ5tTsTjnBx47f8Gpyq6hlV-J_Ko2yHGmDL8bYhYWdpjT7MV3n-BqYFxWTztJdApBbR1M-GzoVxZ0Ae6CqmpsEJrS_g_gEVxFho7KyqmGaJW4vM45E1HGvRVprk19vaoFv8er1s3KRh3oVE4hXNRx9rVEhBB9mvFfAWHB2fo9TP0oz",
+                        "width":3492
+                  }
+            ],
+            "place_id":"ChIJyf1Vdki4woAR_GUHsjpQUUA",
+            "plus_code":{
+                  "compound_code":"2MG8+J3 Los Angeles, CA, USA",
+                  "global_code":"85632MG8+J3"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJyf1Vdki4woAR_GUHsjpQUUA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":932,
+            "vicinity":"3036 Crenshaw Boulevard, Los Angeles",
+            "CBG":60372193002,
+            "Radius":246.8598612373
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0257157,
+                        "lng":-118.3303696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0270646803,
+                              "lng":-118.3290206197
+                        },
+                        "southwest":{
+                              "lat":34.0243667197,
+                              "lng":-118.3317185803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tim's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":525,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103245852021204856716\">Tim&#39;s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA88lTi3RrSRrRfBPbU1v8D6CFvBHFETR_PU7CFTAZtI_Bt34MLFvCK00Y-3YDWiXco7frnLvblKcrT4WGMfihYkGVMYOJNUiDRtB-TOH2WUpT9MXCRaeBLxZK_k2eJlGha3vfKk0cArfq_HpxLh1oeGoUk7p3deo620TMj0lsvmV7v",
+                        "width":700
+                  }
+            ],
+            "place_id":"ChIJRf6lnzi4woARbkWN-gbVO1I",
+            "plus_code":{
+                  "compound_code":"2MG9+7V Los Angeles, CA, USA",
+                  "global_code":"85632MG9+7V"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJRf6lnzi4woARbkWN-gbVO1I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":274,
+            "vicinity":"3125 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372193002,
+            "Radius":246.8598612373
+      }
+]

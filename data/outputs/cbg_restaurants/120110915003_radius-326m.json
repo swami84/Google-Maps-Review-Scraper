@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9897295,
+                        "lng":-80.2080003
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9911324303,
+                              "lng":-80.2066512697
+                        },
+                        "southwest":{
+                              "lat":25.9884344697,
+                              "lng":-80.2093492303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dynamic Cuisines",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102664129309519754212\">Dynamic Cuisines<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEApcSFrcNwyJkB3HbV6kVVDyOKkjdihEGh76EciYinz6ivUQRy6_87ehYHDGu_U5iZFDLU9OV58vgUrN-7ukWOWbC-6AWzaqeRpy3Lm-7FzcRBa20fBfpiOLIMevhGRPp8gadHeo4nA6dz0rYvx7Eu6CtLv2Y9hqIbuUJ-3bYvdcmEy",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJk4aVg32v2YgRMYta3oACJBc",
+            "plus_code":{
+                  "compound_code":"XQQR+VQ Miramar, FL, USA",
+                  "global_code":"76QXXQQR+VQ"
+            },
+            "rating":3.7,
+            "reference":"ChIJk4aVg32v2YgRMYta3oACJBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"6022 Southwest 23rd Street, Miramar",
+            "price_level":null,
+            "CBG":120110915003,
+            "Radius":326.3074727734
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.993269,
+                        "lng":-80.2065254
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9946517803,
+                              "lng":-80.2051776697
+                        },
+                        "southwest":{
+                              "lat":25.9919538197,
+                              "lng":-80.2078756303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Miami Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100594129482061917891\">Angel Galabov<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBcWxrhgf4hG9U6YekcNHKuW6g1j0KMJIc9QZq5knNxZ0VGvqvp5-7MmpY8gJdWTEetIH3LHG4wIK4xpavA8zMt44wMll1Up4qCOKFdpmm4_AYxgVSmDZ3akShGsWXgjvPF1FpuARcKS_I-Sb43xL1Y61tu46peXXRN5x8t1YU7zy1u",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJl9FBW0up2YgRzeiYJf8MwLQ",
+            "plus_code":{
+                  "compound_code":"XQVV+89 West Park, FL, USA",
+                  "global_code":"76QXXQVV+89"
+            },
+            "rating":3.9,
+            "reference":"ChIJl9FBW0up2YgRzeiYJf8MwLQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":766,
+            "vicinity":"1955 South State Road 7, West Park",
+            "price_level":1.0,
+            "CBG":120110915003,
+            "Radius":326.3074727734
+      }
+]

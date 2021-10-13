@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":45.6412241,
+                        "lng":-122.6705208
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":45.6426248803,
+                              "lng":-122.6691845697
+                        },
+                        "southwest":{
+                              "lat":45.6399269197,
+                              "lng":-122.6718825303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dairy Queen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111970413704971611174\">Marty Campbell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECSXztqJaB9DxGTZkyWBaNrS4WfhPYn3mech1XW13aVAI4GW61MZulmaDJ3f-7lpqGeB9k28MuVXREnjnt3uUxtN1aem-1DIzV3KXobo6ThQ9DUZGWNh-jmr3g6k5geMzIqux_cfldI8kpgXScFTEsKFUxRKEs5Ogb3R4iazfH-M-BZ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJQfuCmzOvlVQRicKiB3Pd1Ew",
+            "plus_code":{
+                  "compound_code":"J8RH+FQ Vancouver, WA, USA",
+                  "global_code":"84QVJ8RH+FQ"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJQfuCmzOvlVQRicKiB3Pd1Ew",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1038,
+            "vicinity":"2707 N, 2707 Main Street, Vancouver",
+            "CBG":530110419002,
+            "Radius":394.6537391041
+      }
+]

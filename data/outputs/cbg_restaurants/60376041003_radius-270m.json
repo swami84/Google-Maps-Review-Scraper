@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8834666,
+                        "lng":-118.3519015
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8847945303,
+                              "lng":-118.3505206697
+                        },
+                        "southwest":{
+                              "lat":33.8820965697,
+                              "lng":-118.3532186303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"OrVeganic.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":6936,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107696610903066688497\">Dominic Nakagawa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECpdvL7OV4pomNkxTVx6C8XVErQw8FcxYpspsWPFEsfQLb9lpyzZ1tjF3ZAAgCGaEbLPO7SxUjNc6GONC7E8spEJ70yHI4_HkZwSOA_QzZt6ytFGrD9e9Pr27k1ZKGdLuGLsD2m8fL-NIFhkD2d7eKkHCXmBg8qErJb2y1tBYRDml98",
+                        "width":9248
+                  }
+            ],
+            "place_id":"ChIJkVtCYFG0woARHbymXgtopvo",
+            "plus_code":{
+                  "compound_code":"VJMX+96 Lawndale, CA, USA",
+                  "global_code":"8553VJMX+96"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJkVtCYFG0woARHbymXgtopvo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"16200 Hawthorne Boulevard #E, Lawndale",
+            "CBG":60376041003,
+            "Radius":270.4210759579
+      }
+]

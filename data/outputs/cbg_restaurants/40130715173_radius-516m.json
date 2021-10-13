@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6093688,
+                        "lng":-112.240621
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6107929803,
+                              "lng":-112.2392988197
+                        },
+                        "southwest":{
+                              "lat":33.6080950197,
+                              "lng":-112.2419967803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112074642001210748525\">Lewis Turnbough<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECsFNqoz3CWQt0aWmskJwoN8fgcqKI3hwwRQNP20aqnhiitCUsqPt5B9GI11wyQqj6IkXeOBWuMS-KDkHGFSYWh6VUf3oTaAk-QmC21IinaOeXTG4ijjC-3YBqZLZab9PDPGpngejTcxUDEybEjPcpU4NFXejS_Y6u13YCyBXDgL3sr",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJSYoO2HVCK4cRlMp2QTqFjco",
+            "plus_code":{
+                  "compound_code":"JQ55+PQ Peoria, AZ, USA",
+                  "global_code":"8559JQ55+PQ"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJSYoO2HVCK4cRlMp2QTqFjco",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":632,
+            "vicinity":"8425 West Thunderbird Road, Peoria",
+            "CBG":40130715173,
+            "Radius":516.1196935908
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6093521,
+                        "lng":-112.2399095
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6107010803,
+                              "lng":-112.2385605197
+                        },
+                        "southwest":{
+                              "lat":33.6080031197,
+                              "lng":-112.2412584803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brushfire Tacos y Tapas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104747577741106881927\">Brushfire Tacos y Tapas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED_3x_-bSJ4WMQUTVu0yjLpAfGo245YcEMRudZ0m48l6QAezOxQlSddq5cuCqHAEgnfo_LQg-9NBFmJsWwcb0bfqC7W3sgr6Fqs60x8S-GGpad9QYL17SM1ZKTYLq_-kJ3y4dAV5LX-wVnGAfhE__ZoprGNBrZolNUOPHeBET5XHXh3",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJq5gD3nVCK4cR5OU82YX5cq0",
+            "plus_code":{
+                  "compound_code":"JQ56+P2 Peoria, AZ, USA",
+                  "global_code":"8559JQ56+P2"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJq5gD3nVCK4cR5OU82YX5cq0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":645,
+            "vicinity":"8395 West Thunderbird Road, Peoria",
+            "CBG":40130715173,
+            "Radius":516.1196935908
+      }
+]

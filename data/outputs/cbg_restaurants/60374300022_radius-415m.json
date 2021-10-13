@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.139391,
+                        "lng":-117.965021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1408691303,
+                              "lng":-117.9637325697
+                        },
+                        "southwest":{
+                              "lat":34.1381711697,
+                              "lng":-117.9664305303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Route 66 Roadhouse & Tavern",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2688,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104990067990935346568\">Kitchen Mafia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECp5A-26jWNU4p783iUbSg3MhsKF2Z17r-a5zvIsroTB9taEBD8kCq-VDxUqujeJtrUDU7sYqr9AS02ATkuI_wNhPIcx61ZjWTS9iSsXZ1EQjJLKI37MaQud-13Ec6qaqJshPX7VRLEyzXOd59vPi4QSoTbhMrqo_hi0-HAhoYAK29-",
+                        "width":1520
+                  }
+            ],
+            "place_id":"ChIJEXWe2fjYwoARSCIkygIGXsk",
+            "plus_code":{
+                  "compound_code":"42QM+QX Duarte, CA, USA",
+                  "global_code":"856442QM+QX"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJEXWe2fjYwoARSCIkygIGXsk",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":200,
+            "vicinity":"1846 Huntington Drive, Duarte",
+            "CBG":60374300022,
+            "Radius":415.07638935
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.139441,
+                        "lng":-117.964745
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1407487803,
+                              "lng":-117.9633898697
+                        },
+                        "southwest":{
+                              "lat":34.1380508197,
+                              "lng":-117.9660878303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cabrera's Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107860734181232049681\">Cabrera&#39;s Mexican Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAvwu7iVcWWzPRnYD0cAkiMEs9yAZOfSf6St88atoUC5_qlNbU0hcnHB2sn7hri95G6eAjluPk62wzZKJ5ae_iKDwBmHKqcc_PBvziwv0F1tStaZDHqMLEYsBHxUCg5g_7u88psV3I8O8WcE1BJz9LcxKXyPcYmB2QGofr19hpyeA-w",
+                        "width":2736
+                  }
+            ],
+            "place_id":"ChIJXeIi3PjYwoARsNSoYKAi-I4",
+            "plus_code":{
+                  "compound_code":"42QP+Q4 Duarte, CA, USA",
+                  "global_code":"856442QP+Q4"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJXeIi3PjYwoARsNSoYKAi-I4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":711,
+            "vicinity":"1856 Huntington Drive, Duarte",
+            "CBG":60374300022,
+            "Radius":415.07638935
+      }
+]

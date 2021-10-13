@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.069514,
+                        "lng":-80.22297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0708642803,
+                              "lng":-80.2217312697
+                        },
+                        "southwest":{
+                              "lat":26.0681663197,
+                              "lng":-80.2244292303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Michalangelo's Food Products",
+            "place_id":"ChIJpVVcMs-p2YgRzG25dG1Psb0",
+            "plus_code":{
+                  "compound_code":"3Q9G+RR Davie, FL, USA",
+                  "global_code":"76RX3Q9G+RR"
+            },
+            "reference":"ChIJpVVcMs-p2YgRzG25dG1Psb0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4240 Southwest 57th Terrace, Davie",
+            "CBG":120110701014,
+            "Radius":597.4120355039
+      }
+]

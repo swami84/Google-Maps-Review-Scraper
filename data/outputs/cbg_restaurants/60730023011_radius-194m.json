@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.756328,
+                        "lng":-117.0888469
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7576769803,
+                              "lng":-117.0874979197
+                        },
+                        "southwest":{
+                              "lat":32.7549790197,
+                              "lng":-117.0901958803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Santa Ana Fresh Mexican Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105884819274667364569\">Kevin Filmed It<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC03f7546xwxL6W3xaMAayL_-86SzmSlCLSx4uNj0NJD0FR3zRuyKM2oHdZgu-MCQAwysdVmJOHTNkiUerzC8GBcRCI45C4H19SlBEikZqNNotWfBuTCgwNbseNl9Zd6CD8xFXhDJpD7pgyfvvmBHAW-jCVufydbjuDv_536xiP2byQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJmb09DSNU2YARbKaJ5JI1EBQ",
+            "plus_code":{
+                  "compound_code":"QW46+GF San Diego, CA, USA",
+                  "global_code":"8544QW46+GF"
+            },
+            "rating":4.3,
+            "reference":"ChIJmb09DSNU2YARbKaJ5JI1EBQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":276,
+            "vicinity":"4909 El Cajon Boulevard, San Diego",
+            "price_level":null,
+            "CBG":60730023011,
+            "Radius":193.9532478439
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7562705,
+                        "lng":-117.089155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7577222303,
+                              "lng":-117.0878220197
+                        },
+                        "southwest":{
+                              "lat":32.7550242697,
+                              "lng":-117.0905199803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salsa Brava",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100973753841234428318\">Jungbae Eriel<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDN--PkzBFWQxoSRoi6mHNTXdrFm2I_umBfMEcIL1VckKTxTDQBH5EMv8SHHzjoGGuo9z8SnMTzeohPWBN6JbmEmRGA6iksVfj830lc83m5G0pePAHZflwXROMm9mijgUrKo7SzmL7erIkDUbqMYFhUwdvQDUCh3dFYRZlvtYAwgGWl",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqScrEyNU2YARvR-523pAL7I",
+            "plus_code":{
+                  "compound_code":"QW46+G8 San Diego, CA, USA",
+                  "global_code":"8544QW46+G8"
+            },
+            "rating":4.1,
+            "reference":"ChIJqScrEyNU2YARvR-523pAL7I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"4885 El Cajon Boulevard, San Diego",
+            "price_level":1.0,
+            "CBG":60730023011,
+            "Radius":193.9532478439
+      }
+]

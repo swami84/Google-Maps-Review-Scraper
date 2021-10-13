@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0209508,
+                        "lng":-118.2620332
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0222473303,
+                              "lng":-118.2605627697
+                        },
+                        "southwest":{
+                              "lat":34.0195493697,
+                              "lng":-118.2632607303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Torta Movil",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":487,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104461435034239815358\">Torta Movil<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDW0oe-2STHs4iD-Ae94ACnrd7JSyXH_Qf6nKoG5hiYE3PQZpLKibtNNQ4eOChfE-wW21A2f9RdyjQrmKlIUhGtM_4KY45xq4Rt-qAnpciR-CxKfnCpYedgpuzVKzPphXBSP_UYe4H3r_luuWnWk4NmcrkVqXauEWFPAqrW8JuHWU9J",
+                        "width":535
+                  }
+            ],
+            "place_id":"ChIJq8eUXHjIwoARG5jo_vU5tkE",
+            "plus_code":{
+                  "compound_code":"2PCQ+95 Los Angeles, CA, USA",
+                  "global_code":"85632PCQ+95"
+            },
+            "price_level":1.0,
+            "rating":4.7,
+            "reference":"ChIJq8eUXHjIwoARG5jo_vU5tkE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":469,
+            "vicinity":"2623 San Pedro Street, Los Angeles",
+            "CBG":60372267004,
+            "Radius":240.3871392937
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0175165,
+                        "lng":-118.2598139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0188161803,
+                              "lng":-118.2584973197
+                        },
+                        "southwest":{
+                              "lat":34.0161182197,
+                              "lng":-118.2611952803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rica Barbacoa Estilo Xochitiopan Puebla",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104032695699095827505\">Angel Flores<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAO5DSHqlaBPO7pXRdFEYhJLxsQO20j0XVrX9vDKNYcxMvMZIZrN-JlSVKgbMrYJA62OOqQ_9NWlmKNGNIK0kVA-u2qmqEcGZVXDUaoqyhHr036wWMQHdRBLJ1NgoNSjSZcuM3aolMe3lURfSxrVNAThcf-hJze7ug96zz-b3U6OH5u",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJuZJ0Jb_JwoARXm2P6RWo1RE",
+            "plus_code":{
+                  "compound_code":"2P9R+23 Los Angeles, CA, USA",
+                  "global_code":"85632P9R+23"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJuZJ0Jb_JwoARXm2P6RWo1RE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"845 East 29th Street, Los Angeles",
+            "CBG":60372267004,
+            "Radius":240.3871392937
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2145881,
+                        "lng":-118.3878173
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2159371803,
+                              "lng":-118.3864921197
+                        },
+                        "southwest":{
+                              "lat":34.2132392197,
+                              "lng":-118.3891900803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Daniela's Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113100017889751732118\">Esteban Alarcon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBWW4T16v9hfHLLPY0SORggn-YXhNqqdXW9PYfRJ2Jex5vnGYSDJul3rT1wYPut5JmLk888dr1aL_4UBe38wvG1bUpw-ajXRuACMdZ_23BFz5gufekw-sag6JMrFqxtxhBv0BUo4IRGVf3mRQiq_RZVWUagJWFOx5rJX7MZ2FCKeVPn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJV5Kr5EyVwoARqyxgV-IXxyo",
+            "plus_code":{
+                  "compound_code":"6J76+RV North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85636J76+RV"
+            },
+            "rating":4.8,
+            "reference":"ChIJV5Kr5EyVwoARqyxgV-IXxyo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"7926 Lankershim Boulevard, North Hollywood",
+            "CBG":60371218023,
+            "Radius":227.0118291481
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.959856,
+                        "lng":-118.2702161
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9612311303,
+                              "lng":-118.2687711197
+                        },
+                        "southwest":{
+                              "lat":33.9585331697,
+                              "lng":-118.2714690803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Manuel's Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107478165782876908130\">evitoification<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGFnPZIEMfn9ypEjXt5BIUqG8fNSuELsE-IaVGIU_zq66chuZEKfyRdOH7SNnR1OfOC_Z3mcbK9WqpSnoinPHfRwP79QfKGfXVBgzhVwV4L9sh2a876AQBa6JnmKCYRCqcIjJtxvlskNVD11KHT3PXKixUpptcsV7rFd0na3I-VZ5j",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJHdULCr7JwoAR1IymTyBco84",
+            "plus_code":{
+                  "compound_code":"XP5H+WW Los Angeles, CA, USA",
+                  "global_code":"8553XP5H+WW"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJHdULCr7JwoAR1IymTyBco84",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":545,
+            "vicinity":"254 East Manchester Avenue, Los Angeles",
+            "CBG":60372400101,
+            "Radius":278.742772746
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9601173,
+                        "lng":-118.2676239
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9614535803,
+                              "lng":-118.2662750697
+                        },
+                        "southwest":{
+                              "lat":33.9587556197,
+                              "lng":-118.2689730303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Oscarin",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106884318576822421179\">Jannet Delgado<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYeYL3txbCfpHwtp6lSlg9d-jONS21-CJa_P9hxwbByXPwy0sp4rsnE3LqsFpmh8I61TqyusNcKBvISkEoOxgTXGx6NwkrPezXJdLvdDNa9JzqYg5rESZzVoRJHBYvsF5jr7WQStvxUR2s1BzaLwCbH3d71AGY9l0UUsyJ-XtHZm9F",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJTUMzFgTJwoARlBV-y8VO27U",
+            "plus_code":{
+                  "compound_code":"XP6J+2X Los Angeles, CA, USA",
+                  "global_code":"8553XP6J+2X"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJTUMzFgTJwoARlBV-y8VO27U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"6041018002, Los Angeles",
+            "CBG":60372400101,
+            "Radius":278.742772746
+      }
+]

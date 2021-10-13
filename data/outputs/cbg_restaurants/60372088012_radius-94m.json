@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0613,
+                        "lng":-118.277628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0624410803,
+                              "lng":-118.2764139197
+                        },
+                        "southwest":{
+                              "lat":34.0597431197,
+                              "lng":-118.2791118803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TACOS DE CANASTA Y TACOS DORADOS",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103577099321863398959\">Jay Jay<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYKfahz8f1ik2gWkM9wr-2J6gNSZwPGsvtNKstSxfHPVs30YygS3gAPWBzLzlLExOT28RhcjH3Fw13ivX57Gduse-OxoO5emz_hG8LvcWk_bXlVzAbTVSbpiBDpJT-yqJH8JKK3MAdxGYgSd0AjoAlPVR7sSPrf49VN33ORj_vLbyz",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ0QJVZWzHwoARZLoBCIff9yk",
+            "plus_code":{
+                  "compound_code":"3P6C+GW Los Angeles, CA, USA",
+                  "global_code":"85633P6C+GW"
+            },
+            "rating":5,
+            "reference":"ChIJ0QJVZWzHwoARZLoBCIff9yk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2325 West 6th Street, Los Angeles",
+            "CBG":60372088012,
+            "Radius":94.4288877498
+      }
+]

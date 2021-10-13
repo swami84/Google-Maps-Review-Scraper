@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9639563,
+                        "lng":-76.8706322
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9653451303,
+                              "lng":-76.8691888197
+                        },
+                        "southwest":{
+                              "lat":38.9626471697,
+                              "lng":-76.8718867803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maggie's Cameroonian Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100802222532208945948\">selfless ash<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBMyEnAbqnfL6FtYIN81ayANVMV869Hj4_HCsFblLRitEQMpwJb_GlZn_ZGuOEFarHP3dFbzMe7n7aCYRzgifS3P5TKUeJyc9iAjLNuIh6TY88zHxAjM83W91ym9ynZXbnaznxHcyn1q6cUNBxI2y2OyGWT0iW6zhH_DvpfRdnbfr0",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJAWy8VhbBt4kROLjRzD9F2nc",
+            "plus_code":{
+                  "compound_code":"X47H+HP New Carrollton, MD, USA",
+                  "global_code":"87C5X47H+HP"
+            },
+            "rating":5.0,
+            "reference":"ChIJAWy8VhbBt4kROLjRzD9F2nc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5914 85th Avenue, New Carrollton",
+            "CBG":240338036054,
+            "Radius":535.7451718503
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9639563,
+                        "lng":-76.8706322
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9653451303,
+                              "lng":-76.8691888197
+                        },
+                        "southwest":{
+                              "lat":38.9626471697,
+                              "lng":-76.8718867803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tiku's Kitchen African Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117639026633061619651\">Tiku&#39;s Kitchen African Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB9UoAfp4z9fKdodp2mXRdeDZm-g4ONUPt4zHLAaYzXI8oVMacM4SBjsO4_AbjGSJbT_TYtb4aAh4lf5Sz8c3YO3rdAA3S9NivHQ-QWzh2NKpiBrfmRuI5vzsuO4T5Qp2U-h-KmujEd7O9qEVxoKms6IbQ8O2RsOvNzeemrKtfShTuY",
+                        "width":605
+                  }
+            ],
+            "place_id":"ChIJxznBDKnBt4kRYYi6Tme46wQ",
+            "plus_code":{
+                  "compound_code":"X47H+HP New Carrollton, MD, USA",
+                  "global_code":"87C5X47H+HP"
+            },
+            "rating":4.7,
+            "reference":"ChIJxznBDKnBt4kRYYi6Tme46wQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"5914 85th Avenue, New Carrollton",
+            "CBG":240338036054,
+            "Radius":535.7451718503
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8587033,
+                        "lng":-77.0532597
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8600547803,
+                              "lng":-77.0518928197
+                        },
+                        "southwest":{
+                              "lat":38.8573568197,
+                              "lng":-77.0545907803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The M Club Lounge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJNz7vTSa3t4kR4D5pxSfMbyw",
+            "plus_code":{
+                  "compound_code":"VW5W+FM Arlington, VA, USA",
+                  "global_code":"87C4VW5W+FM"
+            },
+            "reference":"ChIJNz7vTSa3t4kR4D5pxSfMbyw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1576-1588 South Eads Street, Arlington",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":510131035032,
+            "Radius":172.6244959873
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8580584,
+                        "lng":-77.0526539
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8595482303,
+                              "lng":-77.0515807697
+                        },
+                        "southwest":{
+                              "lat":38.8568502697,
+                              "lng":-77.0542787303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"15th & Eads",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ0_d-Rya3t4kRpObEry-vFvk",
+            "plus_code":{
+                  "compound_code":"VW5W+6W Arlington, VA, USA",
+                  "global_code":"87C4VW5W+6W"
+            },
+            "reference":"ChIJ0_d-Rya3t4kRpObEry-vFvk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1700 Richmond Highway, Arlington",
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113785519911853884144\">Josh Moore<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNSrQabF7o4Wde8moWRnGtqdor4Ab3oN4ndo2F6CEhJ6WfMgfUHIkFFkBETuTu9A9_pt4OPsbmmRoNR_i6bIQbc-9fBiBrU57wdUJks5FP_VEAe9PU6VZ-wS0TUArCwFyeKbC0XFqHlzyQ44X4ABkaTQ0rJvjGg1C7ecvrMq679QRj",
+                        "width":1200
+                  }
+            ],
+            "rating":3.9,
+            "user_ratings_total":40.0,
+            "CBG":510131035032,
+            "Radius":172.6244959873
+      }
+]

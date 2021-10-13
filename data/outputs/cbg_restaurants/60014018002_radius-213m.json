@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8067848,
+                        "lng":-122.300625
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8081337803,
+                              "lng":-122.2992760197
+                        },
+                        "southwest":{
+                              "lat":37.8054358197,
+                              "lng":-122.3019739803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fortune Cookie",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":534,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109590488813572252491\">John W<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECFZ7JSSElnA_Y_i3DRm7LXuRMHB6mEzQBWxSeBjd6NTHiXFlYzgpK8kph4uj0zWHHab8FITM_vWVkqIHerT651Z4G8tZEY8Fl8U6C-sw4OVU4U26efytnbqE8MILgkleV6jBfavufhSBzmqZZYP70ygx6kmWX6YqzblC9tyvrdgqAF",
+                        "width":712
+                  }
+            ],
+            "place_id":"ChIJRdYlwoKAj4ARVsERcdibYJQ",
+            "plus_code":{
+                  "compound_code":"RM4X+PP Oakland, CA, USA",
+                  "global_code":"849VRM4X+PP"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJRdYlwoKAj4ARVsERcdibYJQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":127,
+            "vicinity":"1698 7th Street, Oakland",
+            "CBG":60014018002,
+            "Radius":213.0777572057
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0958456,
+                        "lng":-118.2870946
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0972383803,
+                              "lng":-118.2857184697
+                        },
+                        "southwest":{
+                              "lat":34.0945404197,
+                              "lng":-118.2884164303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Boo\u2019s Philly Cheesesteaks - Silverlake",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104314722607195959671\">Darryl Woodside<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED2zu2gBxoltx0KTUr6WMehZfCzW-RMI2v_nbtBrhG4YwI8_QGAqmW6CgdKJKh6mqAX-E6eFZhMSBc-HchY2lBGWBt0jjnghpU6P9DhpYwnLomyJMl4wYNOYzUX4TOPhtzv7aXYB1nvij6_xY0xjklD8AeOqLfAwJm-iQkPASO5mDrR",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJnZ5Rd03HwoARQTAhVi-DLnQ",
+            "plus_code":{
+                  "compound_code":"3PW7+85 Los Angeles, CA, USA",
+                  "global_code":"85633PW7+85"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJnZ5Rd03HwoARQTAhVi-DLnQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":954,
+            "vicinity":"4501 Fountain Avenue, Los Angeles",
+            "CBG":60371913021,
+            "Radius":245.5663922605
+      }
+]

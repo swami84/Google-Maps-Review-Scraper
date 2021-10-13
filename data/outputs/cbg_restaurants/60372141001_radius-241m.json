@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0776568,
+                        "lng":-118.3442804
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0789682803,
+                              "lng":-118.3428195197
+                        },
+                        "southwest":{
+                              "lat":34.0762703197,
+                              "lng":-118.3455174803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wirtshaus German Restaurant & Beer Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109837146821617449987\">Wirtshaus German Restaurant &amp; Beer Garden<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAkw_SrXgX7I9L-K3-KdA0a8vPhVnZBjGapC6S8Te3VnJfYVSKrv6m98b7XonG5AnG8up8N5lyzuS5I5jeY8e6l-lwWBUL3sNGLtXcFvXzOJux70bJYZygKjWWwcz6NkJFpgD-9MhHBe5t5J_rCiPdc1bK57-8s5roAXTrunG1fywgV",
+                        "width":2736
+                  }
+            ],
+            "place_id":"ChIJk-7Ya9a4woAR6Mb9zBXz7j4",
+            "plus_code":{
+                  "compound_code":"3MH4+37 Los Angeles, CA, USA",
+                  "global_code":"85633MH4+37"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJk-7Ya9a4woAR6Mb9zBXz7j4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":887,
+            "vicinity":"345 North La Brea Avenue, Los Angeles",
+            "CBG":60372141001,
+            "Radius":241.1387465307
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0779861,
+                        "lng":-118.3437415
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0793350803,
+                              "lng":-118.3423925197
+                        },
+                        "southwest":{
+                              "lat":34.0766371197,
+                              "lng":-118.3450904803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Moshe Ganz Hall",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112536012550027385199\">Motti Polityko<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBW5A76jiLyfnbLW0usDyRcScY3R_KUROt1Njf1Hze4Z6QFQWl_3tYvFOloQOZC_Pgs56Eq8NycXpe9GYDFfKDAAx7qPBC2ZYyRAum5f41Eu1k0cb6x3Xn9DeYhRYN-cT_VLc3vf_jNJ5memIpxDueX6Skv5_CNUiuqubc4kSqrn3dm",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJ77yoZNa4woARa-g0e0bxx7g",
+            "plus_code":{
+                  "compound_code":"3MH4+5G Los Angeles, CA, USA",
+                  "global_code":"85633MH4+5G"
+            },
+            "price_level":null,
+            "rating":4.7,
+            "reference":"ChIJ77yoZNa4woARa-g0e0bxx7g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"360 North La Brea Avenue, Los Angeles",
+            "CBG":60372141001,
+            "Radius":241.1387465307
+      }
+]

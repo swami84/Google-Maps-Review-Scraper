@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2354038,
+                        "lng":-118.4627649
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2368054303,
+                              "lng":-118.4614151197
+                        },
+                        "southwest":{
+                              "lat":34.2341074697,
+                              "lng":-118.4641130803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La G\u00fcera Poblana Quesadillas #2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109896989695024603354\">ANDREW SOLORIO<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhUpLp5zuTSKzYjEayr7R1AhvAhrEEwqiXBkynnHokPgYEdozVQZnckupocSy_KlB40u6gtcBt55d1lDq1LPoq6LWAxkvQkIKrYR8WpRw_vZ5wzB2u8BEZNKJUv_Vx4KOsPtR-2PO7sHHy4aNy8n8CkO7XVSWFlJRgKgc4mucQm69j",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJmeDpgMCQwoARI_gf6sKEVAE",
+            "plus_code":{
+                  "compound_code":"6GPP+5V North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GPP+5V"
+            },
+            "rating":4.9,
+            "reference":"ChIJmeDpgMCQwoARI_gf6sKEVAE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"15136 Nordhoff Street, North Hills",
+            "CBG":60371175101,
+            "Radius":324.3938015947
+      }
+]

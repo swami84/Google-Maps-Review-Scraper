@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1020926,
+                        "lng":-118.3032022
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1033638803,
+                              "lng":-118.3019117697
+                        },
+                        "southwest":{
+                              "lat":34.1006659197,
+                              "lng":-118.3046097303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sapp Coffee Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104549631687730378057\">M Hernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBXoIIR9Fc1eU9GdL3Za5jUahvZxkjhbtVLhbUw8WJRNQs1Pbt9FEkJYhaEJeZrw-ecvLEt91nnSXLUW6dV1e0W33pcU_jxz6Z-qwhKJ9cTEg2gmcp03hvmseyC3g0CVx4mMYNAdPgBiY764X9qE16pA5Ar8iX7UrpbEGpk93YpK52q",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJN3x6HVe_woARUmO6EWElp4A",
+            "plus_code":{
+                  "compound_code":"4M2W+RP Los Angeles, CA, USA",
+                  "global_code":"85634M2W+RP"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJN3x6HVe_woARUmO6EWElp4A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":322,
+            "vicinity":"5183 Hollywood Boulevard, Los Angeles",
+            "CBG":60371904011,
+            "Radius":189.0195092175
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1021189,
+                        "lng":-118.3032177
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1033791803,
+                              "lng":-118.3019238197
+                        },
+                        "southwest":{
+                              "lat":34.1006812197,
+                              "lng":-118.3046217803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salaya Plant-Based Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105892083449150345990\">Joe Czubiak<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBk0MwTnK1jHTIACezLkDkvmr38_-0Wh5RnnZVZ0GQwJ-1va3K4-XCIy40TllYPazxik3hbtREtoOoUoKZaqfg8URZ1jGcqwjDbEBf8Z2o_c3tDMGSGZVBLUezKmexR0QRhuPTUVuZ9cu34VZEaEvW9u3CCXLzRZrV2WpAZ0TWJyO8",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJNVSMo4W_woARgCHNVF-Fb7g",
+            "plus_code":{
+                  "compound_code":"4M2W+RP Los Angeles, CA, USA",
+                  "global_code":"85634M2W+RP"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJNVSMo4W_woARgCHNVF-Fb7g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54,
+            "vicinity":"5185 Hollywood Boulevard, Los Angeles",
+            "CBG":60371904011,
+            "Radius":189.0195092175
+      }
+]

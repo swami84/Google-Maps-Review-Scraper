@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8704886,
+                        "lng":-122.2835581
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8717298303,
+                              "lng":-122.2821637197
+                        },
+                        "southwest":{
+                              "lat":37.8690318697,
+                              "lng":-122.2848616803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bangkok Thai Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":778,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104398099469476310029\">TheCHIEF BIGFAITH<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAYVPgeeVJ-2urqNjyokqErdro57ETANiPMAh5xlbEBB3Dty_8T-hYugio1toQqFAAj-YXj7TPb-y3KRHgHNqtofxiw35EcVLOdZtL-SshWQ64sB6Fmsi7YOKkCTpm2kUdq9avbeCju1o9jjtpIXUgXhnouHsmw8epxrmj5a1XDtE1U",
+                        "width":1145
+                  }
+            ],
+            "place_id":"ChIJ8zIb8pV-hYARV12roK18zuI",
+            "plus_code":{
+                  "compound_code":"VPC8+5H Berkeley, CA, USA",
+                  "global_code":"849VVPC8+5H"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ8zIb8pV-hYARV12roK18zuI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"1459 University Avenue, Berkeley",
+            "CBG":60014222002,
+            "Radius":225.0798263849
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8700787,
+                        "lng":-122.2833054
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8714868803,
+                              "lng":-122.2819002197
+                        },
+                        "southwest":{
+                              "lat":37.8687889197,
+                              "lng":-122.2845981803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Monte Cristo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104396428913118084726\">Hopscotch Interactive<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAbdz53l4cEyCCmgJhu-l_ajA_UM_u69JtENvr6r15xdRJ0TBhzf8bgMgQKMZCPawEP9gwCFIOhmbNkLkrEhHNgeXOBlx58rfi0ZIwQcvb3q4M8e96WPxpo26LIkmI1jvyKtNNuHZctPkz4q-4kx-EnUenDy6GI6dASeEp3-wrB2T0X",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ6oO5pV-hYARTHuOy_4-8Lg",
+            "plus_code":{
+                  "compound_code":"VPC8+2M Berkeley, CA, USA",
+                  "global_code":"849VVPC8+2M"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJZ6oO5pV-hYARTHuOy_4-8Lg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":548,
+            "vicinity":"1440 University Avenue, Berkeley",
+            "CBG":60014222002,
+            "Radius":225.0798263849
+      }
+]

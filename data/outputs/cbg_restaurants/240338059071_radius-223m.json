@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0062602,
+                        "lng":-76.9810644
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0076943303,
+                              "lng":-76.9796790197
+                        },
+                        "southwest":{
+                              "lat":39.0049963697,
+                              "lng":-76.9823769803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Pizza Hut",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118238070451417685644\">antonio a<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEASImY0J2DP8KBupfbNNq2Sv3MP8Mi-FexpAZhViK98krcvAoXHiimKaaxmd9k49Kd0SJxZN6ayyC52fc3pwVWxBIhiPoxPNJFg4uyU7nYicANfKcfWdKrxcbkDxNHBpyIQ4MmPZ5L_DLOwWmCnVzXB9pE0yWwCeCScvsGo2pIDekXs",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJMbV2z9jFt4kRnu6xD-buIk0",
+            "plus_code":{
+                  "compound_code":"2249+GH Silver Spring, MD, USA",
+                  "global_code":"87F52249+GH"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJMbV2z9jFt4kRnu6xD-buIk0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":474,
+            "vicinity":"9200 New Hampshire Avenue, Silver Spring",
+            "CBG":240338059071,
+            "Radius":223.0861546465
+      }
+]

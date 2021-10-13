@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1877191,
+                        "lng":-80.2196993
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1890680803,
+                              "lng":-80.2183519197
+                        },
+                        "southwest":{
+                              "lat":26.1863701197,
+                              "lng":-80.2210498803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza And Tingzs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113306508915166039282\">Pizza And Tingzs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBocebf5bON04zONFz2BJ_8hsV4hZrDG5c7FX1VOX9TA8v0L8JIISjBv6tBc_haz3aOileHM9meucwTBPKixfqR2sHYg_5A7fjXLlju96UgVkpIROIWHLJtRxjQ7SgS_FQIC4IwWUOFFwJuiJqnWX0EzT-g7uD4arGUc_3vE1Qked0d",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJoS-2HToF2YgRODEygmC5CPw",
+            "plus_code":{
+                  "compound_code":"5QQJ+34 Tamarac, FL, USA",
+                  "global_code":"76RX5QQJ+34"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJoS-2HToF2YgRODEygmC5CPw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"5100 West Commercial Boulevard Suite 5, Tamarac",
+            "CBG":120110601092,
+            "Radius":479.6643484171
+      }
+]

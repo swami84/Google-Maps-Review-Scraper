@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.208048,
+                        "lng":-118.572932
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2093960803,
+                              "lng":-118.5716411197
+                        },
+                        "southwest":{
+                              "lat":34.2066981197,
+                              "lng":-118.5743390803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yooshi Sushi Catering & Event Production",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":757,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115128612819270538409\">Yooshi Sushi Catering &amp; Event Production<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAygBBHzIRAD76cF8YOwNSwH4QH5gK8h81OQQlcp7HuhwcQs_SKlXuuPA2rxs8flYqxFT-gKyreaXPsYxecsjfDsZQB01UklDd4TcW9C-a7-AAoLjIa-P6qN_B-diNeSWA7pRc4x4p7Zy5j1l31SyojFm0o66vgzhiPiAQGPpPM5XI",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJM4u6qlSbwoARWmUYJPmoePo",
+            "plus_code":{
+                  "compound_code":"6C5G+6R Winnetka, Los Angeles, CA, USA",
+                  "global_code":"85636C5G+6R"
+            },
+            "rating":4.3,
+            "reference":"ChIJM4u6qlSbwoARWmUYJPmoePo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"20154 Saticoy Street a6, Winnetka",
+            "CBG":60371347203,
+            "Radius":262.1648823822
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2082042,
+                        "lng":-118.572921
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2095521303,
+                              "lng":-118.5716374197
+                        },
+                        "southwest":{
+                              "lat":34.2068541697,
+                              "lng":-118.5743353803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SF LA UNION RESTAURANT",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100045369197672900028\">SF LA UNION RESTAURANT<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECWYLRNZFSrCrSk3jiWt_z66KmL79bXdmBf8XXaNi3N8FV5qlJGV-tBFEuoijNybdEKGilYW_wTyxJrQxjyGieOp1F3iKcDj_43lGHPXDMYXfqu-DjtVbObF9tCrfvzLD3F_ANnvHg1zTQwZZMoQQCsU0_aaPi6BDK_hc4Jor-KZf5p",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJdT8d3a-bwoAR81baJH86_Fw",
+            "plus_code":{
+                  "compound_code":"6C5G+7R Winnetka, Los Angeles, CA, USA",
+                  "global_code":"85636C5G+7R"
+            },
+            "rating":4.4,
+            "reference":"ChIJdT8d3a-bwoAR81baJH86_Fw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":35,
+            "vicinity":"20154 Saticoy Street Suite A1, Winnetka",
+            "CBG":60371347203,
+            "Radius":262.1648823822
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5084686,
+                        "lng":-112.1076126
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5099810303,
+                              "lng":-112.1060195697
+                        },
+                        "southwest":{
+                              "lat":33.5072830697,
+                              "lng":-112.1087175303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Original Geno's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108150662343319904156\">Paul<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtlvCW2_nV9TXRUwXKR4mPQk64Nd7yD1qKcXYsk5PcZ7PE8VX5EoBxiHkwl8YIVUM1DfppkXrJmsJ5n_wLGMGI3OE-I3Yxz2PEKgsj_MpPHczWboIwvBFKXSBKda_QQovGLYARwChXNLXJ_sgQbH45SBNXzYFW-FxsKaAZVFMcKvyF",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJfV55KjsTK4cRKeS7IfS49cY",
+            "plus_code":{
+                  "compound_code":"GV5R+9X Phoenix, AZ, USA",
+                  "global_code":"8559GV5R+9X"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJfV55KjsTK4cRKeS7IfS49cY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":545,
+            "vicinity":"2211 West Camelback Road #178, Phoenix",
+            "CBG":40131090022,
+            "Radius":385.4141707773
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5081301,
+                        "lng":-112.1109236
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5094169303,
+                              "lng":-112.1095830697
+                        },
+                        "southwest":{
+                              "lat":33.5067189697,
+                              "lng":-112.1122810303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Luke's Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101300572482810524905\">Luke&#39;s Diner<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBrszyeMmbLR9WZOtvRJ91BH8id-0AOItORGkZcFS-gdWOMPTCqJLEwbx1yp7I73_mSjmPlzIVXGABVOUPwVptmqlp4-_Q_0fRfbZI7DAkfmGxAjUxkRptUUqRynREb4K56EJpM1B3pZpxDGXgzPte7rXsPLlaENhbeH8KLmKgD8wZ4",
+                        "width":5472
+                  }
+            ],
+            "place_id":"ChIJQRFMqDsTK4cRm_PKRmSZAiY",
+            "plus_code":{
+                  "compound_code":"GV5Q+7J Phoenix, AZ, USA",
+                  "global_code":"8559GV5Q+7J"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJQRFMqDsTK4cRm_PKRmSZAiY",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"2425 West Camelback Road, Phoenix",
+            "CBG":40131090022,
+            "Radius":385.4141707773
+      }
+]

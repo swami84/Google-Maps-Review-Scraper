@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.2099488,
+                        "lng":-80.2208557
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.2112852303,
+                              "lng":-80.2193867197
+                        },
+                        "southwest":{
+                              "lat":26.2085872697,
+                              "lng":-80.2220846803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"KFC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB3TmmZ1FMBGiYpFjr9yJfm7YcgwLHMcW5RXnKWguBu6se-vkQPj2uKnNiVI1ExUeBIIWCtmzIqlYfZTlM-2cOr5aT-LuHl_ZH2FzIypXVLSyO_LYAqvQ4M09S8T6diUeP8zE1J-hPkvUQKZIEdMaSjNAlPDHqYLsJ3AP-66innJCOh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJnYFf-EUE2YgRjrzNz0vHC-4",
+            "plus_code":{
+                  "compound_code":"6Q5H+XM North Lauderdale, FL, USA",
+                  "global_code":"76RX6Q5H+XM"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJnYFf-EUE2YgRjrzNz0vHC-4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":829,
+            "vicinity":"7107 West McNab Road, North Lauderdale",
+            "CBG":120110204134,
+            "Radius":206.528068452
+      }
+]

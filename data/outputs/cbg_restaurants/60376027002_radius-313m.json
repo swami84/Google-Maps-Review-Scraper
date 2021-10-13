@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9288357,
+                        "lng":-118.3175268
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9301849803,
+                              "lng":-118.3163105697
+                        },
+                        "southwest":{
+                              "lat":33.9274870197,
+                              "lng":-118.3190085303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Colombian Kitchen \ud83c\udde8\ud83c\uddf4",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":370,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104580427640176075271\">Patricia Sumal\u00e9<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBXdwv3RuV56vbdJdnFAd2p3fKztqlTifHNauu6-SI9mVEaidLTNSRhrxwcwPcLOJMgbRTxeTmpuMMwyDJfvuIS3kFS2R0ofDKV26RDHjI6_IGaoiDcdM_j4WvMyuHLiWJwUftTP9IhkLbb-cN3-gMYX_rPPmGCi1CYKyyDnQ4Wd9Q",
+                        "width":598
+                  }
+            ],
+            "place_id":"ChIJS0N851m3woARAKyhidtQ09c",
+            "plus_code":{
+                  "compound_code":"WMHJ+GX Hawthorne, CA, USA",
+                  "global_code":"8553WMHJ+GX"
+            },
+            "rating":5,
+            "reference":"ChIJS0N851m3woARAKyhidtQ09c",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"11536 South Van Ness Avenue, Hawthorne",
+            "CBG":60376027002,
+            "Radius":313.3960144308
+      }
+]

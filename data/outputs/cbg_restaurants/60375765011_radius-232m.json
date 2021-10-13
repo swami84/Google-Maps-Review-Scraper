@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7718327,
+                        "lng":-118.1798089
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7731245803,
+                              "lng":-118.1785040697
+                        },
+                        "southwest":{
+                              "lat":33.7704266197,
+                              "lng":-118.1812020303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Seabirds Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":609,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115033867704242563450\">Seabirds Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAkklveKuox9AHUy0donvDf8cFDbIydYGD4gfRvRSPAWUf9qm6K5fTjIYKHqsq00n6Abyd2W3--CUqqGeoJpW5B9hp5TiLvjz7hlaZQu69-tNNzz7UMW0bFBB2mqWAuzd82CqctqrNpirncPBvpxKRwe-wT9yFcoSFU4-xMrBKoarf2",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJTTwryhUx3YAR1XX68GHq9dE",
+            "plus_code":{
+                  "compound_code":"QRCC+P3 Long Beach, CA, USA",
+                  "global_code":"8553QRCC+P3"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJTTwryhUx3YAR1XX68GHq9dE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":750,
+            "vicinity":"975 East 4th Street, Long Beach",
+            "CBG":60375765011,
+            "Radius":231.528172568
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7718323,
+                        "lng":-118.1789215
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7731258803,
+                              "lng":-118.1775787197
+                        },
+                        "southwest":{
+                              "lat":33.7704279197,
+                              "lng":-118.1802766803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jounetsu Ramen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107137850513471428620\">Jounetsu ramen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA1chRPpVPv5vvbLe68mxFmupskfSOA9n6yaIScHSA0BYyXix3y66G_3WpZrlYlQ3OlrZbi19WB-OmUgpitKDObfT0XHwDACE9_pQAi9R1CsnKOj7DwscAILL7LffaNggnbyb1Aee8uSi_RfzRHBRPJt6NAOgWO_gFWiG5sMyauipOB",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ7wMtJ9Ex3YARJpAqyiPkuws",
+            "plus_code":{
+                  "compound_code":"QRCC+PC Long Beach, CA, USA",
+                  "global_code":"8553QRCC+PC"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ7wMtJ9Ex3YARJpAqyiPkuws",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":195,
+            "vicinity":"1035 East 4th Street, Long Beach",
+            "CBG":60375765011,
+            "Radius":231.528172568
+      }
+]

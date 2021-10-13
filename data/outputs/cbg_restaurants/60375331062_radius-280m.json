@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9788467,
+                        "lng":-118.218603
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9801196803,
+                              "lng":-118.2171989197
+                        },
+                        "southwest":{
+                              "lat":33.9774217197,
+                              "lng":-118.2198968803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lucky Snack Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJDSXJ8jrJwoARjOJMZuu2fmA",
+            "plus_code":{
+                  "compound_code":"XQHJ+GH Huntington Park, CA, USA",
+                  "global_code":"8553XQHJ+GH"
+            },
+            "reference":"ChIJDSXJ8jrJwoARjOJMZuu2fmA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"6550 Miles Avenue, Huntington Park",
+            "CBG":60375331062,
+            "Radius":279.5244823126
+      }
+]

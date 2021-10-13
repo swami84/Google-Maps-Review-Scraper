@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.2236927,
+                        "lng":-66.0444688
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.2251143303,
+                              "lng":-66.0430985697
+                        },
+                        "southwest":{
+                              "lat":18.2224163697,
+                              "lng":-66.0457965303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mario's Pizza Degetau",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107379237390439256177\">Paola<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBRl7qQ2R9Wh3gqr1upvlGuMbeCJv2qAlaiRLgxtrk3Rd76XgEgOJTrkOqBdMtcM-6ssD487tX4w04Qdl8hBpWwQ08Hrdy2MknVH5P6B9474G6xmIlAa_ueS20YEECQ54g5XMrd7tTFu-A1wQQ9JLAE1BwW2MUMs04nm6RHPLZhVg4c",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8-XdnSxbA4wRCAxh9lqkfrw",
+            "plus_code":{
+                  "compound_code":"6XF4+F6 Caguas, Puerto Rico",
+                  "global_code":"77CM6XF4+F6"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ8-XdnSxbA4wRCAxh9lqkfrw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":291,
+            "vicinity":"8 Avenida Degetau, Caguas",
+            "CBG":720252015004,
+            "Radius":193.4915300295
+      }
+]

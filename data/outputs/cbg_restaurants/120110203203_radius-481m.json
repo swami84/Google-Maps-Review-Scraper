@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.2439446,
+                        "lng":-80.2566022
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.2449785803,
+                              "lng":-80.2550157197
+                        },
+                        "southwest":{
+                              "lat":26.2422806197,
+                              "lng":-80.2577136803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Sam's Club Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103151282234155581031\">Sam&#39;s Club Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGBJa_6I8E8CI3TPDow3-0xaeIxd_60USZHamORqEwa7kF9ZT3q39cEhph8bjhnAvGJpPHlcrVl8sw2BUZV2mZhTZmIIkHGLrib7XkwNV4wem4UX6P32hu3xk83Ug7Bid6ZXLEWnXqqM2oo5iymjQ33XNrYtXBgNx8PXLucH9dNXo",
+                        "width":1132
+                  }
+            ],
+            "place_id":"ChIJrWQlrFwF2YgRKW0U9TSh3Ss",
+            "plus_code":{
+                  "compound_code":"6PVV+H9 Coral Springs, FL, USA",
+                  "global_code":"76RX6PVV+H9"
+            },
+            "reference":"ChIJrWQlrFwF2YgRKW0U9TSh3Ss",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"950 North University Drive, Coral Springs",
+            "CBG":120110203203,
+            "Radius":481.2765331475
+      }
+]

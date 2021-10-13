@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0710245,
+                        "lng":-117.7793089
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0723398803,
+                              "lng":-117.7779495197
+                        },
+                        "southwest":{
+                              "lat":34.0696419197,
+                              "lng":-117.7806474803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108937204540737265160\">Don Dizzle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECENir1Z0u8uynRK0hio1mI8FCPj4gQAB7lzZfKJ5VnT0dE7cGWLgmtefpQmPG4Ue41h5JWVgtzw2opBD2u0jXookSw_qcmomTE7h1vknCoa7e9eBVikoFCJoHHPEsOUxaUCofAtiUBphYzgBgskk6jRzc6Jcqlr1FBqIcJVFaKUV50",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJ_wf8ZmMuw4ARFr1ZfeFwPbw",
+            "plus_code":{
+                  "compound_code":"36CC+C7 Pomona, CA, USA",
+                  "global_code":"856436CC+C7"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ_wf8ZmMuw4ARFr1ZfeFwPbw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":621,
+            "vicinity":"1335 North Dudley Street, Pomona",
+            "CBG":60374024062,
+            "Radius":541.9363271503
+      }
+]

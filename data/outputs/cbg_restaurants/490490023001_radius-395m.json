@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.2300874,
+                        "lng":-111.6759473
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.2314798303,
+                              "lng":-111.6746793697
+                        },
+                        "southwest":{
+                              "lat":40.2287818697,
+                              "lng":-111.6773773303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Little Suite Provo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ3cyIbXOZTYcRs3D4Wx9dJHg",
+            "plus_code":{
+                  "compound_code":"68JF+2J Provo, UT, USA",
+                  "global_code":"85GC68JF+2J"
+            },
+            "reference":"ChIJ3cyIbXOZTYcRs3D4Wx9dJHg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1380 South University Avenue, Provo",
+            "CBG":490490023001,
+            "Radius":394.821869976
+      }
+]

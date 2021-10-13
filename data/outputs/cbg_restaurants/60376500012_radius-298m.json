@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8838487,
+                        "lng":-118.3229004
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8851980803,
+                              "lng":-118.3215352197
+                        },
+                        "southwest":{
+                              "lat":33.8825001197,
+                              "lng":-118.3242331803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Celias Tacos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ68Ocqwq1woAR_Ydrp4YMIvA",
+            "plus_code":{
+                  "compound_code":"VMMG+GR Torrance, CA, USA",
+                  "global_code":"8553VMMG+GR"
+            },
+            "rating":3.5,
+            "reference":"ChIJ68Ocqwq1woAR_Ydrp4YMIvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2314 Redondo Beach Boulevard, Torrance",
+            "CBG":60376500012,
+            "Radius":298.4269589293
+      }
+]

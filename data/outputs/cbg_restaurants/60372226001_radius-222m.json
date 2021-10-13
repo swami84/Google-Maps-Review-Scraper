@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.02242,
+                        "lng":-118.29219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0237576303,
+                              "lng":-118.2907754197
+                        },
+                        "southwest":{
+                              "lat":34.0210596697,
+                              "lng":-118.2934733803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TOGO'S Sandwiches",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103217029157979754334\">Andrew Smith<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC7-ak_W_0W0h-9y6cw2DVEx4HY8LjxnQChvz4V5wkuU_G7q5BckDtJdU2719yFBupgpl7VXrCQizgfmui7os5R5uzuxrlxkrqJhL_b4TmxIn3_99t9SOuzp9LazG853fHMJui0gaMjGshtz1jXGUa7xDxaGIbjXWyWKMe6ro2RtwYY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJRdtEs_vHwoARrdH3km_hL2w",
+            "plus_code":{
+                  "compound_code":"2PC5+X4 Los Angeles, CA, USA",
+                  "global_code":"85632PC5+X4"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJRdtEs_vHwoARrdH3km_hL2w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":107,
+            "vicinity":"3619 Vermont Avenue, Los Angeles",
+            "CBG":60372226001,
+            "Radius":222.0413962558
+      }
+]

@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9729597,
+                        "lng":-118.037866
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9742994803,
+                              "lng":-118.0362732697
+                        },
+                        "southwest":{
+                              "lat":33.9716015197,
+                              "lng":-118.0389712303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Uptown Pizza Company",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":427,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114573198128331918108\">Uptown Pizza Company<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED7KeiZ9lvxx69xZY5L4eSrB9dVbqY5CJu8a8jR8MyEJvAMVgQDImSYTQMNw3I8TJWpAGCG_-t1SVuuNrYqTlcxsMjn7w5OzG1MeNI1am2nd_u6uXMMgKpbuL4bdwjBafv8gaXcbcyQcl6AuQ5mtPmQ3f4mw_JycdaaiLScd-8F5hJ5",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJ5ZIX9ZTTwoARHwytTaOPGiA",
+            "plus_code":{
+                  "compound_code":"XXF6+5V Whittier, CA, USA",
+                  "global_code":"8553XXF6+5V"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJ5ZIX9ZTTwoARHwytTaOPGiA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":226,
+            "vicinity":"7623 Greenleaf Avenue, Whittier",
+            "CBG":60375018032,
+            "Radius":263.1834046309
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9755513,
+                        "lng":-118.0390252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9768504803,
+                              "lng":-118.0376759697
+                        },
+                        "southwest":{
+                              "lat":33.9741525197,
+                              "lng":-118.0403739303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Blue Dragon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJ4_XGKevTwoARvEV9_oi9RJg",
+            "plus_code":{
+                  "compound_code":"XXG6+69 Whittier, CA, USA",
+                  "global_code":"8553XXG6+69"
+            },
+            "price_level":null,
+            "rating":1.0,
+            "reference":"ChIJ4_XGKevTwoARvEV9_oi9RJg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"12823 Penn Street, Whittier",
+            "CBG":60375018032,
+            "Radius":263.1834046309
+      }
+]

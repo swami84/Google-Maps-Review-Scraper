@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9842761,
+                        "lng":-118.0956772
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9856698303,
+                              "lng":-118.0943025697
+                        },
+                        "southwest":{
+                              "lat":33.9829718697,
+                              "lng":-118.0970005303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Zapien's Salsa Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1125,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109729111438102379808\">Zapien&#39;s Salsa Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA1uVjHA9BnxZlAxcn427cF8N2NUOXPoPtRUvqfAjSTszQ91V4yrDhJBkDGH4o6sSJqVA5kZ9RVBOvJkHnpYP2IRt0DEzog0aqUCqijabu1Q8em9hsUZplF2tay1_pPmAUpUIrqvXDofElXUWt6pIVAm1eVcD4SvMHZpm4YmL20kRWx",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJac7QUfbRwoARAWP0PYZIEwU",
+            "plus_code":{
+                  "compound_code":"XWM3+PP Pico Rivera, CA, USA",
+                  "global_code":"8553XWM3+PP"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJac7QUfbRwoARAWP0PYZIEwU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":602.0,
+            "vicinity":"6702 Rosemead Boulevard, Pico Rivera",
+            "CBG":60375008004,
+            "Radius":533.4692213062
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9840005,
+                        "lng":-118.0869882
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9853351803,
+                              "lng":-118.0856053697
+                        },
+                        "southwest":{
+                              "lat":33.9826372197,
+                              "lng":-118.0883033303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tostada Town",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100682289349622241710\">EatCheapWithPete<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECLc3AIWzjL6nPbzLIQj7WukVptcVHyLBz5B_xxrrgxdu8n5mhhMafz6Xgj6iaEkeXk3L632xN7FNw--PKPgKcXu7F5hUPCHog9rHs39OtI9snbqq4h3am6KLflP7kxMyHaUOpYYQNqfP80yjZxI8uXjOP2vm8sWcOHOgUPgIDMmvjt",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJP4rPBdTRwoARrvfR8CIw2AY",
+            "plus_code":{
+                  "compound_code":"XWM7+J6 Pico Rivera, CA, USA",
+                  "global_code":"8553XWM7+J6"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJP4rPBdTRwoARrvfR8CIw2AY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"6502 Passons Boulevard, Pico Rivera",
+            "CBG":60375008004,
+            "Radius":533.4692213062
+      }
+]

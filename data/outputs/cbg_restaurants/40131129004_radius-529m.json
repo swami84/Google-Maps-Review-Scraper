@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4592611,
+                        "lng":-112.0939021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4606060303,
+                              "lng":-112.0923285197
+                        },
+                        "southwest":{
+                              "lat":33.4579080697,
+                              "lng":-112.0950264803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Irma's Kitchen LLC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109854319086871495265\">Irma&#39;s Kitchen LLC<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB18xq1-NzVTp9aQnH1YD1AuxpkkaGjTA-Y6w-5Tv61e2R04WWPapPtRLverzOWNDrUtjsm1_HLKy6FshEJgiqbglgL_I4PaIiAGPVC9A4h5ShIPXT38H68sIEEzYqioynB1cuk6mlB-mENHv_QO6Mwiq7J5nxxAUhUGYt96QYdIVm0",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJixH-QjQSK4cRqS-JJWHpvBg",
+            "plus_code":{
+                  "compound_code":"FW54+PC Phoenix, AZ, USA",
+                  "global_code":"8559FW54+PC"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJixH-QjQSK4cRqS-JJWHpvBg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":506,
+            "vicinity":"1614 West Roosevelt Street, Phoenix",
+            "CBG":40131129004,
+            "Radius":529.1472716014
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4579287,
+                        "lng":-112.0914873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4592804303,
+                              "lng":-112.0900125197
+                        },
+                        "southwest":{
+                              "lat":33.4565824697,
+                              "lng":-112.0927104803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maskadores Taco Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2112,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112646642449093456204\">Tulio<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBOOP9DmMP3-bNogkXqxwj3xttDXqyniZZGmCq5pg9uZsH1uSYeO3AhOjdHzMKZuagMLvTMYlPyVNZqizGLhrjMJm2amMK_QFcPTEtZ8k2izeyu3MXYDbVl4xB0j1wTiECetyGvlwaSEGK4aPO7JfspUxb5qaekbiyZindUsjy0AZRO",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJjTMcYgsTK4cR-ImWEmhJj6Y",
+            "plus_code":{
+                  "compound_code":"FW55+5C Phoenix, AZ, USA",
+                  "global_code":"8559FW55+5C"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJjTMcYgsTK4cR-ImWEmhJj6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"906 North 15th Avenue, Phoenix",
+            "CBG":40131129004,
+            "Radius":529.1472716014
+      }
+]

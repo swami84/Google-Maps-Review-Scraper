@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.869693,
+                        "lng":-77.100119
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8710957803,
+                              "lng":-77.0987788197
+                        },
+                        "southwest":{
+                              "lat":38.8683978197,
+                              "lng":-77.1014767803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"DOS GENERACIONES RESTAURANT",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116371150355634431062\">TRES GENERACIONES RESTAURANT<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB3J2jy9goHOCLRb04Ro5zMwrKKDAYBSoAXe2kzkZLLnoYAjdpNHXUKl-GUx0d6lhriD7TXT8vV4iQ7-aUkpQCS33pCTb7gY68hbhMxtxBvvUjqYbDRP-mn2Mu8hddrrq3OM-29KEEDI6XZ54CrJm4CLP-0HNniizCbuE1n_ZuRqPA",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJmb3PYqe3t4kRzRh-D7zPHEk",
+            "plus_code":{
+                  "compound_code":"VV9X+VX Arlington, VA, USA",
+                  "global_code":"87C4VV9X+VX"
+            },
+            "rating":5,
+            "reference":"ChIJmb3PYqe3t4kRzRh-D7zPHEk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"36 South Glebe Road, Arlington",
+            "CBG":510131023012,
+            "Radius":377.0428797872
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9152937,
+                        "lng":-118.1255959
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9166449803,
+                              "lng":-118.1241868197
+                        },
+                        "southwest":{
+                              "lat":33.9139470197,
+                              "lng":-118.1268847803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lucky Guys",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100523756140766321028\">Wilfrido Vasquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAkJQs7ROD1qayzKVuBX-PyTnjLRaRtRgTQCpyIXIAMV7tFe3dv5PeFuSFqlgbF8bQS8YIsii3Zx06s6X3lKBMgoBzX9kmZ_tA87S-vdQU6OYkNZ2or3-ISFfucKC-zEJj27VOg84fgdA9PEr4Yf5cJ8uKUIggbZr-VVr0sRVDLx2TL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJHxaYYGjNwoAROIDKklNbl5k",
+            "plus_code":{
+                  "compound_code":"WV8F+4Q Downey, CA, USA",
+                  "global_code":"8553WV8F+4Q"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJHxaYYGjNwoAROIDKklNbl5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":566,
+            "vicinity":"12801 Bellflower Boulevard, Downey",
+            "CBG":60375518004,
+            "Radius":322.3665927044
+      }
+]

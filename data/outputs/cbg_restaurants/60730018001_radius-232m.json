@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7631027,
+                        "lng":-117.112449
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7645506803,
+                              "lng":-117.1109665697
+                        },
+                        "southwest":{
+                              "lat":32.7618527197,
+                              "lng":-117.1136645303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pachamama",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2359,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116010225573897317889\">Pachamama<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAvzKfEk9JsuAa1cCsfHrZgF5aLyM_ZN7J10F50mioJ2WurjFzMN-yHNgt1LAroTB_KGE2pXhp78dAuqXsBuvNrqOiJNJ7deAzaifBIyRCDXyCv98nmJKiIzBpoJWIGjFSAgb4ztZ5VhYV7OHdmElK8X6LpRRyUn5gE_uAzsb6bLfq5",
+                        "width":4192
+                  }
+            ],
+            "place_id":"ChIJzaGU0E1U2YARYwScp7Ny_Qw",
+            "plus_code":{
+                  "compound_code":"QV7Q+62 San Diego, CA, USA",
+                  "global_code":"8544QV7Q+62"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJzaGU0E1U2YARYwScp7Ny_Qw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":139,
+            "vicinity":"3737 Adams Avenue, San Diego",
+            "CBG":60730018001,
+            "Radius":232.2495175087
+      }
+]

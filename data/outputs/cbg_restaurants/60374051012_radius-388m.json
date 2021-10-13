@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0991012,
+                        "lng":-117.9613916
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1004839303,
+                              "lng":-117.9599701697
+                        },
+                        "southwest":{
+                              "lat":34.0977859697,
+                              "lng":-117.9626681303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Patron",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115860501999192315042\">Araceli Guerrero<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDHhJGNL4g6P8-FGdlKECnh7eyAoEb2xkyp6wnqxRxm1W3H7KSZ_HwFGlc-xnyMRXLwKP1U7NpHNOYh_NIPbDCWD_11Re5_d9wIJdnAlH8WFZOmX16xFlQOYhKGks6fVFWFXeLw1_iCSquR2lfOL9a5dfQVdA_JH1heKmcwATOdGaKf",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJzeNlPQbZwoARI6rsJw5FDQw",
+            "plus_code":{
+                  "compound_code":"32XQ+JC Baldwin Park, CA, USA",
+                  "global_code":"856432XQ+JC"
+            },
+            "rating":4,
+            "reference":"ChIJzeNlPQbZwoARI6rsJw5FDQw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"14354 Olive Street, Baldwin Park",
+            "CBG":60374051012,
+            "Radius":387.7821572756
+      }
+]

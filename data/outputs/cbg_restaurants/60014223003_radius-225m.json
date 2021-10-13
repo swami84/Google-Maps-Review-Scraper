@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8708251,
+                        "lng":-122.2772275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8722419303,
+                              "lng":-122.2758923697
+                        },
+                        "southwest":{
+                              "lat":37.8695439697,
+                              "lng":-122.2785903303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"West Coast Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110805935292094324763\">Vishwanathan Rajaraman<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBnF-_UiofuQ5vaSvTyidl2H-338DBJ3bsw9wJWXIO11YI9DLK_jaWsBJ4cwpZYWhM_DZzCGhIwfasZzKxR7CZNdNSIw2GuLefmCAHqOmgPKHxDHoxtiiH4SjqAJYyEDPLuCrnOc_ddMmk2JubbiX-I21zTeac6wOp1OfCGBT7LdevJ",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJJfFUhJd-hYARSWx1qePXf10",
+            "plus_code":{
+                  "compound_code":"VPCF+84 Berkeley, CA, USA",
+                  "global_code":"849VVPCF+84"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJJfFUhJd-hYARSWx1qePXf10",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":99,
+            "vicinity":"1706 University Avenue, Berkeley",
+            "CBG":60014223003,
+            "Radius":224.5878511286
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8712805,
+                        "lng":-122.2767756
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8725656303,
+                              "lng":-122.2753408197
+                        },
+                        "southwest":{
+                              "lat":37.8698676697,
+                              "lng":-122.2780387803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Long Life Vegi House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3464,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103452587939040633938\">Hao Chen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBi_yoNGSwkNlhEO6JSHX4kEOXnK-jnu4KyyvfPBLMm4ANQD8hRlY1e3wXKpXqeYTn9DRIJOnwKEzirkG7oiKID_SDdaLp6znQPuTT7AbtIY4zPfO1-dRK7zvVEPbmxmlJ0tHt418jeMZyNW-K-vnbZiZrqhEx15dEivduG1CgFm8rI",
+                        "width":4618
+                  }
+            ],
+            "place_id":"ChIJQ8mCQp5-hYARelAbEiDthP8",
+            "plus_code":{
+                  "compound_code":"VPCF+G7 Berkeley, CA, USA",
+                  "global_code":"849VVPCF+G7"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJQ8mCQp5-hYARelAbEiDthP8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":306,
+            "vicinity":"1725 University Avenue, Berkeley",
+            "CBG":60014223003,
+            "Radius":224.5878511286
+      }
+]

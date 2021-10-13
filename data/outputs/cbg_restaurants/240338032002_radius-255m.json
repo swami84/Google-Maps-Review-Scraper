@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9246146,
+                        "lng":-76.8915314
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9259190303,
+                              "lng":-76.8900938697
+                        },
+                        "southwest":{
+                              "lat":38.9232210697,
+                              "lng":-76.8927918303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LAGOS CUISINE",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":449,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112837339051918260339\">LAGOS CUISINE<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKtlymHb27CMd43CzT2fiTo3iK0pvNB6sRjue2M5WRJosN8uDW9t-WpmyAKLkFb4dPybrcNa7V3VJRFYx1jX8PYxlM3v0JOwxTr-LTWo1pd8otzAV0GFXklBdvPoPI8d5Tdz4N8ulLfV8oB8HQ9cr7VRqpj403JcaaVXAMNSqJcaA8",
+                        "width":1453
+                  }
+            ],
+            "place_id":"ChIJQXejAarBt4kRlYQfqNBLmec",
+            "plus_code":{
+                  "compound_code":"W4F5+R9 Landover, Greater Landover, MD, USA",
+                  "global_code":"87C5W4F5+R9"
+            },
+            "rating":5,
+            "reference":"ChIJQXejAarBt4kRlYQfqNBLmec",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"6708 West Forest Road, Landover",
+            "CBG":240338032002,
+            "Radius":254.5570632689
+      }
+]

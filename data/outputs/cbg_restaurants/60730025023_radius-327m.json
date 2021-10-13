@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7343219,
+                        "lng":-117.1062755
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7355780303,
+                              "lng":-117.1048119197
+                        },
+                        "southwest":{
+                              "lat":32.7328800697,
+                              "lng":-117.1075098803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cali Craft Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111314251010045287721\">Cali Craft Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChtYrgQKJnKKkCYGTZQOAAVi4zbir8X82JjiEGr0C9Wds0cNhbQZGp0AStlcwmftcEDgl1eP5g2qIAqvDAJm5rrmrUqwfvyGsrHFx1eOcom5lnPDUZkv6fG7lvyMuN6ZDEV1OtlYaQHmzg3xqKmj53iqyWDfDhWs3Vj9gD67iczMZ0",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJgbQ-Jn1V2YAReBrRIdIYC0M",
+            "plus_code":{
+                  "compound_code":"PVMV+PF San Diego, CA, USA",
+                  "global_code":"8544PVMV+PF"
+            },
+            "rating":5,
+            "reference":"ChIJgbQ-Jn1V2YAReBrRIdIYC0M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"4134 Poplar Street, San Diego",
+            "CBG":60730025023,
+            "Radius":326.8557256799
+      }
+]

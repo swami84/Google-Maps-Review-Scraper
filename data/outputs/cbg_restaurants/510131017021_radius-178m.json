@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8941338,
+                        "lng":-77.0707662
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8954937803,
+                              "lng":-77.0694377197
+                        },
+                        "southwest":{
+                              "lat":38.8927958197,
+                              "lng":-77.0721356803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ayat Halal Food Cart",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112979882182421108271\">Chowdhury Productions<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB45mNqhozWStYaQCX1EZUIsX9sP3RIaSbUBs3jjIoqmiv0_gFgWgUqCL2opAcoDlkWoDUXgj3IL_0vq6AO8pSrgcvErPZM1e74LiEpYbWb1QDdF-HEzA8_gX0X35WFQ67eURAFL41mGCxGnL5Z_0jqAhva-DuVD1a7lk_vdrqciFYP",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJF5e0glm2t4kRIU90r4FAaFM",
+            "plus_code":{
+                  "compound_code":"VWVH+MM Arlington, VA, USA",
+                  "global_code":"87C4VWVH+MM"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJF5e0glm2t4kRIU90r4FAaFM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":82,
+            "vicinity":"1687 North Lynn Street, Arlington",
+            "CBG":510131017021,
+            "Radius":178.3312154917
+      }
+]

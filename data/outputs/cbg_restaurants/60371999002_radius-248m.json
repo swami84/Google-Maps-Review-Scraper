@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0661906,
+                        "lng":-118.2084723
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0674880803,
+                              "lng":-118.2071124697
+                        },
+                        "southwest":{
+                              "lat":34.0647901197,
+                              "lng":-118.2098104303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Tres Cochinitos Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102873032442459401025\">jinyang gao<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOIxU47wjbZLeV0Ui-PBYnLVaSx7togs11hsJsYSavMrPa0HeE83l4R3yCNhKDLx33EwGO6T2Mcl3iBt5dLNM2cjalNFNiiWIp-4YQxIq7v9TgpR6KBQErr0zacpvcdwvfQD2DiZzO5r2UPLQccIJE2siiFiAmE9xtuH7NKZlq9Aih",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJRRMEhHfGwoARqX6gVveGFDI",
+            "plus_code":{
+                  "compound_code":"3Q8R+FJ Los Angeles, CA, USA",
+                  "global_code":"85633Q8R+FJ"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJRRMEhHfGwoARqX6gVveGFDI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":497,
+            "vicinity":"3111 North Main Street, Los Angeles",
+            "CBG":60371999002,
+            "Radius":247.5976054401
+      }
+]

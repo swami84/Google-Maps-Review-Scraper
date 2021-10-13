@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.5506228,
+                        "lng":-77.4356582
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5519216303,
+                              "lng":-77.4343339697
+                        },
+                        "southwest":{
+                              "lat":37.5492236697,
+                              "lng":-77.4370319303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"East Market Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJdQ1r1y8RsYkRGkppAY8N4Yc",
+            "plus_code":{
+                  "compound_code":"HH27+6P Richmond, VA, USA",
+                  "global_code":"8794HH27+6P"
+            },
+            "rating":4.5,
+            "reference":"ChIJdQ1r1y8RsYkRGkppAY8N4Yc",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"100 East Baker Street, Richmond",
+            "CBG":517600301001,
+            "Radius":342.7032615335
+      }
+]

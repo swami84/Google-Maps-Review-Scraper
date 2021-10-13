@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.0253478,
+                        "lng":-118.2986129
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0267255303,
+                              "lng":-118.2973425197
+                        },
+                        "southwest":{
+                              "lat":34.0240275697,
+                              "lng":-118.3000404803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Revolutionario North African Tacos Catering",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109721485681761847197\">Revolutionario North African Tacos Catering<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDLNPOfEKbS5CrzmsaHeV7okZk4CYsWlQVB9CN0-VBXZw6I7U6nrWCzBSr34uqjl8GxBNw5n1uxJ-0Tn1ClVrh1JmWYtzpU1dURtCA8G7IgOP224OgPz3jWWmjMRxrss2CEBwGiD7p_W3RmWrl6vfDMRTyd0wpT7KsBZfTmTOVhuqrJ",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJSWEQxffHwoARXVroK-pi8jk",
+            "plus_code":{
+                  "compound_code":"2PG2+4H Los Angeles, CA, USA",
+                  "global_code":"85632PG2+4H"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJSWEQxffHwoARXVroK-pi8jk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":328,
+            "vicinity":"1436 West Jefferson Boulevard, Los Angeles",
+            "opening_hours":null,
+            "CBG":60372221001,
+            "Radius":225.6857065208
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0256379,
+                        "lng":-118.2983499
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0269289803,
+                              "lng":-118.2970010697
+                        },
+                        "southwest":{
+                              "lat":34.0242310197,
+                              "lng":-118.2996990303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Poblanos Restaurant",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116281312622484668005\">Epifanio Roquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-KUSPd3ZWO3ve2x_RP8K7TfUB8If9dW2MoXTUlL0-F55wptRAI0NRG1oa3TA6h0_Bzohnr9y8iNqJ_8wTjrGJNzdEoLHxjxzPj7hyMjUAVljQ8O5lUJrKUiicJFoMjU6I3sGNIwPDvFWbyJg1ZjfVIcUhz5U7jPkRT6f8X_Wc4CpT",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJT4Arz_fHwoAR-R-5cxO98Cg",
+            "plus_code":{
+                  "compound_code":"2PG2+7M Los Angeles, CA, USA",
+                  "global_code":"85632PG2+7M"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJT4Arz_fHwoAR-R-5cxO98Cg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"1433 West Jefferson Boulevard, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60372221001,
+            "Radius":225.6857065208
+      }
+]

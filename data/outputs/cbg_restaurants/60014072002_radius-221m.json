@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7784727,
+                        "lng":-122.2164007
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7798216803,
+                              "lng":-122.2150517197
+                        },
+                        "southwest":{
+                              "lat":37.7771237197,
+                              "lng":-122.2177496803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Malecon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2498,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107721404123505875377\">Trap Speed 1320<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDQt5_IxGdUqePeR34y9_dScc2RcuHQ3iXSwFcIW19_IkXusAiW48lWIXZbwQgWw78XqZmEQHnD44fP9QxyBRBV0beQXNHmjAnRLVpFSs3ZsPxhdssILdz_wWmrejBAPVk0xR7B9cbcWd0HgXpdrEQu00BJUa2NB8LSFj-zdoe6XAsW",
+                        "width":2919
+                  }
+            ],
+            "place_id":"ChIJV6lORl6Gj4AR59p4eaGkvfY",
+            "plus_code":{
+                  "compound_code":"QQHM+9C Oakland, CA, USA",
+                  "global_code":"849VQQHM+9C"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJV6lORl6Gj4AR59p4eaGkvfY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":324,
+            "vicinity":"3829 Foothill Boulevard, Oakland",
+            "CBG":60014072002,
+            "Radius":220.8058127788
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7784711,
+                        "lng":-122.2163505
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7797252803,
+                              "lng":-122.2148982697
+                        },
+                        "southwest":{
+                              "lat":37.7770273197,
+                              "lng":-122.2175962303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Seafood Mariscos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106196839574526459663\">Roy Aguilera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAhxqnZDBS59Y6HhDOzQiuPT2kB2PeETuy0KUhVC7rX21upW3B_obxTuBr22rJcPSPi02XrgbayX6JBYQts6IoyndUSqsGqRVxTT00mPWfR5Bp6lXDd2xwPkHg4c9K7RrDfocQ5EVqfq-BXSdnhQb57u0dIeYGmMvRkDb_gyg0wpzfa",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJZX5GRl6Gj4ARk6r340Kd6JE",
+            "plus_code":{
+                  "compound_code":"QQHM+9F Oakland, CA, USA",
+                  "global_code":"849VQQHM+9F"
+            },
+            "price_level":null,
+            "rating":3.5,
+            "reference":"ChIJZX5GRl6Gj4ARk6r340Kd6JE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"3829 Foothill Boulevard, Oakland",
+            "CBG":60014072002,
+            "Radius":220.8058127788
+      }
+]

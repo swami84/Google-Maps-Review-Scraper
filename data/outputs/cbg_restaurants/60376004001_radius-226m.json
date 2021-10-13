@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9451363,
+                        "lng":-118.3169555
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9465423803,
+                              "lng":-118.3156138697
+                        },
+                        "southwest":{
+                              "lat":33.9438444197,
+                              "lng":-118.3183118303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Taco Tavern",
+            "place_id":"ChIJ4SB0eBa2woAR5wKNkcTzUcM",
+            "plus_code":{
+                  "compound_code":"WMWM+36 Westmont, CA, USA",
+                  "global_code":"8553WMWM+36"
+            },
+            "reference":"ChIJ4SB0eBa2woAR5wKNkcTzUcM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "permanently_closed":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60376004001,
+            "Radius":225.7139130033
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":33.9451453,
+                        "lng":-118.3169676
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9465466803,
+                              "lng":-118.3156209697
+                        },
+                        "southwest":{
+                              "lat":33.9438487197,
+                              "lng":-118.3183189303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"America\u2019s Cocina",
+            "place_id":"ChIJxRWTupC3woARMJxEamwqz5w",
+            "plus_code":{
+                  "compound_code":"WMWM+36 Los Angeles, CA, USA",
+                  "global_code":"8553WMWM+36"
+            },
+            "reference":"ChIJxRWTupC3woARMJxEamwqz5w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2124 West Century Boulevard, Los Angeles",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103033400834453174310\">America\u2019s Cocina<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB6K91CbFh75-hIVyPL0zfadYyv-UTSxGtO-bKC1pIfIEpo9rRZ7Y-zWuBO6HKN7kfZ31SqKLWzd2bO6LSNf01VNBY2LU4PWB1mZ1JHygQMJK1nY0DDVpTPeG-_-wQxZDprFi33_gGD1oFEQv-5hnkcqt0lTMVJhuPDg5ZNO_n8KSka",
+                        "width":2048
+                  }
+            ],
+            "rating":4.4,
+            "user_ratings_total":14.0,
+            "CBG":60376004001,
+            "Radius":225.7139130033
+      }
+]

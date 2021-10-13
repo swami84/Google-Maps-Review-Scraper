@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.928759,
+                        "lng":-118.147949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9300681303,
+                              "lng":-118.1466324197
+                        },
+                        "southwest":{
+                              "lat":33.9273701697,
+                              "lng":-118.1493303803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111045296268818022617\">Ahmad Bahyeldin<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAK5F2szEvZPg286_aj0QerYhbAWv5wD_YKP74bjXRNyZirYpj4gmdtWI8qkNetkhXfgVBWBgo-xrYBLooFpUb48h9xaIDXP-m2rfyKrgFhbgDTYRKRbMjBruUn9gJvgfGUFhRSu0tU0nbd4nPnsRJQRygpILjQjSfXj2nyWll-B5qO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9-dEDajNwoARLPvF2kCAfe4",
+            "plus_code":{
+                  "compound_code":"WVH2+GR Downey, CA, USA",
+                  "global_code":"8553WVH2+GR"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ9-dEDajNwoARLPvF2kCAfe4",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":899,
+            "vicinity":"12256 Paramount Boulevard, Downey",
+            "CBG":60375512012,
+            "Radius":386.2412385514
+      }
+]

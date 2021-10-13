@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0910281,
+                        "lng":-118.3525989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0922494303,
+                              "lng":-118.3512754697
+                        },
+                        "southwest":{
+                              "lat":34.0895514697,
+                              "lng":-118.3539734303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Astro Burger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117191431330371117178\">Jinsoo Kim<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDBIsDy9shMyWGjNt9vqQjRewkvd7KRNJqTuwfi-qVdSZJeASOYVOytElkxO5wQPSeLgp-W3PkIJd-K5KeN6ffGpdnH78F8x-H6b8BH2XwBiMXh-JiRdlIj2kyjHF8hyQfAcP00DZietni9OWsRIw57O2VoM-cEFBNjCgNarhngWh8Q",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJkcjYttC-woAROV-th_YyJ4U",
+            "plus_code":{
+                  "compound_code":"3JRW+CX Los Angeles, CA, USA",
+                  "global_code":"85633JRW+CX"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJkcjYttC-woAROV-th_YyJ4U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1568,
+            "vicinity":"7475 Santa Monica Boulevard, Los Angeles",
+            "CBG":60377001014,
+            "Radius":194.7900794519
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.019118,
+                        "lng":-80.146882
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0203449303,
+                              "lng":-80.1455302697
+                        },
+                        "southwest":{
+                              "lat":26.0176469697,
+                              "lng":-80.1482282303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rancho Nando Bakery and Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114167156669067333213\">John Galeano<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBCpX2M0DP2_FbBdFU0s19raef6qFvjF0ERJ7uPBrlgXDf4KmePBtOF2rJ2AP_jqYlm5kj23grfmwkUhHqUkUREj-q1Hvydug6hch2672-SvjOtD_h5fHrZ_3FNl_7nYVLhRR4_O11XpYrNXup2DpiiOAHS61Hv6aGudQwfSNdZ7OM",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJW_wrLZur2YgR5yopFNrLUaE",
+            "plus_code":{
+                  "compound_code":"2V93+J6 Hollywood, FL, USA",
+                  "global_code":"76RX2V93+J6"
+            },
+            "rating":4.6,
+            "reference":"ChIJW_wrLZur2YgR5yopFNrLUaE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bakery",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"1947 Johnson Street, Hollywood",
+            "CBG":120110903022,
+            "Radius":249.0326686498
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0191257,
+                        "lng":-80.1469889
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0204746803,
+                              "lng":-80.1456399197
+                        },
+                        "southwest":{
+                              "lat":26.0177767197,
+                              "lng":-80.1483378803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cuscatleco cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115071297236232808703\">Perpetua M. Emilien<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECw-MUtjWHSbPJf8nzYrd_xzk-paAabCc8us_XdwdRoZkghuG4FFvd8_JXNTE8Rwou1AcsLm8tQANoR7aZso95UYQ5U14lIw5HZP2o8ayZHIsMEgEhi9Qm-yvlziHZ6b0ij1wC8YYOgK_41eOo7Floo8DtM5PncsqodBm7vyeyYesAl",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkWEbA3yr2YgRRry6YQsnwEA",
+            "plus_code":{
+                  "compound_code":"2V93+M6 Hollywood, FL, USA",
+                  "global_code":"76RX2V93+M6"
+            },
+            "rating":4.5,
+            "reference":"ChIJkWEbA3yr2YgRRry6YQsnwEA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"1951 Johnson Street, Hollywood",
+            "CBG":120110903022,
+            "Radius":249.0326686498
+      }
+]

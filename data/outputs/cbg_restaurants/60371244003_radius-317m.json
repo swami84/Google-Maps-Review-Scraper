@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1719112,
+                        "lng":-118.4061133
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1733749303,
+                              "lng":-118.4047642197
+                        },
+                        "southwest":{
+                              "lat":34.1706769697,
+                              "lng":-118.4074621803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Le Sushi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111863062311090874316\">Yani A.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHVCbP4f_AWEqUz2PCrJr1VAdYeZahiDfHmLSxaLRQOZu-IHH8x3AjkdrR_7jucJLCIUjbS9Yc-w07fUxN6azilhTxRutKoyCs3Qk6m4ssLiLOQkillJ4bWJo8WFUs-F4aXI-v4wECMSvGfKd5hg0PRq2Dg_lv1MsHlfUFSxZx75Hp",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ0WrYFG2WwoAR0abU10vn34o",
+            "plus_code":{
+                  "compound_code":"5HCV+QH North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635HCV+QH"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ0WrYFG2WwoAR0abU10vn34o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":104,
+            "vicinity":"12524 Burbank Boulevard, North Hollywood",
+            "CBG":60371244003,
+            "Radius":316.9189038652
+      }
+]

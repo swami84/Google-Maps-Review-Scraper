@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1981125,
+                        "lng":-118.3916629
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1994570803,
+                              "lng":-118.3903900197
+                        },
+                        "southwest":{
+                              "lat":34.1967591197,
+                              "lng":-118.3930879803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chumie Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJrYudaSqUwoARsYn0vvrLCQk",
+            "plus_code":{
+                  "compound_code":"5JX5+68 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JX5+68"
+            },
+            "rating":5,
+            "reference":"ChIJrYudaSqUwoARsYn0vvrLCQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"North Hollywood",
+            "CBG":60371232031,
+            "Radius":319.2331042525
+      }
+]

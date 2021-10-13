@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.4443753,
+                        "lng":-66.0625064
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.4456472803,
+                              "lng":-66.0611575197
+                        },
+                        "southwest":{
+                              "lat":18.4429493197,
+                              "lng":-66.0638554803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Terraza de Bonanza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103355759195188743503\">Duhamel Adames<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECFczxDeBvPEcyv-NiEzOUf39snHUULUimwVyNeUfbkddBDytmFDf_fPDehPQ5MaGRHbIcxX_-qoxuc5K9l17BpwzIp9NA9RBTiAyvHPBQo-nr7gSYmQGOiAZI9xbdBvZhRUT72B6X6_KxmkHLvfcgTAcsEO6S0XEqNIEvHda2CbHDo",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJgxa87UxvA4wR_yVIVCbmxpc",
+            "plus_code":{
+                  "compound_code":"CWVP+QX San Juan, Puerto Rico",
+                  "global_code":"77CMCWVP+QX"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJgxa87UxvA4wR_yVIVCbmxpc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":734,
+            "vicinity":"Avenida Eduardo Conde, San Juan",
+            "CBG":721270025003,
+            "Radius":93.3951059269
+      }
+]

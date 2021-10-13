@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2248989,
+                        "lng":-118.4679811
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2261821803,
+                              "lng":-118.4666040197
+                        },
+                        "southwest":{
+                              "lat":34.2234842197,
+                              "lng":-118.4693019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kountry Folks Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100217290472680019330\">Christopher Arag\u00f3n<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAF1QMRvCfrNamfL-4fDIax_SYay_hlCu_5azY4Z8ojD1tGmxCLQ1LaGHpadUDzlo5NEUahHH9N_16eF63PvELPDcCsXf7T6SeNpQlqaX1luQwSFVhg7v_jW17x1b4BMlUhpTdFZatwp1yR3XOPQTw1IUGr5Xj_mOaLpsoMsvVLHCqh",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJP7FMI7eQwoARWbw0SD88lZw",
+            "plus_code":{
+                  "compound_code":"6GFJ+XR North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GFJ+XR"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJP7FMI7eQwoARWbw0SD88lZw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":960,
+            "vicinity":"8501 Sepulveda Boulevard, North Hills",
+            "CBG":60371174081,
+            "Radius":346.1899650002
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2218047,
+                        "lng":-118.4706272
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2229566803,
+                              "lng":-118.4692560697
+                        },
+                        "southwest":{
+                              "lat":34.2202587197,
+                              "lng":-118.4719540303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"MariZella RUBALCABA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100242527230732987434\">MariZella Rubalcaba<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDpLQgXdOM-Tdjer6d3H_xPhMXpQ46jtM0OcoSQzJDkuAx-dMJ8SBIjjI49-HA_lgW7pvr6x6atQz-btIdVwHL0Kff-jw7dRBD2U_739OMLf8Sg06CbkikBcByWj4l8gSuhoEtF4GQ2ww29j6eB0yBQdm_WLKUm-e0wa9vCkdofdWlx",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJZTtsJVGRwoARkr_r3jKMBiI",
+            "plus_code":{
+                  "compound_code":"6GCH+PP North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GCH+PP"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJZTtsJVGRwoARkr_r3jKMBiI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"15505 Roscoe Boulevard, North Hills",
+            "CBG":60371174081,
+            "Radius":346.1899650002
+      }
+]

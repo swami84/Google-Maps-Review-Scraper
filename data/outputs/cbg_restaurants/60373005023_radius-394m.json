@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2064294,
+                        "lng":-118.2278231
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2077716803,
+                              "lng":-118.2265567197
+                        },
+                        "southwest":{
+                              "lat":34.2050737197,
+                              "lng":-118.2292546803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Alissa's Ocean View Bar & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2358,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108380734027576821668\">Alissa&#39;s Ocean View Bar &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAll8WzqsPDz_RtTIlV4QArybSkA32RXwE5sbxai9SsBoGsAoLqCzyu7mt_sn9MKrIqmHSinTnSGN9bODy0F4NyUWGGFdQXSV2RYeL99xNAqNPKKgOwfE9Kc21vywnJ9Dh_tAgFDYfFPl92m9JEZVs88Vo91BPhtmzThUJZ2_WtI-sA",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJNUihvxLqwoAR_77WFIowWO4",
+            "plus_code":{
+                  "compound_code":"6Q4C+HV Montrose, La Crescenta-Montrose, CA, USA",
+                  "global_code":"85636Q4C+HV"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJNUihvxLqwoAR_77WFIowWO4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":278,
+            "vicinity":"3826 Ocean View Boulevard, Montrose",
+            "CBG":60373005023,
+            "Radius":394.2119029956
+      }
+]

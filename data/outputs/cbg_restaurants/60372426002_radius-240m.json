@@ -1,0 +1,92 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9299486,
+                        "lng":-118.2458423
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9313191803,
+                              "lng":-118.2445889697
+                        },
+                        "southwest":{
+                              "lat":33.9286212197,
+                              "lng":-118.2472869303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Seafood Exp & Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJvRC5sM7LwoARPdbDOtOROmM",
+            "plus_code":{
+                  "compound_code":"WQH3+XM Los Angeles, CA, USA",
+                  "global_code":"8553WQH3+XM"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJvRC5sM7LwoARPdbDOtOROmM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"1601 East Imperial Highway #103A, Los Angeles",
+            "CBG":60372426002,
+            "Radius":239.6690366549
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9297026,
+                        "lng":-118.245865
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9312552803,
+                              "lng":-118.2445957697
+                        },
+                        "southwest":{
+                              "lat":33.9285573197,
+                              "lng":-118.2472937303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"louisiana fried chicken, Louisiana Famous Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJSVxmus7LwoARawQgVCsWQcY",
+            "plus_code":{
+                  "compound_code":"WQH3+VM Los Angeles, CA, USA",
+                  "global_code":"8553WQH3+VM"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJSVxmus7LwoARawQgVCsWQcY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"1601 East Imperial Highway A, Los Angeles",
+            "CBG":60372426002,
+            "Radius":239.6690366549
+      }
+]

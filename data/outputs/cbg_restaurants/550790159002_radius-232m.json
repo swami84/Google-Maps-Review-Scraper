@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.022236,
+                        "lng":-87.9483381
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0235996803,
+                              "lng":-87.9469914697
+                        },
+                        "southwest":{
+                              "lat":43.0209017197,
+                              "lng":-87.9496894303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Campechano",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2866,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116100722599130076959\">Taqueria Campechano<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBD4dxZvx-0TkOiMmeOlnVpxcZoSzhvTw7mjDyInNSSw-gIEqT87Ppo-sU9t7bqwm7yaoRThAZfUfz0KiIJVD2j8rTN0Ub71Yk_UFXff9qBs6eo7U2k4F5cSsCJHWAvXx8tuTZjS4ciPy4YGzBKCFkZcGIANVy7F8OtmL7M859tjPrt",
+                        "width":3919
+                  }
+            ],
+            "place_id":"ChIJi4TLITYbBYgRgdRZ9Zag-qM",
+            "plus_code":{
+                  "compound_code":"23C2+VM Milwaukee, WI, USA",
+                  "global_code":"86MJ23C2+VM"
+            },
+            "rating":5,
+            "reference":"ChIJi4TLITYbBYgRgdRZ9Zag-qM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2700 West National Avenue, Milwaukee",
+            "CBG":550790159002,
+            "Radius":231.8784870026
+      }
+]

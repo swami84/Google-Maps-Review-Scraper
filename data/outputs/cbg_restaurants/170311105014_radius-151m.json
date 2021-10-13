@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9755106,
+                        "lng":-87.7669931
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9768403303,
+                              "lng":-87.7657369697
+                        },
+                        "southwest":{
+                              "lat":41.9741423697,
+                              "lng":-87.7684349303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kings Gyros Chicago",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109260238918685462554\">GT TRANSPORT 66<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDc3PpjcrE-f5KgiBefHZz9B1Xb66M34pQnrIiOwFkgLbWTtS-U8kswy1HOB_vBmtc7kVLkBqWTZTh8yFmltwb_8qVrFSU6opuXgjA369LF2Z7xCaRE5VMp4ySwap4A5omNicdg85jVtdOv4AQxA-TgUFt_I3trgnOHaa11rYCemB-_",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJm-w5xQLMD4gRmUxURRF20jU",
+            "plus_code":{
+                  "compound_code":"X6GM+66 Chicago, IL, USA",
+                  "global_code":"86HJX6GM+66"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJm-w5xQLMD4gRmUxURRF20jU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":734,
+            "vicinity":"5233 North Milwaukee Avenue, Chicago",
+            "CBG":170311105014,
+            "Radius":151.3742837364
+      }
+]

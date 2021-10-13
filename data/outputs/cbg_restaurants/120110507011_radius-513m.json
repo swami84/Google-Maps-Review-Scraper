@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1760187,
+                        "lng":-80.1470669
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1773725303,
+                              "lng":-80.1455506197
+                        },
+                        "southwest":{
+                              "lat":26.1746745697,
+                              "lng":-80.1482485803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Catfish Deweys",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114214359217756098985\">Catfish Deweys<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED3Q0D7H0cWn8lf01jUbdQkdX_3nmnF9FtC0NN9lwxogrlNUqxEnldtOSANwjmxW-zsM0pALoODuFHk65QYUe1fmjiuxNurJmrxY7fmUrVKO-3Do63M-UPDDh7I8Z_GPkn20Rm9ij4i1wK0U6m4Ol9Y01biE50Zq1PtJHIKQrXKzLJQ",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJI_xgjdUD2YgR5OnjgSs2oBg",
+            "plus_code":{
+                  "compound_code":"5VG3+C5 Fort Lauderdale, FL, USA",
+                  "global_code":"76RX5VG3+C5"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJI_xgjdUD2YgR5OnjgSs2oBg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4105,
+            "vicinity":"4003 North Andrews Avenue, Fort Lauderdale",
+            "CBG":120110507011,
+            "Radius":512.8526761208
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1772857,
+                        "lng":-80.1470806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1786614803,
+                              "lng":-80.1455771197
+                        },
+                        "southwest":{
+                              "lat":26.1759635197,
+                              "lng":-80.1482750803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Happy House Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJeQKm7nYD2YgR9TaF1EcX4tI",
+            "plus_code":{
+                  "compound_code":"5VG3+W5 Fort Lauderdale, FL, USA",
+                  "global_code":"76RX5VG3+W5"
+            },
+            "price_level":2,
+            "rating":5.0,
+            "reference":"ChIJeQKm7nYD2YgR9TaF1EcX4tI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4089 North Andrews Avenue, Fort Lauderdale",
+            "CBG":120110507011,
+            "Radius":512.8526761208
+      }
+]

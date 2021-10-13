@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9446932,
+                        "lng":-118.1985431
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9459521303,
+                              "lng":-118.1972193697
+                        },
+                        "southwest":{
+                              "lat":33.9432541697,
+                              "lng":-118.1999173303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafe China",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109841181349154403214\">Cafe China<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBr_5GITR6poOi32tjRE6KuNcF61ERvshllMJZ388INaOCVgr6vdRkXPiOpJteE6FPA5aSJeplq3qW4hgHAunf1fEOxsQVUkUUciMoRDCP_yqLvITkkAhgFmwLXSHeCOIWzcyQvrxSgpR9rH3AO4t2B93a5Q04bZHnaM1wTOP2IPYna",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJQZEVFQ_MwoAR7om9Z8wpWX8",
+            "plus_code":{
+                  "compound_code":"WRV2+VH South Gate, CA, USA",
+                  "global_code":"8553WRV2+VH"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJQZEVFQ_MwoAR7om9Z8wpWX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":49,
+            "vicinity":"4161 Tweedy Boulevard suite b, South Gate",
+            "CBG":60375359014,
+            "Radius":248.9943201394
+      }
+]

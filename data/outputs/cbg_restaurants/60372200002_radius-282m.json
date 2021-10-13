@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0254467,
+                        "lng":-118.3360483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0268679803,
+                              "lng":-118.3347002697
+                        },
+                        "southwest":{
+                              "lat":34.0241700197,
+                              "lng":-118.3373982303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kobbler King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117322745738705759699\">Lauren A<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED8tRM5_LPekSj8c67iBnSkcrlvFO76zP0mYV_fBSx1EfhMr_L8ZWOsENYdCpjutSVr4N5RuVcsfo9Qp9RcLp5B9SewbhRYVxjsJzOJaezwEFOdOnIM2Px7FKwpQsOuwI54sLPT3YJQbHwIX9z62d1RjfGWEXgFbdxd-4xBhZtH-W9t",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ6U43Pki4woARO_SVpacpuvc",
+            "plus_code":{
+                  "compound_code":"2MG7+5H Los Angeles, CA, USA",
+                  "global_code":"85632MG7+5H"
+            },
+            "price_level":2,
+            "rating":4.0,
+            "reference":"ChIJ6U43Pki4woARO_SVpacpuvc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"3622 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372200002,
+            "Radius":282.1551536013
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0258374,
+                        "lng":-118.3391245
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0270554803,
+                              "lng":-118.3377677197
+                        },
+                        "southwest":{
+                              "lat":34.0243575197,
+                              "lng":-118.3404656803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"HomeState To-Go",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2888,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115399657503930040002\">HomeState To-Go<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAevKqqO2dJeAMy-A62LxNhHkKlSgVJTMllSabwQEW9pKxLkoSJ4MAibFkT_d8_fINpt8fZLA9SWVIYDLelO99uKoGg-h5ew80_avHyK2oWEDKktp0XsqTqdu0sxvJcYAMLzR3HWKYPht007Glr8e9blcEI5vBJ0WYb_jwSFszpL2Z-",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJf8npQiq5woAR23f0Tpyt9BE",
+            "plus_code":{
+                  "compound_code":"2MG6+89 Los Angeles, CA, USA",
+                  "global_code":"85632MG6+89"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJf8npQiq5woAR23f0Tpyt9BE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"3923 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372200002,
+            "Radius":282.1551536013
+      }
+]

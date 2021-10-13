@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5647141,
+                        "lng":-112.1928079
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5660625303,
+                              "lng":-112.1916062197
+                        },
+                        "southwest":{
+                              "lat":33.5633645697,
+                              "lng":-112.1943041803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sweet Inspired Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107875109463374873989\">Sweet Inspired Cuisine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAz3auQRljJcspEErj3GjKGrrIpfgcp2Tb7QvA4S8Mqc024y4z3_UERZExqhoahPZQnEcABKpMIBIvEflbxQl9juqGDGEG-7zrMbWgzywO3bFkULswKINROUAqmi_KxU010V1tXF9fCL20g8S0hm6yrHJ4xktz6lpWVCU4JHjSzgtlQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJdRr0FoZrK4cR6iXGA4CHOlE",
+            "plus_code":{
+                  "compound_code":"HR74+VV Glendale, AZ, USA",
+                  "global_code":"8559HR74+VV"
+            },
+            "rating":3,
+            "reference":"ChIJdRr0FoZrK4cR6iXGA4CHOlE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":22,
+            "vicinity":"6201 West Olive Avenue, Glendale",
+            "CBG":40130923123,
+            "Radius":225.2558265775
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8796511,
+                        "lng":-118.2155058
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8810055803,
+                              "lng":-118.2141030697
+                        },
+                        "southwest":{
+                              "lat":33.8783076197,
+                              "lng":-118.2168010303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mariscos Alex",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ_eU_7MDLwoARhO3hUgEHOps",
+            "plus_code":{
+                  "compound_code":"VQHM+VQ Compton, CA, USA",
+                  "global_code":"8553VQHM+VQ"
+            },
+            "rating":5,
+            "reference":"ChIJ_eU_7MDLwoARhO3hUgEHOps",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"1817 South Santa Fe Avenue, Compton",
+            "CBG":60375424021,
+            "Radius":510.1450134762
+      }
+]

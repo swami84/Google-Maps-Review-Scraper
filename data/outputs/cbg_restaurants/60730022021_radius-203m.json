@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7534057,
+                        "lng":-117.100569
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7547504803,
+                              "lng":-117.0993742697
+                        },
+                        "southwest":{
+                              "lat":32.7520525197,
+                              "lng":-117.1020722303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tieng Viet News",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ2T6cGT9U2YARoO0MA9ETXX0",
+            "plus_code":{
+                  "compound_code":"QV3X+9Q San Diego, CA, USA",
+                  "global_code":"8544QV3X+9Q"
+            },
+            "reference":"ChIJ2T6cGT9U2YARoO0MA9ETXX0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4207 Fairmount Avenue, San Diego",
+            "CBG":60730022021,
+            "Radius":203.3494546203
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.115026,
+                        "lng":-117.908054
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1163749803,
+                              "lng":-117.9067050197
+                        },
+                        "southwest":{
+                              "lat":34.1136770197,
+                              "lng":-117.9094029803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Couwami",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111022692682642454656\">Sandra Armendariz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGCO6sb19Qaq8nGNSMb0Dr6fGvPwZsFFy4LDe4nMvJ1kp-xksK2mN7BJh5nhVR5P45aMV7VrNsNjdalB9De_S8QPOrNdJTj3gVJgv1eKNP4bu_Z5LiOXB6WRhlccgIS51hF0kd194gpL35Qhkj4UYdeavtwJdbWO9XoLa7IkkVgSuF",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJoRha--Mnw4AR2dTWJHuxAbM",
+            "plus_code":{
+                  "compound_code":"438R+2Q Azusa, CA, USA",
+                  "global_code":"8564438R+2Q"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJoRha--Mnw4AR2dTWJHuxAbM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":294,
+            "vicinity":"437 South Azusa Avenue, Azusa",
+            "CBG":60374044024,
+            "Radius":272.2692652019
+      }
+]

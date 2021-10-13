@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8735025,
+                        "lng":-118.3268806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8749273303,
+                              "lng":-118.3254813697
+                        },
+                        "southwest":{
+                              "lat":33.8722293697,
+                              "lng":-118.3281793303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Pollo Loco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1228,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106819840571127483927\">El Pollo Loco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFND2IIQ5hVmavKTbF5NT9YWzRwS4rEJMi-kAbOeBrlS7CLoO-3ELM7fuDlO_YD20efOHgiTFPTZhdAlP9YDX6bINQrXZ2pDsGpOJEPGmABesfOh1eSxRSAySZoMdD9oU-z10AScBsHFldQwIxNc3u9_VvRmWXkCHoynXVRjBio6dW",
+                        "width":1840
+                  }
+            ],
+            "place_id":"ChIJPygnnuS0woAR5-R-p6Ggysg",
+            "plus_code":{
+                  "compound_code":"VMFF+C6 Torrance, CA, USA",
+                  "global_code":"8553VMFF+C6"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJPygnnuS0woAR5-R-p6Ggysg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":539,
+            "vicinity":"17307 Crenshaw Boulevard, Torrance",
+            "CBG":60376500044,
+            "Radius":233.7107255339
+      }
+]

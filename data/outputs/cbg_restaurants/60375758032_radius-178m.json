@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7783677,
+                        "lng":-118.193493
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7796774803,
+                              "lng":-118.1921818197
+                        },
+                        "southwest":{
+                              "lat":33.7769795197,
+                              "lng":-118.1948797803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Royal Nutrition",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1630,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101853182975366404333\">Royal Nutrition<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAGXAIulMnVG0B7FkvN8n9qhAY19_agY1xRVZK0_0JP1vQttYMIP3xQ_tuCsARrtg_6rUJuJu2UAj10JmaDzL47Ez1jTwzKYKlXmDY28uJV7ZjEJzYqMLJnHch8Ad-xvD-m19uEKnosUOucFiZelfTwvBaZcOAcG3mopOe3SCQEckZy",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJIS_8s9Ax3YARLqkh-DJgoS4",
+            "plus_code":{
+                  "compound_code":"QRH4+8J Long Beach, CA, USA",
+                  "global_code":"8553QRH4+8J"
+            },
+            "rating":5,
+            "reference":"ChIJIS_8s9Ax3YARLqkh-DJgoS4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"930 Pacific Avenue Suite B, Long Beach",
+            "CBG":60375758032,
+            "Radius":178.3330004192
+      }
+]

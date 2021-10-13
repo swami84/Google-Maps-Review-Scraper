@@ -1,0 +1,92 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.962258,
+                        "lng":-87.92947
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.9636067303,
+                              "lng":-87.9279858197
+                        },
+                        "southwest":{
+                              "lat":42.9609087697,
+                              "lng":-87.9306837803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"VIP supermarket",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJG1vkJagXBYgRlPhifxFJorU",
+            "plus_code":{
+                  "compound_code":"X36C+W6 Milwaukee, WI, USA",
+                  "global_code":"86JJX36C+W6"
+            },
+            "rating":5.0,
+            "reference":"ChIJG1vkJagXBYgRlPhifxFJorU",
+            "scope":"GOOGLE",
+            "types":[
+                  "supermarket",
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "clothing_store",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4523 South 13th Street, Milwaukee",
+            "CBG":550790214001,
+            "Radius":452.1447143464
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.959716,
+                        "lng":-87.936496
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.9609945303,
+                              "lng":-87.9351477197
+                        },
+                        "southwest":{
+                              "lat":42.9582965697,
+                              "lng":-87.9378456803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mai breakfast Bar & grill",
+            "opening_hours":null,
+            "place_id":"ChIJnzzJmSQRBYgR1kAAJkjyTBA",
+            "plus_code":{
+                  "compound_code":"X357+VC Milwaukee, WI, USA",
+                  "global_code":"86JJX357+VC"
+            },
+            "rating":3.4,
+            "reference":"ChIJnzzJmSQRBYgR1kAAJkjyTBA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"1716 West Layton Avenue, Milwaukee",
+            "CBG":550790214001,
+            "Radius":452.1447143464
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.872672,
+                        "lng":-118.3641601
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8740869303,
+                              "lng":-118.3628192197
+                        },
+                        "southwest":{
+                              "lat":33.8713889697,
+                              "lng":-118.3655171803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rod's Char-broiler",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":413,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110359202456084723145\">Rod&#39;s Char-broiler<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDDEvzT0ji7oNlefJ7hQXc_hg3c57sWnEDUllPE1gEKawfQ9suPMngX22Nfr-dHuMZZA6zmWbgQv2SZuEn5jP0v7uNalZ9ILOQz1TYmoLNVNRxux7pWlDjENxSOX2xsyWOUU2JcISPXXP073FpBc5FvqQ5H-QZTSlB-NqI5PR428w8V",
+                        "width":550
+                  }
+            ],
+            "place_id":"ChIJwX0O3vW0woARl8tAklV6taY",
+            "plus_code":{
+                  "compound_code":"VJFP+38 Redondo Beach, CA, USA",
+                  "global_code":"8553VJFP+38"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJwX0O3vW0woARl8tAklV6taY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":581,
+            "vicinity":"2600 Artesia Boulevard, Redondo Beach",
+            "CBG":60376206012,
+            "Radius":257.3867260604
+      }
+]

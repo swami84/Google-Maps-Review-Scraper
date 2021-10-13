@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0811533,
+                        "lng":-118.0690775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0824171303,
+                              "lng":-118.0677219197
+                        },
+                        "southwest":{
+                              "lat":34.0797191697,
+                              "lng":-118.0704198803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Valley Super Burgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104019077479345860015\">Rogerio Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDsuNxpfeIh6myWb9Q7kZukquDyuAoTcg-DdbopOzT7RJT6NbV0v1BCEdKI4FqmeoPBlcqKe9TNg5BVzbSM9kdHSvK24Eu1OtiLZvJLGXo_WwWR7NF-8bJm0qq_oa4PwIhUV-ATfDZZuZANyURjLmIbaJpW6DKdeyzIXV1bJTssA7Yf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJf9_Aj4jawoARdXD5n4F4Rug",
+            "plus_code":{
+                  "compound_code":"3WJJ+F9 Rosemead, CA, USA",
+                  "global_code":"85633WJJ+F9"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJf9_Aj4jawoARdXD5n4F4Rug",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":126,
+            "vicinity":"9219 Valley Boulevard, Rosemead",
+            "CBG":60374329011,
+            "Radius":384.2669533172
+      }
+]

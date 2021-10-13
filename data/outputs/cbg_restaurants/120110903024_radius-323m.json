@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0243467,
+                        "lng":-80.1434144
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0256963803,
+                              "lng":-80.1419913697
+                        },
+                        "southwest":{
+                              "lat":26.0229984197,
+                              "lng":-80.1446893303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"yummbox",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116840395969238925826\">Braman Djire<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBdPe1TaK6Hbuw2Fp5QLF9bGGuRdwG5yxZqy9JjWWbic0aWOzALIXXZEzD5I9v6spUr9ih1fmyaIk-yjOaySSoGyzzPEw54_TIIDs10wDUXzwiBjp9-2tNhNdjJqqAoItPO_5spW9xzHiFZs43sG1QanFyylS5936d72rHHa1KMELTD",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJVXYvAl2r2YgRiTXkkBcP3ok",
+            "plus_code":{
+                  "compound_code":"2VF4+PJ Hollywood, FL, USA",
+                  "global_code":"76RX2VF4+PJ"
+            },
+            "rating":5,
+            "reference":"ChIJVXYvAl2r2YgRiTXkkBcP3ok",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1428 North Federal Hwy, Hollywood",
+            "CBG":120110903024,
+            "Radius":322.7134827395
+      }
+]

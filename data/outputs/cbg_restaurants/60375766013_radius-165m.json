@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.768549,
+                        "lng":-118.178953
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7698979803,
+                              "lng":-118.1776040197
+                        },
+                        "southwest":{
+                              "lat":33.7672000197,
+                              "lng":-118.1803019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Merced's Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114327872998118494339\">ant c<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqecEfVagGMcmEhMT1NPuMXBPzpuvdqA-NGg8azMveb4rR8wXWnyksD698uK_BMeqYhJS-7051fdI8MfupoxUeZQkShxl5Q2VrlbI3YjPwtvJdIfGImeshaGhokRPzxSHZq0m5jrvygFnI__nZX7sKWo50pHzIitmBzhHoYZgvjpAz",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJtQhG_RYx3YARQA99QqA-ZH8",
+            "plus_code":{
+                  "compound_code":"QR9C+CC Long Beach, CA, USA",
+                  "global_code":"8553QR9C+CC"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJtQhG_RYx3YARQA99QqA-ZH8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":251,
+            "vicinity":"1064 East Broadway, Long Beach",
+            "CBG":60375766013,
+            "Radius":164.6612212856
+      }
+]

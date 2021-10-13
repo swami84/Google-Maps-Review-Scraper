@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8995407,
+                        "lng":-87.6348952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9009900303,
+                              "lng":-87.6335691697
+                        },
+                        "southwest":{
+                              "lat":41.8982920697,
+                              "lng":-87.6362671303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\u0627\u0644\u0645\u0637\u0639\u0645 \u0627\u0644\u0635\u0648\u0645\u0627\u0644\u064a",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ9-Cjw0vTD4gR5NQIH9D1K8k",
+            "plus_code":{
+                  "compound_code":"V9X8+R2 Chicago, IL, USA",
+                  "global_code":"86HJV9X8+R2"
+            },
+            "rating":5.0,
+            "reference":"ChIJ9-Cjw0vTD4gR5NQIH9D1K8k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"211 West Walton Street, Chicago",
+            "photos":null,
+            "price_level":null,
+            "CBG":170310810005,
+            "Radius":173.37060285
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8995257,
+                        "lng":-87.6349066
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9009825303,
+                              "lng":-87.6335748697
+                        },
+                        "southwest":{
+                              "lat":41.8982845697,
+                              "lng":-87.6362728303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"BULSHO restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJg6qbw0vTD4gRGRWK-_hz9lU",
+            "plus_code":{
+                  "compound_code":"V9X8+R2 Chicago, IL, USA",
+                  "global_code":"86HJV9X8+R2"
+            },
+            "rating":4.7,
+            "reference":"ChIJg6qbw0vTD4gRGRWK-_hz9lU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"211 West Walton Street, Chicago",
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100679940398610337849\">Abdirazak Ishak<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB6uas75212obTHajC8EvPCGDgI6Lfz15ENvLK8M4ky-4rPL8S7HV8RAojUupX8e7YofInGfyaSUQaz22lE7cWSSMG4VOeck85JAHVQRGTWogWDdtXRbS-pzXLm-djGAeCOz5Eb-R65OUcqjWl3gPJ1Zh3IEzd3T_3QoKtj3JYXYq1w",
+                        "width":1600
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":170310810005,
+            "Radius":173.37060285
+      }
+]

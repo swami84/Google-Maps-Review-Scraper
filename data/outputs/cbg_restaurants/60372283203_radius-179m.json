@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.007889,
+                        "lng":-118.2585096
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0090608303,
+                              "lng":-118.2571588697
+                        },
+                        "southwest":{
+                              "lat":34.0063628697,
+                              "lng":-118.2598568303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Puesto De Tacos El Maestro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117489130873155290072\">Rafaela L Mendoza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC_gDbb0-5tP9usMbc-RbTPwt61EyyYDP8R0eRraRxv57XtaLuFAxXnDJR-5MAjvSX_hd2sj-RnxbEQfHeEOYr2f4yWHwES2JEDh7Zbz4hI9KodRN7nN_EW2YtzU6Yq_wYqSZwOk-N4_KDBWnPgvd3qgacPKx23d5zmSBeZc_VQrLuY",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJNYr72z7JwoARiBDEBfBmYlg",
+            "plus_code":{
+                  "compound_code":"2P5R+5H Los Angeles, CA, USA",
+                  "global_code":"85632P5R+5H"
+            },
+            "rating":5,
+            "reference":"ChIJNYr72z7JwoARiBDEBfBmYlg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"Los Angeles",
+            "CBG":60372283203,
+            "Radius":179.3989807166
+      }
+]

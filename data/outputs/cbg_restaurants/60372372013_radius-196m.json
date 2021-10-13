@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9836051,
+                        "lng":-118.3005181
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9852304303,
+                              "lng":-118.2991400697
+                        },
+                        "southwest":{
+                              "lat":33.9825324697,
+                              "lng":-118.3018380303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Don Lencho",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104038861119422478590\">Carlos Henr\u00edquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDQnaggclzG1KEXRc2Ocp8vuKRZAzLR8at96UKRjk3LZaeHVzhduif5pOzUV1wxXGLPlxvL2tta7hqXNfPFVEtTtfR4IA3JwOm1oQUyAgkd1dLv7NfxdsOuIaAqqshQ54TuJOmqUFrJ3Xi3Sa0O4TPVIU7rblgeMJBbCvE5JDe1XnoS",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJxcC-bdi3woARXnO6Z2jLiYM",
+            "plus_code":{
+                  "compound_code":"XMMX+CQ Los Angeles, CA, USA",
+                  "global_code":"8553XMMX+CQ"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJxcC-bdi3woARXnO6Z2jLiYM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":837,
+            "vicinity":"6119 Normandie Avenue, Los Angeles",
+            "CBG":60372372013,
+            "Radius":196.3874164998
+      }
+]

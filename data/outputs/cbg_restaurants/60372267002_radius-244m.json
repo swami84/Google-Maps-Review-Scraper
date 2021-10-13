@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0155709,
+                        "lng":-118.2647967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0168998303,
+                              "lng":-118.2632110197
+                        },
+                        "southwest":{
+                              "lat":34.0142018697,
+                              "lng":-118.2659089803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Gallo Giro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113785756810613295642\">Dario Martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED57iCPQ7KIhkT9zT2nOrrIouxG3mLGWmoI9cQRz-rkEszTCa9qHVgPWxKCTy2leRX2Su80mXb3UojkIulBc2DtSqRbmKnKGEkeUVzyZYojD14rMdaii6udAPwCAwDQp_-O4JwZdMiO0k1l_H7Nrhiw5x-AjTYR-lllW8EEJkZuYI6O",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ0Zv_oHDIwoARCVgUCVzIKrk",
+            "plus_code":{
+                  "compound_code":"2P8P+63 Los Angeles, CA, USA",
+                  "global_code":"85632P8P+63"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJ0Zv_oHDIwoARCVgUCVzIKrk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":445,
+            "vicinity":"701 East Jefferson Boulevard, Los Angeles",
+            "CBG":60372267002,
+            "Radius":243.9687800058
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0141104,
+                        "lng":-118.2630489
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0155824303,
+                              "lng":-118.2616227197
+                        },
+                        "southwest":{
+                              "lat":34.0128844697,
+                              "lng":-118.2643206803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Roll Cage City",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJDfh9i3rIwoAR6Nar2jj4OL0",
+            "plus_code":{
+                  "compound_code":"2P7P+JQ Los Angeles, CA, USA",
+                  "global_code":"85632P7P+JQ"
+            },
+            "price_level":null,
+            "rating":1.0,
+            "reference":"ChIJDfh9i3rIwoAR6Nar2jj4OL0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"810 East Jefferson Boulevard, Los Angeles",
+            "CBG":60372267002,
+            "Radius":243.9687800058
+      }
+]

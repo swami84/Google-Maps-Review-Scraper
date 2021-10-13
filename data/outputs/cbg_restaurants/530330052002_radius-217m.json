@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6570641,
+                        "lng":-122.3175281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6583233803,
+                              "lng":-122.3161336697
+                        },
+                        "southwest":{
+                              "lat":47.6556254197,
+                              "lng":-122.3188316303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Little Duck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":6936,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113806091416090355303\">FRANKLIN W<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDjSPp2IHh-hgeaZtX69YuwpvcUBJxUrY1FjVWdkYqOyvr53I-1KM9XAjOz3qiUqBzjHrxnRFqi5dWmODmjovqWmrJ0VASJVrtWfFZas0GzVHrhAPuse7_4PKxjqvfXT19PuUB8BjMgOJD9j-KLyQf3TXrLqeht-IKITW42LhvBZE8h",
+                        "width":9248
+                  }
+            ],
+            "place_id":"ChIJNSitM0EVkFQRE1SvFTccBTA",
+            "plus_code":{
+                  "compound_code":"MM4J+RX Seattle, WA, USA",
+                  "global_code":"84VVMM4J+RX"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJNSitM0EVkFQRE1SvFTccBTA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":142,
+            "vicinity":"4100 Roosevelt Way Northeast unit b, Seattle",
+            "CBG":530330052002,
+            "Radius":216.7472170568
+      }
+]

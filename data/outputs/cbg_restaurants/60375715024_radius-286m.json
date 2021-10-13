@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.842373,
+                        "lng":-118.1925105
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8437520803,
+                              "lng":-118.1910300697
+                        },
+                        "southwest":{
+                              "lat":33.8410541197,
+                              "lng":-118.1937280303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Johnny Rebs' True South",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103887586819444973273\">Johnny Rebs&#39; True South<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBa35MBATLDNUedxOVPu6pjVNqsV9nbVpMzh3H3OsRcpa0sOElBAstVoU0GRWeX6PVOebqWorIZvlrsLAVk3ChK-uc8NzRmj5XPzhcTf_5e5qvKNnZ-VQH7VON_pp3EwkVOQxkc8w5vVZ4sgiP9poX3p329qxrNc-nyvYi6mVKi9zY8",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJO41cXnAz3YARNEirA8USee0",
+            "plus_code":{
+                  "compound_code":"RRR4+WX Long Beach, CA, USA",
+                  "global_code":"8553RRR4+WX"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJO41cXnAz3YARNEirA8USee0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1252,
+            "vicinity":"4663 Long Beach Boulevard, Long Beach",
+            "CBG":60375715024,
+            "Radius":285.563541969
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9695356,
+                        "lng":-118.284249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9710115803,
+                              "lng":-118.2829008197
+                        },
+                        "southwest":{
+                              "lat":33.9683136197,
+                              "lng":-118.2855987803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"! QUE CHIVO VA VO !",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ2bcyBgvJwoARMIECgY13IPg",
+            "plus_code":{
+                  "compound_code":"XP98+R8 Los Angeles, CA, USA",
+                  "global_code":"8553XP98+R8"
+            },
+            "rating":5,
+            "reference":"ChIJ2bcyBgvJwoARMIECgY13IPg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"600 West 77th Street, Los Angeles",
+            "CBG":60372377202,
+            "Radius":246.4449590341
+      }
+]

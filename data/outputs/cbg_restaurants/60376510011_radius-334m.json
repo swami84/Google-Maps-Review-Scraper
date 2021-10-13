@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8194201,
+                        "lng":-118.3150104
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8206727303,
+                              "lng":-118.3134752197
+                        },
+                        "southwest":{
+                              "lat":33.8179747697,
+                              "lng":-118.3161731803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1818,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113060724729562355489\">Tom Baumann<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECX3b6LvrSDq1XjcLztcgU8wEL5fZJOjvUKvK2JgwuZ2RDnvhd9yVME7GwaRuWJNLUJ5qieepl99J6mP2ooTQpfIzmjh5ktkgQ5oQbu1E5mQ9IQ13qg_4D0Qw25lgo8eW_YJ-z82t8sNLrVbksXY-5UPXFPus5f2vwkSV9yWs6ifkyh",
+                        "width":3283
+                  }
+            ],
+            "place_id":"ChIJ8xG_tpZK3YARXJII7qsOhFA",
+            "plus_code":{
+                  "compound_code":"RM9M+QX Torrance, CA, USA",
+                  "global_code":"8553RM9M+QX"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ8xG_tpZK3YARXJII7qsOhFA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":715,
+            "vicinity":"2760 Cabrillo Avenue, Torrance",
+            "CBG":60376510011,
+            "Radius":334.0469283205
+      }
+]

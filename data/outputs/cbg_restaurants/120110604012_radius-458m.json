@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.151968,
+                        "lng":-80.216421
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1532563303,
+                              "lng":-80.2150698697
+                        },
+                        "southwest":{
+                              "lat":26.1505583697,
+                              "lng":-80.2177678303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Krispy Krunchy Chicken @ Lauderhill Supermart",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101521931070551634437\">Krispy Krunchy Chicken @ Lauderhill Supermart<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDH1HzW9Ni1M0ltKymvd-8mMHdd79isdLbWukL1IMOCtVKTUdW8JgZgJ6cpESPioA0CWuipSrzAhQISTrC-jr977kq-Lph948a58R8wybnhkE0om7JJqurpBAyM7x448eGlXmrQLoDaA2flJB6v9CgUuaIXTs2YThl85hIykxkDZ7jl",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJn7BnUgYH2YgRxIby8a9oW2k",
+            "plus_code":{
+                  "compound_code":"5Q2M+QC Lauderhill, FL, USA",
+                  "global_code":"76RX5Q2M+QC"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJn7BnUgYH2YgRxIby8a9oW2k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"2040 Northwest 49th Avenue, Lauderhill",
+            "CBG":120110604012,
+            "Radius":457.808820785
+      }
+]

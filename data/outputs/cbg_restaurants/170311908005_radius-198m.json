@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9313369,
+                        "lng":-87.753836
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9327352303,
+                              "lng":-87.7524882197
+                        },
+                        "southwest":{
+                              "lat":41.9300372697,
+                              "lng":-87.7551861803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Senor Pan Cafe Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111847464625713666729\">Senor Pan Cafe Express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDACQ9g-a5mIEJdevSgb2vK7YGXu2c_q9og1drWh3Js4cMhKjWMSu40yAwFv3x7wv8D-OEn4mO_ujR7EhgC9I1BpQlEYqmPWkfXY1k0_rBv7JQF6heJaTP5fQmrHKUlCZq-SoifDL6Xp8HkcUf_GyPVZbu4diL8Dg0xrq3jQ-3lt0oZ",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJI09uovPMD4gRaYt0gY7Nf48",
+            "plus_code":{
+                  "compound_code":"W6JW+GF Chicago, IL, USA",
+                  "global_code":"86HJW6JW+GF"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJI09uovPMD4gRaYt0gY7Nf48",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":368,
+            "vicinity":"5059 West Diversey Avenue, Chicago",
+            "CBG":170311908005,
+            "Radius":197.9774932543
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9312091,
+                        "lng":-87.7529629
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9326770803,
+                              "lng":-87.7516167697
+                        },
+                        "southwest":{
+                              "lat":41.9299791197,
+                              "lng":-87.7543147303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"POZOLERIA EL MEXICANO INC.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113684424125115991522\">POZOLERIA EL MEXICANO INC.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDI8E7OT8fk59E6qS4_WjY1norY4V4j2H1YJelWhSjM9U6_lK8OFjA8XTcxgjfQsCNMiIYiSID5kKGjK24ylCiip8iptNCkqkPxusRo0-EUISruKo6jYnH-T6tVInxVL6XFb0D5uvre6H3uV-xtticqLhqK_gfSpK5rbR37vxTmgtQd",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJD8XcBoPND4gRO_nA-jgVOcQ",
+            "plus_code":{
+                  "compound_code":"W6JW+FR Chicago, IL, USA",
+                  "global_code":"86HJW6JW+FR"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJD8XcBoPND4gRO_nA-jgVOcQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"5037 West Diversey Avenue, Chicago",
+            "CBG":170311908005,
+            "Radius":197.9774932543
+      }
+]

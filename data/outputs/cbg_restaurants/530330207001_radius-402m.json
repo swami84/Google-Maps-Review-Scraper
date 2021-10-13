@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.756188,
+                        "lng":-122.346293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.7575369803,
+                              "lng":-122.3449440197
+                        },
+                        "southwest":{
+                              "lat":47.7548390197,
+                              "lng":-122.3476419803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sultan Gyro and Shawarma Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102246034173455796652\">Raymond Ulrich<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBqejLIm7yzpvXnLuXLQSd7ggyBuRUWM-j2JbxEVRmCujwN45peYDmQ28hONlQfA8yjaQ6NRR4wEZZpYPMZfqumeF7ST7qvFx_LsLymgsZa5Ya1Gm2cbco5OpiWM8P4m6qZEmUdKTDEhly3ajdK8kEx1scgVVMnG1MessJukDRT_BEk",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJM2jh9O4QkFQR81K1DmUNVco",
+            "plus_code":{
+                  "compound_code":"QM43+FF Shoreline, WA, USA",
+                  "global_code":"84VVQM43+FF"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJM2jh9O4QkFQR81K1DmUNVco",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":418,
+            "vicinity":"17505 Aurora Avenue North, Shoreline",
+            "CBG":530330207001,
+            "Radius":401.688720013
+      }
+]

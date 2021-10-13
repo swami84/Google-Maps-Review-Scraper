@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.946779,
+                        "lng":-76.8940066
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9480623303,
+                              "lng":-76.8926274197
+                        },
+                        "southwest":{
+                              "lat":38.9453643697,
+                              "lng":-76.8953253803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dannys",
+            "place_id":"ChIJ9ybnXA_Ht4kRGfgd1n2Ry0A",
+            "plus_code":{
+                  "compound_code":"W4W4+P9 Hyattsville, MD, USA",
+                  "global_code":"87C5W4W4+P9"
+            },
+            "reference":"ChIJ9ybnXA_Ht4kRGfgd1n2Ry0A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7100 Annapolis Road, Hyattsville",
+            "CBG":240338038033,
+            "Radius":438.1708580108
+      }
+]

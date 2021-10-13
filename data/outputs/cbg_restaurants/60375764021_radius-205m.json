@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.782204,
+                        "lng":-118.1743901
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7836161303,
+                              "lng":-118.1731064197
+                        },
+                        "southwest":{
+                              "lat":33.7809181697,
+                              "lng":-118.1758043803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pka Roam Tek Roam",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJGYabKGwx3YARelg-DBWsKuU",
+            "plus_code":{
+                  "compound_code":"QRJG+V6 Long Beach, CA, USA",
+                  "global_code":"8553QRJG+V6"
+            },
+            "reference":"ChIJGYabKGwx3YARelg-DBWsKuU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1360 East Anaheim Street, Long Beach",
+            "CBG":60375764021,
+            "Radius":205.1052238924
+      }
+]

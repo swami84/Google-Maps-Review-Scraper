@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9028135,
+                        "lng":-118.1006696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9040753303,
+                              "lng":-118.0992999697
+                        },
+                        "southwest":{
+                              "lat":33.9013773697,
+                              "lng":-118.1019979303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ana's Bionicos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103911037159791327371\">Israel Garcia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2FpICs7OpDdwtT3PabGZiIGLRz5jzvtSO7pMyDWwVWNUBBoHMN28H2OaHs_v53GbVFLk0ktRLAjNBR-BWUnhjdaXPNBbzB62c2uZkh9r7IOkA97KgAE_azV2wVN197gPTxscMqcEwWhYeKnlojeK3yWPMpiAV8yKB-3Y1rTgtsRqA",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJWUHg9K3SwoARakffl6vYYjs",
+            "plus_code":{
+                  "compound_code":"WV3X+4P Norwalk, CA, USA",
+                  "global_code":"8553WV3X+4P"
+            },
+            "rating":4.6,
+            "reference":"ChIJWUHg9K3SwoARakffl6vYYjs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":198,
+            "vicinity":"10977 Rosecrans Avenue, Norwalk",
+            "price_level":null,
+            "CBG":60375519004,
+            "Radius":243.0380471029
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9027633,
+                        "lng":-118.1020507
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9040964803,
+                              "lng":-118.1006204697
+                        },
+                        "southwest":{
+                              "lat":33.9013985197,
+                              "lng":-118.1033184303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rancho Grande",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111724487494657851502\">Ron Nordstedt<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAhFAzduKS-vDINnInvOgriQAVyUasO4T2DeWD-hPEoPGlNXUkNPLplrIncS9AJLoB7jfb0eiL1BLgEnwCxM1gLa754V7iKW3cVwk2CwX04rDVO6fqA6sPPT8SmRCzPOh_fDNmbNlW6YTcqM0u-kX_IccJGiQn7ZGQy5Sem2isktE-u",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJVYaD6a3SwoARZsAnCH2q_cw",
+            "plus_code":{
+                  "compound_code":"WV3X+45 Norwalk, CA, USA",
+                  "global_code":"8553WV3X+45"
+            },
+            "rating":4.6,
+            "reference":"ChIJVYaD6a3SwoARZsAnCH2q_cw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":362,
+            "vicinity":"10935 Rosecrans Avenue, Norwalk",
+            "price_level":1.0,
+            "CBG":60375519004,
+            "Radius":243.0380471029
+      }
+]

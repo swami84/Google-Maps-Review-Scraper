@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9768485,
+                        "lng":-118.3760519
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9782267303,
+                              "lng":-118.3746614697
+                        },
+                        "southwest":{
+                              "lat":33.9755287697,
+                              "lng":-118.3773594303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Compari's Trattoria Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107927893123762233482\">\ucd5c\uc6a9\ub77d<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECC1D8Vi92Z5dhsoRKB-h7skzn_vgTUA08Lq_DdDsZ1gt6EN__ecKdI0IQFTWnPXM3Gt0sNaCkmB4UYCWaelctgTsnZ6jVhuO1z_atdw8ZOMcI3xS3h9Y47GeMAcwwIFCLpYzHxuG84C-xs8t8JTmOY6VPD52UkNw4NwoSPqqnTkgsX",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJleMCv0a3woARrufUmXha99s",
+            "plus_code":{
+                  "compound_code":"XJGF+PH Westchester, Los Angeles, CA, USA",
+                  "global_code":"8553XJGF+PH"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJleMCv0a3woARrufUmXha99s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":271,
+            "vicinity":"5490 West Centinela Avenue, Westchester",
+            "CBG":60372761002,
+            "Radius":322.2920341849
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9767309,
+                        "lng":-118.3763498
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9781541303,
+                              "lng":-118.3750111197
+                        },
+                        "southwest":{
+                              "lat":33.9754561697,
+                              "lng":-118.3777090803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Court Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109297431867895501444\">Costello Spivey<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA_g0-jkEa_G5-aViuSzNA95J3JN9fgAo7jAMBn6rLHYwvjAwqcBqZ_sene5EmI06yqdL2yphcyQh2in4jEvPx7jWJEezSp6emPgyUlMo-LGqX_Ufrwhv1a0gkJl9-jxOjWkkRVJfQ5PTcKVVEqBHg_6y1m1CFyIpswb7mUkrT980Vv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ1daZsOu3woARN_7PNwAm6gM",
+            "plus_code":{
+                  "compound_code":"XJGF+MF Los Angeles, CA, USA",
+                  "global_code":"8553XJGF+MF"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ1daZsOu3woARN_7PNwAm6gM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":275,
+            "vicinity":"5496 West Centinela Avenue, Los Angeles",
+            "CBG":60372761002,
+            "Radius":322.2920341849
+      }
+]

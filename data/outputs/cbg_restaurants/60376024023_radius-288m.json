@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9095067,
+                        "lng":-118.3551159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9110315303,
+                              "lng":-118.3537670197
+                        },
+                        "southwest":{
+                              "lat":33.9083335697,
+                              "lng":-118.3564649803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"stiko store star",
+            "place_id":"ChIJHYKoFAHHwoARqPFS4oJjVRQ",
+            "plus_code":{
+                  "compound_code":"WJ5V+RX Hawthorne, CA, USA",
+                  "global_code":"8553WJ5V+RX"
+            },
+            "rating":4,
+            "reference":"ChIJHYKoFAHHwoARqPFS4oJjVRQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4504 West 135th Street, Hawthorne",
+            "CBG":60376024023,
+            "Radius":288.0910238682
+      }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.6389969,
+                        "lng":-77.714625
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.6405366303,
+                              "lng":-77.7134063197
+                        },
+                        "southwest":{
+                              "lat":39.6378386697,
+                              "lng":-77.7161042803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Sheetz",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110473907410806597264\">Laurel Nelson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC6pOD8Mn4wvGGKWl_F6r6rSq0Ub-Vy2AO4TeoBrxd_GtKQbXb1i5eRbo_4zBGBJ8YT5jmM1EoGkfxj588pBKDeaKRR0RVExA5ds5U464dZVsLthHf1rmtk8LWPpUdobTLaI8HhNssDOxf5D64sauwCqmaQMGps3M6t8rI63xJCpcwe",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJb1qhbzztyYkRdy4bg1-0-2Q",
+            "plus_code":{
+                  "compound_code":"J7QP+H5 Hagerstown, MD, USA",
+                  "global_code":"87F4J7QP+H5"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJb1qhbzztyYkRdy4bg1-0-2Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":67,
+            "vicinity":"301 East Washington Street, Hagerstown",
+            "CBG":240430007001,
+            "Radius":306.9051321023
+      }
+]

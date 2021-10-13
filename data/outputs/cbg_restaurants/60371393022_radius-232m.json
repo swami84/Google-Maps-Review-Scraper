@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1763688,
+                        "lng":-118.5393212
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1776988803,
+                              "lng":-118.5382856197
+                        },
+                        "southwest":{
+                              "lat":34.1750009197,
+                              "lng":-118.5409835803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D'Fusion",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2208,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116773627396482390736\">D&#39;Fusion<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAnTwhEZM023ZhbnIuNSanOSMFsP6mIb_ZNgHWFeFtLNNSMt8l9-3d3hylWx_jmw6gT8pPcHQMprvvMhgTclGjhImPcofknuDkGBQpuNA8OwuFbPfuOPjoEU9ge-of-7eY7KAdhjh9oUOnA7anANz5-HqvrblJHOjqmyH9WFfvUlO0Y",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJCyeQBQ-ZwoARcmlGFN4XfaU",
+            "plus_code":{
+                  "compound_code":"5FG6+G7 Tarzana, Los Angeles, CA, USA",
+                  "global_code":"85635FG6+G7"
+            },
+            "reference":"ChIJCyeQBQ-ZwoARcmlGFN4XfaU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"18620 Hatteras Street #182, Tarzana",
+            "CBG":60371393022,
+            "Radius":231.5776608494
+      }
+]

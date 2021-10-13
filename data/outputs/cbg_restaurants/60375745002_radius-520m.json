@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7807598,
+                        "lng":-118.1023967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7820234803,
+                              "lng":-118.1010089697
+                        },
+                        "southwest":{
+                              "lat":33.7793255197,
+                              "lng":-118.1037069303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fantastic Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101350210154121062769\">Benjamin Banuelos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC7HrDlJkUXxiIMC5LjJECBJBH3Yug_Z6v68HuNT-uiNDSh-CVWxYwP0rXZNLYCn8c51DOSgkao2FAsrMCWkCto5dujyd5lISirWXhxVDxI5iZ8ID7XgO01bMxyU7BBO01t2aGxeqgThINoHVTbtmfMUkEym7hLhv8V2T1avhWi0YJp",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ2xwnQC4u3YARzamfu1XFGkI",
+            "plus_code":{
+                  "compound_code":"QVJX+82 Long Beach, CA, USA",
+                  "global_code":"8553QVJX+82"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ2xwnQC4u3YARzamfu1XFGkI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":697,
+            "vicinity":"1180 North Studebaker Road, Long Beach",
+            "CBG":60375745002,
+            "Radius":520.4223072924
+      }
+]

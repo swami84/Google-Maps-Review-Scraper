@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0754161,
+                        "lng":-87.9586104
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0767645803,
+                              "lng":-87.9572010697
+                        },
+                        "southwest":{
+                              "lat":43.0740666197,
+                              "lng":-87.9598990303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria los Tuxtla Mexican Food Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116248892648626843309\">Taqueria los tuxtla mexican food ...food truck<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAALVAEXiV8CjHYP2s7z3oc1AybpocSCenlas6Ty5A-_qLLmtbHeVN9agQxsXECFvEh10JemLS0HsjEYL8wK9ftwXMy_IzPnRPGJHVZiJyYI5WiX6JPjBr00PD2PD_y--iRtAQx4NO0WIZBs47k7rfWQa60AXi-SlqQ5ACRuEyjSKlM",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJxYiJpaUbBYgRk7B6lB8lsjc",
+            "plus_code":{
+                  "compound_code":"32GR+5H Milwaukee, WI, USA",
+                  "global_code":"86MJ32GR+5H"
+            },
+            "rating":4.7,
+            "reference":"ChIJxYiJpaUbBYgRk7B6lB8lsjc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"3111 North 36th Street, Milwaukee",
+            "CBG":550790048003,
+            "Radius":265.5996994657
+      }
+]

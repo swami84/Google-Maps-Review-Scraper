@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0155069,
+                        "lng":-118.3433355
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0169629803,
+                              "lng":-118.3419109197
+                        },
+                        "southwest":{
+                              "lat":34.0142650197,
+                              "lng":-118.3446088803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yordanos Ethiopian Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":556,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101440551388936360130\">Yordanos Ethiopian Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDha2cGA0p5h4oiMa21ATjna4OzRfrpgqIu639dujYCsa0bO4jh4LsBdf4GcSFP9aWJjC9aXRNDiOCq2LaDaEmHQ9ZBYvn2QJLWO-KF0CynsS5n8RqaP8bTyXjfePNBoCCf_49EZ0L12_s4imW8Mvhp6JvdhtMZiu469_-1sDchJchI",
+                        "width":740
+                  }
+            ],
+            "place_id":"ChIJ1XZ2z5a5woAR4t2MZZ_jTHc",
+            "plus_code":{
+                  "compound_code":"2M84+6M Los Angeles, CA, USA",
+                  "global_code":"85632M84+6M"
+            },
+            "rating":4.7,
+            "reference":"ChIJ1XZ2z5a5woAR4t2MZZ_jTHc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"4020 West Martin Luther King Junior Boulevard, Los Angeles",
+            "CBG":60372361004,
+            "Radius":275.2516711842
+      }
+]

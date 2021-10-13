@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8858529,
+                        "lng":-77.1023227
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8871029303,
+                              "lng":-77.1007412197
+                        },
+                        "southwest":{
+                              "lat":38.8844049697,
+                              "lng":-77.1034391803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mala Tang",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107223961623756967135\">Mala Tang<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZcbNGxbhs_DaXCPW5nKlJAZ2ihyCTUWLkt6nKVFZBPY9iJ_nxH89xY1WkcOW3MX22qsbWUKfyN1Z3KR1ZEu-4wFZcKzE0tmqTb6yc1XEDBgExA4cstuoPTkjbolFN1RGeZh55SAd6yTA7FB9ziFPz6ja98P_1Ljs4_rrDZ4-fZ7C6",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJDTX0eIK2t4kRQ36CUcBvNa0",
+            "plus_code":{
+                  "compound_code":"VVPX+83 Arlington, VA, USA",
+                  "global_code":"87C4VVPX+83"
+            },
+            "price_level":2,
+            "rating":4.0,
+            "reference":"ChIJDTX0eIK2t4kRQ36CUcBvNa0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":557,
+            "vicinity":"3434 Washington Boulevard, Arlington",
+            "CBG":510131015004,
+            "Radius":421.5123019802
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8863441,
+                        "lng":-77.103471
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8875620303,
+                              "lng":-77.1021665697
+                        },
+                        "southwest":{
+                              "lat":38.8848640697,
+                              "lng":-77.1048645303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rocklands Barbeque & Grilling Company",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105802136944638213868\">Rocklands Barbeque &amp; Grilling Company<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDutS_tbHimEm-OJEC8o4ZIEEX1AzLc4v3-9rpJsfUXkLnwkDc1E-FI2Yezxv3RsROw-dmSw47pY1-fbwfjTKFrViApOwZU5c3qTxJUKOunVjYtjCh0S6NPQj2-dyf1FNFFgwa-jx_MzkSRztdToaVvFA7iKSANFN2X_4UCd4vwIopE",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJ1S0RdSa0t4kRS-b6DBiNtNo",
+            "plus_code":{
+                  "compound_code":"VVPW+GJ Arlington, VA, USA",
+                  "global_code":"87C4VVPW+GJ"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ1S0RdSa0t4kRS-b6DBiNtNo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1042,
+            "vicinity":"3471 Washington Boulevard, Arlington",
+            "CBG":510131015004,
+            "Radius":421.5123019802
+      }
+]

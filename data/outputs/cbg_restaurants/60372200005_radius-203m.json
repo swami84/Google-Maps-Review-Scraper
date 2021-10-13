@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0321669,
+                        "lng":-118.3414869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0337147303,
+                              "lng":-118.3401220197
+                        },
+                        "southwest":{
+                              "lat":34.0310167697,
+                              "lng":-118.3428199803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Usuluteca 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107548467758891760126\">Deny Osorio<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBv9kYej7tNncwcdehMSwb4wICkIIQ79dFKtJuDzpsA8oNlmZpp8Awbn389VYzj7ELP__bUTO6Jy9qM-9YM-KdghTtGG_xX5d-uGCi8wAWKWc9tlP9qOqvA20pTsr3mrHafMUNLqgdydqVny3YAYL2LNPcz-hfAWo8BS_d7Nnf4qQ80",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJTTjL7U24woARz0tMiRoiPIE",
+            "plus_code":{
+                  "compound_code":"2MJ5+VC Los Angeles, CA, USA",
+                  "global_code":"85632MJ5+VC"
+            },
+            "rating":4,
+            "reference":"ChIJTTjL7U24woARz0tMiRoiPIE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"4624 West Adams Boulevard, Los Angeles",
+            "CBG":60372200005,
+            "Radius":203.3846715936
+      }
+]

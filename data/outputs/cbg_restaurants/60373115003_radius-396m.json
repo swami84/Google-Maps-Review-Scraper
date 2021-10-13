@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.165124,
+                        "lng":-118.345905
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1665074803,
+                              "lng":-118.3444526197
+                        },
+                        "southwest":{
+                              "lat":34.1638095197,
+                              "lng":-118.3471505803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thai Room Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110342188250366525584\">Arkad Digital<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDj8JYsfeCfHi2lwBHev3dB9p929IGJcGTiIjDytWNlhtgvu-fLKA9eX5oQKzT6PFb53y5rEalO2XNUKZPOCil9UrhP_QB0dvUa9XgPPjw1dil4sVAIOiUOtRkhcdC2TqtzmvAHH54gpxDz7q9I3LaNuwroiou_l_XwilVEUM1ff632",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJNai3VdW_woARlU4CthVISd4",
+            "plus_code":{
+                  "compound_code":"5M83+2J Burbank, CA, USA",
+                  "global_code":"85635M83+2J"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJNai3VdW_woARlU4CthVISd4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118.0,
+            "vicinity":"821 North Hollywood Way, Burbank",
+            "CBG":60373115003,
+            "Radius":395.6280644791
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1652613,
+                        "lng":-118.3460285
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1666244803,
+                              "lng":-118.3446865697
+                        },
+                        "southwest":{
+                              "lat":34.1639265197,
+                              "lng":-118.3473845303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"golden fox",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJAQDM_3-VwoARiBvOmMQTm54",
+            "plus_code":{
+                  "compound_code":"5M83+4H Burbank, CA, USA",
+                  "global_code":"85635M83+4H"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJAQDM_3-VwoARiBvOmMQTm54",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"827 North Hollywood Way, Burbank",
+            "CBG":60373115003,
+            "Radius":395.6280644791
+      }
+]

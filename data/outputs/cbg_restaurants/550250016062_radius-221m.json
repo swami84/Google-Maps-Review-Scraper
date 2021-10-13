@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0715501,
+                        "lng":-89.3942742
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0730364803,
+                              "lng":-89.3931385197
+                        },
+                        "southwest":{
+                              "lat":43.0703385197,
+                              "lng":-89.3958364803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bistro 525",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2457,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104170520952266058064\">Bistro 525<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBE_KCxn6qs3DpksBjSbQ4nLFrkzgnTf2TaH33sB7QrQpI8DXEcnKOUHb0cvra3U9iTB91JPGftkqoDA9VF0_K-Qix7P81BAwTri4yVoS6a2TNDO85BYcze8vsIRFL6m7b4Wn9Jh-jKRa_FEvOU3yJAaV6k2clbG4MOmI_lEcslBgV2",
+                        "width":3545
+                  }
+            ],
+            "place_id":"ChIJ-WTrgRtTBogR9B07WchISNk",
+            "plus_code":{
+                  "compound_code":"3JC4+J7 Madison, WI, USA",
+                  "global_code":"86MG3JC4+J7"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ-WTrgRtTBogR9B07WchISNk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"525 West Johnson Street, Madison",
+            "CBG":550250016062,
+            "Radius":221.1774284554
+      }
+]

@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9533552,
+                        "lng":-87.7320259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9547446803,
+                              "lng":-87.7306240197
+                        },
+                        "southwest":{
+                              "lat":41.9520467197,
+                              "lng":-87.7333219803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Old Irving - Lou Malnatis Old Irving",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101753048156556143748\">Old Irving - Lou Malnatis Old Irving<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAstOFLLtac5EBlgWwOYDyvmL3bT4z77y50gh2sqoYmLvdKzaM_WmpdPZSzRmxk8qKNlG1mcFNYMIw_Qd6DC12IitSl81PmJOS19U9onB-VnjL8ebwqZpwXS1gDNgGqMQAezKB6pqNhOw2NgWilB7QMtcguj2f3o6SzQfUiiiS-rYVY",
+                        "width":5472
+                  }
+            ],
+            "place_id":"ChIJedRfJ7TND4gRRNghCMxJix8",
+            "plus_code":{
+                  "compound_code":"X739+85 Chicago, IL, USA",
+                  "global_code":"86HJX739+85"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJedRfJ7TND4gRRNghCMxJix8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":399,
+            "vicinity":"3986 North Avondale Avenue, Chicago",
+            "CBG":170311603002,
+            "Radius":204.2272778216
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9534261,
+                        "lng":-87.732271
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9546142803,
+                              "lng":-87.7309044197
+                        },
+                        "southwest":{
+                              "lat":41.9519163197,
+                              "lng":-87.7336023803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Potbelly Sandwich Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2426,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109669855484647094723\">David Johnsen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED23K4vaIH8eDfOey6uwPOTzYh14Pyr97XRscI2SzYIpvEUGVK7za1jhdPu6LYp39dbBADB6cEK8wC51PumXfpe1bMFUOfRVcu2dzvk1374k-dgf1a8xw5BcnT1EA6X2GjxUOJBFgzj5u8sLrhJLerHvIB7zF9_o-czSaA2uRBpIkng",
+                        "width":3656
+                  }
+            ],
+            "place_id":"ChIJ5V5-JrTND4gR_inN8tDVJFU",
+            "plus_code":{
+                  "compound_code":"X739+93 Chicago, IL, USA",
+                  "global_code":"86HJX739+93"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ5V5-JrTND4gR_inN8tDVJFU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":371,
+            "vicinity":"4185 West Irving Park Road #1, Chicago",
+            "CBG":170311603002,
+            "Radius":204.2272778216
+      }
+]

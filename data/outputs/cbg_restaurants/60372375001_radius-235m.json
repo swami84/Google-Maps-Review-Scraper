@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9805289,
+                        "lng":-118.2892614
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9818778303,
+                              "lng":-118.2878744197
+                        },
+                        "southwest":{
+                              "lat":33.9791798697,
+                              "lng":-118.2905723803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"S&W management",
+            "place_id":"ChIJn5wrSsTJwoARyOmGEvbU2Qk",
+            "plus_code":{
+                  "compound_code":"XPJ6+67 Los Angeles, CA, USA",
+                  "global_code":"8553XPJ6+67"
+            },
+            "reference":"ChIJn5wrSsTJwoARyOmGEvbU2Qk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"6111 South Menlo Avenue St, Los Angeles",
+            "CBG":60372375001,
+            "Radius":234.8181175806
+      }
+]

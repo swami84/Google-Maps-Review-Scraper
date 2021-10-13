@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9206581,
+                        "lng":-118.2093887
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9219687803,
+                              "lng":-118.2080374697
+                        },
+                        "southwest":{
+                              "lat":33.9192708197,
+                              "lng":-118.2107354303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tam's Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102208434247756739725\">Osiel Peralta<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDZCGi5uBSfJK9kxngCSifF2uO55P1HwphDQsV3iDIz7z1CmObZLbr63KRk7JLyrjdm_oAKuFLOTThhzs-Pa1uU5MseIRi0Tza7l2ZmfmWqj4kl7WtTqK6ing9lJhlexwL9OFDi6IRa8-zddQ3JVjdTOoTxG37-Sr52BAN2GX0pqOsa",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJnTiIRYbLwoARhG3s75RVuWw",
+            "plus_code":{
+                  "compound_code":"WQCR+76 Lynwood, CA, USA",
+                  "global_code":"8553WQCR+76"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJnTiIRYbLwoARhG3s75RVuWw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2368,
+            "vicinity":"11816 Long Beach Boulevard, Lynwood",
+            "CBG":60375405013,
+            "Radius":287.835127384
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9221667,
+                        "lng":-118.2095167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9235133303,
+                              "lng":-118.2082237197
+                        },
+                        "southwest":{
+                              "lat":33.9208153697,
+                              "lng":-118.2109216803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"BALAM Mexican Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118421458250892050077\">Sophia Rivera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAIrsulCwjcj_b61QMyfl1FAvJC_yOP1cOLRrHHj3FsuDZIcq_zCIeHo9xYPArkOQ8UGXE_x7fzLGjm6Cy-yQOyv6sQLWGlEgREOtXD1MRE0ejgbHga7_6r35MXPAGMJKOVytG5KdJwa-Eb-5YPTHgHauyp4s6OV-WijN3vR_o-92Mw",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJbca7L4bLwoARVPEhV0ff0a0",
+            "plus_code":{
+                  "compound_code":"WQCR+V5 Lynwood, CA, USA",
+                  "global_code":"8553WQCR+V5"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJbca7L4bLwoARVPEhV0ff0a0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":519,
+            "vicinity":"11700 Long Beach Boulevard, Lynwood",
+            "CBG":60375405013,
+            "Radius":287.835127384
+      }
+]

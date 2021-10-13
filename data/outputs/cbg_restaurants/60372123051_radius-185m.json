@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0575383,
+                        "lng":-118.2980927
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0589812803,
+                              "lng":-118.2967335197
+                        },
+                        "southwest":{
+                              "lat":34.0562833197,
+                              "lng":-118.2994314803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jiazen Inc",
+            "place_id":"ChIJve0POH7HwoARd39AMhYiUwE",
+            "plus_code":{
+                  "compound_code":"3P52+2Q Los Angeles, CA, USA",
+                  "global_code":"85633P52+2Q"
+            },
+            "reference":"ChIJve0POH7HwoARd39AMhYiUwE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3208 West 8th Street, Los Angeles",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372123051,
+            "Radius":185.4613967413
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0575888,
+                        "lng":-118.297752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0590064803,
+                              "lng":-118.2965096197
+                        },
+                        "southwest":{
+                              "lat":34.0563085197,
+                              "lng":-118.2992075803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"H Cafe",
+            "place_id":"ChIJ6dxGa-XHwoARA2YS0yaI0z8",
+            "plus_code":{
+                  "compound_code":"3P52+2V Los Angeles, CA, USA",
+                  "global_code":"85633P52+2V"
+            },
+            "reference":"ChIJ6dxGa-XHwoARA2YS0yaI0z8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3200 West 8th Street, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113277363160967175832\">-<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqULq5hS_cQqvu3Foj0vVt-cZo6ACauCTTNAjEFh2APL4lO0EUo2L28ijuncbm1TIid5HIdFLYjjlF8juE6uvKjClOfuRwP2mAIA4xguGmKrpjrnUbjLpiKvb7yEH30lVExH6bQ2BRaH_dwkY0YQDEniPk0Q3epFqPCLYXK3yn4aA",
+                        "width":3072
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.4,
+            "user_ratings_total":314.0,
+            "CBG":60372123051,
+            "Radius":185.4613967413
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.756936,
+                        "lng":-117.083844
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7583011803,
+                              "lng":-117.0826353697
+                        },
+                        "southwest":{
+                              "lat":32.7556032197,
+                              "lng":-117.0853333303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cali Baguette Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117334122632487055465\">Evan Bullie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEByUGNGzZnD44lpaHoMm4X6JjJiYmjbnqPjQsjpWGVVqR-Lu6vSSJ_AGpaF9MJA-YAOaVpl8Z8kuYA9ATgNnmD1OcArg09H1QSqm3rBpLdxVhvmen0ZW5Z8PgIFyY_VCKxMDftQYl-UAGCS3D0xUUXcgav_svpYlLQQ6EKGPox4cdRr",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ8xNObSFU2YARMfkleV9VS1k",
+            "plus_code":{
+                  "compound_code":"QW48+QF San Diego, CA, USA",
+                  "global_code":"8544QW48+QF"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ8xNObSFU2YARMfkleV9VS1k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":342,
+            "vicinity":"5125 El Cajon Boulevard, San Diego",
+            "CBG":60730027083,
+            "Radius":191.7896082368
+      }
+]

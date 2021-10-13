@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.0329754,
+                        "lng":-80.1629838
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.0344534303,
+                              "lng":-80.1616409697
+                        },
+                        "southwest":{
+                              "lat":26.0317554697,
+                              "lng":-80.1643389303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Garage Gourmet",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":577,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100897937472345659261\">Garage Gourmet<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAjteESf1AKOXwm05gEGshsdKFguKvsAQcsBk30pzkAMM4dUQVzgVgli_TTvh1nOf2bf3PXUFn1ODLqmm1GR769BvR_A5xmG6lsHrn8WYsTOEVhIVzLiqwIRmyVgT72uwZ1VLvn00lPf82MlETiDwyr87gnELPpbJCl8SfAS3neWu6X",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJrRkPKnqr2YgRFvsUqEocSdk",
+            "plus_code":{
+                  "compound_code":"2RMP+5R Hollywood, FL, USA",
+                  "global_code":"76RX2RMP+5R"
+            },
+            "reference":"ChIJrRkPKnqr2YgRFvsUqEocSdk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2730 Sheridan Street, Hollywood",
+            "CBG":120110904011,
+            "Radius":480.117711355
+      }
+]

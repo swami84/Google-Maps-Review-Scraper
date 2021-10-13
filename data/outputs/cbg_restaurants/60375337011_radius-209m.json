@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9921387,
+                        "lng":-118.1835187
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9936622803,
+                              "lng":-118.1824335697
+                        },
+                        "southwest":{
+                              "lat":33.9909643197,
+                              "lng":-118.1851315303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Guatemalteca Bakery \ud83c\uddec\ud83c\uddf9\ud83d\udd25",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113886685755326377625\">Eddie Alonso<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECltHpHcW6NQdT7oqSEf5NIqdt2PhOMzjjelM1YGyrLaK3bep17Jpmslb0UMUX10Y13ZDsKW5CH_PYf1dei_NGVihZLpqe_laPyhIb6914sGsIAPO23FJx4ZPH6tum3zuzi7Az7v44BzIduc7Y2wqZ5IKsuSYJWq5unYmdBIuwJrR2u",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJodRxad3OwoARPIlxzb84fbs",
+            "plus_code":{
+                  "compound_code":"XRR8+VH Maywood, CA, USA",
+                  "global_code":"8553XRR8+VH"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJodRxad3OwoARPIlxzb84fbs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1404,
+            "vicinity":"5250 South Atlantic Boulevard, Maywood",
+            "CBG":60375337011,
+            "Radius":208.551059787
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9921325,
+                        "lng":-118.1835353
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9936282303,
+                              "lng":-118.1821689197
+                        },
+                        "southwest":{
+                              "lat":33.9909302697,
+                              "lng":-118.1848668803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chapin restaurante",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJ7botd57PwoARMuhMVKskCyk",
+            "plus_code":{
+                  "compound_code":"XRR8+VH Maywood, CA, USA",
+                  "global_code":"8553XRR8+VH"
+            },
+            "price_level":null,
+            "rating":2.0,
+            "reference":"ChIJ7botd57PwoARMuhMVKskCyk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5250 Atlantic Boulevard, Maywood",
+            "CBG":60375337011,
+            "Radius":208.551059787
+      }
+]

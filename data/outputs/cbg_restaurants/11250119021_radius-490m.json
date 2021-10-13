@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.1960241,
+                        "lng":-87.5617715
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.1973083803,
+                              "lng":-87.5605810697
+                        },
+                        "southwest":{
+                              "lat":33.1946104197,
+                              "lng":-87.5632790303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Church's Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101900802965607150447\">Church&#39;s Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC3nB9lBAAu4TpeC-i83nl9yhdO7_fBenJCqh4iiLJJy8dmfR9wD6dXeq6YFnTsDFUSscPHkNsS-JRuZtoyc-KkgfN4F3NAp_Z97CEck9ayODJ1J_KyUDfewCWH15HwEU5BMuFY0Rdzq9ExwX4vJIiu5NknidmkKuAbhxCFEw9mGASJ",
+                        "width":1025
+                  }
+            ],
+            "place_id":"ChIJnSwvf_MChogRL_-7rIVwOXs",
+            "plus_code":{
+                  "compound_code":"5CWQ+C7 Tuscaloosa, AL, USA",
+                  "global_code":"865J5CWQ+C7"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJnSwvf_MChogRL_-7rIVwOXs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":413,
+            "vicinity":"1801 Greensboro Avenue, Tuscaloosa",
+            "CBG":11250119021,
+            "Radius":489.8140470158
+      }
+]

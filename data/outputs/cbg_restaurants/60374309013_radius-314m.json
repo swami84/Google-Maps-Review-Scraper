@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1410261,
+                        "lng":-118.0191864
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1422570803,
+                              "lng":-118.0178594697
+                        },
+                        "southwest":{
+                              "lat":34.1395591197,
+                              "lng":-118.0205574303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Oto-Oto Izakaya Japonaise",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":527,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103837713302714917482\">Oto-Oto Izakaya Japonaise<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDqHIwx6Q7W92Ay-lvbCu_BP8EpHnwbeB763nLOz8aLVCjDDbOdXuessT01j72SrLobgCJRdiGPMB3D0CFgpzXQdoouSJxPGvw3tqoVUvoIrdeyqv3JWdjJVd-QDVpir5R5LzSpnx9Uzq8604G6JTEm1EebqzBjP_e88rQxxnin1i25",
+                        "width":816
+                  }
+            ],
+            "place_id":"ChIJsQ11Xd_bwoARZMAlhm7_O8A",
+            "plus_code":{
+                  "compound_code":"4XRJ+C8 Monrovia, CA, USA",
+                  "global_code":"85634XRJ+C8"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJsQ11Xd_bwoARZMAlhm7_O8A",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":295,
+            "vicinity":"929 West Huntington Drive, Monrovia",
+            "CBG":60374309013,
+            "Radius":314.395879357
+      }
+]

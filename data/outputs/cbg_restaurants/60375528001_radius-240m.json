@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9018663,
+                        "lng":-118.0861658
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9032536303,
+                              "lng":-118.0847521697
+                        },
+                        "southwest":{
+                              "lat":33.9005556697,
+                              "lng":-118.0874501303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Compadres Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107474352355121499529\">Satoshi Iwasaki<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJ9swsY3GsWyPXTXkkgS1uy6ZyvhyYEmsTRvDSqggSSnvrgc7Oq4yZ45cHvn1vtzhx6nRMU97nssX7hnAETlbdX5E_DF70iPHZM--497OUrbEaxsNQ5fCG8GKtSb6xQOQ_cnRxbqruHS6-jLJzpqMwVftzXWdi-vk2KL5Q_Sn2agEY",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJ6f721MrSwoARIiGFAZMUwDM",
+            "plus_code":{
+                  "compound_code":"WW27+PG Norwalk, CA, USA",
+                  "global_code":"8553WW27+PG"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJ6f721MrSwoARIiGFAZMUwDM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2074,
+            "vicinity":"11600 Rosecrans Avenue #3818, Norwalk",
+            "CBG":60375528001,
+            "Radius":240.3109883066
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9027881,
+                        "lng":-118.08629
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9040832303,
+                              "lng":-118.0849394197
+                        },
+                        "southwest":{
+                              "lat":33.9013852697,
+                              "lng":-118.0876373803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wok's Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117409880123490355886\">Annie Ha<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAi4bTfNw53G39rYJpT6apkrIjvTyv35PwMTfr_161Kk_UVuyNdlhX-Q1bAVKrztw8vSN-X-rJo4k6rv4R-m-pGga4zTmXLi8CiyjKP_V7WaYZe4UQAkD-fxP_zIozmb3uGw3Lg9baJyESlbligqutu5BFTk10ODPj_N6HUlf0KRpfa",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJrQ8qDCrTwoARsydAvoyKI9A",
+            "plus_code":{
+                  "compound_code":"WW37+4F Norwalk, CA, USA",
+                  "global_code":"8553WW37+4F"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJrQ8qDCrTwoARsydAvoyKI9A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"11575 Rosecrans Avenue, Norwalk",
+            "CBG":60375528001,
+            "Radius":240.3109883066
+      }
+]

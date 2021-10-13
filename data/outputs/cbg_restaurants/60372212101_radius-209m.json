@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0470809,
+                        "lng":-118.3043441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0484979803,
+                              "lng":-118.3030186197
+                        },
+                        "southwest":{
+                              "lat":34.0458000197,
+                              "lng":-118.3057165803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Botanica",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJhXDAT3m4woARgC2Rm8_UQUk",
+            "plus_code":{
+                  "compound_code":"2MWW+R7 Los Angeles, CA, USA",
+                  "global_code":"85632MWW+R7"
+            },
+            "rating":3.8,
+            "reference":"ChIJhXDAT3m4woARgC2Rm8_UQUk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"2936 West Pico Boulevard, Los Angeles",
+            "CBG":60372212101,
+            "Radius":209.4883863324
+      }
+]

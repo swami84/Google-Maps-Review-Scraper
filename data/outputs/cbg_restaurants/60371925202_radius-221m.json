@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.076394,
+                        "lng":-118.301832
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0776902803,
+                              "lng":-118.3004826197
+                        },
+                        "southwest":{
+                              "lat":34.0749923197,
+                              "lng":-118.3031805803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Chavocho Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112661258023944438941\">Items4lesstore Inc<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZTZSpWSGnT5zO6k0atDOCUQMQVRgXIGK_5dM160WT6DWLJ5GZpYBO3en2eg2sYuZQu3ihDLibeOvWkmU1RXFWgCBNMbTSjZO5Gz5_PfRitOVZzD8rNoDA7oV4rr0n0om_LdoEz8UK6-pR_k4zptNXNrEiuhQERXmi87L-AbR3DFnr",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ78ITV6C4woARpemEiIpk-1Q",
+            "plus_code":{
+                  "compound_code":"3MGX+H7 Los Angeles, CA, USA",
+                  "global_code":"85633MGX+H7"
+            },
+            "rating":4.1,
+            "reference":"ChIJ78ITV6C4woARpemEiIpk-1Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":311,
+            "vicinity":"4271 Beverly Boulevard, Los Angeles",
+            "price_level":null,
+            "CBG":60371925202,
+            "Radius":220.8865266695
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0764888,
+                        "lng":-118.3013643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0778377803,
+                              "lng":-118.3000153197
+                        },
+                        "southwest":{
+                              "lat":34.0751398197,
+                              "lng":-118.3027132803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Alaska Seafood Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105967305240581454243\">Anthony<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAeffoOKYurf9bL1XryPh8YNaTd_UDfvopT2IQYevYY26dgMMvow1W_mXawwDxes5l9QD6afHYQXw4tL035TYL7YY43TfSxUPT21YuUgutu7DQbdXjoCbbyCibh0xKLPI0VMsa9bwfL3d1bCwWhf6lGAQ6lh36MxLXUP4KV80gly5MQ",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJb6rpWKC4woARqE3_uWAOQ2A",
+            "plus_code":{
+                  "compound_code":"3MGX+HF Los Angeles, CA, USA",
+                  "global_code":"85633MGX+HF"
+            },
+            "rating":4.6,
+            "reference":"ChIJb6rpWKC4woARqE3_uWAOQ2A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":564,
+            "vicinity":"4251 Beverly Boulevard, Los Angeles",
+            "price_level":2.0,
+            "CBG":60371925202,
+            "Radius":220.8865266695
+      }
+]

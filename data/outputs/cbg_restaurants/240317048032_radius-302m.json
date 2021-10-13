@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9786,
+                        "lng":-77.0990944
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9799634803,
+                              "lng":-77.0976742197
+                        },
+                        "southwest":{
+                              "lat":38.9772655197,
+                              "lng":-77.1003721803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bradley Food & Beverage",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107170030971170909804\">Jae Won Lee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBRCXIuR7hQj5PnkV_Ea4qAemNj7Hd7XbYffzOR_Dol2SpQyaY7VGGbtn8wJfW79YoBX70fRvbbDxIZR5KYe4iRgyx3_8Q1kp685-USptc9h2H8wjF1hZBa1wRi7Io1E3KwdvAbcavhyraX7HlZbkyKyVcISkgT0TRVAEkOHW1RDhP",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJcT0Q7X7Jt4kRn8GId18JYV8",
+            "plus_code":{
+                  "compound_code":"XWH2+C9 Bethesda, MD, USA",
+                  "global_code":"87C4XWH2+C9"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJcT0Q7X7Jt4kRn8GId18JYV8",
+            "scope":"GOOGLE",
+            "types":[
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":129.0,
+            "vicinity":"6904 Arlington Road, Bethesda",
+            "CBG":240317048032,
+            "Radius":302.4124585555
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9774602,
+                        "lng":-77.0991634
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9787544303,
+                              "lng":-77.0976108197
+                        },
+                        "southwest":{
+                              "lat":38.9760564697,
+                              "lng":-77.1003087803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bento Sushi",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJVTaPpOrJt4kRjtyyRqf0NDg",
+            "plus_code":{
+                  "compound_code":"XWG2+X8 Chevy Chase, MD, USA",
+                  "global_code":"87C4XWG2+X8"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJVTaPpOrJt4kRjtyyRqf0NDg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"5000 Bradley Boulevard, Chevy Chase",
+            "CBG":240317048032,
+            "Radius":302.4124585555
+      }
+]

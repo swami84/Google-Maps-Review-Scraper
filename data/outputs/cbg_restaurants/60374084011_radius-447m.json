@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0195955,
+                        "lng":-117.9773326
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0211080303,
+                              "lng":-117.9763006197
+                        },
+                        "southwest":{
+                              "lat":34.0184100697,
+                              "lng":-117.9789985803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Foo-Foo Tei",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107878625802363572413\">kellyho1982<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA9Eio5HkurkYHE802G8vcRb7Q9okjRn4eLc_oA1obWUoy0jZRSUvUL9ikIfrLBirJ8d5BdYtrFXYPwUY4RhKSJPfBu0DvgWuBNydSFOWAelIXpy9hNw1Pfh1J2Y4JUxLmbYpSsq4xZgy5gxis2FnDySpJrWd6ozGA4aJ2H5y08iKMD",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJc0ledIbWwoARks5p275HuF0",
+            "plus_code":{
+                  "compound_code":"229F+R3 Hacienda Heights, CA, USA",
+                  "global_code":"8564229F+R3"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJc0ledIbWwoARks5p275HuF0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":813,
+            "vicinity":"15018 Clark Avenue, Hacienda Heights",
+            "CBG":60374084011,
+            "Radius":446.517472838
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0148336,
+                        "lng":-117.9751159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0161682803,
+                              "lng":-117.9737206197
+                        },
+                        "southwest":{
+                              "lat":34.0134703197,
+                              "lng":-117.9764185803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"The Roll Inn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJvSXmcYDWwoARUItRseb9tho",
+            "plus_code":{
+                  "compound_code":"227F+WX City of Industry, CA, USA",
+                  "global_code":"8564227F+WX"
+            },
+            "price_level":null,
+            "rating":2.5,
+            "reference":"ChIJvSXmcYDWwoARUItRseb9tho",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"15223 Gale Avenue, City of Industry",
+            "CBG":60374084011,
+            "Radius":446.517472838
+      }
+]

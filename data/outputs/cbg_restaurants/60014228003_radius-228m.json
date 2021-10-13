@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8676208,
+                        "lng":-122.2628369
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8688260803,
+                              "lng":-122.2614354697
+                        },
+                        "southwest":{
+                              "lat":37.8661281197,
+                              "lng":-122.2641334303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Julia's Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3728,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101809715525941611511\">Julia&#39;s Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBezLZmYvKBjUQ2fvBnp4ELyY6l0ZdzOobxTpE12Ag9XYTAXxZoZzxYVofcZF04GQP34IHfEhJzKk_ZWd6znU2waQXqcXkKmB_yV-rilVdsd3cHwXwYXxKM3wZDFDrF5wFPsVjA0dSHp02_5IVXUYN_E6PDeZ2sODQZw6PJtMzrEpk-",
+                        "width":5591
+                  }
+            ],
+            "place_id":"ChIJbZrrfih8hYARWpoNM70K1r0",
+            "plus_code":{
+                  "compound_code":"VP9P+2V Berkeley, CA, USA",
+                  "global_code":"849VVP9P+2V"
+            },
+            "rating":4.2,
+            "reference":"ChIJbZrrfih8hYARWpoNM70K1r0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":67,
+            "vicinity":"2315 Durant Avenue 2nd floor, Berkeley",
+            "CBG":60014228003,
+            "Radius":228.157318898
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1868681,
+                        "lng":-118.4062299
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1881956803,
+                              "lng":-118.4049322697
+                        },
+                        "southwest":{
+                              "lat":34.1854977197,
+                              "lng":-118.4076302303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Vic\u2019s Thai Food to go",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":541,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109861053566095591515\">Vic\u2019s Thai Food to go<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB_1GGLMXcAQmpI41mHImwWpeciRrk_QMY_5uDhi5N-4HQDU-lHyXGhtfnCj_nyR1G9NZO_VGKwKbsE4jNokjUW4YwzIIbq-WBJ5C0_bh9uyKk49GwV2TFy-jAdYu-VQ4zNlU5NM3iz3IDWB6qXGYr1LhVrfdbgsgmTvDDoEaic2X-v",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJr6k-amOWwoARgkGVd18soLU",
+            "plus_code":{
+                  "compound_code":"5HPV+PG North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635HPV+PG"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJr6k-amOWwoARgkGVd18soLU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":319.0,
+            "vicinity":"12527 Victory Boulevard, North Hollywood",
+            "CBG":60371237001,
+            "Radius":233.4149882484
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1870708,
+                        "lng":-118.4058245
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1883363803,
+                              "lng":-118.4044771197
+                        },
+                        "southwest":{
+                              "lat":34.1856384197,
+                              "lng":-118.4071750803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Grub Zone @ NoHo",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJKaYPwNKXwoARSB-uFG0gPlQ",
+            "plus_code":{
+                  "compound_code":"5HPV+RM North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635HPV+RM"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJKaYPwNKXwoARSB-uFG0gPlQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"12515 Victory Boulevard, North Hollywood",
+            "CBG":60371237001,
+            "Radius":233.4149882484
+      }
+]

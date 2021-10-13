@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.778849,
+                        "lng":-118.1793454
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7802577803,
+                              "lng":-118.1780040197
+                        },
+                        "southwest":{
+                              "lat":33.7775598197,
+                              "lng":-118.1807019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chema's Place",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1033,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106452153094634604364\">Chema&#39;s Place<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDmtldc3A4G1SSjupLdaw4n9mScw9Hsx7gWEufIBRsxIQiLHMZgKaYtuW9CDEEGAR489LNI27AddGnvLvcYm9p8WFJNSSnUgV3BrTUi4a2wEZsK6W0Z-XnlAy26aDmuqbXa3ujDo32WcWIkXB8nOxauTH6A1R41zF8kIyt4FOmFQuQe",
+                        "width":1407
+                  }
+            ],
+            "place_id":"ChIJMWgBq2sx3YARe-Hubph9P-c",
+            "plus_code":{
+                  "compound_code":"QRHC+G7 Long Beach, CA, USA",
+                  "global_code":"8553QRHC+G7"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJMWgBq2sx3YARe-Hubph9P-c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":310,
+            "vicinity":"1060 East 10th Street, Long Beach",
+            "CBG":60375764012,
+            "Radius":226.7705271245
+      }
+]

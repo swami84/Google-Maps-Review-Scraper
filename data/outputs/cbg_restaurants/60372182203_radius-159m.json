@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0400045,
+                        "lng":-118.338203
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0413035803,
+                              "lng":-118.3368542197
+                        },
+                        "southwest":{
+                              "lat":34.0386056197,
+                              "lng":-118.3395521803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Best Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":525,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110959837115474760270\">J Nelson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChGTdA964PU_4GFxRRSByQY4EX80McjCLKk5pwjZLdModJXGNjSS8_TTt4gr_KWcAv_IBty4aCezm9LVYbOnbIl0JQS-73iBWIoHF0jHmVl1qg9quzCBy-ZZ6xaI3k-aqGe4hjFmzKeiWdaK1MC6s17M2K1Po92CK6-ookCwQHc66R",
+                        "width":884
+                  }
+            ],
+            "place_id":"ChIJd2xbxFa4woARSnWsUTI5BI8",
+            "plus_code":{
+                  "compound_code":"2MR6+2P Los Angeles, CA, USA",
+                  "global_code":"85632MR6+2P"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJd2xbxFa4woARSnWsUTI5BI8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":186,
+            "vicinity":"4531 West Washington Boulevard, Los Angeles",
+            "CBG":60372182203,
+            "Radius":158.8752257421
+      }
+]

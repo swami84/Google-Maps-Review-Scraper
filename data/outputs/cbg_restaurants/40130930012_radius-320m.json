@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.536933,
+                        "lng":-112.152053
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5384146303,
+                              "lng":-112.1506017697
+                        },
+                        "southwest":{
+                              "lat":33.5357166697,
+                              "lng":-112.1532997303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Peter Piper Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3008,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110656746262732247158\">Gina<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECk2icwgvF7xSoMxYASHySfEyGtjntDPS9zhlIsZ_kMKzlvapXjFqiuP7cjisFglfUsDMw3uSRlzPmsIQSOOuFXHIns6kPdFhwjSp__hOXctgS3yHGAJxK52SNYXCVGsKD8oNmim1gClMaOfhuem_EFxPWP0UL-pqKXGDp2J6lmKCTU",
+                        "width":3977
+                  }
+            ],
+            "place_id":"ChIJlSAmVWZrK4cRpY6yyx2n2cg",
+            "plus_code":{
+                  "compound_code":"GRPX+Q5 Glendale, AZ, USA",
+                  "global_code":"8559GRPX+Q5"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJlSAmVWZrK4cRpY6yyx2n2cg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":760,
+            "vicinity":"4315 West Glendale Avenue, Glendale",
+            "CBG":40130930012,
+            "Radius":319.7173314978
+      }
+]

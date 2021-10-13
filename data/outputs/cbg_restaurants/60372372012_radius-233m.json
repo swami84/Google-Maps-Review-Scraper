@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9847922,
+                        "lng":-118.297573
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9862582303,
+                              "lng":-118.2962233697
+                        },
+                        "southwest":{
+                              "lat":33.9835602697,
+                              "lng":-118.2989213303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carlos tamales",
+            "place_id":"ChIJD4E-bkHJwoARLneIoBclsWQ",
+            "plus_code":{
+                  "compound_code":"XPM2+WX Los Angeles, CA, USA",
+                  "global_code":"8553XPM2+WX"
+            },
+            "reference":"ChIJD4E-bkHJwoARLneIoBclsWQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1246 West 60th Place, Los Angeles",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372372012,
+            "Radius":233.196010398
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9872247,
+                        "lng":-118.3000099
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9885741303,
+                              "lng":-118.2987667697
+                        },
+                        "southwest":{
+                              "lat":33.9858761697,
+                              "lng":-118.3014647303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taste Of The Caribbean",
+            "place_id":"ChIJx_Rtrdi3woARFLHH7s3WMeA",
+            "plus_code":{
+                  "compound_code":"XMPX+VX Los Angeles, CA, USA",
+                  "global_code":"8553XMPX+VX"
+            },
+            "reference":"ChIJx_Rtrdi3woARFLHH7s3WMeA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5912 Normandie Avenue, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1297,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109062676117567095266\">Mark Haile<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECsXewEd_SgOtpwwl7Tdw8gA6KC_vK4fznUD3K14p0PvV4iJMK34sdUIJllqjyuj2ykalO3H3I4TToNaZwtzBKkNM3FT1_vs3zNj4wXKt4s5Ba1Lyg4fVXJSGzCCYO8Z16OznIcMwGL1H1tZEesUxYa9vw43nOWJCV4xlfEwvpMnAhw",
+                        "width":1114
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.4,
+            "user_ratings_total":11.0,
+            "CBG":60372372012,
+            "Radius":233.196010398
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":32.7418504,
+                        "lng":-117.1207533
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7431052803,
+                              "lng":-117.1193486697
+                        },
+                        "southwest":{
+                              "lat":32.7404073197,
+                              "lng":-117.1220466303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"It's Raw Poke Truck",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110005904971816750599\">It&#39;s Raw Poke Truck<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDWWtHSpg9ypLgau_puoDR2OePB5f1VBdVmSiVP2sYWknG6ng1HqXS4Eo1y6hoEWbEOpziffpeF1gSjmZUWNZogmzSjBfk65mfHNb9yNqJM-mbxLarQXH1tJ-TIndzrqrr5FAXoPJ7Jd2jMCijNS4QLBi_osiDA-wtyQuUe091sW2GE",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJa_bPY7er3oARcmdsqTKvsF8",
+            "plus_code":{
+                  "compound_code":"PVRH+PM San Diego, CA, USA",
+                  "global_code":"8544PVRH+PM"
+            },
+            "rating":4.9,
+            "reference":"ChIJa_bPY7er3oARcmdsqTKvsF8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"3402 Myrtle Avenue, San Diego",
+            "CBG":60730015002,
+            "Radius":273.503957563
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0443157,
+                        "lng":-118.2118351
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0456646803,
+                              "lng":-118.2104861197
+                        },
+                        "southwest":{
+                              "lat":34.0429667197,
+                              "lng":-118.2131840803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lupita's Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111022692682642454656\">Sandra Armendariz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZmo1t0YeAQFh_Kr_gdZJ8RoFGl_X3Px6mGvGOViZ0ehlrnysJfvj4d3wwBzvE3_GMr3lQ-_BTOMP1I0qptkDe3iAE5yozzfahGBGVEVkUMiKJN0VvzRncGenAdy_MD_h4uOp1SqM7FdsX6Jh8dDn-4zdfCJIaxo_7XtqoLltDGqqx",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJOexZ4gXGwoARxHhmlHs9B-4",
+            "plus_code":{
+                  "compound_code":"2QVQ+P7 Los Angeles, CA, USA",
+                  "global_code":"85632QVQ+P7"
+            },
+            "rating":4.4,
+            "reference":"ChIJOexZ4gXGwoARxHhmlHs9B-4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"2214 East 1st Street, Los Angeles",
+            "CBG":60372044202,
+            "Radius":197.209077387
+      }
+]

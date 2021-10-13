@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9700398,
+                        "lng":-118.1764125
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9713565303,
+                              "lng":-118.1751423697
+                        },
+                        "southwest":{
+                              "lat":33.9686585697,
+                              "lng":-118.1778403303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Chuck E. Cheese",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110662295299262916852\">Chuck E. Cheese<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDQ3GW9LW7oSFJQH1zHiX9dOtFYuBpfODsff8bP-bSFLaEvGPBqyPGvBCbeyfJDrEBUtaxkTMT4ePsUOAwxeucRB2-ozbz0PCWGyScLXYkX4Ti-_VYabJ5c-m3_hG7_rldqPZ6EpdFQ8tCf7Xaz8b-Sf9zclUduETcZ7YwGJB7ERPVt",
+                        "width":1778
+                  }
+            ],
+            "place_id":"ChIJ0SFyJ5rOwoARQvSTJ14KcnM",
+            "plus_code":{
+                  "compound_code":"XRCF+2C Bell, CA, USA",
+                  "global_code":"8553XRCF+2C"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ0SFyJ5rOwoARQvSTJ14KcnM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":995,
+            "vicinity":"5089 East Florence Avenue, Bell",
+            "CBG":60375338051,
+            "Radius":287.1857988475
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.268877,
+                        "lng":-80.128074
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.2702247303,
+                              "lng":-80.1268243197
+                        },
+                        "southwest":{
+                              "lat":26.2675267697,
+                              "lng":-80.1295222803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Food Pickup Brazilian",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJv0ljPTMd2YgRsjrpaT2Kte8",
+            "plus_code":{
+                  "compound_code":"7V9C+HQ Pompano Beach, FL, USA",
+                  "global_code":"76RX7V9C+HQ"
+            },
+            "rating":5,
+            "reference":"ChIJv0ljPTMd2YgRsjrpaT2Kte8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"3007 Northwest 3rd Avenue #3, Pompano Beach",
+            "CBG":120110303012,
+            "Radius":530.3451108093
+      }
+]

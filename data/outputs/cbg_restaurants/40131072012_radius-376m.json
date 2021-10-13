@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5128281,
+                        "lng":-112.1225197
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5144771,
+                              "lng":-112.1214285697
+                        },
+                        "southwest":{
+                              "lat":33.5093415,
+                              "lng":-112.1241265303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chick-fil-A",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115498697595823022449\">Chick-fil-A<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBbqfU3zEGE0PBJZExYeIcsjQQ9QOd3iyjP5sUN9KfK2eZ8ziAVXtBDf9Mx3-r0KARZfl4KNarPhVCOxK5pj8N1_9efZyon7Fc1gUPUsLF4Q0sZDWZe7AuESf9zztmJ0lc4htGjsmxT7DMjmbIa2Jm6TCqbn9CTW1qiwQ6HF3J4jvVP",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJb-8C5IITK4cRVY6pdtSRgW0",
+            "plus_code":{
+                  "compound_code":"GV7G+4X Phoenix, AZ, USA",
+                  "global_code":"8559GV7G+4X"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJb-8C5IITK4cRVY6pdtSRgW0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"Diamondback Apartments, 2945 West Colter Street, Phoenix",
+            "CBG":40131072012,
+            "Radius":376.155396661
+      }
+]

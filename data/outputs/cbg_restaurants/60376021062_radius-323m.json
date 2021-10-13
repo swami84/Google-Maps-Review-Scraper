@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9178633,
+                        "lng":-118.3535866
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9190550803,
+                              "lng":-118.3521642697
+                        },
+                        "southwest":{
+                              "lat":33.9163571197,
+                              "lng":-118.3548622303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Midici Wood Fired Pizza & Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113201411598695944671\">Midici Wood Fired Pizza &amp; Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDF2gLg9ImMXAYckJJCJ6hG1OGGg1GrH2Ro0HVTvdfp76oCCt3nHVOHNDhl6ILtW4NvQ3KAwJFXrqX9eu1zWt_3FSCbU7oenVuquKxxlAE9iDUxSBw3QJ-GkIN6gfHVW3MgE6k0HtQM0QgKyKCSJ_AcpFQn__5EtBXwH7Hy74yro1JZ",
+                        "width":5184
+                  }
+            ],
+            "place_id":"ChIJtZD7mwC1woARti5PNBO1hRA",
+            "plus_code":{
+                  "compound_code":"WJ9W+4H Hawthorne, CA, USA",
+                  "global_code":"8553WJ9W+4H"
+            },
+            "rating":4.1,
+            "reference":"ChIJtZD7mwC1woARti5PNBO1hRA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"4429 West El Segundo Boulevard, Hawthorne",
+            "CBG":60376021062,
+            "Radius":323.2254877227
+      }
+]

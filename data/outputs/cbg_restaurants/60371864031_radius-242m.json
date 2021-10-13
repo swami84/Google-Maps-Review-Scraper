@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1138069,
+                        "lng":-118.2366031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1151394303,
+                              "lng":-118.2351817697
+                        },
+                        "southwest":{
+                              "lat":34.1124414697,
+                              "lng":-118.2378797303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gorditas Lupita",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112787330532288982949\">Eduardo vargas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYmvADN81YxiC1JaM_UCW-OQ2UarmuIiKOO2_JmMMJADIoXdO8k7rWkZjF6-MOtVJgaJK8s9ysMKun3YfT1S-xZ8UFLSMlb6J9hhh4-cb7vHsXqScmnGjLrJS0uyDBDCFwsNVWSRO_j_DVYOzlUHNYwQ_bTVxS1dgdjSzRxcWHQ8jw",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPY1mmDPBwoARojhGqU6Sp1w",
+            "plus_code":{
+                  "compound_code":"4Q77+G9 Los Angeles, CA, USA",
+                  "global_code":"85634Q77+G9"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJPY1mmDPBwoARojhGqU6Sp1w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":123,
+            "vicinity":"3363 Eagle Rock Boulevard, Los Angeles",
+            "CBG":60371864031,
+            "Radius":242.2864197804
+      }
+]

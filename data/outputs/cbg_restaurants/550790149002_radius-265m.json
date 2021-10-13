@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0383864,
+                        "lng":-87.9444663
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0398560303,
+                              "lng":-87.9431634697
+                        },
+                        "southwest":{
+                              "lat":43.0371580697,
+                              "lng":-87.9458614303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116340415421449660683\">McDonald&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECLwva4P0aOUaVjf_PabmqewPAua6U2cw-XguFRUs21WHpYQPjI2ePIX2Cz1j5VcOi-MeYHSaQ9tEjvK9SZvrtn8WcM1PaprGtAZZJapch9tQ59qZ3BSr6ia8119mcbQEy_aB_d0bwl2H4oZmOTeC2NpzMsaMetqY5rS2xAFSXiu67Q",
+                        "width":1025
+                  }
+            ],
+            "place_id":"ChIJVS0r7TIaBYgRRjZFOYUqQjY",
+            "plus_code":{
+                  "compound_code":"23Q4+96 Milwaukee, WI, USA",
+                  "global_code":"86MJ23Q4+96"
+            },
+            "price_level":1,
+            "rating":2.7,
+            "reference":"ChIJVS0r7TIaBYgRRjZFOYUqQjY",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1634,
+            "vicinity":"2455 West Wisconsin Avenue, Milwaukee",
+            "CBG":550790149002,
+            "Radius":265.3581004457
+      }
+]

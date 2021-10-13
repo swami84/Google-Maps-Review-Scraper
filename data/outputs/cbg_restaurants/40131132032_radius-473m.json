@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.464962,
+                        "lng":-112.0577095
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4665681803,
+                              "lng":-112.0563536197
+                        },
+                        "southwest":{
+                              "lat":33.4638702197,
+                              "lng":-112.0590515803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Miss Lulu's Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104216989528436701163\">Emmaline Berry<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDD_i1ICTqKiDF22fazLVYlELj8wjQSb1WfNlDyXgbYVOtFC9yLHdxYPQLg6gTUdJtpBz9EyTAlPjDQpK6oS6w9tWWQHIPHJ1-hBRpuKkALBM7HH-erfTLJoC_VOM7Tab9RK28KQm2cLFQW8uMkqy5Hlj3YmqVMTD7-Oh5SYBO8JWDu",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJoV6LoQ0SK4cRik2rupRHyT4",
+            "plus_code":{
+                  "compound_code":"FW7R+XW Phoenix, AZ, USA",
+                  "global_code":"8559FW7R+XW"
+            },
+            "rating":4.4,
+            "reference":"ChIJoV6LoQ0SK4cRik2rupRHyT4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":21,
+            "vicinity":"1111 East McDowell Road, Phoenix",
+            "price_level":null,
+            "CBG":40131132032,
+            "Radius":472.9137245013
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.465477,
+                        "lng":-112.052363
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4669720303,
+                              "lng":-112.0510085197
+                        },
+                        "southwest":{
+                              "lat":33.4642740697,
+                              "lng":-112.0537064803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rainbow Donuts",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101369370231258275136\">Sigmon Whitener<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAAWl-UejRJhL5M-wbZDfpnuxkyv1ws-TwCK1cXvuF6ku5vJoK8JHiRivRnX85EXxpdpzc5dGnDj5du3_PzFOtD6Egih9s1mBAK5lPcE2upxXSBUcHMe7FOAE355eZYmKt_7gp5_eoxtEWLRhhKa8zNz388B_hiijggVbO3X2_f8gS5",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ-TLBlQsSK4cRBdaSmiBF7HE",
+            "plus_code":{
+                  "compound_code":"FW8X+53 Phoenix, AZ, USA",
+                  "global_code":"8559FW8X+53"
+            },
+            "rating":4.6,
+            "reference":"ChIJ-TLBlQsSK4cRBdaSmiBF7HE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":563,
+            "vicinity":"1347 East McDowell Road, Phoenix",
+            "price_level":1.0,
+            "CBG":40131132032,
+            "Radius":472.9137245013
+      }
+]

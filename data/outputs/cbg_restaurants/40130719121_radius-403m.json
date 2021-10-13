@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5930479,
+                        "lng":-112.259142
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5943968803,
+                              "lng":-112.2577930197
+                        },
+                        "southwest":{
+                              "lat":33.5916989197,
+                              "lng":-112.2604909803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Waldos Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106558952575192327036\">TO Wildcat<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBv9mVL7gR6_TSKraK6Mz779bKurTjhd_K-VJxNbx_wn_SdK8qvJB3CidIIPOU-MxllWbs7QD9VGucxp7cM86VBM7kaeNpuxHKvMfqgZNe9gDl3GHtUSxX7YjYEnfIlH1vqnHbBIJ3Or5RPcezdlNt42pIbHuLM5SQdB3eSmUpU-Li8",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJnQG1Y3kTK4cROBvtucJTxMs",
+            "plus_code":{
+                  "compound_code":"HPVR+68 Peoria, AZ, USA",
+                  "global_code":"8559HPVR+68"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJnQG1Y3kTK4cROBvtucJTxMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":712,
+            "vicinity":"9241 West Grand Avenue, Peoria",
+            "CBG":40130719121,
+            "Radius":403.0367574772
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1635704,
+                        "lng":-118.5208483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1649193803,
+                              "lng":-118.5194993197
+                        },
+                        "southwest":{
+                              "lat":34.1622214197,
+                              "lng":-118.5221972803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taj Mahal",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":323,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100725972342797321496\">Vidhya Comments<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECZF9V4Bnc59anHb33u_Zix8Es97OnSIF8tseae2JD5-NuRn3YQw7OFg2JHVzcsIdhC24qmjcm5DkNtcGKWPuwYK2_kRwfqDgPA-GXx53vWWek1J1uEj5J1rpeGRnumolfgZkQX-OofHmtdLA2J_nUzJL5K7QY6SlKHBsM6-i3SxCYk",
+                        "width":518
+                  }
+            ],
+            "place_id":"ChIJjSVtm7KZwoART0UuGNZxP1E",
+            "plus_code":{
+                  "compound_code":"5F7H+CM Encino, Los Angeles, CA, USA",
+                  "global_code":"85635F7H+CM"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJjSVtm7KZwoART0UuGNZxP1E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":150,
+            "vicinity":"17815 Ventura Boulevard, Encino",
+            "CBG":60371395041,
+            "Radius":252.6234068743
+      }
+]

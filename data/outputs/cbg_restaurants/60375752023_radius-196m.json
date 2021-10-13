@@ -1,0 +1,105 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7846658,
+                        "lng":-118.1677919
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7860160303,
+                              "lng":-118.1663668697
+                        },
+                        "southwest":{
+                              "lat":33.7833180697,
+                              "lng":-118.1690648303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Pinches Bionicos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJv78beHEx3YAR4EWE9qXmPcc",
+            "plus_code":{
+                  "compound_code":"QRMJ+VV Long Beach, CA, USA",
+                  "global_code":"8553QRMJ+VV"
+            },
+            "rating":5.0,
+            "reference":"ChIJv78beHEx3YAR4EWE9qXmPcc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"1411 Cherry Avenue, Long Beach",
+            "photos":null,
+            "price_level":null,
+            "CBG":60375752023,
+            "Radius":196.3703970863
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7846885,
+                        "lng":-118.1672931
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7860374803,
+                              "lng":-118.1659441197
+                        },
+                        "southwest":{
+                              "lat":33.7833395197,
+                              "lng":-118.1686420803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Marilus Bakery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJMwjseXEx3YARcrYnuMMpx7M",
+            "plus_code":{
+                  "compound_code":"QRMM+V3 Long Beach, CA, USA",
+                  "global_code":"8553QRMM+V3"
+            },
+            "rating":4.4,
+            "reference":"ChIJMwjseXEx3YARcrYnuMMpx7M",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":228,
+            "vicinity":"1400 Cherry Avenue, Long Beach",
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103070992952223743851\">Myke Afex<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBKmcVDGwNZtXfmP4scdgEIjCi1_DrYWLispC-VQJfDt4wwY0BeG_0JOE8_7zHsr42tCDmfyzkht9UHWzzLoF7cFG7Qa3WBm9_kiNHloaOzsxdBDFtq0YSVlfdDnUNIZREjy7cUw3Yu9sn-PWxd33h8wkzxxukPWrRy01sYtfsUjbu1",
+                        "width":3840
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":60375752023,
+            "Radius":196.3703970863
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.4494475,
+                        "lng":-66.0436853
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.4508723803,
+                              "lng":-66.0423834697
+                        },
+                        "southwest":{
+                              "lat":18.4481744197,
+                              "lng":-66.0450814303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ozzy\u2019s Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104959614668627560605\">Antonio Taboada<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED7b6tx7L2Oh85TPde4Kq4_6jCBrFH1C1Zvag3Je3rclCFoBzugsHFVlZ35N30693OxsLvBzYXPkubrNl4ApG7J57-EcBwkqHjixmvUAoK5gsCVG4sU4lHaJZYCW3Um78lx5fQ599jzrVrLMQw8cEae9abh_Eg-MvHUEEpojtwX_FI8",
+                        "width":1908
+                  }
+            ],
+            "place_id":"ChIJfZf-LJBlA4wRSZVxFPOTtAg",
+            "plus_code":{
+                  "compound_code":"CXX4+QG San Juan, Puerto Rico",
+                  "global_code":"77CMCXX4+QG"
+            },
+            "rating":4.7,
+            "reference":"ChIJfZf-LJBlA4wRSZVxFPOTtAg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"Calle Loiza esquina, calle Soldado Cruz, San Juan",
+            "CBG":721270013023,
+            "Radius":165.5432612374
+      }
+]

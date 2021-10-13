@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0824948,
+                        "lng":-117.9081488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0837134303,
+                              "lng":-117.9067734697
+                        },
+                        "southwest":{
+                              "lat":34.0810154697,
+                              "lng":-117.9094714303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Denny's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105395930152255501866\">Craig D<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECT8PS_j2akZD6XDNTP5JP7h1oY5xC8_jp9m5uziZ10Y93Ra0Hf2ryKYH0oWDUvdo_oE8qY9KRrwDFYgEFhF8CRkwG4qEcwdZDv9_OiAA0VQLZ-HGfno2i2aU_15peR3aOsJ1ua5qcYA22WZAiiiV7Xc7pXAq3F_ZprSui16fD9WdoI",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYc6VxTsow4ARdXQpETvsbbU",
+            "plus_code":{
+                  "compound_code":"33JR+XP West Covina, CA, USA",
+                  "global_code":"856433JR+XP"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJYc6VxTsow4ARdXQpETvsbbU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1432,
+            "vicinity":"645 North Azusa Avenue, West Covina",
+            "CBG":60374062002,
+            "Radius":321.2810761493
+      }
+]

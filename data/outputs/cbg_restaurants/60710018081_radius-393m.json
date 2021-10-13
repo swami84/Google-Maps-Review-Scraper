@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.029259,
+                        "lng":-117.613757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0307331803,
+                              "lng":-117.6123932697
+                        },
+                        "southwest":{
+                              "lat":34.0280352197,
+                              "lng":-117.6150912303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Amerimex Seafood Co",
+            "place_id":"ChIJo_kr3MU0w4ARsCzF-NYddYM",
+            "plus_code":{
+                  "compound_code":"29HP+PF Ontario, CA, USA",
+                  "global_code":"856429HP+PF"
+            },
+            "rating":4,
+            "reference":"ChIJo_kr3MU0w4ARsCzF-NYddYM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1738 East Fairfield Court # 3, Ontario",
+            "CBG":60710018081,
+            "Radius":393.2943694255
+      }
+]

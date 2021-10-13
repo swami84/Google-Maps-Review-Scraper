@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9441262,
+                        "lng":-118.2033483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9453942803,
+                              "lng":-118.2020119697
+                        },
+                        "southwest":{
+                              "lat":33.9426963197,
+                              "lng":-118.2047099303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cousimano's Pizza & Italian Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102252249649843227194\">Rene Gutierrez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-Ekh_IzVp-Chb9yUF1zoh3g6dbZFP9acAm9N64YBlf-qaPcBvLmEOVMRhGoc81ZcjazB6m3H3P94PSzRts_QNPRlcsPUvk9wyIVlCWgXYgu2PMXy5NqpE61P3-2p0Z8oVvgIGiegVW7bGu6BQlsHJG0YIsJd1qZQFkd9AqTvIb0Mq",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJQxZDewjMwoARutKewzyH9R0",
+            "plus_code":{
+                  "compound_code":"WQVW+MM South Gate, CA, USA",
+                  "global_code":"8553WQVW+MM"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJQxZDewjMwoARutKewzyH9R0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"3843 Tweedy Boulevard, South Gate",
+            "CBG":60375358022,
+            "Radius":197.2865376879
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.943695,
+                        "lng":-118.202812
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9451490803,
+                              "lng":-118.2014658697
+                        },
+                        "southwest":{
+                              "lat":33.9424511197,
+                              "lng":-118.2041638303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mariscos El Rey 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2112,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116922395559815713857\">Anthony Alvarez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1UfsUKOEu5NbzoX1P3jdAtHL7kcReAy1Ez3I7HhNXKB69om0ZCuHv9gcWw4HHCRXHjInaGBFpQlH5vckSNhvNk22yqzjg5oHqI5RFYP0czHMFUEDZqy1tJ3gI5zbsxIbpShbabKDLlS0XcyspJe7rkY1bU4qgUdMaIrDTCJW6_s1h",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJQc75igjMwoARxsI4bEdu8HY",
+            "plus_code":{
+                  "compound_code":"WQVW+FV South Gate, CA, USA",
+                  "global_code":"8553WQVW+FV"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJQc75igjMwoARxsI4bEdu8HY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":180,
+            "vicinity":"3912 Tweedy Boulevard, South Gate",
+            "CBG":60375358022,
+            "Radius":197.2865376879
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0836608,
+                        "lng":-118.3119938
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0849909303,
+                              "lng":-118.3105928697
+                        },
+                        "southwest":{
+                              "lat":34.0822929697,
+                              "lng":-118.3132908303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Fonda Antioquena",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112703054103188618371\">Elizabeth Sosa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdHrEz4kagT_yy51kY8cmGR7beDTmEHdaAw4WG5zQReWrBrUwpZ8BIT0KEYsHkFKgM2dESru5XIJtyXWgdATpFLyQ1duTE4V6gTbMvpfaBGMSXYoRU6utb3Oa3aha5nLr1KnJi-KFtLx6Gw0KmZpG1xtm8-q6T2E5m1ePRty732JV5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJO73YMLC4woAREj2MRyAiPiE",
+            "plus_code":{
+                  "compound_code":"3MMQ+F6 Los Angeles, CA, USA",
+                  "global_code":"85633MMQ+F6"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJO73YMLC4woAREj2MRyAiPiE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1109,
+            "vicinity":"5125 Melrose Avenue, Los Angeles",
+            "CBG":60371917102,
+            "Radius":212.7974727493
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0837109,
+                        "lng":-118.3099735
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0849550803,
+                              "lng":-118.3086370197
+                        },
+                        "southwest":{
+                              "lat":34.0822571197,
+                              "lng":-118.3113349803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ilobasque\u00f1o Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110117973393516035930\">Ilobasque\u00f1o Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1T975Zz6HLSL8QNZnbFjUWjSLADnA3VNnKnS8_r3gSaJHHXKFAaqnBcmq5iun4_4r6sqSxak-oAuZPxFithE-U2vwbmPAT0hicByObpR_5mX26pMITXS236GHTP0V7FoQmof0iiavy1GY0mHA9CLm-_e2aFabePneD64eRCwBb2Kp",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJk6VDwa-4woARmM7pUuYOkTk",
+            "plus_code":{
+                  "compound_code":"3MMR+F2 Los Angeles, CA, USA",
+                  "global_code":"85633MMR+F2"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJk6VDwa-4woARmM7pUuYOkTk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":214,
+            "vicinity":"5027 Melrose Avenue, Los Angeles",
+            "CBG":60371917102,
+            "Radius":212.7974727493
+      }
+]

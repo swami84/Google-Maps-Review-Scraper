@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.157991,
+                        "lng":-118.3727198
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1591715303,
+                              "lng":-118.3713704697
+                        },
+                        "southwest":{
+                              "lat":34.1564735697,
+                              "lng":-118.3740684303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"The LolliPopKing",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111209517362491348967\">The LolliPopKing<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDkB3yzfcRpFMEqE5kFSIS_4DLfiuy8cwHLsFNH9Kq12vnwwWDqdB-24GxaHKpaD6D5P1nFrQECeslpOtq8z66cLzoNNW_feBQZ8mOOpVqy9UlTitqqTBDnYrymOZA1FkK12-0qcN-rSucr3MGb94-jmS7EMMXguV54I6gvcN9tVunt",
+                        "width":389
+                  }
+            ],
+            "place_id":"ChIJ9Q-pM8S-woAR7LA_6lVO3n4",
+            "plus_code":{
+                  "compound_code":"5J5G+5W Toluca Lake, Los Angeles, CA, USA",
+                  "global_code":"85635J5G+5W"
+            },
+            "reference":"ChIJ9Q-pM8S-woAR7LA_6lVO3n4",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"11113 Camarillo Street Suite 204, Toluca Lake",
+            "CBG":60371254021,
+            "Radius":255.4090669
+      }
+]

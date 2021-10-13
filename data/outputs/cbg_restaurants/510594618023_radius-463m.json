@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8748202,
+                        "lng":-77.3110618
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8762342303,
+                              "lng":-77.3098507197
+                        },
+                        "southwest":{
+                              "lat":38.8735362697,
+                              "lng":-77.3125486803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Three Flint Hill Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ5Q9qYRxPtokREMPJeV0JTCY",
+            "plus_code":{
+                  "compound_code":"VMFQ+WH Fairfax, VA, USA",
+                  "global_code":"87C4VMFQ+WH"
+            },
+            "rating":5,
+            "reference":"ChIJ5Q9qYRxPtokREMPJeV0JTCY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3201 Jermantown Road Suite 140, Fairfax",
+            "CBG":510594618023,
+            "Radius":462.7565370148
+      }
+]

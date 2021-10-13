@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8797986,
+                        "lng":-77.0903983
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8811908303,
+                              "lng":-77.0889970697
+                        },
+                        "southwest":{
+                              "lat":38.8784928697,
+                              "lng":-77.0916950303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Troy's Italian Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":563,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109463732399381060017\">Troy&#39;s Italian Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDLS7vH2fbngXwvqM4htp2EmJg7UT_1MBgetLIUowKGPHezi6vl7QmWVzZuIWi6TmD41WpMHhe501Sxl12x9WK-DIcCfVfKLLtJzn9qgL2dMwjWtQn-vNwA4Y22iIJhuOl1_vNsmB6KmMcS8RprSFUrvhkejKxAg8348L6mWrCZa6mi",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJ-8vIcZC2t4kRfAvLTQDE5tw",
+            "plus_code":{
+                  "compound_code":"VWH5+WR Arlington, VA, USA",
+                  "global_code":"87C4VWH5+WR"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ-8vIcZC2t4kRfAvLTQDE5tw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":227,
+            "vicinity":"2710-B, Washington Boulevard, Arlington",
+            "CBG":510131018034,
+            "Radius":372.3010071686
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8797773,
+                        "lng":-77.0903108
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8811801803,
+                              "lng":-77.0889622197
+                        },
+                        "southwest":{
+                              "lat":38.8784822197,
+                              "lng":-77.0916601803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Charrito Caminante",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2336,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102264349089181681984\">Hernan Picco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFEpKlJEO4Cw4KicG4KGwtsDSQeyLe98rdaFeDnrap_OtYYYcFnkWM8GeOkw86u8yGsCOfZwmxt478R1weipJJxc4nY7ao2vyNOPzs9iCMPhUCKwc0ZP0iHTneIGJ5lEdSjHE6NewDmFPS7arP-yGbZDO2YIcURfQd9e4BDCrnTqMC",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJa-2ubZC2t4kR-VVN1kDy-pE",
+            "plus_code":{
+                  "compound_code":"VWH5+WV Arlington, VA, USA",
+                  "global_code":"87C4VWH5+WV"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJa-2ubZC2t4kR-VVN1kDy-pE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":205,
+            "vicinity":"2710 Washington Boulevard, Arlington",
+            "CBG":510131018034,
+            "Radius":372.3010071686
+      }
+]

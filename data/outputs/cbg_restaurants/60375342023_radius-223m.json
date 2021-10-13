@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9565774,
+                        "lng":-118.1606165
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9581025303,
+                              "lng":-118.1590770197
+                        },
+                        "southwest":{
+                              "lat":33.9554045697,
+                              "lng":-118.1617749803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Primo Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108858042073149851391\">Primo Burgers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECoOtffq7tJ3uJzeD7k3fYrOP1ejLB7nP06JsocRQU8TlA-viEe2fg_plS-1uHcTXe0ZPTyB2u95pv-Ea-XBph7tRdrUghLbV5Tmc3HuwRp-lP1QVO0ToCJ-t9Ihk_Cm07MRpu9UYCCEd3e8ey-L4JSXIfNY89H4wYK7EzpqTyA-x01",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-ciBFS3MwoARFIG8JLhy_kg",
+            "plus_code":{
+                  "compound_code":"XR4Q+JQ Bell Gardens, CA, USA",
+                  "global_code":"8553XR4Q+JQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ-ciBFS3MwoARFIG8JLhy_kg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":186,
+            "vicinity":"8205 Garfield Avenue # K, Bell Gardens",
+            "CBG":60375342023,
+            "Radius":223.3920037426
+      }
+]

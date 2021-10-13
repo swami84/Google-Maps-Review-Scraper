@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0875794,
+                        "lng":-87.9376459
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0889146303,
+                              "lng":-87.9363442697
+                        },
+                        "southwest":{
+                              "lat":43.0862166697,
+                              "lng":-87.9390422303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"J Spot",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJAYpVRAMcBYgRFjcfpEHA7Sg",
+            "plus_code":{
+                  "compound_code":"33Q6+2W Milwaukee, WI, USA",
+                  "global_code":"86MJ33Q6+2W"
+            },
+            "rating":5,
+            "reference":"ChIJAYpVRAMcBYgRFjcfpEHA7Sg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"3872 North Teutonia Avenue, Milwaukee",
+            "CBG":550790047001,
+            "Radius":226.7880722601
+      }
+]

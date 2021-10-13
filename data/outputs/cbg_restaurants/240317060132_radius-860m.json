@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.02308,
+                        "lng":-77.14943
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0244746303,
+                              "lng":-77.1481076697
+                        },
+                        "southwest":{
+                              "lat":39.0217766697,
+                              "lng":-77.1508056303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"Shell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104520471176713571064\">Steve Soheilian<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAUKITUgNfNTC38ZX_SdQS2UBxZjzwT_EexViBhaLv5hjhQfiG1kd6wn7jqKvbuFt7MuRdT0FRhuZW0SEYD06wUdN-ie0gb2pNRw_V7URvGGzb1HlV9vNzBQSzHEgqsYL7K55HH2gdZ3KTHvWjyfMLI_j_pmJ77EGHJyQdqGAyeOygu",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJBS6obYDMt4kROdYkaRQmc-A",
+            "plus_code":{
+                  "compound_code":"2VF2+66 Bethesda, MD, USA",
+                  "global_code":"87F42VF2+66"
+            },
+            "rating":3.4,
+            "reference":"ChIJBS6obYDMt4kROdYkaRQmc-A",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "car_wash",
+                  "convenience_store",
+                  "car_repair",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"10211 Westlake Drive, Bethesda",
+            "CBG":240317060132,
+            "Radius":859.8950759599
+      }
+]

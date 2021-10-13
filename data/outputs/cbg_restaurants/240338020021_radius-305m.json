@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8525442,
+                        "lng":-76.92657
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8536369803,
+                              "lng":-76.9251354697
+                        },
+                        "southwest":{
+                              "lat":38.8509390197,
+                              "lng":-76.9278334303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"BellefulDC",
+            "place_id":"ChIJ-58X00O5t4kRZIze_ci6fqM",
+            "plus_code":{
+                  "compound_code":"V33F+29 Suitland-Silver Hill, MD, USA",
+                  "global_code":"87C5V33F+29"
+            },
+            "reference":"ChIJ-58X00O5t4kRZIze_ci6fqM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4704 Towne Park Road, Suitland-Silver Hill",
+            "CBG":240338020021,
+            "Radius":305.4262079203
+      }
+]

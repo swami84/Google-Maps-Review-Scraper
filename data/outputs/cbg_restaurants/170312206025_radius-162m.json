@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9317624,
+                        "lng":-87.7134513
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9331215803,
+                              "lng":-87.7118305697
+                        },
+                        "southwest":{
+                              "lat":41.9304236197,
+                              "lng":-87.7145285303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104197414107712900249\">Kyle Eldridge<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDLcURls0ailwoRKJKhi1x8RYY5WLNQOd-sv3tIOtLdcvmoyckMOyKvSe--awDCwkbbT70VypfWc0aooaeBfQL6H75Dah7JUAn6Fz8EOSmSYOaHEY-6vv5TwTiPUxKZYnPCCkMexqBKesplyAqBDOVN9I_24BRv8iRcSVatBjuYZKg2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJj7OHCnTND4gRRMHoxQKGeRY",
+            "plus_code":{
+                  "compound_code":"W7JP+PJ Chicago, IL, USA",
+                  "global_code":"86HJW7JP+PJ"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJj7OHCnTND4gRRMHoxQKGeRY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":253,
+            "vicinity":"3427 West Diversey Avenue, Chicago",
+            "CBG":170312206025,
+            "Radius":161.6568072981
+      }
+]

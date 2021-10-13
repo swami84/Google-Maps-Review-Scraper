@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0041336,
+                        "lng":-118.2699431
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0053894303,
+                              "lng":-118.2684730697
+                        },
+                        "southwest":{
+                              "lat":34.0026914697,
+                              "lng":-118.2711710303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Church's Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106235938226067016060\">Tyron Darrington<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2DcMNGRXx-oxB9ySV--1oMdrq_kyKLN1C2vKrK-4adauFJUOMcMKDILbQRnXWG2zFlRpqEADMtbHhtmIHZ8wrFC5Rj8L5FHajsUEF_HshSEYdfDsrZkZrvIyXhqHlbuazDdr30gy9gE7SsM8Tyc5955NaAdVhl7Hkxg33taz-Lbcp",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJhZ9tXmnIwoARd4qLrC3fTuA",
+            "plus_code":{
+                  "compound_code":"2P3J+M2 Los Angeles, CA, USA",
+                  "global_code":"85632P3J+M2"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJhZ9tXmnIwoARd4qLrC3fTuA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":554,
+            "vicinity":"261 East Vernon Avenue, Los Angeles",
+            "CBG":60372285002,
+            "Radius":245.7044016977
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.003689,
+                        "lng":-118.268833
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0051257803,
+                              "lng":-118.2674841197
+                        },
+                        "southwest":{
+                              "lat":34.0024278197,
+                              "lng":-118.2701820803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Mi Casita",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109119557602019664175\">Jesus ALVARADO<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECRws-IUdtTsyYmeJe9BDGcDUWh45v0018cLdXAFITxCgouItCLIyUz1UWPQW9Ect3y0SABZNE7N6Hh6uB7UsE3o1xOSnfTlkeWP3jEmHW2ObuuhVRJYcfB0FVqRZ_f5ZZVOs-kuBwCJdnORhX0SCjxtiF-lnVu1Rdq3AabxhR5XXIp",
+                        "width":2340
+                  }
+            ],
+            "place_id":"ChIJ-YtFa2nIwoARXEso3ZXGUVA",
+            "plus_code":{
+                  "compound_code":"2P3J+FF Los Angeles, CA, USA",
+                  "global_code":"85632P3J+FF"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJ-YtFa2nIwoARXEso3ZXGUVA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":185,
+            "vicinity":"418 East Vernon Avenue, Los Angeles",
+            "CBG":60372285002,
+            "Radius":245.7044016977
+      }
+]

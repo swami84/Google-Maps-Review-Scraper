@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.142147,
+                        "lng":-80.1763467
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1436237303,
+                              "lng":-80.1750003197
+                        },
+                        "southwest":{
+                              "lat":26.1409257697,
+                              "lng":-80.1776982803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SEI Restaurant Group",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ_____y8B2YgRRxsszM1MYgw",
+            "reference":"ChIJ_____y8B2YgRRxsszM1MYgw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Fort Lauderdale",
+            "CBG":120110410001,
+            "Radius":454.6261929287
+      }
+]

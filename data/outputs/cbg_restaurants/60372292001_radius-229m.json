@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9983748,
+                        "lng":-118.256662
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9997713803,
+                              "lng":-118.2552661197
+                        },
+                        "southwest":{
+                              "lat":33.9970734197,
+                              "lng":-118.2579640803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mi Lindo Nayarit Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110082530233378073213\">Usiel Beltr\u00e1n<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAMPPXWxkoznOCOSHtqBobqnGEONeK3_XgKMDCHZ9MTiSMjx2OEDlzk8Mj6lnrJ4UqOHNka62BerYOJ_b_xytdgZPhk5foKnkkUn1YC_NBFjDHGXa16JCnJpeVIZZoRcEx820zlG1tv4oxsqrXkwPwUWfhnUyrqOHRKdHDoDjFMKZfB",
+                        "width":528
+                  }
+            ],
+            "place_id":"ChIJKyQPzF7IwoARPb3gBpmDdUQ",
+            "plus_code":{
+                  "compound_code":"XPXV+88 Los Angeles, CA, USA",
+                  "global_code":"8553XPXV+88"
+            },
+            "rating":4.1,
+            "reference":"ChIJKyQPzF7IwoARPb3gBpmDdUQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"4951 South Central Avenue, Los Angeles",
+            "CBG":60372292001,
+            "Radius":228.8566042142
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9996778,
+                        "lng":-118.25625
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0010264803,
+                              "lng":-118.2550185197
+                        },
+                        "southwest":{
+                              "lat":33.9983285197,
+                              "lng":-118.2577164803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Don Sazon Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107443485329649874629\">Don Sazon Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECSM26y7FfpT4jVKCggBgCzs04sss1je1ElNZx3j5AhzQnKwFZJ-E0CWMly1A22wrcjJ06cgeb56vI2G3NLVDCsyEvXowFynbWjOWT34FROB_RY5RN9weQCW6FF6BePKOxyuwy3IpSjHqn0lv624QaHDKhb669xBo_KDK60pDWy_F-D",
+                        "width":3430
+                  }
+            ],
+            "place_id":"ChIJO-vGLa7JwoARZNJVjCWx3xs",
+            "plus_code":{
+                  "compound_code":"XPXV+VF Los Angeles, CA, USA",
+                  "global_code":"8553XPXV+VF"
+            },
+            "rating":4.7,
+            "reference":"ChIJO-vGLa7JwoARZNJVjCWx3xs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"4800 South Central Avenue, Los Angeles",
+            "CBG":60372292001,
+            "Radius":228.8566042142
+      }
+]

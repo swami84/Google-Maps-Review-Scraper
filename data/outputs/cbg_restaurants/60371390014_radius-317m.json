@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.176302,
+                        "lng":-118.5192696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1776473803,
+                              "lng":-118.5177720697
+                        },
+                        "southwest":{
+                              "lat":34.1749494197,
+                              "lng":-118.5204700303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Grigliata",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106428044334800814977\">Andrew<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdebYJ_BWUBWVr-mp-eUvwE4J54qZOxYr50ph6ZtKLusKly1AQZJMeINL4_LwexzSafYq8407GgwHuCx1s_tdKRlU8InUi7EQumPDB3Vq_arzmXJv95NLDaNQJwD_Gpm_IFNFifkS4wK-DHoeZ2560kj3IyS3bQF8d6Il5Zotelr3E",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJP5tdCbuZwoAR9M8unZHHb4Y",
+            "plus_code":{
+                  "compound_code":"5FGJ+G7 Encino, Los Angeles, CA, USA",
+                  "global_code":"85635FGJ+G7"
+            },
+            "rating":4.6,
+            "reference":"ChIJP5tdCbuZwoAR9M8unZHHb4Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"5805 North White Oak Avenue, Encino",
+            "price_level":null,
+            "CBG":60371390014,
+            "Radius":316.9098642346
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1763059,
+                        "lng":-118.5193301
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1776489303,
+                              "lng":-118.5178023197
+                        },
+                        "southwest":{
+                              "lat":34.1749509697,
+                              "lng":-118.5205002803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Acasa Food Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102761538801017963856\">Mohammad Ashori<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBjMUHO68-EQ870rHJYbix922XK_M9xbr43EhnH-v0JGjNHLE_R19FkvtkP26wgixB-Dh1okr_m5UNPC4Ovl2uZaj0EJMlQ9XrdDUF241b4yy4dJNGwgN2hiZ3K_DT096lZjSyVbvRbn4iPhKw1HiAJ4gZWxZ4F_xR6an5Iw9HHKkVG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJC5o8LE2ZwoARxx389dsgSl8",
+            "plus_code":{
+                  "compound_code":"5FGJ+G7 Encino, Los Angeles, CA, USA",
+                  "global_code":"85635FGJ+G7"
+            },
+            "rating":4.3,
+            "reference":"ChIJC5o8LE2ZwoARxx389dsgSl8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"5805 White Oak Avenue, Encino",
+            "price_level":2.0,
+            "CBG":60371390014,
+            "Radius":316.9098642346
+      }
+]

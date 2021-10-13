@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.254862,
+                        "lng":-122.4634365
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.2561826303,
+                              "lng":-122.4620038697
+                        },
+                        "southwest":{
+                              "lat":47.2534846697,
+                              "lng":-122.4647018303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dreamer",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ79R-hHdVkFQRAQLM4kcf_bY",
+            "plus_code":{
+                  "compound_code":"7G3P+WJ Tacoma, WA, USA",
+                  "global_code":"84VV7G3P+WJ"
+            },
+            "reference":"ChIJ79R-hHdVkFQRAQLM4kcf_bY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"626 South Sprague Avenue, Tacoma",
+            "CBG":530530613006,
+            "Radius":278.176361794
+      }
+]

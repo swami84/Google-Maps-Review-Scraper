@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1259063,
+                        "lng":-117.8207889
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1272900803,
+                              "lng":-117.8191746197
+                        },
+                        "southwest":{
+                              "lat":34.1245921197,
+                              "lng":-117.8218725803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mauricio's Mexican Food and Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101193420989266542426\">Bxalec<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAliBmHD_yht0TfF803e5B213SJ_MRD2YVFrynoDx5E4sgfnxfvVsy74lEBofMzQjv74RhVMQ4_GuzLpPX64miamdCFFl1Dp-XK5pjpzBrdwSxC_DRlfzFwoC3yARXKqhou1ukYv9LJ5EQhjBVecEullNOw3uHjmIe8STqnkqctnrre",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJgWocT1cvw4ARx6s3dhifPlk",
+            "plus_code":{
+                  "compound_code":"45GH+9M Glendora, CA, USA",
+                  "global_code":"856445GH+9M"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJgWocT1cvw4ARx6s3dhifPlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":769,
+            "vicinity":"2256 East Route 66, Glendora",
+            "CBG":60374012011,
+            "Radius":449.7404982506
+      }
+]

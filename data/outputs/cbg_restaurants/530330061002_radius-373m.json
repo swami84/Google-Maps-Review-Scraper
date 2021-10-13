@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6414791,
+                        "lng":-122.3198097
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6427685803,
+                              "lng":-122.3184670697
+                        },
+                        "southwest":{
+                              "lat":47.6400706197,
+                              "lng":-122.3211650303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pagliacci Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3744,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116267857203532527584\">Pagliacci Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDwTB0XQROnvpxjlcrlq5DCFhPgL9kBnzypxtB6eo42kD-HEDwbyKLOFjWagtVJo_OtciOsUjaFpwvFJnc3jqC1QiMamXrAq9uttHjGXTi0V-3hTflZcPa_81pDCrnc_x5qdFHdOhKj0cwAS3HYbLAXDxrUBOhqnN-Ll23zGdV5U_k",
+                        "width":5616
+                  }
+            ],
+            "place_id":"ChIJRby0zuAUkFQRyQ1hCiVYtGo",
+            "plus_code":{
+                  "compound_code":"JMRJ+H3 Seattle, WA, USA",
+                  "global_code":"84VVJMRJ+H3"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJRby0zuAUkFQRyQ1hCiVYtGo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":216,
+            "vicinity":"2400 10th Avenue East, Seattle",
+            "CBG":530330061002,
+            "Radius":373.4845555751
+      }
+]

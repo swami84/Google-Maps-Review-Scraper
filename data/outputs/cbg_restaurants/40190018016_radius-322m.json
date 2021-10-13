@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.2510055,
+                        "lng":-110.9125855
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.2523602803,
+                              "lng":-110.9111164697
+                        },
+                        "southwest":{
+                              "lat":32.2496623197,
+                              "lng":-110.9138144303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Karamelo king",
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106398831536941144604\">Lizeth Osuna<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBqRV9TUrRz3hB796X-Xd6YRGLrhpgFO-HKmxqQXqWclQ3LAbfKl-Yj6hrlQ0s7JhGil6be208NaPbHKemXYlSLwZlmVUMPvDamRU2FmN6Qbxn-Oxt9-2q6LGDyIBtLfGKCUaz5GdleV6aeDFdifGOspVrDiXrNbVPCVjysUL8mWUnm",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJjbX7Sppx1oYRAAYvCC0RDCQ",
+            "plus_code":{
+                  "compound_code":"732P+CX Tucson, AZ, USA",
+                  "global_code":"854F732P+CX"
+            },
+            "rating":4.4,
+            "reference":"ChIJjbX7Sppx1oYRAAYvCC0RDCQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"3752 East Grant Road, Tucson",
+            "CBG":40190018016,
+            "Radius":321.7750816302
+      }
+]

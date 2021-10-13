@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3948102,
+                        "lng":-111.8993038
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3960486303,
+                              "lng":-111.8979579197
+                        },
+                        "southwest":{
+                              "lat":33.3933506697,
+                              "lng":-111.9006558803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/golf-71.png",
+            "icon_background_color":"#13B5C7",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/golf_pinlet",
+            "name":"Shalimar Golf Club",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100159128078832451152\">Shalimar Golf Club<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECvEUm2rxlKmwLdURpSTs6XLvs4t54cuzEhraIE21A35NJzz5W_9ACaNenD4LYsi9E6pyGgL7mBW64K5oGUIcB2mim-iojczR28CykrJ-04UrhedITE2xyhh0UuLzZdh3f0AiDiRY8emXQHCFyoDCPwxNUuDXOYrFWcWNCZ0o_GxwbD",
+                        "width":1326
+                  }
+            ],
+            "place_id":"ChIJ1bAE5nsIK4cRY7PKgkUoOq0",
+            "plus_code":{
+                  "compound_code":"94V2+W7 Tempe, AZ, USA",
+                  "global_code":"855C94V2+W7"
+            },
+            "rating":4.1,
+            "reference":"ChIJ1bAE5nsIK4cRY7PKgkUoOq0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":363,
+            "vicinity":"2032 East Golf Avenue, Tempe",
+            "CBG":40133194021,
+            "Radius":654.894587644
+      }
+]

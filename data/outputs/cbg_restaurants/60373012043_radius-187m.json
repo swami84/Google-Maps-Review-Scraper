@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1616475,
+                        "lng":-118.26424
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1630297803,
+                              "lng":-118.2629124697
+                        },
+                        "southwest":{
+                              "lat":34.1603318197,
+                              "lng":-118.2656104303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"MOTO SUSHI",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105952470867225171053\">Shintaro Watari<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDYAP0S8sg2YmgJ7hgq_BP3awsKtt2Yw1pCVvy6CfvjTzr0AcOuqd4Dr6AAqwBLsgDF6NNrCkjXwroHEbK-C6aMXJGpS3MbPr32Q9iaQtBeHd9ZstUPn7StJaGnzNNRsBPuyagW84B5nvAj9Lr2gDEseMJh9cTAB9oUGKnVWAauzf4T",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJlZ8Sn0jAwoARc06k-7cuWyw",
+            "plus_code":{
+                  "compound_code":"5P6P+M8 Glendale, CA, USA",
+                  "global_code":"85635P6P+M8"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJlZ8Sn0jAwoARc06k-7cuWyw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":176,
+            "vicinity":"1120 North Pacific Avenue, Glendale",
+            "CBG":60373012043,
+            "Radius":186.5591629088
+      }
+]

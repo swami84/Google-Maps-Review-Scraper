@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.640152,
+                        "lng":-79.956244
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.6415481803,
+                              "lng":-79.9547640197
+                        },
+                        "southwest":{
+                              "lat":39.6388502197,
+                              "lng":-79.9574619803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa Allen\u2019s Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116324520216747880508\">Henok Abraham<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECsm2kSsM9agTcz2mxrFmbHhH-xaYj0T9ZE1QTiVq01Hdzbu5qbWAVQvDwqcmlk7liKnDdz88Rfl92zGrJcCqlLDEIshHrYfjMw6faama7u-oVd5GdLUyFC8rs_vrDFryVMFOlDPxIRUljCRcYflSVU7shPyxgxGiMzPSFEG2yhrkmh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJoQ6K-nB7NYgRssyynvzJ84E",
+            "plus_code":{
+                  "compound_code":"J2RV+3G Morgantown, WV, USA",
+                  "global_code":"87F2J2RV+3G"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJoQ6K-nB7NYgRssyynvzJ84E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"2161 University Avenue, Morgantown",
+            "CBG":540610101023,
+            "Radius":155.1747014179
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9368501,
+                        "lng":-118.2157438
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9382337303,
+                              "lng":-118.2145467697
+                        },
+                        "southwest":{
+                              "lat":33.9355357697,
+                              "lng":-118.2172447303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Los Amigos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1546,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114250823475704541763\">K Sarti<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC9YvA1PChAlo9bmAhN2xG_7TMibjrHVUgyoFrBrxk5FpE36U6lhEenZ-xh2rXmB20ngRurIsgxjyDe3AlYJg6iygE2HWhiTXlmiznK1bDMi-frEWMQEi_hiRrevcV2mCSBcKdjOdIafLeewQFjjahMTxpgfeRKRdY540oIiZm_T-V5",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJwU31i_HLwoAR52L_ET8rhhk",
+            "plus_code":{
+                  "compound_code":"WQPM+PP Lynwood, CA, USA",
+                  "global_code":"8553WQPM+PP"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJwU31i_HLwoAR52L_ET8rhhk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":442,
+            "vicinity":"3162 Martin Luther King Junior Boulevard, Lynwood",
+            "CBG":60375356073,
+            "Radius":167.6108407437
+      }
+]

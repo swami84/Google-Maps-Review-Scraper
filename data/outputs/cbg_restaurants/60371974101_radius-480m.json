@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0979706,
+                        "lng":-118.2479847
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0993962803,
+                              "lng":-118.2465532197
+                        },
+                        "southwest":{
+                              "lat":34.0966983197,
+                              "lng":-118.2492511803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Peregrinos Hot Dogs",
+            "place_id":"ChIJOws8ycrHwoAR0bi5QxliCIk",
+            "plus_code":{
+                  "compound_code":"3QX2+5R Los Angeles, CA, USA",
+                  "global_code":"85633QX2+5R"
+            },
+            "reference":"ChIJOws8ycrHwoAR0bi5QxliCIk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1942 Riverside Drive, Los Angeles",
+            "CBG":60371974101,
+            "Radius":480.3699101528
+      }
+]

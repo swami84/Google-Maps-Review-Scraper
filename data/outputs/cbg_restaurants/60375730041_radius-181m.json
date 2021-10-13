@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7931949,
+                        "lng":-118.194713
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7945438803,
+                              "lng":-118.1933640197
+                        },
+                        "southwest":{
+                              "lat":33.7918459197,
+                              "lng":-118.1960619803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Elsa",
+            "photos":[
+                  {
+                        "height":953,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111082123614241010427\">Elsa Diaz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2ZIhutVs3262BoB2kC731iSOqLGO2C6azLaG3f-fCmonu161Odq6aDtWO8WcwQ26HwQ0hc5_wWyJjBug-7V4OH2Lpocly0bYPkZSO_7Fl4bif5os9k0cKTNG8gQ1UG05Gp1nKmdmxx4zzsr0ibDy6yFMoYSwnaj5vAG29IKVDA6b6",
+                        "width":715
+                  }
+            ],
+            "place_id":"ChIJvVobSmox3YARU8dt_5xiBRo",
+            "plus_code":{
+                  "compound_code":"QRV4+74 Long Beach, CA, USA",
+                  "global_code":"8553QRV4+74"
+            },
+            "reference":"ChIJvVobSmox3YARU8dt_5xiBRo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1980 Cedar Avenue, Long Beach",
+            "CBG":60375730041,
+            "Radius":180.5477189673
+      }
+]

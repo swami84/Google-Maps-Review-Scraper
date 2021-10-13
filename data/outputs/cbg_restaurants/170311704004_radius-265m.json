@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9523985,
+                        "lng":-87.8143859
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9537520803,
+                              "lng":-87.8131524197
+                        },
+                        "southwest":{
+                              "lat":41.9510541197,
+                              "lng":-87.8158503803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bije's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":354,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110118205119813138656\">Bije&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCc5HPAcZ-FQ5q3KqGImqnVvayXyYgPRMVMjYxaPqt3L-i7CQVvakRpz-HZwfx_btu9Ss4YCWMQ2UryQtel7mrJ2gEBHP5GspIU9R5_dHPCdM8RjnJeKgjF_nrqWoFsLl8oLpjzFrC2Ef7KbOdwXVBITdy9OP2IxeZmKjy1o-YCpb7",
+                        "width":631
+                  }
+            ],
+            "place_id":"ChIJ3b7xarPLD4gRih_XiyBg-oA",
+            "plus_code":{
+                  "compound_code":"X52P+X6 Chicago, IL, USA",
+                  "global_code":"86HJX52P+X6"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ3b7xarPLD4gRih_XiyBg-oA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":206,
+            "vicinity":"7455 West Irving Park Road, Chicago",
+            "CBG":170311704004,
+            "Radius":264.5074567442
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9523701,
+                        "lng":-87.8164466
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9538123803,
+                              "lng":-87.8150817197
+                        },
+                        "southwest":{
+                              "lat":41.9511144197,
+                              "lng":-87.8177796803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Raffi's Locale",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1027,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102417979108707116285\">Raffi&#39;s Locale<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVnlZjuNbYBCIGM0rbxh4DKJ58y9sRqVidMS-yOygP9rk2lzGFecx7eNJ4SPwrvaF5XeihI6PuGjnBFa-Tv-7qG0bnnB_TuSIJwpY1QYlqToJGYMUfxevfkC2b6OJf3epv-UjhOgwfo187EdKsznPUzGIjWZQy8JD6HbJOAXVaL2tJ",
+                        "width":1800
+                  }
+            ],
+            "place_id":"ChIJvzr4I-jLD4gRe3g7tUVQ-WM",
+            "plus_code":{
+                  "compound_code":"X52M+WC Chicago, IL, USA",
+                  "global_code":"86HJX52M+WC"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJvzr4I-jLD4gRe3g7tUVQ-WM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"7547 West Irving Park Road, Chicago",
+            "CBG":170311704004,
+            "Radius":264.5074567442
+      }
+]

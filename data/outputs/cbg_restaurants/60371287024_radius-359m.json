@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1599273,
+                        "lng":-118.4421766
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1611743303,
+                              "lng":-118.4405516697
+                        },
+                        "southwest":{
+                              "lat":34.1584763697,
+                              "lng":-118.4432496303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"john pearson",
+            "place_id":"ChIJb6eCao2XwoARpDJ_d00YhHg",
+            "plus_code":{
+                  "compound_code":"5H55+X4 Sherman Oaks, Los Angeles, CA, USA",
+                  "global_code":"85635H55+X4"
+            },
+            "reference":"ChIJb6eCao2XwoARpDJ_d00YhHg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"14201 Huston Street, Sherman Oaks",
+            "CBG":60371287024,
+            "Radius":359.0214552241
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.962989,
+                        "lng":-118.276647
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9644720803,
+                              "lng":-118.2752980697
+                        },
+                        "southwest":{
+                              "lat":33.9617741197,
+                              "lng":-118.2779960303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"CEVICHES BARRIOS DEL MAR",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103157454168950292096\">MirandaRivera5<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECg6MsO6zWLoUby8fG4PLPdsmHeq6KlxOK8GNStwCTc7hN1iyBBvpbBz8lmTqroCHKG1bsUl6SqWTtLB0JtaI5wZat_g1skgPra1ahxfFVLhY1v9NwWqrHqBUTN6EniBOt5zbOYI5hRjn-MjjclSMEEq9ZcDH_dxwRapuIAcRpWb0kt",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJpcnom9PJwoARWvjOFVXmXF4",
+            "plus_code":{
+                  "compound_code":"XP7F+58 Los Angeles, CA, USA",
+                  "global_code":"8553XP7F+58"
+            },
+            "rating":5,
+            "reference":"ChIJpcnom9PJwoARWvjOFVXmXF4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"216 West 84th Street, Los Angeles",
+            "CBG":60372397021,
+            "Radius":194.5857075464
+      }
+]

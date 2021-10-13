@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9993333,
+                        "lng":-118.4183333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0006495803,
+                              "lng":-118.4170100697
+                        },
+                        "southwest":{
+                              "lat":33.9979516197,
+                              "lng":-118.4197080303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafe Brasil",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104111246635874032234\">ZAGAT<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDr2BfpDPAn2G-5PEzt3Jecuw2dkG9TIsl2Y6G63TFGWxM-ABpX7cbpzbiEudfJJ_IjDFBklL26y6OUFgx93DR03NGbnESW9CWBBo6UdiOZk8RAfx3UkkS_TqzDGLeRJSp923onZL9Q7gBpFj4R4AsI4ZS8735qe5eCwj59QfNwTpOP",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJiTO4Zmu6woARQlFhLHypBlk",
+            "plus_code":{
+                  "compound_code":"XHXJ+PM Los Angeles, CA, USA",
+                  "global_code":"8553XHXJ+PM"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJiTO4Zmu6woARQlFhLHypBlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":588,
+            "vicinity":"11736 Washington Boulevard, Los Angeles",
+            "CBG":60372752003,
+            "Radius":175.7575068513
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9991869,
+                        "lng":-118.4184229
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0005714803,
+                              "lng":-118.4170458697
+                        },
+                        "southwest":{
+                              "lat":33.9978735197,
+                              "lng":-118.4197438303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Viva Brazil Motel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109976884388699880884\">darmigny sports<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBXB04RvU5TzPd32tVJ6GyryHQOab6JSUVy2C--BMUPltexSmwXQPuccKCU3LaOvl8FTaSYQ9lemmsnVh5nYyngPekAnV_qzAYnv5VPJ-6ai6o-8Fzw7W1ewVUGyGtMFDq5HbDM9RX6DsXVeULAkLilAhxXP-_8mUiM3EmoejbJWcaq",
+                        "width":2322
+                  }
+            ],
+            "place_id":"ChIJFY8-ZWu6woARZEsJ7pgF9ps",
+            "plus_code":{
+                  "compound_code":"XHXJ+MJ Los Angeles, CA, USA",
+                  "global_code":"8553XHXJ+MJ"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJFY8-ZWu6woARZEsJ7pgF9ps",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"11740 West Washington Boulevard, Los Angeles",
+            "CBG":60372752003,
+            "Radius":175.7575068513
+      }
+]

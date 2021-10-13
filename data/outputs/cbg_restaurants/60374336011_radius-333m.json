@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0681267,
+                        "lng":-118.0693283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0695744803,
+                              "lng":-118.0680195697
+                        },
+                        "southwest":{
+                              "lat":34.0668765197,
+                              "lng":-118.0707175303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"THE PIZZA OVEN",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116002358501575107757\">\u9648\u58a8\u9c7c Acey<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDxwXPP2asZC0Zz3M0PoQ0NHgqEKrJLbsH7zx1a7rbW0u34194d8wv3keNBop0zE-9gXN83Tey-_AB4__HRLP5g_SdmEVDnGlkuLvacnkbFYi3tRQJ7YYUk1ajmZHyXlBe1NiqU-Um-ijsPGPK65ROMsKMqH6YVeJhH-cPVMUwg5b76",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ2XPHDX_QwoARzqG6j4coQiQ",
+            "plus_code":{
+                  "compound_code":"3W9J+77 El Monte, CA, USA",
+                  "global_code":"85633W9J+77"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ2XPHDX_QwoARzqG6j4coQiQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"9060 Telstar Avenue # 201, El Monte",
+            "CBG":60374336011,
+            "Radius":332.6236139387
+      }
+]

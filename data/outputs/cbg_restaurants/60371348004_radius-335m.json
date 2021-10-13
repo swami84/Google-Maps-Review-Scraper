@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.195305,
+                        "lng":-118.5761734
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1966539803,
+                              "lng":-118.5748244197
+                        },
+                        "southwest":{
+                              "lat":34.1939560197,
+                              "lng":-118.5775223803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Satay Lisa",
+            "place_id":"ChIJpwLxeWCbwoAR0zbKccFaRJM",
+            "plus_code":{
+                  "compound_code":"5CWF+4G Winnetka, Los Angeles, CA, USA",
+                  "global_code":"85635CWF+4G"
+            },
+            "reference":"ChIJpwLxeWCbwoAR0zbKccFaRJM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"20318 Bassett Street, Winnetka",
+            "CBG":60371348004,
+            "Radius":334.64195445
+      }
+]

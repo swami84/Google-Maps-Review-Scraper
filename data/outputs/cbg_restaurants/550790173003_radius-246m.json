@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0034253,
+                        "lng":-87.9433741
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0046098803,
+                              "lng":-87.9420300197
+                        },
+                        "southwest":{
+                              "lat":43.0019119197,
+                              "lng":-87.9447279803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Tapatio Taco Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104738576228045350905\">Chris Mack<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEClILdZfQUE-Nb0nupqzOGn0MMTY8F86XAbeVNOX8_Vh8Uz57ZID0OMU3iHuXwbGwD4Eok55q0nCowan7Oi-CreoE2fFBL0zAX9prXHkk0OoWgryPGPjA3pgqirU43JMpp8UrfVPHyCZCu3-JvE2gparypzoUh-CgwsRD1v11HJp-aQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJHa0uqJwbBYgRNPMKmgCPPs0",
+            "plus_code":{
+                  "compound_code":"2334+9M Milwaukee, WI, USA",
+                  "global_code":"86MJ2334+9M"
+            },
+            "rating":4.6,
+            "reference":"ChIJHa0uqJwbBYgRNPMKmgCPPs0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"2320 West Lincoln Avenue, Milwaukee",
+            "CBG":550790173003,
+            "Radius":245.9614238828
+      }
+]

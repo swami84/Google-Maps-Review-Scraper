@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9683047,
+                        "lng":-118.1880439
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9696563803,
+                              "lng":-118.1865293197
+                        },
+                        "southwest":{
+                              "lat":33.9669584197,
+                              "lng":-118.1892272803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bionicos La Tropicana",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106489824010826617312\">Victor Corona<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAr20yV20d0j516f7qmDvLLp5a9hnJfHSHz0shMvPu38SnSKDsI9LeMw65zmehKAbAXBdgpe0FrksXzB5QiYVLMs38Q3wQ-4FD1iMMP0UytkJpgbYrf1B-QqvHLZSamaOcup__lqjVtiMaWW4OE1fVTLpliTDEkDbuLp8coqgKc5fhs",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJPfR4WaPOwoARSeCGe98H8no",
+            "plus_code":{
+                  "compound_code":"XR96+8Q Cudahy, CA, USA",
+                  "global_code":"8553XR96+8Q"
+            },
+            "rating":4.6,
+            "reference":"ChIJPfR4WaPOwoARSeCGe98H8no",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "grocery_or_supermarket",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"7333 Atlantic Avenue B, Cudahy",
+            "CBG":60375344041,
+            "Radius":264.4761663349
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.967792,
+                        "lng":-118.187803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9690505803,
+                              "lng":-118.1864268697
+                        },
+                        "southwest":{
+                              "lat":33.9663526197,
+                              "lng":-118.1891248303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Conchita's # 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117431317583034265475\">Carlos Catalog<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAqZhCCqG0NAvBDceqiFSWnF49RYyMisJZNKEpvV2DYIa_50WRk488yCgox2l0unKI1jXvkso3dMNrlNqqu6dFdA5WuikXGSfzOciZU1t40HACoJrS1Y3DD5OtD-99s7WrZJ39VCCGSSO-A-6xPHw8_WtOX2cFufZxf5vCx7tmCRtmj",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJgbfrYKPOwoARV80mHWBDYHg",
+            "plus_code":{
+                  "compound_code":"XR96+4V Cudahy, CA, USA",
+                  "global_code":"8553XR96+4V"
+            },
+            "rating":4.0,
+            "reference":"ChIJgbfrYKPOwoARV80mHWBDYHg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":390,
+            "vicinity":"7501 Atlantic Avenue, Cudahy",
+            "CBG":60375344041,
+            "Radius":264.4761663349
+      }
+]

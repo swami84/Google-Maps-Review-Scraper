@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0804485,
+                        "lng":-118.3233361
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0817971303,
+                              "lng":-118.3221593197
+                        },
+                        "southwest":{
+                              "lat":34.0790991697,
+                              "lng":-118.3248572803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"International Restaurant & Hotel Awards",
+            "place_id":"ChIJVVVhJMi4woARmazDyrZwp2k",
+            "plus_code":{
+                  "compound_code":"3MJG+5M Los Angeles, CA, USA",
+                  "global_code":"85633MJG+5M"
+            },
+            "reference":"ChIJVVVhJMi4woARmazDyrZwp2k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"550 North Larchmont Boulevard, Los Angeles",
+            "CBG":60371923001,
+            "Radius":280.606482882
+      }
+]

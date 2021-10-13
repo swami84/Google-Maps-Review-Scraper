@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.3210647,
+                        "lng":-122.3052218
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.3223633803,
+                              "lng":-122.3038662197
+                        },
+                        "southwest":{
+                              "lat":47.3196654197,
+                              "lng":-122.3065641803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Paul's Burger & Teriyaki",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2219,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101602883274663124453\">Bradley Payne<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAx2Aj5SP7koPAvnSH48BavoQjSsU60SJiAFUzLH4HsddQjJfgkYCtFXA4AC-DF3htBrEMaFde5audq_TlVfKrQ5uySydlgjULQ7K58BBZg8nZM82cSQ8SNfzF_GF_Nw15o2vPXL2lCxFEGRe9b3SMeR-9yb5lHz189Rak2ixf9ZYh-",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJbXGPuX5XkFQRs-KD0RPmdZI",
+            "plus_code":{
+                  "compound_code":"8MCV+CW Federal Way, WA, USA",
+                  "global_code":"84VV8MCV+CW"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJbXGPuX5XkFQRs-KD0RPmdZI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":96,
+            "vicinity":"2148 South 314th Street, Federal Way",
+            "CBG":530330300061,
+            "Radius":539.2646108063
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.325316,
+                        "lng":-122.3016259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.3264330303,
+                              "lng":-122.3007836197
+                        },
+                        "southwest":{
+                              "lat":47.3237350697,
+                              "lng":-122.3034815803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Steel Lake Concession Stand",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJFeq3UdZZkFQRyGdc6PBMZek",
+            "plus_code":{
+                  "compound_code":"8MGX+48 Federal Way, WA, USA",
+                  "global_code":"84VV8MGX+48"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJFeq3UdZZkFQRyGdc6PBMZek",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2410 South 312th Street, Federal Way",
+            "CBG":530330300061,
+            "Radius":539.2646108063
+      }
+]

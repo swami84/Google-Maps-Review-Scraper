@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9826233,
+                        "lng":-77.0071025
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9840778803,
+                              "lng":-77.0058371697
+                        },
+                        "southwest":{
+                              "lat":38.9813799197,
+                              "lng":-77.0085351303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Peter's Sub Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113417245132064566280\">David Lopez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAnWZ1U6u2dxK07xge4uBVZl9nOstmO73P_GBhupCGP5zLNOx6mHnfNKb0z0_V7g8sS8bF91jCV3v7vqNmpr9I4MB0V0Tmn1TVDz_dWKvB_j_J1iCgUg2rE5rcHSdtYJ27hIUxChP7qBE-xdfkmieKgXWHCOZTW_LiBwEJFZbN3hM39",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJzfolqiHGt4kRwPtxQqVXypo",
+            "plus_code":{
+                  "compound_code":"XXMV+25 Takoma Park, MD, USA",
+                  "global_code":"87C4XXMV+25"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJzfolqiHGt4kRwPtxQqVXypo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"7603 Maple Avenue, Takoma Park",
+            "CBG":240317018001,
+            "Radius":326.8211520202
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9827384,
+                        "lng":-77.0070938
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9841354303,
+                              "lng":-77.0058328197
+                        },
+                        "southwest":{
+                              "lat":38.9814374697,
+                              "lng":-77.0085307803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maple Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105761447720312234784\">Solomon Wubshet<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECEKVJY8dJj--1eNNhu4QxHYfCu4Vi7Ih84fAaezatfPeUE3Bg6MrcIs1YOcGXiIpQtX_kPXSnWvSATgUsRlUGDIW34AGXQ7ad91SyZLVY7lNqaLr1ix1dRJtY2DUjEHbvye3QuvqS-_I9N1NnCDPDGTeWbxL19sqZXROianhBZdVc",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJm2udqSHGt4kR08QZB5_E2y4",
+            "plus_code":{
+                  "compound_code":"XXMV+35 Takoma Park, MD, USA",
+                  "global_code":"87C4XXMV+35"
+            },
+            "price_level":null,
+            "rating":4.4,
+            "reference":"ChIJm2udqSHGt4kR08QZB5_E2y4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"7605 Maple Avenue, Takoma Park",
+            "CBG":240317018001,
+            "Radius":326.8211520202
+      }
+]

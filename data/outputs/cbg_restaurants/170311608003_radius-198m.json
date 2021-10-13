@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9489202,
+                        "lng":-87.7124972
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9503242803,
+                              "lng":-87.7112005197
+                        },
+                        "southwest":{
+                              "lat":41.9476263197,
+                              "lng":-87.7138984803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burrito House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107949549403969571878\">Ginger Flores<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBBlR1NTOX3gBI_GwQVZcyKgloL4lHp2qETDI9DEwzRRaxCp0EHeDQAym7zbyq2aliKYKC_r9qS7NyZ07eXOBdaYykBK98nAKZRRz8TK8aWRWvIb7TgiEMWrSx_kia4FdMqXyMsj8XUg5d4iWCV5-5TRUgG1QL_OWZ49lkrSyEKqX5X",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ85in1ZDND4gRHi6oShzxLZ0",
+            "plus_code":{
+                  "compound_code":"W7XQ+H2 Chicago, IL, USA",
+                  "global_code":"86HJW7XQ+H2"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ85in1ZDND4gRHi6oShzxLZ0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":725,
+            "vicinity":"3718 North Elston Avenue, Chicago",
+            "CBG":170311608003,
+            "Radius":198.2739120087
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9466917,
+                        "lng":-87.7149139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9479651303,
+                              "lng":-87.7135055197
+                        },
+                        "southwest":{
+                              "lat":41.9452671697,
+                              "lng":-87.7162034803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mirabella Italian Cuisine & Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116286363768610094843\">Mirabella Italian Cuisine &amp; Bar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDNUcG_SQg7l_6-FBXJErMLHtaU8qFXvjs3ExmD3d3x2CBoUQDUFJllaSg8T1hW7ruLVQXrhtwlob-oPtoTRoFRkJlBdPMuBnhcIuFeplzsKwDX9eNmEXNSdUQJQMOltXcKa6SMSWzBU6kwFcj9dAcgzX275H_P1KG6x4ct3MKenJM2",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJf0tYgJfND4gRpZr00lVb1qI",
+            "plus_code":{
+                  "compound_code":"W7WP+M2 Chicago, IL, USA",
+                  "global_code":"86HJW7WP+M2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJf0tYgJfND4gRpZr00lVb1qI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":349,
+            "vicinity":"3454 West Addison Street, Chicago",
+            "CBG":170311608003,
+            "Radius":198.2739120087
+      }
+]

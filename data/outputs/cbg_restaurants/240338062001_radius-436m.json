@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9599612,
+                        "lng":-76.9499125
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9614253803,
+                              "lng":-76.9485036697
+                        },
+                        "southwest":{
+                              "lat":38.9587274197,
+                              "lng":-76.9512016303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden China Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102726865774735217278\">Linda Boadi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED51ked_y52f8D1RSn-hLf5Q9zM3L2mN7ZZWIPyM08f7Mp9uN18dEnKR-hm1Lx56mTGuOZL_cVcZFWSBtFqT-Kuhmqal1Fx7qUXDo2XFkZFKFD3shkEGyjAhMUFY_FphvuX0UC0t2rfwbdzJYrvU96ieDSERBCuL5ucy9y7PRb1hjqP",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJX_D2WOLGt4kRer3T9kI2jVw",
+            "plus_code":{
+                  "compound_code":"X352+X2 Hyattsville, MD, USA",
+                  "global_code":"87C5X352+X2"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJX_D2WOLGt4kRer3T9kI2jVw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":121,
+            "vicinity":"5908 40th Avenue, Hyattsville",
+            "CBG":240338062001,
+            "Radius":436.2940465291
+      }
+]

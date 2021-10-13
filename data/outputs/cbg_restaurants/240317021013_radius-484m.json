@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0148138,
+                        "lng":-76.9971346
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0162657303,
+                              "lng":-76.9957456697
+                        },
+                        "southwest":{
+                              "lat":39.0135677697,
+                              "lng":-76.9984436303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Tailored Cheff Supperclub",
+            "place_id":"ChIJcTIE_R7Ft4kR8asOMJFRXlk",
+            "plus_code":{
+                  "compound_code":"2273+W4 Silver Spring, MD, USA",
+                  "global_code":"87F52273+W4"
+            },
+            "reference":"ChIJcTIE_R7Ft4kR8asOMJFRXlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"9523 Lawnsberry Terrace, Silver Spring",
+            "CBG":240317021013,
+            "Radius":483.5170563646
+      }
+]

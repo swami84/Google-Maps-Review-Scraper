@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7745324,
+                        "lng":-118.1852319
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7758812303,
+                              "lng":-118.1837913197
+                        },
+                        "southwest":{
+                              "lat":33.7731832697,
+                              "lng":-118.1864892803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sura Korean BBQ & Tofu House Restaurant - Long Beach",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101109614008966076713\">Sura Korean BBQ &amp; Tofu House Restaurant - Long Beach<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECwcxGihvJeIngexWIehSCR4NYg3oSYd2ZCiGRkYcquPLGk64DcL1rAf6rXwddl1MSLI_ANHnLY71Vg-ij5nOZWDQjHgtrkNzNp9V6MYjqCFpb2uR1B7tKTgVY3Zi2yU8zNzmu_6aNtCcOfLnt5zE9k1c37-U_BISoFVWHxMLIafo1L",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJAVs0f0Ax3YARyjrglifkjZ8",
+            "plus_code":{
+                  "compound_code":"QRF7+RW Long Beach, CA, USA",
+                  "global_code":"8553QRF7+RW"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJAVs0f0Ax3YARyjrglifkjZ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":900,
+            "vicinity":"621 Atlantic Avenue, Long Beach",
+            "CBG":60375762004,
+            "Radius":141.9326522225
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7738485,
+                        "lng":-118.1853128
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7751980303,
+                              "lng":-118.1838301197
+                        },
+                        "southwest":{
+                              "lat":33.7725000697,
+                              "lng":-118.1865280803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Louis Burger III",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4656,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110853786339847618837\">Zo Mc Clellan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEArrLmoNY-3a1-1o1Af9a6qfiJhN4Z92FtWV21IWllLV6aBKKvbJfyYKJ6WSdQRWw80rsEHOa1M1ZKU9XIXZJ8RyA_XC40F7R1fmUrdre6tMdYYrmVB2EDb8ZZwuwg0YDiN_OLkSCu5DVMzt-MgaaA8PsebsWcZ9Cjvq0FB2YIwngHv",
+                        "width":2620
+                  }
+            ],
+            "place_id":"ChIJIXL5dz8x3YAR3Cb0YKRpLTU",
+            "plus_code":{
+                  "compound_code":"QRF7+GV Long Beach, CA, USA",
+                  "global_code":"8553QRF7+GV"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJIXL5dz8x3YAR3Cb0YKRpLTU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2881,
+            "vicinity":"555 Atlantic Avenue, Long Beach",
+            "CBG":60375762004,
+            "Radius":141.9326522225
+      }
+]

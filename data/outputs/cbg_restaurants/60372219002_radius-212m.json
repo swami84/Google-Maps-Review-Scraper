@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0258492,
+                        "lng":-118.294183
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0271265303,
+                              "lng":-118.2928375697
+                        },
+                        "southwest":{
+                              "lat":34.0244285697,
+                              "lng":-118.2955355303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Himalayan House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107141241416600163538\">Robert Negrete<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECEh-iPYkgB3IN_EYxYYolp9nJyYc3PvdYDHQOIoftVhh0fT7WFxZlwg7rO4nfRu4L2n3WwPEjliV9e2EO7vLfghWzDmtqMKX6_UKxVx2Y2isuqmUz7l0CXsR4pNM6tbPaj6vIo7TmpinleqbZ5obQmwTZZ_IHHbmQ4ruMM_SC97GO4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJXQa3SffHwoARbWWdPwK_Ums",
+            "plus_code":{
+                  "compound_code":"2PG4+88 Los Angeles, CA, USA",
+                  "global_code":"85632PG4+88"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJXQa3SffHwoARbWWdPwK_Ums",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":424,
+            "vicinity":"1277 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372219002,
+            "Radius":212.1060215636
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.025865,
+                        "lng":-118.2942633
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0271341303,
+                              "lng":-118.2929003197
+                        },
+                        "southwest":{
+                              "lat":34.0244361697,
+                              "lng":-118.2955982803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Flor Blanca Salvadore\u00f1a",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":288,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117740381226371804087\">La Flor Blanca Salvadore\u00f1a<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBC9EYsXt5k2YkXUPLuxfSEvLAij6_5KhNfdf3NH8WjwX_6aUJQHVAHolqB4Ieo8KDxnlNeIGKmivX61O4QFLCVux67EbwxOWGGgMN5buAiZRUoiaXHLqK4eNmClaABYyl7MP3fPwWIqV5yO1wEExrCpEixFIkoj_zdnDXFYXoXD6Q4",
+                        "width":512
+                  }
+            ],
+            "place_id":"ChIJSUKdTvfHwoAR0c7YB_q0-Bw",
+            "plus_code":{
+                  "compound_code":"2PG4+87 Los Angeles, CA, USA",
+                  "global_code":"85632PG4+87"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJSUKdTvfHwoAR0c7YB_q0-Bw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":297,
+            "vicinity":"1279 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372219002,
+            "Radius":212.1060215636
+      }
+]

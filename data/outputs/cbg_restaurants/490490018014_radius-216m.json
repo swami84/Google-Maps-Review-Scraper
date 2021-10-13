@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.2446455,
+                        "lng":-111.6458746
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.2460829303,
+                              "lng":-111.6445368197
+                        },
+                        "southwest":{
+                              "lat":40.2433849697,
+                              "lng":-111.6472347803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brooker\u2019s Founding Flavors Ice Cream, Provo UT",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107726638416170534650\">Christian Graff<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQPhCk-aX48AKWDZDIoZJAo0YFD8XUGh2lEuKMST8VwauEY6huhu_YFZGZYunvzuzG-2odsp9HiWutx7jVzvvsXH3pDiBceOpxYviqGCrsmBX5c4wCUXJL6-fOkIUWyGxu7MVyr9a_um0NOnY0AQsKOiTlXe7b1c2Kij5dpPOvWgb0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8TFgdsWRTYcRoOVjy3MO1Hs",
+            "plus_code":{
+                  "compound_code":"69V3+VM Provo, UT, USA",
+                  "global_code":"85GC69V3+VM"
+            },
+            "price_level":2.0,
+            "rating":4.7,
+            "reference":"ChIJ8TFgdsWRTYcRoOVjy3MO1Hs",
+            "scope":"GOOGLE",
+            "types":[
+                  "tourist_attraction",
+                  "museum",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"748 East 820 North, Provo",
+            "CBG":490490018014,
+            "Radius":216.3907941828
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.2446879,
+                        "lng":-111.6459989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.2461041803,
+                              "lng":-111.6445989697
+                        },
+                        "southwest":{
+                              "lat":40.2434062197,
+                              "lng":-111.6472969303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Red Fuego",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111963990184059005591\">Camil Tossen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYO2QTkKMvFUPG_UO56PsS4JfF3By-Y3bE4amT-BdrE9RMS2B9-ETmnn0ivyyNsJi8QmZw5mn0gvlbFsKpzoqqbiYi8JjHzps3E_RahfAEhgBMWU06BEh4CyuOTpKOcCXJ7uA6g3s1M5waWkwkosGPdb7qCK942b_n51MeGQtwL3Ii",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9-CvcHWRTYcRoOY7zy0Via0",
+            "plus_code":{
+                  "compound_code":"69V3+VJ Provo, UT, USA",
+                  "global_code":"85GC69V3+VJ"
+            },
+            "price_level":null,
+            "rating":4.7,
+            "reference":"ChIJ9-CvcHWRTYcRoOY7zy0Via0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":21,
+            "vicinity":"744 East 820 North, Provo",
+            "CBG":490490018014,
+            "Radius":216.3907941828
+      }
+]

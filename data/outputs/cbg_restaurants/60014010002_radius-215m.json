@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8347474,
+                        "lng":-122.2728302
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8360858303,
+                              "lng":-122.2715655197
+                        },
+                        "southwest":{
+                              "lat":37.8333878697,
+                              "lng":-122.2742634803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Star Pizza & Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100808536855974136709\">Star Pizza &amp; Deli<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECLoGVTTOWpU3yg5e6rVOL_-LZrUUR2yfT_QkFaTrb8jN2HKxAyjFq1Y-6HbV1hO8YFx9llIpBIHW4j567n1RANeZhhd0BwKZ3iQPa1Ttuu9Va7z_9QTvVX2b0djWgcqkaRGqUi0O9xc_eEagBwnm9qR4PxvrojZ7NslWkGcAYfmTqA",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJnRYXQQB-hYAR9_LwHFZ-cls",
+            "plus_code":{
+                  "compound_code":"RPMG+VV Oakland, CA, USA",
+                  "global_code":"849VRPMG+VV"
+            },
+            "rating":4.3,
+            "reference":"ChIJnRYXQQB-hYAR9_LwHFZ-cls",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":37,
+            "vicinity":"4514 Market Street, Oakland",
+            "CBG":60014010002,
+            "Radius":214.8177307384
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8345826,
+                        "lng":-122.2727801
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8359223803,
+                              "lng":-122.2715268197
+                        },
+                        "southwest":{
+                              "lat":37.8332244197,
+                              "lng":-122.2742247803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sowole's African Spices",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJFaYX7Ax-hYARTmwlql66oZ4",
+            "plus_code":{
+                  "compound_code":"RPMG+RV Oakland, CA, USA",
+                  "global_code":"849VRPMG+RV"
+            },
+            "rating":5.0,
+            "reference":"ChIJFaYX7Ax-hYARTmwlql66oZ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4500 Market Street, Oakland",
+            "CBG":60014010002,
+            "Radius":214.8177307384
+      }
+]

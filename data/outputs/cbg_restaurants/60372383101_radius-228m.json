@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9648818,
+                        "lng":-118.2912733
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9662307803,
+                              "lng":-118.2899243197
+                        },
+                        "southwest":{
+                              "lat":33.9635328197,
+                              "lng":-118.2926222803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Adu Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118290205622304126690\">Adu Burger<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBg9SJRfJjCKScScYc2yJYcOWMcaCrbThyDX22bZuj3Ga8D7I_03NNIoK-ZKH-Ru6HxEEsPr7JSNNtZRCrnVWEYOsq5YebnYi32reVODU2EUj0ExpA4xQXdpgyI8XME8wzbqKzjd6wsJ3shA5f3dykNT7vX05FUxt1Ry3JWMXjK5RVa",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJe_cRktDJwoARKtACgkDsDZQ",
+            "plus_code":{
+                  "compound_code":"XP75+XF Los Angeles, CA, USA",
+                  "global_code":"8553XP75+XF"
+            },
+            "rating":4.3,
+            "reference":"ChIJe_cRktDJwoARKtACgkDsDZQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":83,
+            "vicinity":"8120 South Vermont Avenue, Los Angeles",
+            "CBG":60372383101,
+            "Radius":227.5412332899
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1860798,
+                        "lng":-118.3106199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1874911803,
+                              "lng":-118.3091409697
+                        },
+                        "southwest":{
+                              "lat":34.1847932197,
+                              "lng":-118.3118389303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lotus Chinese Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104801665293523917412\">Lois Wildman<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBXxCGgw1MH215pOVH-HWGniMmH6MLci7m5X2A3KfK-vqV6WvyTvjN0QBTAuafzb-GPLV6BFQiKXZVvESPYLQ4fBB3RvAd9IGZ4f4nrpYYxFIS01SDtqXkal52yAFhYM_4aaNDHM23JzwIgrLLSK17yG5b9KDP4KDzCfjAlPgcF3u7Z",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJZ77cj0-VwoARS9HeMRCWtKQ",
+            "plus_code":{
+                  "compound_code":"5MPQ+CQ Burbank, CA, USA",
+                  "global_code":"85635MPQ+CQ"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJZ77cj0-VwoARS9HeMRCWtKQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":105,
+            "vicinity":"511 North Glenoaks Boulevard, Burbank",
+            "CBG":60373107011,
+            "Radius":228.374855996
+      }
+]

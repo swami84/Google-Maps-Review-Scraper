@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9617576,
+                        "lng":-118.0339667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9630502303,
+                              "lng":-118.0326516197
+                        },
+                        "southwest":{
+                              "lat":33.9603522697,
+                              "lng":-118.0353495803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"China Wok Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116494717136643902445\">Gus Zdanovich<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECLI4KYncnAM9O-aJlwwUbsWKo3tSKGXY1j8YohkR9qAvdOacwoAK9ZnKvAbekZrlrFDmOwrQQL9_Wn6PnNwVpPjpzfZl5U3kBLZHt3Nz-ME_FgxvRsumwzcDeP3E7hC4tVFLHYv-kSzvE-D-t0LrLZwgpjAIN92w7PHaCReNzv9waX",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJyV6rC5vTwoAR8t4la0_VHpw",
+            "plus_code":{
+                  "compound_code":"XX68+PC Whittier, CA, USA",
+                  "global_code":"8553XX68+PC"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJyV6rC5vTwoAR8t4la0_VHpw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":220,
+            "vicinity":"8330 Painter Avenue # A, Whittier",
+            "CBG":60375020031,
+            "Radius":327.6644850308
+      }
+]

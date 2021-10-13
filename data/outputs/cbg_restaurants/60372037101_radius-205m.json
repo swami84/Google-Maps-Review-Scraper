@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0519975,
+                        "lng":-118.2038948
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0533625303,
+                              "lng":-118.2025018197
+                        },
+                        "southwest":{
+                              "lat":34.0506645697,
+                              "lng":-118.2051997803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carnitas el Momo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100481601244688655057\">Restless Ventures<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQputZ7LFBhS3sDfJwSBCrZ6w36y5eyZfqm1syBtQadRp0SzcFDqJ1EnKV0jf3qmuhZli0J4wy_2wMIbN7BijYmsnvbVTbEpe6f0DCKEFtW2GKJuX-LjVXreoQDWXEUvgRZmICR6jKriWKy0viK00yKc2XekqsdGeWroS7WD__iQ3_",
+                        "width":2252
+                  }
+            ],
+            "place_id":"ChIJecqMJuLFwoARkvNfe3NHxek",
+            "plus_code":{
+                  "compound_code":"3Q2W+QC Los Angeles, CA, USA",
+                  "global_code":"85633Q2W+QC"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJecqMJuLFwoARkvNfe3NHxek",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":683,
+            "vicinity":"2411 Fairmount Street, Los Angeles",
+            "CBG":60372037101,
+            "Radius":205.188235593
+      }
+]

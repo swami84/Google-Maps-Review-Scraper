@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7895933,
+                        "lng":-118.1548042
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7909810803,
+                              "lng":-118.1534490197
+                        },
+                        "southwest":{
+                              "lat":33.7882831197,
+                              "lng":-118.1561469803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Del Taco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109322201269625134228\">Nikki Slixxx<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECeMPgIzrO2SDsEuMYwtexKJXmuZeVa624Kja4EHTZtwAuOhBWhnrSlEq1ok3ZGIjeUFUmxJWyufbUOR51t514oh12uuTQlxSjL3DaSzzdE_YbXXxpLmUyijfISh6WOcD6nZp7p5JZMvqrMbrj5JnOYZZYXm3qg5VJAaoOGEVrA1gPH",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ99wyXpwx3YAR-lKUZ2Ay474",
+            "plus_code":{
+                  "compound_code":"QRQW+R3 Long Beach, CA, USA",
+                  "global_code":"8553QRQW+R3"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ99wyXpwx3YAR-lKUZ2Ay474",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1255,
+            "vicinity":"3190 Pacific Coast Highway, Long Beach",
+            "CBG":60375751031,
+            "Radius":203.6536845728
+      }
+]

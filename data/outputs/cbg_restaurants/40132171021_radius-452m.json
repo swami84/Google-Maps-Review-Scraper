@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5071857,
+                        "lng":-111.8910554
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5084408803,
+                              "lng":-111.8897223697
+                        },
+                        "southwest":{
+                              "lat":33.5057429197,
+                              "lng":-111.8924203303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wendy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1606,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110835043362910068596\">PERSOP<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBbIup5CttznVwq2lGWqycrC7gI4OvTeUEeKQceb4GK-6wpm7_RZM0uNhYS5EXnN3TYdl4ozQXfAX6ihOKE3Fh1BQJIwViQQnsiN8jvOnwbqNkAE-30BWrkpIvMW8wC7Xf5isw67Iehu23YkGeK8iIFuKn0ZPgDzvDJ0Dg_W05wijFR",
+                        "width":3662
+                  }
+            ],
+            "place_id":"ChIJVzy1CkUKK4cRL-etjFfoajs",
+            "plus_code":{
+                  "compound_code":"G445+VH Scottsdale, AZ, USA",
+                  "global_code":"855CG445+VH"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJVzy1CkUKK4cRL-etjFfoajs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":779,
+            "vicinity":"4815 North Pima Road, Scottsdale",
+            "CBG":40132171021,
+            "Radius":452.4944670803
+      }
+]

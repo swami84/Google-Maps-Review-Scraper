@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.938435,
+                        "lng":-87.788844
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9396989303,
+                              "lng":-87.7874851197
+                        },
+                        "southwest":{
+                              "lat":41.9370009697,
+                              "lng":-87.7901830803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Frank's Pizzeria & Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":638,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109042436941952553675\">Frank&#39;s Pizzeria &amp; Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDHI-ZNRlHtvQJy4kA_UAg_ZMoQC_BBq3X7onI1fgnjw2ilHnlUQOTKAEmNOIi8nEMDh8W-N7LNHob_Jb9LrdR3OKjm1ds988kxKGRpQLC3fd1tEBpCetru89kIgIsZg7fo_CkZYfKLXtkpWxL3wD3Y_3i-kGO4Z3YlMUbFOO-yTG4X",
+                        "width":957
+                  }
+            ],
+            "place_id":"ChIJj2uXg53LD4gR2LfGO9sazs4",
+            "plus_code":{
+                  "compound_code":"W6Q6+9F Chicago, IL, USA",
+                  "global_code":"86HJW6Q6+9F"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJj2uXg53LD4gR2LfGO9sazs4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":219,
+            "vicinity":"6506 West Belmont Avenue, Chicago",
+            "CBG":170311710002,
+            "Radius":253.6852599158
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0099016,
+                        "lng":-118.1085842
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0113703303,
+                              "lng":-118.1071987197
+                        },
+                        "southwest":{
+                              "lat":34.0086723697,
+                              "lng":-118.1098966803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105597881959685335588\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBlJq6oLo03YmjP5SguTXGTEKP_F1HZnLMdZfGoP9CMKk4LcAiBljsIy2s25hQfRyPpHSwubUNnVBs_owOngaFINEl7h7LHifKbGp7xE-mAskM6P5TnIQ8O9w63LBqHa7v0XQaxgR9FrrhLWMPSj4EyaT3EY1lNn_jYDRTEOG9GwH09",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJZbfIb9fRwoARf9Q0dobryuY",
+            "plus_code":{
+                  "compound_code":"2V5R+XH Montebello, CA, USA",
+                  "global_code":"85632V5R+XH"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJZbfIb9fRwoARf9Q0dobryuY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":267,
+            "vicinity":"803 West Whittier Boulevard, Montebello",
+            "CBG":60375321013,
+            "Radius":281.7306544722
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1869236,
+                        "lng":-118.3792705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1881585803,
+                              "lng":-118.3779302697
+                        },
+                        "southwest":{
+                              "lat":34.1854606197,
+                              "lng":-118.3806282303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Leonor's Vegetarian Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116789692419265580726\">Paul Roth<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB7uxAzS6mCBw6hP_Cruabll7WbXU970ori_aqZtdmCIrM4AtkWYfA1au0qmEEzB2BL89QLsCvJ-0kWnOuxGtZCwqwDvfTrjcptTjbTHDscFQIHfL6kQmGRHDtewPv6piIr6-w2kfDzQr6vF2RZKrc3hF2XSxQx6tZG2YydyfsxHBkibxVX0A",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJnVhEbsWVwoARd601YieXNVs",
+            "plus_code":{
+                  "compound_code":"5JPC+Q7 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JPC+Q7"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJnVhEbsWVwoARd601YieXNVs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":387,
+            "vicinity":"11403 Victory Boulevard, North Hollywood",
+            "CBG":60371242013,
+            "Radius":278.1569084614
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1865526,
+                        "lng":-118.3794453
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1879026303,
+                              "lng":-118.3780522697
+                        },
+                        "southwest":{
+                              "lat":34.1852046697,
+                              "lng":-118.3807502303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"George's Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101858250349209102203\">George&#39;s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBRvTYszhy2zRgOdQgU1e5F6UzWqZBZaMzpjJRCPmwWENqj8Jqwus8zPTcKIfNujI7wTHaizJMjvc7Sg309m2noEFKRhmpS7ikrd7guwYt23oFdYPWAJtzTg8XL1ZjAo5WylEESk5TAGBY1MuYiUvW_eSOEzEdTjDXbANewQRCLGK9J",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ613fp1KVwoAR1Ygjo2APgpo",
+            "plus_code":{
+                  "compound_code":"5JPC+J6 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JPC+J6"
+            },
+            "price_level":2,
+            "rating":5.0,
+            "reference":"ChIJ613fp1KVwoAR1Ygjo2APgpo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"11408 Victory Boulevard, North Hollywood",
+            "CBG":60371242013,
+            "Radius":278.1569084614
+      }
+]

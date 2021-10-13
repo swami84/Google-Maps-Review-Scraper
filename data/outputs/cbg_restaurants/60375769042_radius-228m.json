@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.778826,
+                        "lng":-118.1544532
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7802467303,
+                              "lng":-118.1530745697
+                        },
+                        "southwest":{
+                              "lat":33.7775487697,
+                              "lng":-118.1557725303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"the corner 10th\u2019s BBQ",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2432,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104670962697233391916\">the corner 10th\u2019s BBQ<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBfC-X8fBBI4Ptar2fqs8r9Vg27tYH3oY__MOyYHOefKwtuOKgn3yyBT6lMw8eqMVyFPmdc1ArW1YzDkCLwsqLKxMXFyNtlwovaZL7K5j9BbjP_yy-EXvUgUGby7Gazf-TGT_mbi_db-oG4hNaGGOjgkj-ZKwh7k4rxBUd3TYkpd7J7",
+                        "width":3648
+                  }
+            ],
+            "place_id":"ChIJCwZNbKEx3YARkr_YJo0V9VE",
+            "plus_code":{
+                  "compound_code":"QRHW+G6 Long Beach, CA, USA",
+                  "global_code":"8553QRHW+G6"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJCwZNbKEx3YARkr_YJo0V9VE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":366,
+            "vicinity":"3200 East 10th Street, Long Beach",
+            "CBG":60375769042,
+            "Radius":228.4828503052
+      }
+]

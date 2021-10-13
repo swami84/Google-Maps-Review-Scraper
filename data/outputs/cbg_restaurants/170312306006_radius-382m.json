@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9090845,
+                        "lng":-87.7398096
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9102976803,
+                              "lng":-87.7383039197
+                        },
+                        "southwest":{
+                              "lat":41.9075997197,
+                              "lng":-87.7410018803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":300,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104841411278226165565\">Taco Bell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDAhQ4i3DtDMgns_7sRUmYNvGDatfi-PQDOEEP5NPnwkD5c8fncT1IyHWPwwoapF_1g591FsHDow7fDQYVP2fGBw2cnpkExTrwSTYpkqiYgjWbm0WKG2U0h1mJ6Lg2aFhMMFyiiKa7U0BPbmcVUoDHi5MtspGTus5igWcyn3khPsQFW",
+                        "width":300
+                  }
+            ],
+            "place_id":"ChIJyw981djND4gRR1RXaMm6mPw",
+            "plus_code":{
+                  "compound_code":"W756+J3 Chicago, IL, USA",
+                  "global_code":"86HJW756+J3"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJyw981djND4gRR1RXaMm6mPw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":431,
+            "vicinity":"4523 West North Avenue, Chicago",
+            "CBG":170312306006,
+            "Radius":382.2295947596
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8203253,
+                        "lng":-76.999776
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8216264303,
+                              "lng":-76.9984990697
+                        },
+                        "southwest":{
+                              "lat":38.8189284697,
+                              "lng":-77.0011970303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Today's Crab House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112796288860759263746\">Michael Young<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJknDgFEGmbDVd2uPq6G_KQsIV686EThs4eVuaMIyZfRPpgCaeRjxQg8oEL2kLRUNgVFhGqh9y90ljReO2rvSzPXxkBi9bjyi_NcbUs4phZrqCqTJgOoNGGMaeFAd8SVPJUHuVonza89BN-gMl5U2278zQtLbbzl0BZFJYXSmed99z",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJKe3STQ26t4kRkNFvGbP9wzM",
+            "plus_code":{
+                  "compound_code":"R2C2+43 Oxon Hill, MD, USA",
+                  "global_code":"87C5R2C2+43"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJKe3STQ26t4kRkNFvGbP9wzM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":489,
+            "vicinity":"4950 Maryland 210, Oxon Hill",
+            "CBG":240338016002,
+            "Radius":229.6736729111
+      }
+]

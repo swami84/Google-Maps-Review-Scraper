@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8172436,
+                        "lng":-76.9983049
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8185610803,
+                              "lng":-76.9969431197
+                        },
+                        "southwest":{
+                              "lat":38.8158631197,
+                              "lng":-76.9996410803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101306207775171859848\">Sai Kumar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjUjXcsuzMv6NJcGLNcQ7_VBMz72xbvjodIWFq5pGaqI_4kzCI52KGDPuXlmOuUYYjCeFHQwd4hN3md56NDtfiF1X1uCICfWZaz8LtTgsbZiSHbXh9VcwW8B1GFHrg9nzhr8HQwCDkWZMxuLmR8EALe0CBuXxnKqOgQlu5aeRD1sR-",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJf-d7gm26t4kRA3oPxTcQ-Ik",
+            "plus_code":{
+                  "compound_code":"R282+VM Oxon Hill, MD, USA",
+                  "global_code":"87C5R282+VM"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJf-d7gm26t4kRA3oPxTcQ-Ik",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":251,
+            "vicinity":"5310 Indian Head Highway, Oxon Hill",
+            "CBG":240338016003,
+            "Radius":252.739931609
+      }
+]

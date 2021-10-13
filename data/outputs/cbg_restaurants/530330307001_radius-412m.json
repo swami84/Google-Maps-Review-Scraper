@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.3003258,
+                        "lng":-122.2227274
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.3016752803,
+                              "lng":-122.2213424197
+                        },
+                        "southwest":{
+                              "lat":47.2989773197,
+                              "lng":-122.2240403803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dairy Queen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100331034077712969097\">Bella Official<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBM_S4OLvfu8mmKtJosGGvf4_O0r61LbQwJtVIKW930fEHVm4cfz3PAoKI2wPTKlDFbJl_LPH6WNqEkudALtefGMz4qA1-hn39RJ0TTFrzEugRQjUGSZKVHRwi-I9YYNvdyEeLvXYkab_2EysPlGhfY286hhclo13nxciOohYsZm1vz",
+                        "width":5184
+                  }
+            ],
+            "place_id":"ChIJB4HUSXZYkFQRLAGJEAoC_fA",
+            "plus_code":{
+                  "compound_code":"8Q2G+4W Auburn, WA, USA",
+                  "global_code":"84VV8Q2G+4W"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJB4HUSXZYkFQRLAGJEAoC_fA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":615,
+            "vicinity":"902 Auburn Way South, Auburn",
+            "CBG":530330307001,
+            "Radius":412.4935855381
+      }
+]

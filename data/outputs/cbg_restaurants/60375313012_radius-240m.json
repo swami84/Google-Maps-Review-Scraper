@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.023794,
+                        "lng":-118.1886489
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0252074303,
+                              "lng":-118.1873023197
+                        },
+                        "southwest":{
+                              "lat":34.0225094697,
+                              "lng":-118.1900002803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El 7 Mares Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108991974134540906728\">Susana Alvarez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAoXFVzKUTDDfA0G_lknNjY6FmIb8lzJOvPlvx_KpeLG2LDtm-og8B820Es-KoV7203u_mRjEaY7x066N5i74eXuKDe9S7cxIgdONQ9kLHz9TTjeyGpxFy1T9nKS8ocYYLg-KROaPNVjgUTZNYZ-DKwpwCtTBirUUNtql8ReVnIyOs9",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJC6cVzEbPwoARxl3owaigjiE",
+            "plus_code":{
+                  "compound_code":"2RF6+GG Los Angeles, CA, USA",
+                  "global_code":"85632RF6+GG"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJC6cVzEbPwoARxl3owaigjiE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":397,
+            "vicinity":"3914 Whittier Boulevard, Los Angeles",
+            "CBG":60375313012,
+            "Radius":239.6079352224
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0209777,
+                        "lng":-118.1894177
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0223267303,
+                              "lng":-118.1880718197
+                        },
+                        "southwest":{
+                              "lat":34.0196287697,
+                              "lng":-118.1907697803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Mazapan",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113097549505133397342\">Mike Ozuna<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPtphaZMrpYN0DWKRMlV6erKWbX05_Ap3UM6D3ZoN6P4aEv93ZZK1k3yKsaSxSl0HApfil77wOQKygKABvV8BMFhaj0G6VWTtk_JP_usG58QAzPcxoneUqqGTlhR-VNnhGAU7h0BGr_MCzbuISJLFcZ3J0zQGeHAcKEeqCSfkToR-t",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJrwt2WJHPwoARkhRPcQEEizg",
+            "plus_code":{
+                  "compound_code":"2RC6+96 Los Angeles, CA, USA",
+                  "global_code":"85632RC6+96"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJrwt2WJHPwoARkhRPcQEEizg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"Unnamed Road, Los Angeles",
+            "CBG":60375313012,
+            "Radius":239.6079352224
+      }
+]

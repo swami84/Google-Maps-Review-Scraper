@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1382606,
+                        "lng":-104.820562
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1397068803,
+                              "lng":-104.8192388697
+                        },
+                        "southwest":{
+                              "lat":41.1370089197,
+                              "lng":-104.8219368303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco John's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102310139501387459611\">George Benaroya<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDuceptN5SGw4MWSrnnx2fK2w77l8iJTVsw1tBiA2oFE90t45tkgoPzT4KKFvEfgGmi9AhjWCBs6rwmaqeS4jbNZ2CSuhCRK8jPOKGAC2Hnr2qsZQeIgLMDc_v9vGj9Sy1-LKMrDSKB2oZSB3EaQ1WTcx2OTRZdBiLo9QuYQTSS5CLd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJD30uH-s6b4cREZ9hQxezFZg",
+            "plus_code":{
+                  "compound_code":"45QH+8Q Cheyenne, WY, USA",
+                  "global_code":"85HQ45QH+8Q"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJD30uH-s6b4cREZ9hQxezFZg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":532,
+            "vicinity":"2220 Carey Avenue, Cheyenne",
+            "CBG":560210010004,
+            "Radius":405.7288102899
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1386308,
+                        "lng":-104.8208836
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1400238303,
+                              "lng":-104.8193867197
+                        },
+                        "southwest":{
+                              "lat":41.1373258697,
+                              "lng":-104.8220846803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Epic Egg Restaurants Cheyenne",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100318300820432662037\">Barbara<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBaT0rMMqD0D4Xl7mMiRamrnWa8ZdUo3qRP6w3KWT92lJUubguvU6PGBKjRWtPxalhDcx8kwxP_jxaD7En_5D14UWVZ04bUuyE61lThSZWqfaH-Qv1x-9ypH8cfmjuCLFFbap2htnvcaHgAcm2IvkGdUitr2N1WikQ4taaNgc9CJKo",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJo07M0J47b4cRybsKM20Pk30",
+            "plus_code":{
+                  "compound_code":"45QH+FJ Cheyenne, WY, USA",
+                  "global_code":"85HQ45QH+FJ"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJo07M0J47b4cRybsKM20Pk30",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":484,
+            "vicinity":"2300 Carey Avenue, Cheyenne",
+            "CBG":560210010004,
+            "Radius":405.7288102899
+      }
+]

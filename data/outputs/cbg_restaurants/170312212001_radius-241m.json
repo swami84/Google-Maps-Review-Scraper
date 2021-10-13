@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9176525,
+                        "lng":-87.7046181
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9188824803,
+                              "lng":-87.7032723197
+                        },
+                        "southwest":{
+                              "lat":41.9161845197,
+                              "lng":-87.7059702803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cheng Chopsticks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106431127420729228884\">Ronnie Drummond<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChj6qFip9fzn7rS9UrHdZPYHaDbBvAofBJ6rfTBaenvCSqiskJai_hc2VR4P6jmlicf0h05MdY9xWe3NKK_rrihL8BYkGrvB_NPHNZvsS2JYQHFU6n19Z0bSIGRVbITlqrjQ4canf8vyIeVxOk1l8NJhAUj9yoEqZiqv11435wy-r0",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJFRVXXkfND4gRUKynSTiGj8w",
+            "plus_code":{
+                  "compound_code":"W79W+35 Chicago, IL, USA",
+                  "global_code":"86HJW79W+35"
+            },
+            "rating":4.2,
+            "reference":"ChIJFRVXXkfND4gRUKynSTiGj8w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"3054 West Armitage Avenue, Chicago",
+            "price_level":null,
+            "CBG":170312212001,
+            "Radius":241.3801907712
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9175945,
+                        "lng":-87.7036558
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9188585803,
+                              "lng":-87.7023042197
+                        },
+                        "southwest":{
+                              "lat":41.9161606197,
+                              "lng":-87.7050021803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dante's Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116091663876088533360\">Clinton Acierto<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDXmAaAarcy4VEudS2a-yuWkJMRsetmDWzOTAiyVWSjNJvc7TOVQd4-vJOtl6rc_BBilRG4pk_g_XaLaxST6pdkCz_8NCuY7qb1ga5WQtqnycRuEG2O51aR5aYJUKAC1Kk6P3K7z2yc6CRl6MiNToYs79tHreAQqq4aSwho3eWnnClC",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJo8CY8yfND4gReSqFk87XuIw",
+            "plus_code":{
+                  "compound_code":"W79W+2G Chicago, IL, USA",
+                  "global_code":"86HJW79W+2G"
+            },
+            "rating":4.5,
+            "reference":"ChIJo8CY8yfND4gReSqFk87XuIw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"3028 West Armitage Avenue, Chicago",
+            "price_level":1.0,
+            "CBG":170312212001,
+            "Radius":241.3801907712
+      }
+]

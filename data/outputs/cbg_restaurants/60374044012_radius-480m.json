@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1332389,
+                        "lng":-117.923575
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1346090803,
+                              "lng":-117.9223271197
+                        },
+                        "southwest":{
+                              "lat":34.1319111197,
+                              "lng":-117.9250250803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116461980050217939002\">jQ \u2022<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECGv_89KnomNKWolBowfRTLmmxSmgmheYzFFOVcD496zi5IgoCt63P0Xb5OT1sft2nxTMH4Pr2Ql-9rI44pRN4P1_8h_Jum8BEn16lq9aKR6VKoo9J9203DoMl0-2dTdMt5FGcBTVxvRAxDJSpOUAixh3z1PoFeiUuLAt25p6leIz1J",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ3w5JwIknw4ARg2jSWL4wF-E",
+            "plus_code":{
+                  "compound_code":"43MG+7H Azusa, CA, USA",
+                  "global_code":"856443MG+7H"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ3w5JwIknw4ARg2jSWL4wF-E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":335,
+            "vicinity":"1150 West Foothill Boulevard, Azusa",
+            "CBG":60374044012,
+            "Radius":480.0785937638
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1332103,
+                        "lng":-117.924661
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1345715303,
+                              "lng":-117.9232072197
+                        },
+                        "southwest":{
+                              "lat":34.1318735697,
+                              "lng":-117.9259051803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carl's Jr.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":787,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104613127306458306043\">Carl&#39;s Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNrzVLOzaAyvnbVL6011ppMD10yik7e4nUifQ_6dt9O_WookScW7RxadMjS8cBs_qF8IdFbPJIZ4fuVkOGhGTzxI6OLiGcBe7-fnvmU76wIl8hTKOYOs9wgEl-5CKFCDiu_vaCqkU3ZkkWsshGhuYbrSK0Krih9olzWPaC_4VXWZD2",
+                        "width":1179
+                  }
+            ],
+            "place_id":"ChIJ5WrU24knw4AR8MnBtbvDkXI",
+            "plus_code":{
+                  "compound_code":"43MG+74 Azusa, CA, USA",
+                  "global_code":"856443MG+74"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ5WrU24knw4AR8MnBtbvDkXI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":339,
+            "vicinity":"1190 West Foothill Boulevard, Azusa",
+            "CBG":60374044012,
+            "Radius":480.0785937638
+      }
+]

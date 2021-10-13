@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.13271,
+                        "lng":-117.5735683
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1341721303,
+                              "lng":-117.5722219697
+                        },
+                        "southwest":{
+                              "lat":34.1314741697,
+                              "lng":-117.5749199303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Campus Dining Strategies",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJVVVlh0A2w4AR7zcAKzLHpfg",
+            "plus_code":{
+                  "compound_code":"4CMG+3H Rancho Cucamonga, CA, USA",
+                  "global_code":"85644CMG+3H"
+            },
+            "rating":5,
+            "reference":"ChIJVVVlh0A2w4AR7zcAKzLHpfg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"10605 Ring Avenue, Rancho Cucamonga",
+            "CBG":60710020293,
+            "Radius":397.2199190653
+      }
+]

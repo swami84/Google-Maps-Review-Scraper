@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1357001,
+                        "lng":-118.2633252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1369970303,
+                              "lng":-118.2621030197
+                        },
+                        "southwest":{
+                              "lat":34.1342990697,
+                              "lng":-118.2648009803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Atmosphere Restaurant & Lounge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102962819945159285103\">Jake Hagopian<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED2db7D5kPC3GCgWobBYSRhDzEkwx1tpvXN-bq7CzrWYJWdI3UySiTL23DRdXY1tnN7r4VqxVgbqxRBFyrYvnHxO-ea0GZia-YXXUmmKQIxHxY6hGI3lMaRj4CrjM-1vmqWfmwEny_lEMSugi823iuz9layhhVyt-3HL9q94yG4CurH",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJcZEJvPrAwoARNXgfl-10FfQ",
+            "plus_code":{
+                  "compound_code":"4PPP+7M Glendale, CA, USA",
+                  "global_code":"85634PPP+7M"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJcZEJvPrAwoARNXgfl-10FfQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":108,
+            "vicinity":"4608 San Fernando Road, Glendale",
+            "CBG":60373024014,
+            "Radius":300.2845726276
+      }
+]

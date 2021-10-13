@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.961721,
+                        "lng":-87.947964
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.9630671303,
+                              "lng":-87.9467475197
+                        },
+                        "southwest":{
+                              "lat":42.9603691697,
+                              "lng":-87.9494454803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114508929550305398537\">David Mouradian<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjhPMainyd7bKr1OhoAnicUFFauCl66VEctmzWgwJm1-E67F-mpzu9BnxxY3-yTk0Qz4mm0vSx6eI4ldvUwVX2En4z0LHUpNztq1mJYAyRQxS8sF4h6-sNUzrdWPJDkqFkP0lbU4l4ag62TmWjJsq6fdvbdy5VSoc-hXMyAewZgvJa",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJmdV8TScRBYgRH3JsOGpH4E8",
+            "plus_code":{
+                  "compound_code":"X362+MR Milwaukee, WI, USA",
+                  "global_code":"86JJX362+MR"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJmdV8TScRBYgRH3JsOGpH4E8",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":299,
+            "vicinity":"4550 South 27th Street, Milwaukee",
+            "CBG":550790214002,
+            "Radius":451.6030138368
+      }
+]

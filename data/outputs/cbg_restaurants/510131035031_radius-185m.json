@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":38.8640636,
+                        "lng":-77.0527263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8654084303,
+                              "lng":-77.0513375197
+                        },
+                        "southwest":{
+                              "lat":38.8627104697,
+                              "lng":-77.0540354803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Skydome Restaurant",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116370529918926282045\">Mike Gingerich<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYKuc7gsJRd-8m0cjEwlnJd8YbqIU4ORVdrNpCZmZsOc6McNQfcL0N9g89MABwXHxV0d79EfhrsPL5CT5TNH4T0-lS9pqsyCI9zM0FlpMN3abBrRsrcntu0svrGihuBHNVKY_zF7qA6h6KcAwubhPbwHEqbnu5SjWJXwxAFRRZXnFx",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJVyvxDiG3t4kRoI-JvdnRDQk",
+            "plus_code":{
+                  "compound_code":"VW7W+JW Arlington, VA, USA",
+                  "global_code":"87C4VW7W+JW"
+            },
+            "price_level":3,
+            "rating":3.9,
+            "reference":"ChIJVyvxDiG3t4kRoI-JvdnRDQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":487,
+            "vicinity":"300 Army Navy Drive, Arlington",
+            "CBG":510131035031,
+            "Radius":184.7822092929
+      }
+]

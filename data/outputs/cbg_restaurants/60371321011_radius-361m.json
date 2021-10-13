@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.194202,
+                        "lng":-118.494899
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1954025803,
+                              "lng":-118.4935550197
+                        },
+                        "southwest":{
+                              "lat":34.1927046197,
+                              "lng":-118.4962529803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Encino & Van Nuys My Taco Man Catering",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":339,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109053950211807614675\">Encino &amp; Van Nuys My Taco Man Catering<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC9NyLrH3O8jsx43UbPllodmCUl1tkfLm5zpKzAhRsWK7FPkm4yiO7sZSxsRCgq8z-jiiB497x59Pk9Fo6LU5igMo7RG7lPXxxDASszXn0RPV0VQlj1N8RVrgD6sVV713CTuma_7YPTfatg2v6iaklVREPZfKKFpW4jdrcLzfKho8Vr",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJM0LfgeaZwoARr-W0Jmdgzb0",
+            "plus_code":{
+                  "compound_code":"5GV4+M2 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635GV4+M2"
+            },
+            "rating":4.1,
+            "reference":"ChIJM0LfgeaZwoARr-W0Jmdgzb0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"16609 Vanowen Street #202, Van Nuys",
+            "CBG":60371321011,
+            "Radius":361.341296026
+      }
+]

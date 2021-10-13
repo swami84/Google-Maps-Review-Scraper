@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.855,
+                        "lng":-118.3983333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8563647303,
+                              "lng":-118.3969244197
+                        },
+                        "southwest":{
+                              "lat":33.8536667697,
+                              "lng":-118.3996223803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Uncle Stavros Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":685,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101875998493251463525\">Catherine A. Montgomery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECvTKbDx8ik6MC_C6esY5U5cLwO9OU26dBDW-jxpKO-lkhz1LgC3uLfujcOtFLCyhfIDtZ8YAqHg9O6P06krZum3GzDN_fzgYqgG9sTMnY1hAJLC4WApkbtmDIQJtYM5APTka7QWhbqzIF6PEhc6541xPlZRifA_nPXnj-q4ybxii8g",
+                        "width":912
+                  }
+            ],
+            "place_id":"ChIJD1FTq3yzwoARKJ1W6PZdcOY",
+            "plus_code":{
+                  "compound_code":"VJ32+XM Hermosa Beach, CA, USA",
+                  "global_code":"8553VJ32+XM"
+            },
+            "rating":4.5,
+            "reference":"ChIJD1FTq3yzwoARKJ1W6PZdcOY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"201 Hermosa Avenue, Hermosa Beach",
+            "CBG":60376211042,
+            "Radius":265.6979547863
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9773904,
+                        "lng":-118.3088497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9787393303,
+                              "lng":-118.3075670197
+                        },
+                        "southwest":{
+                              "lat":33.9760413697,
+                              "lng":-118.3102649803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rainbow Fish & Chicken",
+            "place_id":"ChIJRcFKrdG3woARhNN0K-mvFe4",
+            "plus_code":{
+                  "compound_code":"XMGR+XF Los Angeles, CA, USA",
+                  "global_code":"8553XMGR+XF"
+            },
+            "reference":"ChIJRcFKrdG3woARhNN0K-mvFe4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372373002,
+            "Radius":245.5009240499
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9802469,
+                        "lng":-118.3087602
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9815853803,
+                              "lng":-118.3075202197
+                        },
+                        "southwest":{
+                              "lat":33.9788874197,
+                              "lng":-118.3102181803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"C W & Chris",
+            "place_id":"ChIJ06g1g9q3woARH09kvwIfIZo",
+            "plus_code":{
+                  "compound_code":"XMJR+3F Los Angeles, CA, USA",
+                  "global_code":"8553XMJR+3F"
+            },
+            "reference":"ChIJ06g1g9q3woARH09kvwIfIZo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"6512 South Western Avenue, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116255292002554398353\">Rob Smith<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC_ldi2adDKsJVqfk0Y9w0qhwxIn8HkjEkD8AlxSSHt9yj53lgb0jCxwtUsLVgLUFNnG1iEwqjvMX3oDPA7Pi_ZV4lwaV7teibXvgkUP_rS7jQXSCRjnI6E2o0IfXaQPe3qbk86JzIkSMUa3M5af7ywM5CYqkoy8ypuyyxN7-c_hfmx",
+                        "width":3984
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.5,
+            "user_ratings_total":719.0,
+            "CBG":60372373002,
+            "Radius":245.5009240499
+      }
+]

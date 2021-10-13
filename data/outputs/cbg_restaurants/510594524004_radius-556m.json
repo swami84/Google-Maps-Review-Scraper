@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.800809,
+                        "lng":-77.1853629
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8022327803,
+                              "lng":-77.1839645197
+                        },
+                        "southwest":{
+                              "lat":38.7995348197,
+                              "lng":-77.1866624803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105972319743652218027\">Mike K<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBIiy6eKB2g2rtbMhzbi0gkjFesye1ZJd9IuaZfN0xj_3WbWYkZRT08JnP69yEhcCyjecgp0J1waNcs61jQDxR79sNhopjYk011naoHtBLU-fI-ysiFS-yGJGCmcNEXTA7cb-VMulkjQqOwZ9dyZ8sPYh2pHxkdaoqQ3d5Ic_WYhXTv",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ1_EIR8iyt4kRw4-_AquM59E",
+            "plus_code":{
+                  "compound_code":"RR27+8V Springfield, VA, USA",
+                  "global_code":"87C4RR27+8V"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ1_EIR8iyt4kRw4-_AquM59E",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":490,
+            "vicinity":"5506 Backlick Road, Springfield",
+            "CBG":510594524004,
+            "Radius":556.1833453018
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0334511,
+                        "lng":-118.1893463
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0348076303,
+                              "lng":-118.1880611697
+                        },
+                        "southwest":{
+                              "lat":34.0321096697,
+                              "lng":-118.1907591303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Las Palmitas Fruit",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108808018750934895609\">Aracely Monterde<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECcfROW--qkOKgLUSaU8As45gy47Mu4dBwHhWBhXpMKyJ6MK1pW_fQ7FECItp_app3mMhmspLQ4LrI09iM1UVuraHLZDC6oxAFm26gwrtoh0sVTVtk4oaJ61t_1cAnpDQxo3zkrtNMs_Sh5mxe5YAluOprcjEanUDTlcJFSlUMmlVuk",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJCeCbkFvPwoAR07GAFC1Br4Q",
+            "plus_code":{
+                  "compound_code":"2RM6+97 Los Angeles, CA, USA",
+                  "global_code":"85632RM6+97"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJCeCbkFvPwoAR07GAFC1Br4Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":273,
+            "vicinity":"3691 East 3rd Street, Los Angeles",
+            "CBG":60375311014,
+            "Radius":252.4866579751
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0351324,
+                        "lng":-118.1867697
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0364810303,
+                              "lng":-118.1854589697
+                        },
+                        "southwest":{
+                              "lat":34.0337830697,
+                              "lng":-118.1881569303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barbacoa tacos",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100875430924382039417\">Efrain Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPdpLiMy6tKLhPs-GX8o11LDUIFjvPvZosRe4nntyJl4feyq8kCj-oxvuFEaPgfJDjz2G-Kh0BL2h5ZUGzSrp2ZqHwfd91vHhprcEATt3X2Ap8nu8d7DcIhQCTeIERUEqCJldLflMAiiqoetNpRZqPYQocFKkZQeQvk09GL8zaZlWc",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJGUgaBTHPwoARoIcO6X06rOw",
+            "plus_code":{
+                  "compound_code":"2RP7+37 Los Angeles, CA, USA",
+                  "global_code":"85632RP7+37"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJGUgaBTHPwoARoIcO6X06rOw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"134 South Rowan Avenue, Los Angeles",
+            "CBG":60375311014,
+            "Radius":252.4866579751
+      }
+]

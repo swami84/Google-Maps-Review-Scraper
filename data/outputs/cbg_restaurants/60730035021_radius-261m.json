@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6969522,
+                        "lng":-117.1171467
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6982207803,
+                              "lng":-117.1158054697
+                        },
+                        "southwest":{
+                              "lat":32.6955228197,
+                              "lng":-117.1185034303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Giant Pizza King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114187596248570812362\">Giant Pizza King<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJrz70H89FpK8O_ylSN76vrRDE_LlnVDTAklnJraUThrLWi0XuZAYiL4bf1ufQ7BmSMoBmYbkkB8StSiI4Bmc6IhKTopbh_iWjEzSI_RBEYarT-iw0UYysekqWCCfpy9kjrwp4NvgEEj2ciLdjxNiLSnjemWuKN-42-62NZ_4FWuPG",
+                        "width":747
+                  }
+            ],
+            "place_id":"ChIJMfjdVKRT2YARpW6Pa6Y5T-w",
+            "plus_code":{
+                  "compound_code":"MVWM+Q4 San Diego, CA, USA",
+                  "global_code":"8544MVWM+Q4"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJMfjdVKRT2YARpW6Pa6Y5T-w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":278,
+            "vicinity":"3568 National Avenue, San Diego",
+            "CBG":60730035021,
+            "Radius":261.0917978705
+      }
+]

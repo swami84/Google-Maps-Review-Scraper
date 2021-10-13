@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0686747,
+                        "lng":-118.3024949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0700326803,
+                              "lng":-118.3010577697
+                        },
+                        "southwest":{
+                              "lat":34.0673347197,
+                              "lng":-118.3037557303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Joshua Chang",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112897842440670172720\">Josh Chang<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECU6CslTJGrlxKJ5wpaUEvKhHnp5X1ZKMHADXxi3bs__weVl2xnEvn_iVG1C3EKrojVpnz9RgCg5zOnfi9RQ8FXH_jDJFTAOANWKVM-HRBhFk4U9BVz4qhrwyLuY0EVJnFtu9uBqe8-z3XhBmBHy7uaL2cHdpkXKlmMoOPQKmxrT127",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJJV-ZYO65woARbv9HuJbAmTA",
+            "plus_code":{
+                  "compound_code":"3M9X+F2 Los Angeles, CA, USA",
+                  "global_code":"85633M9X+F2"
+            },
+            "reference":"ChIJJV-ZYO65woARbv9HuJbAmTA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4070 West 3rd Street, Los Angeles",
+            "CBG":60372118031,
+            "Radius":149.1788100993
+      }
+]

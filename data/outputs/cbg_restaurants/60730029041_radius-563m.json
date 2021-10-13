@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":32.7776826,
+                        "lng":-117.0614335
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7789662303,
+                              "lng":-117.0599826197
+                        },
+                        "southwest":{
+                              "lat":32.7762682697,
+                              "lng":-117.0626805803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Food of Joy",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111444803284460459485\">Alexa Barnes<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEArCEqDLUT35Ao2fKm222jqwPkvvbw-Ou9CA3_v8qIyzspxMeLtuPGoeD0051P7Nn0QdaGr5FrfasiAgueUfsErcC1Ml-umxa_fyc41OgGclebXPf_43q11RsfK3IxlM-lHkgcPwAES8TCube17Tm_da--vawOU61ZMRM6LboxjQDmy",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJdRP5-4dX2YARefKt6a33o7Q",
+            "plus_code":{
+                  "compound_code":"QWHQ+3C San Diego, CA, USA",
+                  "global_code":"8544QWHQ+3C"
+            },
+            "rating":2.4,
+            "reference":"ChIJdRP5-4dX2YARefKt6a33o7Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"6475 Alvarado Road #101, San Diego",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":60730029041,
+            "Radius":562.5620880663
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7773512,
+                        "lng":-117.0582823
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7784948803,
+                              "lng":-117.0572476697
+                        },
+                        "southwest":{
+                              "lat":32.7757969197,
+                              "lng":-117.0599456303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafe Alvarado",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJpZqlmyZX2YARbBjlLcFCivw",
+            "plus_code":{
+                  "compound_code":"QWGR+WM San Diego, CA, USA",
+                  "global_code":"8544QWGR+WM"
+            },
+            "rating":5.0,
+            "reference":"ChIJpZqlmyZX2YARbBjlLcFCivw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6635 Alvarado Road, San Diego",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":2.0,
+            "CBG":60730029041,
+            "Radius":562.5620880663
+      }
+]

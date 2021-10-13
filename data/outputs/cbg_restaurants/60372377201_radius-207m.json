@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9701492,
+                        "lng":-118.2873644
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9714979303,
+                              "lng":-118.2858899197
+                        },
+                        "southwest":{
+                              "lat":33.9687999697,
+                              "lng":-118.2885878803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Guero #1",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101334730192345167602\">Tacos El Guero #1<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2PhIdpyGpskMFMUkNRbZZtWK5yycuVVnGyqOOpGoFyphvu3Ft4Jzn45JtcR3oYqFkRTKeVZ55kOBcGhuB1Wzr3MMKIZcvxKnyDdPdXt9NgqX8nkFgvt2lh0GIEVMqh9rsuwemDs-YaVCGxVUGv-_Lwa-3D6XDNSYLAfjPrlzR4yIY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJvXo5_M3JwoARPtXQjuEXsIE",
+            "plus_code":{
+                  "compound_code":"XPC7+33 Los Angeles, CA, USA",
+                  "global_code":"8553XPC7+33"
+            },
+            "rating":4.7,
+            "reference":"ChIJvXo5_M3JwoARPtXQjuEXsIE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":96,
+            "vicinity":"7619 South Hoover Street, Los Angeles",
+            "CBG":60372377201,
+            "Radius":206.8507067931
+      }
+]

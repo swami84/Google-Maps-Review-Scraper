@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9581047,
+                        "lng":-76.8749148
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9594847303,
+                              "lng":-76.8735132697
+                        },
+                        "southwest":{
+                              "lat":38.9567867697,
+                              "lng":-76.8762112303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Adukes Kitchen Koko Lounge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108291103437399070943\">Adukes Kitchen Koko Lounge<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCM2e5lT_eEFpasjZvCSQl20LgenK73XmqwfndeoqyccyrRqKUmJDzrCkrDXUVMx5_KpJR-Mn-qmFoA-_rnmBJtAqagC1xyk3IERw58Be3f4ohwjt1tf8mdzxi-Lmrcoj5RfPl8KwFDSeawcEjR_W7zLTuMeqnZLOJ2MaRfW59ZgH-",
+                        "width":1066
+                  }
+            ],
+            "place_id":"ChIJ1xqYNRzBt4kRkKWb_peQsko",
+            "plus_code":{
+                  "compound_code":"X45G+62 New Carrollton, MD, USA",
+                  "global_code":"87C5X45G+62"
+            },
+            "rating":4.9,
+            "reference":"ChIJ1xqYNRzBt4kRkKWb_peQsko",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"7777 Riverdale Road, New Carrollton",
+            "CBG":240338036133,
+            "Radius":243.3560990488
+      }
+]

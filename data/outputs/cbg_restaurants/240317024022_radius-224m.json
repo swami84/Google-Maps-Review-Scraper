@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9950952,
+                        "lng":-77.0238869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9963707803,
+                              "lng":-77.0227176197
+                        },
+                        "southwest":{
+                              "lat":38.9936728197,
+                              "lng":-77.0254155803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"&pizza - Silver Spring",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4624,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114975411955905532461\">Dimitri Ivanoff<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGCPL87yp9RYXuGBUzR6NIRhIWOd3Qo9rwnOpJJOfhJxBcWqcKM49fqvVfldwHdXGHf-6Pw1RDq6Q-LePDMcmhi87Zdo4hf_vtf-TJPHZKpxMqW2wFEPBjJEdyXGxVdVnfqv-afYvObZIRjldad_e1hJ7jkzsVtifC6zEY-Q_eW_ND",
+                        "width":3472
+                  }
+            ],
+            "place_id":"ChIJcVjABgDJt4kRF7agmHZTiHQ",
+            "plus_code":{
+                  "compound_code":"XXWG+2C Silver Spring, MD, USA",
+                  "global_code":"87C4XXWG+2C"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJcVjABgDJt4kRF7agmHZTiHQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"8455 Fenton Street, Silver Spring",
+            "CBG":240317024022,
+            "Radius":223.6348161788
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9941859,
+                        "lng":-77.0238138
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9955305803,
+                              "lng":-77.0226185197
+                        },
+                        "southwest":{
+                              "lat":38.9928326197,
+                              "lng":-77.0253164803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Fogata",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":682,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113522421861755060203\">Alex Gomez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBea0R0M6OW2n2ptmBxnPel1saskvZVhc7AZostVDPd8q-ptkPdKmVgJvsfnge20wFIXBempy802xty41Xn2_WmUwjfEbYVw8R0Nsgk7hikz0wceoOF2J8AdhAylDtpGSrdnvu7OOlx0pG4QalMavkN9ZobMvxcjlcHxoYbvifgWFg",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJh0FgBbLJt4kRymJL0vrLp0Y",
+            "plus_code":{
+                  "compound_code":"XXVG+MF Silver Spring, MD, USA",
+                  "global_code":"87C4XXVG+MF"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJh0FgBbLJt4kRymJL0vrLp0Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"8333 Fenton Street, Silver Spring",
+            "CBG":240317024022,
+            "Radius":223.6348161788
+      }
+]

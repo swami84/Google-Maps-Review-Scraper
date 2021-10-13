@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":38.8669238,
+                        "lng":-77.0727009
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8684773803,
+                              "lng":-77.0713120697
+                        },
+                        "southwest":{
+                              "lat":38.8657794197,
+                              "lng":-77.0740100303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Potomac Restaurant & Lounge",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1794,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117049461566965279260\">Mike Atzeni DallasPlugEnt<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAUOmMPEI1ukzW6HAhmJHcYh09aBSmVbdeVqXVlJkbrfVKLOoGeoBt5i-4ZBi8edH_Y3hAW1SuCgpxwtiJiCgrXMMC9Xypq4IpOi8AHfM3yMYfIZPgGhHvFpASc19sBXsfTPLLEkNoxLtIOAOji6b3jnghiJAoOgpPlJ7nk89ldxxbM",
+                        "width":2771
+                  }
+            ],
+            "place_id":"ChIJ-YejM8K2t4kRRDBiorqDID0",
+            "plus_code":{
+                  "compound_code":"VW8G+QW Arlington, VA, USA",
+                  "global_code":"87C4VW8G+QW"
+            },
+            "price_level":2,
+            "rating":2.7,
+            "reference":"ChIJ-YejM8K2t4kRRDBiorqDID0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"900 South Orme Street, Arlington",
+            "opening_hours":null,
+            "CBG":510131025001,
+            "Radius":383.5966427456
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8670391,
+                        "lng":-77.0707004
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8682582803,
+                              "lng":-77.0693125697
+                        },
+                        "southwest":{
+                              "lat":38.8655603197,
+                              "lng":-77.0720105303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dama Restaurant and Pastry",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113569719016104757561\">Anisha Rao<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFoPt3_9JDwUT7xgZqoMSJrcp-lgfhF-EtHuZ5eUNBJd3PuxesdnctEuI0d0U0vyNhFV1oJUZDH0rehim4mg7UcnOjyR0iQGtzSumag-_1j23r5t_27D3knnVd3UByVnkHnfxBfPbgQV0siJvh4FR0usfIxJcXEkKYNr7JWF4A1Kj9",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJJe3a-MK2t4kR3daqipoxVNI",
+            "plus_code":{
+                  "compound_code":"VW8H+RP Arlington, VA, USA",
+                  "global_code":"87C4VW8H+RP"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJJe3a-MK2t4kR3daqipoxVNI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":765,
+            "vicinity":"1505 Columbia Pike, Arlington",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":510131025001,
+            "Radius":383.5966427456
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2281079,
+                        "lng":-118.4001399
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2295585303,
+                              "lng":-118.3986451197
+                        },
+                        "southwest":{
+                              "lat":34.2268605697,
+                              "lng":-118.4013430803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Comunion De Gracia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106346247099069536620\">Ver\u00f3nica Xolalpa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDT32pkwg-DoVJLd2z_lajDWbyxkUHFLSiBX_RUpcqTkxS_1fyAguQOEmeveCfaRQnhDrM2FAhrVJnpSAbpKUtm7BqEoMtiUpELnlmKQTwKEtz8d1a9nOPOEodAct461rWtXSiKgmvJy6UhKxVbjtDIy6gbSNwobBaUbRA9v6GOsJM3",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJuQbwoa6WwoAR7eyeknpiODQ",
+            "plus_code":{
+                  "compound_code":"6HHX+6W Sun Valley, Los Angeles, CA, USA",
+                  "global_code":"85636HHX+6W"
+            },
+            "rating":4.9,
+            "reference":"ChIJuQbwoa6WwoAR7eyeknpiODQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"8735 Laurel Canyon Boulevard, Sun Valley",
+            "CBG":60371212212,
+            "Radius":325.0828851432
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2259264,
+                        "lng":-118.3978143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2273669303,
+                              "lng":-118.3963342697
+                        },
+                        "southwest":{
+                              "lat":34.2246689697,
+                              "lng":-118.3990322303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Las Primas food truck",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103841173800205346956\">Llewellyn R<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDsawNr1pQGbqvOO9z78Ukj5H1sIlH7oRfya9xAYziL56Rm0ScaP5qOqm5dItBLhy4hvpGxrqObBQyqvnk51qYWTxnHftmv1GSOWsFleLwaHZyUdYRQ5rI-aMdvB471WeQnWQVQcX4kmETEtO6-7AWpNmfmhAoYXg2MVXznrok5VOUm",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJsQaG4IaXwoAR22XnN7AVarc",
+            "plus_code":{
+                  "compound_code":"6JG2+9V Sun Valley, Los Angeles, CA, USA",
+                  "global_code":"85636JG2+9V"
+            },
+            "rating":5.0,
+            "reference":"ChIJsQaG4IaXwoAR22XnN7AVarc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"8601 Laurel Canyon Boulevard, Sun Valley",
+            "CBG":60371212212,
+            "Radius":325.0828851432
+      }
+]

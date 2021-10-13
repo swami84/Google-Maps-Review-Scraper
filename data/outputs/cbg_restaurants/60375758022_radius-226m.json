@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7764163,
+                        "lng":-118.1982495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7777721803,
+                              "lng":-118.1967977197
+                        },
+                        "southwest":{
+                              "lat":33.7750742197,
+                              "lng":-118.1994956803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Leo's Mexican Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104260035982769375537\">Dennis Miller<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDls41eJ2P0U1tB1UWoFnfsrOKAK6IOhwi6j-Exo3vGPB6fOBgFgYmENZwvqUwP3Hs86b0cWe26JLMKdNS-ygHFrIJi6Sx8vKP4z1SyP7ORs_z2hZCFB75NOkNRtnfntQSdJ1F5jaDUTPOzakpKqLNH0Pt0IeVxnfqVDzODHYYmM3Sp",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJzcRHqzsx3YARKVJa-F2Mh_I",
+            "plus_code":{
+                  "compound_code":"QRG2+HP Long Beach, CA, USA",
+                  "global_code":"8553QRG2+HP"
+            },
+            "rating":4.3,
+            "reference":"ChIJzcRHqzsx3YARKVJa-F2Mh_I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":142,
+            "vicinity":"755 Magnolia Avenue, Long Beach",
+            "CBG":60375758022,
+            "Radius":226.2421334277
+      }
+]

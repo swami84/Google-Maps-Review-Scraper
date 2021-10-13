@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9888708,
+                        "lng":-118.3119243
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9901298303,
+                              "lng":-118.3106128197
+                        },
+                        "southwest":{
+                              "lat":33.9874318697,
+                              "lng":-118.3133107803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111421071281396210546\">Paul Prinz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQn_zJzRFVE1QmDXDvUctb6wiqBnqWiRd8a_U7SuZoOK5M85alyaXyFP_mnIj1usxU9xjsKgBEQxA8Tyq0bP1ztAhqNBy4FPkJVhQowrDPaI8yFBNJjD0WP5U1Oiv2yj4tcOfGXfUEFmIeD3oTOPon6qXougnihc0ZbREHS2fc5FXO",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJaUJVr8K3woARWGXxjh6xZ_w",
+            "plus_code":{
+                  "compound_code":"XMQQ+G6 Los Angeles, CA, USA",
+                  "global_code":"8553XMQQ+G6"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJaUJVr8K3woARWGXxjh6xZ_w",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1348,
+            "vicinity":"1900 West Slauson Avenue, Los Angeles",
+            "CBG":60372372022,
+            "Radius":308.7885409566
+      }
+]

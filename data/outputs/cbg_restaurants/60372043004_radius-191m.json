@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0429122,
+                        "lng":-118.20839
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0443341803,
+                              "lng":-118.2070048197
+                        },
+                        "southwest":{
+                              "lat":34.0416362197,
+                              "lng":-118.2097027803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Otomisan Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110294837466011001359\">sharon khaw<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAaQ3N28JojAIkT9Gyq2m66cF4FPD3WWwmcJ26vAiRcikQejjYZPlMzKIJFlf6od5m9I9v0KgnboasWhQim10wWr3g30cTYSFSCOlkIfkh1B-S7k2pKghextqjmUPtTiyv55a3NFxtLUef4oIQyuWcScg19y_9_jx29Idql1KIcDbO7",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ2RqKBAfGwoARXSZOQkp0C-E",
+            "plus_code":{
+                  "compound_code":"2QVR+5J Los Angeles, CA, USA",
+                  "global_code":"85632QVR+5J"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ2RqKBAfGwoARXSZOQkp0C-E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":217,
+            "vicinity":"2506 1\/2 E 1st St, Los Angeles",
+            "CBG":60372043004,
+            "Radius":190.6368134314
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.042746,
+                        "lng":-118.2079914
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0441602803,
+                              "lng":-118.2066003197
+                        },
+                        "southwest":{
+                              "lat":34.0414623197,
+                              "lng":-118.2092982803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Sarape",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110334653412576275967\">unicorn squad<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAv1DuxbGG9WDxhYBD629iXBxxbTHO-AE_DiAQLH13GzV3bpbQu1GFvySeziAWunu7fbEQzkVjcjakcS-QI2mln2zHAPFw0eiVeml8viv4LLvVJM1Oo7sZffYrRhuurA3qnx2uL0Moq65HkTOvECpm9xmrjYCjrnKAVv7uLWfKzoPuZ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJY5OqEAfGwoARZxKif31h6uU",
+            "plus_code":{
+                  "compound_code":"2QVR+3R Los Angeles, CA, USA",
+                  "global_code":"85632QVR+3R"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJY5OqEAfGwoARZxKif31h6uU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"2522 East 1st Street, Los Angeles",
+            "CBG":60372043004,
+            "Radius":190.6368134314
+      }
+]

@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8343619,
+                        "lng":-118.1352313
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8357127303,
+                              "lng":-118.1334132697
+                        },
+                        "southwest":{
+                              "lat":33.8330147697,
+                              "lng":-118.1361112303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LBCC Cafeteria",
+            "place_id":"ChIJh5spY9sz3YARZMuSL6SWS9U",
+            "plus_code":{
+                  "compound_code":"RVM7+PW Long Beach, CA, USA",
+                  "global_code":"8553RVM7+PW"
+            },
+            "reference":"ChIJh5spY9sz3YARZMuSL6SWS9U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Long Beach",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60375712003,
+            "Radius":363.5005666077
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8319872,
+                        "lng":-118.1352068
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8333361803,
+                              "lng":-118.1338578197
+                        },
+                        "southwest":{
+                              "lat":33.8306382197,
+                              "lng":-118.1365557803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LBCC Bistro",
+            "place_id":"ChIJg7LHDGoy3YARnE6xgbrgu0E",
+            "plus_code":{
+                  "compound_code":"RVJ7+QW Long Beach, CA, USA",
+                  "global_code":"8553RVJ7+QW"
+            },
+            "reference":"ChIJg7LHDGoy3YARnE6xgbrgu0E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4901 East Carson Street Ste V-101, Long Beach",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102509735410363050584\">LBCC Bakery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAB_EpHuK_rnADUit1RvJkADR75yzftS-K0cn-MdYRen3eLwB6h0jC4sMLxxOJutOtYtGh_AEaOxdZmSdryJvgjfHdIlBAkyMhzwXeYIMSq_pkQcnhx6Hics_fPvY-C0P7xakp7Ov6QTdF1fOd063RUADyioSzXzrl1yl6Cp2Z4ppTv",
+                        "width":1450
+                  }
+            ],
+            "rating":4.5,
+            "user_ratings_total":24.0,
+            "CBG":60375712003,
+            "Radius":363.5005666077
+      }
+]

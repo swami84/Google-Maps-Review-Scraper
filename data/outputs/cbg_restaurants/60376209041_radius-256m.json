@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8829479,
+                        "lng":-118.4100104
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8843298803,
+                              "lng":-118.4085557697
+                        },
+                        "southwest":{
+                              "lat":33.8816319197,
+                              "lng":-118.4112537303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Arthur J",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114892552042533857962\">Zack Cho<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDRlbESLNF1kDfBkOP2K2ch66eq9VkfbHZ2kA3_XiURmRYGxisLCazpMfm7deISUrjXnNNoG9FTnatv3Z2K9SRFcYGCh_YkHE9gmKWRHzOFXgxfiRC4esBbVh3sGl_tZwtnIggVYyKHg-iMpZOt0tcL7la9CTXz3df-qRK5dswA0Me9",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJxanJrOyzwoARK-SmTA4f2vM",
+            "plus_code":{
+                  "compound_code":"VHMQ+5X Manhattan Beach, CA, USA",
+                  "global_code":"8553VHMQ+5X"
+            },
+            "price_level":4,
+            "rating":4.7,
+            "reference":"ChIJxanJrOyzwoARK-SmTA4f2vM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":449,
+            "vicinity":"903 Manhattan Avenue, Manhattan Beach",
+            "CBG":60376209041,
+            "Radius":256.1818345109
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8828759,
+                        "lng":-118.409376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8842320303,
+                              "lng":-118.4080460697
+                        },
+                        "southwest":{
+                              "lat":33.8815340697,
+                              "lng":-118.4107440303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"RICE Sake & Real Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":731,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106999653758610400015\">RICE<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAbP6jZOmokXLGILvGLbE7YJ2fNHiX4DEcNnrwf8uc4Qzchcx-wqGXVaz_2HNPnDXzO01BxjKR7c7yKH8BhwDLBDs3sDTbno2sPjV5L-1SoJCxNjdVx5rs-CHaU8rYYDEwo-XtFN3T3csLJXev2Prx-Ie6xvK-c1OWN1cPFoBt_QgcD",
+                        "width":1110
+                  }
+            ],
+            "place_id":"ChIJB68_TJOzwoARn9n3EKjCMcc",
+            "plus_code":{
+                  "compound_code":"VHMR+56 Manhattan Beach, CA, USA",
+                  "global_code":"8553VHMR+56"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJB68_TJOzwoARn9n3EKjCMcc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":232,
+            "vicinity":"820 Manhattan Avenue STE 105, Manhattan Beach",
+            "CBG":60376209041,
+            "Radius":256.1818345109
+      }
+]

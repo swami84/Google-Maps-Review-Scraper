@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1795969,
+                        "lng":-118.5327967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1809460803,
+                              "lng":-118.5313458697
+                        },
+                        "southwest":{
+                              "lat":34.1782481197,
+                              "lng":-118.5340438303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dine in 7",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5412,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114805171126151848106\">Dine in 7<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-mTZB8VvO6ppSMuYWl_ogmLpc3d1DawGiIaQgYZ_CaG6N9QYcB1IMrCRKxJlQNe79OQV4ZIDRLegaHVs4J8qpjz5E55PR_atgZu3cXoUBGepP2TfQIrbcEVn_UZv-viSYRXaWJ7cOULtzJQchzlRAt_MtJRd42bhJbyzBk6CwkoIr",
+                        "width":7216
+                  }
+            ],
+            "place_id":"ChIJwfWk3U-ZwoAR85ejsyucGqE",
+            "plus_code":{
+                  "compound_code":"5FH8+RV Tarzana, Los Angeles, CA, USA",
+                  "global_code":"85635FH8+RV"
+            },
+            "price_level":1.0,
+            "reference":"ChIJwfWk3U-ZwoAR85ejsyucGqE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"18356 West Oxnard Street #5, Tarzana",
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60371393031,
+            "Radius":299.6967420648
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1792709,
+                        "lng":-118.5356858
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1805836303,
+                              "lng":-118.5343920697
+                        },
+                        "southwest":{
+                              "lat":34.1778856697,
+                              "lng":-118.5370900303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barin Russian cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118238784253024195089\">Gevorg Gevorgyan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYjFxUQCTTIhuQ8-aQaZr2uJpNixoeZ8p11qnyl4hV4nO3NxD_EiP3D4s3oX6q6olk8E9QfyefwczEKbpITCvUWmjGcw0gpQEDiv_udq3PFFcNHsJEtKudsLCB-QJgfyBS04ZY5M9sQz4PTDA7uJWi61qZej6asLaUqppFauqePvA",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhfjYH3WZwoARx7tZnDqvMDA",
+            "plus_code":{
+                  "compound_code":"5FH7+PP Tarzana, Los Angeles, CA, USA",
+                  "global_code":"85635FH7+PP"
+            },
+            "price_level":null,
+            "reference":"ChIJhfjYH3WZwoARx7tZnDqvMDA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"6020 Reseda Boulevard, Tarzana",
+            "rating":4.5,
+            "user_ratings_total":91.0,
+            "CBG":60371393031,
+            "Radius":299.6967420648
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1089613,
+                        "lng":-118.3695205
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1102844303,
+                              "lng":-118.3683214697
+                        },
+                        "southwest":{
+                              "lat":34.1075864697,
+                              "lng":-118.3710194303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pace",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114681950357164923681\">Pace<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhsLOBV-g8-zEZNpi2d2R1_aWYGqJ-b4S1p3np_lJJzJiLMkrrGw84YUq70ZYPkB_Pnc75jsm5CppJO_eS34QEjw59KVnn_nkYWqECGda9YXSpmt-lQQ3muTWvSTnMt2VdZeJvD0ZF-kAWa0FIksU_2wlEXReVPzUfR3DKnQdan62O",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJk6fFsvK-woARmlVDAS6VLHI",
+            "plus_code":{
+                  "compound_code":"4J5J+H5 Los Angeles, CA, USA",
+                  "global_code":"85634J5J+H5"
+            },
+            "price_level":3,
+            "rating":4.6,
+            "reference":"ChIJk6fFsvK-woARmlVDAS6VLHI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":318,
+            "vicinity":"2100 Laurel Canyon Boulevard, Los Angeles",
+            "CBG":60371941022,
+            "Radius":569.4073414427
+      }
+]

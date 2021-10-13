@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.98317,
+                        "lng":-118.238149
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9845933303,
+                              "lng":-118.2367996697
+                        },
+                        "southwest":{
+                              "lat":33.9818953697,
+                              "lng":-118.2394976303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ranchito Jr Mexican & Seafood",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109336844096233729765\">Noemi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDxGORNdNeKiIr1LD1eXytCEsTXxTJGx2VPQAXwSNK43YMC3jLDMZcub3Rvu93zYO0v5nNnvbXERyhmreB0r6g4GvndzcKN6abgiubUApfMs0-XLD3tt-9oIY6v8u5seXDxZ50J12cSd1iydrsi2OcELpYAlEeC2cei4CPJG9dIi_UB",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJm4D850jJwoAR7P5F2XGmEAc",
+            "plus_code":{
+                  "compound_code":"XQM6+7P Firestone Park, Florence-Graham, CA, USA",
+                  "global_code":"8553XQM6+7P"
+            },
+            "rating":4,
+            "reference":"ChIJm4D850jJwoAR7P5F2XGmEAc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"Firestone Park",
+            "CBG":60375326031,
+            "Radius":395.3520011605
+      }
+]

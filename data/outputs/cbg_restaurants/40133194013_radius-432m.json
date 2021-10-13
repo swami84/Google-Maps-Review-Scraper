@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3914988,
+                        "lng":-111.9095809
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3928664303,
+                              "lng":-111.9081791197
+                        },
+                        "southwest":{
+                              "lat":33.3901684697,
+                              "lng":-111.9108770803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":650,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101940520786536159541\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECZC-E2FHJBfxB7xik2Ht4rv0TTmz5UAf4cE1nzuPB_CAKlOx4rKpIH8s8LLBBFLwii2j1Epkv97w_fw3-EdsdgMhe81YSmDIwMclyQMIOq2RO5oOmRqYq1g1sl7B_HyfUrzAXpqvkZh-TklzgEj9Rw2X26jILxX_R9Dc_7Uxwue97i",
+                        "width":650
+                  }
+            ],
+            "place_id":"ChIJ1_tfcy0JK4cRn3qnK5KxSxk",
+            "plus_code":{
+                  "compound_code":"93RR+H5 Tempe, AZ, USA",
+                  "global_code":"855C93RR+H5"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ1_tfcy0JK4cRn3qnK5KxSxk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"3402 South McClintock Drive, Tempe",
+            "CBG":40133194013,
+            "Radius":432.0473064438
+      }
+]

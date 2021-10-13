@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9116809,
+                        "lng":-118.2230631
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9130422803,
+                              "lng":-118.2215935697
+                        },
+                        "southwest":{
+                              "lat":33.9103443197,
+                              "lng":-118.2242915303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barcacoa y consome carnitas",
+            "photos":[
+                  {
+                        "height":3468,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102910860119864510441\">antonio chavez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2pZQ7SMhBGekV8SEJhgeXx0sQfrWaxU1ayY4YgWq8Qyyfa0C6bsMJB3IBfuE7GRiPjZGSzL70Q74Wic3-d-8tu994f6HB6Dd7WwUBIwcVUi8bvV1fXFx6esx_HWwIZ2_7qaeixedx0zg-P0CjInaR5End6wPwZ03V9DnX-dTrCgdZ",
+                        "width":4624
+                  }
+            ],
+            "place_id":"ChIJzf_IQJHLwoARFEu5F0YRy00",
+            "plus_code":{
+                  "compound_code":"WQ6G+MQ Compton, CA, USA",
+                  "global_code":"8553WQ6G+MQ"
+            },
+            "reference":"ChIJzf_IQJHLwoARFEu5F0YRy00",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"13233 Alameda Street, Compton",
+            "CBG":60375415002,
+            "Radius":212.9499932503
+      }
+]

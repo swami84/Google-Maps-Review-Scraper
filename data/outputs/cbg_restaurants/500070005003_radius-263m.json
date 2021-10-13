@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.4791731,
+                        "lng":-73.2113603
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.4806108303,
+                              "lng":-73.2100184697
+                        },
+                        "southwest":{
+                              "lat":44.4779128697,
+                              "lng":-73.2127164303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Penny Cluse",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115994120536884449982\">Misty Peck<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-HSeNI8NhLJx7PqG66KygmPaJV-Hm-OCwXbkgk1qYVmwh0QBufesrqGQKZqG4WyHHg4jmCkKVh2JchZBlpN23UpLumzYmeicPHjV6jKRzlC7a948MRRWqZkfIn-_17Y-ioSt_2o3y9Ogb9AuhhX6SiBE9TX67-eP8EYQqJAO_KtSC",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJGWYkX_Z6ykwR43-U0urQKZY",
+            "plus_code":{
+                  "compound_code":"FQHQ+MF Burlington, VT, USA",
+                  "global_code":"87P8FQHQ+MF"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJGWYkX_Z6ykwR43-U0urQKZY",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":760,
+            "vicinity":"169 Cherry Street, Burlington",
+            "CBG":500070005003,
+            "Radius":263.4106850345
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.4781218,
+                        "lng":-73.2096666
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.4793871803,
+                              "lng":-73.2084245197
+                        },
+                        "southwest":{
+                              "lat":44.4766892197,
+                              "lng":-73.2111224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Folino's Wood Fired Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113010825450466524099\">Zachary Hubbell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBo3mHreoXL_uLJF1y_nFYQuhd6NV2V9GsL4GhbwNjOhZXvAcVnCcvX2T8WeYhYa0ZOtWRD660izlm9s0xFff_hWMe8kE-iZPEOdeM4DI5ssSvaWTIyUlbosOLjmcyRhgtzec87sUIff82WRhBr1Szn4YYhKqNnzA7Lmbd_E7RkXxY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ_yNbLPZ6ykwR8nCbVpL5cH0",
+            "plus_code":{
+                  "compound_code":"FQHR+64 Burlington, VT, USA",
+                  "global_code":"87P8FQHR+64"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ_yNbLPZ6ykwR8nCbVpL5cH0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":392,
+            "vicinity":"71 South Union Street #1, Burlington",
+            "CBG":500070005003,
+            "Radius":263.4106850345
+      }
+]

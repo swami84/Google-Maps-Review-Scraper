@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.978312,
+                        "lng":-118.2999952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9796610803,
+                              "lng":-118.2987962697
+                        },
+                        "southwest":{
+                              "lat":33.9769631197,
+                              "lng":-118.3014942303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Guanaquito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105678415565437077974\">SAUL GUTIERREZ<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAnzjXm9uvEGJtiNwEidP3mS84G4v5rijlfzVGqLx2YANgMsnDDhsPRPI84Dy9XTgYjp7QcH4SJuYNO0rar1-W9BDFpmfoeCIDpcK-IfR0dI-JI9Pqh-G10qXX-tfGk68yqzLksUfAMzfTI5l-jQ4tw8Ib7s9mXOGX2ahMDwsOyyeg",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJeUGIGNa3woARs9uBw-Bo0Jk",
+            "plus_code":{
+                  "compound_code":"XPH2+82 Los Angeles, CA, USA",
+                  "global_code":"8553XPH2+82"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJeUGIGNa3woARs9uBw-Bo0Jk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":301,
+            "vicinity":"6706 Normandie Avenue, Los Angeles",
+            "CBG":60372374022,
+            "Radius":236.6437370317
+      }
+]

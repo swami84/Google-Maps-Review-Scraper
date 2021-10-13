@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.5641223,
+                        "lng":-77.4473108
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5654884303,
+                              "lng":-77.4458203197
+                        },
+                        "southwest":{
+                              "lat":37.5627904697,
+                              "lng":-77.4485182803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thirst Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1241,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106326557909687388175\">Thirst Bistro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC05G0l6rCjFqFdef6YwELyzMXAY8Y-Qqi2l286SkDBzVoY8_jJWfx1UsnsWYZyDmASOTbK5YXkqdWelvYoCMLTd02e1pqgTT9DEe9cPn07cW0sb06NvlWdfFyOnO_Ln9BD4KiBV0dMONV1G_9mqekc4FHfkTuOKyPjoe67rzb_npS7",
+                        "width":933
+                  }
+            ],
+            "place_id":"ChIJybA6i7UWsYkRovNwfy4ru-c",
+            "plus_code":{
+                  "compound_code":"HH73+J3 Richmond, VA, USA",
+                  "global_code":"8794HH73+J3"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJybA6i7UWsYkRovNwfy4ru-c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"2400 Northumberland Avenue, Richmond",
+            "CBG":517600111004,
+            "Radius":522.0601422796
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.5636004,
+                        "lng":-77.4442148
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5650959803,
+                              "lng":-77.4427767697
+                        },
+                        "southwest":{
+                              "lat":37.5623980197,
+                              "lng":-77.4454747303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sugar's Crab Shack",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113353860998641785820\">pretvl323<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-YUqX9DVMCXbU1566gYBzvO1TibVXIdrxpDNc6L89myo6QT2-DwRhlpeFY3ye68F7MiePs0FHOlOtdCBfZAkSID-EscqoGeL_FsUYZ_9a4R-ZlaSlvNaB-QeEtyWkiwnWc4UCAq2IczZuWhRY0sssm5IaD71QjRpRDJE7HWOln4OB",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJqxL1tMsWsYkRHHoYazZYm5U",
+            "plus_code":{
+                  "compound_code":"HH74+C8 Richmond, VA, USA",
+                  "global_code":"8794HH74+C8"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJqxL1tMsWsYkRHHoYazZYm5U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1377,
+            "vicinity":"2224 Chamberlayne Avenue, Richmond",
+            "CBG":517600111004,
+            "Radius":522.0601422796
+      }
+]

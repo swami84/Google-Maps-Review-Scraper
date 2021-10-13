@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.010987,
+                        "lng":-118.269761
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0123301803,
+                              "lng":-118.2684641697
+                        },
+                        "southwest":{
+                              "lat":34.0096322197,
+                              "lng":-118.2711621303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Loca",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":692,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102148599190513144632\">Pizza Loca<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAol0ktXSZ-KQs-T6-jfYaF7b8XR-tmrbq7VUrvnEAXzdTGANeTZHwQJW9LhYWXi2cNlQdbLcHLMMbzqOx0CZh17ZExNXONSqMAH1C8i6PUu3ULz620f3uaahA9reEoMDq5iPvAODsf0NwRV4mgjQZs4k4BlmCSlbEqI3fJF1GLfZ0q",
+                        "width":498
+                  }
+            ],
+            "place_id":"ChIJ38O_8XHIwoAR75Zojj5LzuM",
+            "plus_code":{
+                  "compound_code":"2P6J+93 Los Angeles, CA, USA",
+                  "global_code":"85632P6J+93"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJ38O_8XHIwoAR75Zojj5LzuM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":432,
+            "vicinity":"252 East Martin Luther King Junior Boulevard, Los Angeles",
+            "CBG":60372284103,
+            "Radius":214.0904335816
+      }
+]

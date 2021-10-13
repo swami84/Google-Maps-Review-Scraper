@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9901236,
+                        "lng":-87.7478798
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9915283303,
+                              "lng":-87.7465913197
+                        },
+                        "southwest":{
+                              "lat":41.9888303697,
+                              "lng":-87.7492892803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chai's Asian Bistro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":687,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112967303393470963649\">Vanessa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDluun3m49UCev6UOC6dSlaIbyptzIsNcAwyJV44IyUKmGXaNlL0dsqeAcQSNwx8ckJ2GA4GyTZRCbE5ENVx6vOL8bkqSvO0Tvrycx1HmZF99tSbi7NegG4d0mtBzn0bF9jr-7kkxNE8CJM3GU0CYAoiRGcSaKgJOyJya3NQ3VGFz7-",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJ40U_xpHOD4gRKkGOrS6uk8U",
+            "plus_code":{
+                  "compound_code":"X7R2+2R Chicago, IL, USA",
+                  "global_code":"86HJX7R2+2R"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ40U_xpHOD4gRKkGOrS6uk8U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"4748 West Peterson Avenue, Chicago",
+            "CBG":170311203004,
+            "Radius":319.6979167504
+      }
+]

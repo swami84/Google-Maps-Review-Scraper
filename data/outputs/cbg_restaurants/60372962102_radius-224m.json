@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7486661,
+                        "lng":-118.280142
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7500193803,
+                              "lng":-118.2787955197
+                        },
+                        "southwest":{
+                              "lat":33.7473214197,
+                              "lng":-118.2814934803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Super Churros California",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118299811371997151867\">Super Churros California<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECaYsuYjQeAb_PAKbDmwuxwjPRtKQKH9XSh7Hl-Vaw7lYMDFSzKhSYSEkaXRF4x-2vWYcgvMOPRLykb1PA7JAKiFgw3lXoBHknbPy9lD2LttjXNyjpB8WfGVcwIB2EZVyHN2OOa3wtg4dva5bjYIjP5ry_8v_TrqOqpApyyZirnrCAX",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJjfHS3a433YARM--0OE2Q-zQ",
+            "plus_code":{
+                  "compound_code":"PPX9+FW San Pedro, Los Angeles, CA, USA",
+                  "global_code":"8553PPX9+FW"
+            },
+            "rating":4.8,
+            "reference":"ChIJjfHS3a433YARM--0OE2Q-zQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"684 Swinford Street, San Pedro",
+            "CBG":60372962102,
+            "Radius":223.8119526946
+      }
+]

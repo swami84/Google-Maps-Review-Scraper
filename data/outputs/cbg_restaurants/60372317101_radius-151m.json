@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0074626,
+                        "lng":-118.2913869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0088125803,
+                              "lng":-118.2901273697
+                        },
+                        "southwest":{
+                              "lat":34.0061146197,
+                              "lng":-118.2928253303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tom's Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110610968586373835164\">Billy Harwood<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDzwEa3gI0G1zmL2sX2GlV8S_1nEip9d1j0oGPrx5IzA6yhj7Hdo2jnclnGlTdC7SURlI6bb-R3-hTfVV1G-baH94nbzTaYAuVvNvOvDsj3bsgGgWdMgZG0S0aNKoM-ZcklBd33l-iDxFkWlOQkT5n8DzEb3mA3FgKnTumNvCpUhnOg",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJKYM1VgTIwoARdkP-P1omtlI",
+            "plus_code":{
+                  "compound_code":"2P45+XC Los Angeles, CA, USA",
+                  "global_code":"85632P45+XC"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJKYM1VgTIwoARdkP-P1omtlI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":171,
+            "vicinity":"4182 South Vermont Avenue, Los Angeles",
+            "CBG":60372317101,
+            "Radius":150.5012066096
+      }
+]

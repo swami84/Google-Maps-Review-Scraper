@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7683425,
+                        "lng":-122.2234334
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7697697303,
+                              "lng":-122.2220792197
+                        },
+                        "southwest":{
+                              "lat":37.7670717697,
+                              "lng":-122.2247771803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105300701686198540366\">Edward Hightower<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDaGdoboP_NTSOewd3A9Jpsl-a_lSMncxT6cFzBfREUmfgbQuxyy02mXYx0jeBwgtk0Yj-CcR8kyJtRwZG6ScnCoUA6VA9o-7GvzOlln6N4apRVgDb2MOPLyCt9M5j20KP0dADIjDIpkQvEW2oy-eI3dYlXASQxHv9OyrujefzN2_s0",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJEbzED4mGj4AREI6TpAT3gWE",
+            "plus_code":{
+                  "compound_code":"QQ9G+8J Oakland, CA, USA",
+                  "global_code":"849VQQ9G+8J"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJEbzED4mGj4AREI6TpAT3gWE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":850,
+            "vicinity":"4010 Alameda Avenue, Oakland",
+            "CBG":60014061002,
+            "Radius":443.6331434955
+      }
+]

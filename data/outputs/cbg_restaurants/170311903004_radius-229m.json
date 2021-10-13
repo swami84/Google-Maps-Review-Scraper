@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9315859,
+                        "lng":-87.7605204
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9329752803,
+                              "lng":-87.7591448197
+                        },
+                        "southwest":{
+                              "lat":41.9302773197,
+                              "lng":-87.7618427803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Mirador",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109028811946854226325\">Bryan Villanueva<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED7QKcHoBobxozLfWAIcQaq_3me-odiV0M1rcVc4eOVRaeZhlieAXlLqNVXlzsuZuDpAvgJVc--Kdx8dWDAiqHqDUw6wc_8yLRqJniqirEHKxmThRWGSufWjWV3pn-eDTz8JKfIIuwbgFwkIaitn5U6C56OUO_Lt4sVXPVuiy4dtCFH",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJwbVdFIzMD4gR0tcrPMtiTfw",
+            "plus_code":{
+                  "compound_code":"W6JQ+JQ Chicago, IL, USA",
+                  "global_code":"86HJW6JQ+JQ"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJwbVdFIzMD4gR0tcrPMtiTfw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":503,
+            "vicinity":"5340 West Diversey Avenue, Chicago",
+            "CBG":170311903004,
+            "Radius":229.2901451468
+      }
+]

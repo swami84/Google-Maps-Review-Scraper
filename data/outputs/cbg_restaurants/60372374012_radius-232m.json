@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9794054,
+                        "lng":-118.2921038
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9807159303,
+                              "lng":-118.2907519197
+                        },
+                        "southwest":{
+                              "lat":33.9780179697,
+                              "lng":-118.2934498803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Village Market Place Store & Soulful Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3780,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110875168469730458605\">Village Market Place Store &amp; Soulful Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAVsqrFlOwfy9p4DElLr02pqZbITOQBdYxE2kkd-pA2jUFvHEnxJiDdTUVHFxQFlwkhhi9SUYQvI7xe8MltoBpYJhIsuvYvXzBztKGlTc57WIpZlV3JyfWvFyb6Pjo8xvnZ6sWCxOfftkq6rQhd5ogjOvcNDnFTY9loxZIpjlKqgiXb",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJL6BHV9bJwoARdrseFsd9nk4",
+            "plus_code":{
+                  "compound_code":"XPH5+Q5 Los Angeles, CA, USA",
+                  "global_code":"8553XPH5+Q5"
+            },
+            "rating":4.9,
+            "reference":"ChIJL6BHV9bJwoARdrseFsd9nk4",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"6569 South Vermont Avenue, Los Angeles",
+            "CBG":60372374012,
+            "Radius":231.6010266398
+      }
+]

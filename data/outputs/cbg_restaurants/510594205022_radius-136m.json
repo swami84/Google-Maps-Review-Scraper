@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.7900702,
+                        "lng":-77.0654225
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.7913936803,
+                              "lng":-77.0640283697
+                        },
+                        "southwest":{
+                              "lat":38.7886957197,
+                              "lng":-77.0667263303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Juliano's Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105844341447885744839\">Juliano&#39;s Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECp1_0TaoFRcydeeRoWbHNw4YXS8c2-qxRIwgVot6gRHkpkVH0BBd2i0sAMc7UjSc7HeKFlMzS0HYxTWBioyJbTyI3fNquWEc9H8hkkE3cpzhLr-Y-R0I4FHnuqn17MM3bKkgzHfkIvgNmy2Fau_3MZ580QyeVo0HyKF52PnhyHzajb",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJCa7qk7ext4kRqruSypSSAxE",
+            "plus_code":{
+                  "compound_code":"QWRM+2R Alexandria, VA, USA",
+                  "global_code":"87C4QWRM+2R"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJCa7qk7ext4kRqruSypSSAxE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":193,
+            "vicinity":"5950 Richmond Highway, Alexandria",
+            "CBG":510594205022,
+            "Radius":135.6509351623
+      }
+]

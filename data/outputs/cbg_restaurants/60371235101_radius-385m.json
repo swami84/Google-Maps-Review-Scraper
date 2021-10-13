@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1943167,
+                        "lng":-118.4317778
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1956289803,
+                              "lng":-118.4303111697
+                        },
+                        "southwest":{
+                              "lat":34.1929310197,
+                              "lng":-118.4330091303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Huarache Veloz",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2252,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109474264215596329942\">Alex p<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5_2nyfUkdV-I6wHF1QHzyuoPRNRg_b7IR7lOqc7tCTf97x5ZjVIfhL-6ph36fxk14T3xG-TPnLZgzVCLySwxw7UY_0mO3DJrEscRZIiDyJBjXWrb6VEYmqSHupie-Re9gbbGZBw74hBwT1qh4lCEO3dMKcDetukPBjAR8tHQUYLIY",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJL63XL_uWwoARVxJ9tnHj6zc",
+            "plus_code":{
+                  "compound_code":"5HV9+P7 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635HV9+P7"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJL63XL_uWwoARVxJ9tnHj6zc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":473,
+            "vicinity":"6801 Woodman Avenue, Van Nuys",
+            "CBG":60371235101,
+            "Radius":384.5075154734
+      }
+]

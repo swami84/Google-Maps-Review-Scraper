@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9842795,
+                        "lng":-87.7843795
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9855721803,
+                              "lng":-87.7830950697
+                        },
+                        "southwest":{
+                              "lat":41.9828742197,
+                              "lng":-87.7857930303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Highway House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105990508830144010253\">Highway House<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwigm2eA4yr-LoFwj06Ms2juc4tuIia0lSDCP_5h7oZM67fD6S3LEkVHuYLr41W-m7HN7O8kkwVPXSjuWkU4zZSCAK2qpw81YY4PvpX98QLuHgqnaFrNridJFrM_hGZwjRosjb7-gDlsvtc2ExfGfVNlwAOWR9rpOa_W42CCuNzaUj",
+                        "width":4282
+                  }
+            ],
+            "place_id":"ChIJ1yh871DJD4gRyHuuInxKBX8",
+            "plus_code":{
+                  "compound_code":"X6M8+P6 Chicago, IL, USA",
+                  "global_code":"86HJX6M8+P6"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ1yh871DJD4gRyHuuInxKBX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":317,
+            "vicinity":"5653 North Northwest Highway, Chicago",
+            "CBG":170311001004,
+            "Radius":227.4684782974
+      }
+]

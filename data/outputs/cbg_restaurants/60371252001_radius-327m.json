@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1719194,
+                        "lng":-118.3817917
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1733919303,
+                              "lng":-118.3804510697
+                        },
+                        "southwest":{
+                              "lat":34.1706939697,
+                              "lng":-118.3831490303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Coffee for Breakfast",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114370446973368000450\">Tiffany Rochelle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED_urlnJT4f1yaiXHh_GjrBWaCwL7heXGp7Kmpaew5oHEvu_Jp5X2VU4MP3rKPdTB84l0UsJcBYooDwD_9w-tj1oEOM4oLi_mf5OglqLjlIwLDqhZuYJ6LUze1uWXOrZpUX2abQ6_AnJYF2opB2MIhPbXr8DbJfkAJALyDFlIZ6OLrZ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJxYLdBOaVwoARW-IObKt6WTo",
+            "plus_code":{
+                  "compound_code":"5JC9+Q7 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JC9+Q7"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJxYLdBOaVwoARW-IObKt6WTo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":245,
+            "vicinity":"11482 Burbank Boulevard, North Hollywood",
+            "CBG":60371252001,
+            "Radius":326.9891165139
+      }
+]

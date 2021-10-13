@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0859943,
+                        "lng":-118.2870186
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0873440303,
+                              "lng":-118.2856000197
+                        },
+                        "southwest":{
+                              "lat":34.0846460697,
+                              "lng":-118.2882979803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria El Charrito",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2488,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117747052758282524716\">Nate Heckmann<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBw0eBH0h8jXg4-I_Gu7mj6cSWN_1Dco1luiRj-VvuCaj2Aldca2sOecI38ctoS12HFVM8QGGDEmWVxQHygeyqMkFd7tGKuqZSJ-job_q3G6XClezZ0n286Jvct48EngLfB_pwAEsUd1ggvmu0RAsp-_ZbofgBtXllZN0yuOY6RGags",
+                        "width":3318
+                  }
+            ],
+            "place_id":"ChIJ9a6MOkXHwoARGAQLrsiwQz8",
+            "plus_code":{
+                  "compound_code":"3PP7+95 Los Angeles, CA, USA",
+                  "global_code":"85633PP7+95"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ9a6MOkXHwoARGAQLrsiwQz8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":177,
+            "vicinity":"811 North Virgil Avenue, Los Angeles",
+            "CBG":60371914102,
+            "Radius":220.1619279948
+      }
+]

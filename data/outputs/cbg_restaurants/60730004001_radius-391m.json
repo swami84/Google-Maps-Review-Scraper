@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7545199,
+                        "lng":-117.1601349
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7558680303,
+                              "lng":-117.1589653697
+                        },
+                        "southwest":{
+                              "lat":32.7531700697,
+                              "lng":-117.1616633303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"French Chef at home",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":871,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108382916979189436896\">French Chef at home<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZENmMQv3_u5b8tCrxIdYj4HyoJZX0dRPT6rrzeqNfvgo_3EI0WQTEYuw6P-s3l3GaPBIudWCNj0Al8EgyvItJxSp1ezc8mIxW0vW3aHXRC_4YL_pePLMfBcjzKtLGAMoTLnqugYeidLLV0udXzNdCfwUumapCsFWstMoSfSGPfso-",
+                        "width":1170
+                  }
+            ],
+            "place_id":"ChIJo-W1JvpV2YARxFX4DAqd2Mo",
+            "plus_code":{
+                  "compound_code":"QR3Q+RW San Diego, CA, USA",
+                  "global_code":"8544QR3Q+RW"
+            },
+            "rating":5,
+            "reference":"ChIJo-W1JvpV2YARxFX4DAqd2Mo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"4237 Fifth Avenue, San Diego",
+            "CBG":60730004001,
+            "Radius":390.9601781082
+      }
+]

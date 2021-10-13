@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8819231,
+                        "lng":-118.1287601
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8832645303,
+                              "lng":-118.1275958197
+                        },
+                        "southwest":{
+                              "lat":33.8805665697,
+                              "lng":-118.1302937803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Circle K",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1180,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101386410353451333728\">Circle K<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC5pLkCEl0gXiLbS32Wjx4coixEvsXoOtpWrY6buo4xB7UpAO84xjZQUsI0-56s6k_Hx0E78qnz2zVdraJs3E_RqQGPfrRgTPfzIDXomNixm9IsvwczZ6uYZg1V_PNCMTjweG6ibnY8kBrChTbwTR-l-E8yvWH796r3Jm2dbRy3B2nF",
+                        "width":1770
+                  }
+            ],
+            "place_id":"ChIJ71Fzu7Ay3YARUSUlyl---FU",
+            "plus_code":{
+                  "compound_code":"VVJC+QF Bellflower, CA, USA",
+                  "global_code":"8553VVJC+QF"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJ71Fzu7Ay3YARUSUlyl---FU",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"9602 Flower Street, Bellflower",
+            "CBG":60375542033,
+            "Radius":227.1702194554
+      }
+]

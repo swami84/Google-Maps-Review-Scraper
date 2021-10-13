@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9015573,
+                        "lng":-118.2909116
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9030796303,
+                              "lng":-118.2896905697
+                        },
+                        "southwest":{
+                              "lat":33.9003816697,
+                              "lng":-118.2923885303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100340816275327282441\">67 leader<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDW8NrMefK4fZX5ELOGi0NztaduDpFAJ7_RNrSfXeDje4kYnfTvdA7CbJ72BcAk25qaBqStJrOD3OxPfSYi0RH47riPLlXaHVT8QrgX3GsP9jFAdQlIsGCX8k30idZvZPG8EtEUn6g5kL1GCTeomtnCXpGt3APag11TfA_erj3qwu5N",
+                        "width":1932
+                  }
+            ],
+            "place_id":"ChIJXxxaY3rKwoARzrfa_gSiH_Q",
+            "plus_code":{
+                  "compound_code":"WP25+JJ Gardena, CA, USA",
+                  "global_code":"8553WP25+JJ"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJXxxaY3rKwoARzrfa_gSiH_Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":671,
+            "vicinity":"850 West Rosecrans Avenue, Gardena",
+            "CBG":60372911301,
+            "Radius":497.2453455501
+      }
+]

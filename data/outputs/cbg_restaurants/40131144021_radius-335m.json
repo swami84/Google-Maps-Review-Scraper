@@ -1,0 +1,64 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4508807,
+                        "lng":-112.1039828
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4524027303,
+                              "lng":-112.1028765197
+                        },
+                        "southwest":{
+                              "lat":33.4497047697,
+                              "lng":-112.1055744803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Circle K",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106558952575192327036\">TO Wildcat<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED3z4QKa4L0FzqnSwt1dG7DGCyY2jxsDA8kuKT0LhXVs0TFdLDgvjFt0nACAulxJC00ucybddvzk2aT_NIoVHSdB0T4vD6cIKtCczLXMgMupXiM-Rtpa05kysLtnd1d2RHtV0oBiqBdm4EaRJzCXdZyQ8tRXpK7Ho7e9MjaFKcE7v2q",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJu8HgEs0TK4cR4qcgpM-bBk8",
+            "plus_code":{
+                  "compound_code":"FV2W+9C Phoenix, AZ, USA",
+                  "global_code":"8559FV2W+9C"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJu8HgEs0TK4cR4qcgpM-bBk8",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "atm",
+                  "gas_station",
+                  "meal_takeaway",
+                  "finance",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"2041 West Van Buren Street, Phoenix",
+            "CBG":40131144021,
+            "Radius":334.5197035114
+      }
+]

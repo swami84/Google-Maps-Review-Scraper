@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9350663,
+                        "lng":-118.2387031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9364498803,
+                              "lng":-118.2373540697
+                        },
+                        "southwest":{
+                              "lat":33.9337519197,
+                              "lng":-118.2400520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lee's Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101245278622458691724\">Lee&#39;s Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBQQFXUX4576gi6BaIe3KpW5Zch9yOmjv8ojsVU5LJPtNWE3UqPliIB0RwoL3FSgDL3pJBEe6IMQAydeeFrg1QoZwkKq_SvSOOisZEjByxwlcrY8s8NnxRyLzx1f405VnFFPsDA9N2yA0DsA_Fj04ONdQGWHmOQBItSUZbS4rodZie5",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJBb7nJMXLwoARuQnzM7sL6zo",
+            "plus_code":{
+                  "compound_code":"WQP6+2G Los Angeles, CA, USA",
+                  "global_code":"8553WQP6+2G"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJBb7nJMXLwoARuQnzM7sL6zo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"1908 East 110th Street, Los Angeles",
+            "CBG":60372427002,
+            "Radius":207.630965285
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9351437,
+                        "lng":-118.2390424
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9364930303,
+                              "lng":-118.2376632697
+                        },
+                        "southwest":{
+                              "lat":33.9337950697,
+                              "lng":-118.2403612303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tamales Elena",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116005403953066303297\">Kimanthi Toure<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECs-3bibfJ2190IABtnEh_7U010Wcxml4DadFitU2r2FRBNA5aSndSBIOqN_-aaS8cCuKcGiIyH_dsuu1PWLUIXZUtYWh3-t27NCriqCA9xs69xqkvSM2p5xZLiy-WBQJbkvZfzEAhtuzsckKd89cQnbG9YrCP7rc6HJAHboOtzz1Zd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJG5hyOsXLwoARU4Wia-6rqEw",
+            "plus_code":{
+                  "compound_code":"WQP6+39 Los Angeles, CA, USA",
+                  "global_code":"8553WQP6+39"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJG5hyOsXLwoARU4Wia-6rqEw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":157,
+            "vicinity":"Wilmington Ave & E 110th St, Los Angeles, CA 90059, Wilmington Avenue, Los Angeles",
+            "CBG":60372427002,
+            "Radius":207.630965285
+      }
+]

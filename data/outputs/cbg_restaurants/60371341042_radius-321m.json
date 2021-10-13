@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2093708,
+                        "lng":-118.5720079
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2106667803,
+                              "lng":-118.5706551697
+                        },
+                        "southwest":{
+                              "lat":34.2079688197,
+                              "lng":-118.5733531303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Johnny Pacific",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113162113012186092001\">Roberto Benites<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECOQqZcRr0B8sV1L4cagXsu5pTM5U1rUhcBlpM5SuEqPOT5iD3hykilRRJxci2b83CgTeh_9LjHZ_TvTJvBwp6ORBtAYE6Ppd5VXfjHkJCuXxGMUwVvLyQolbKAqjHluxVRgV1b3_oKQH8jorMSVsal_VbSw4raoPOmzkfW_3q826sV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJNw7q__KbwoARimIMdeplGtc",
+            "plus_code":{
+                  "compound_code":"6C5H+P5 Winnetka, Los Angeles, CA, USA",
+                  "global_code":"85636C5H+P5"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJNw7q__KbwoARimIMdeplGtc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":683,
+            "vicinity":"20133 Saticoy Street, Winnetka",
+            "CBG":60371341042,
+            "Radius":321.1309421345
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2093506,
+                        "lng":-118.5718155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2106575303,
+                              "lng":-118.5705587697
+                        },
+                        "southwest":{
+                              "lat":34.2079595697,
+                              "lng":-118.5732567303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Teriyaki Masudaya",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115519737059709986680\">Francis T<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECB1UUfwsvntiEdhDoeEIqAapAqAXvR5G2IlhEFurELW8s31CKDpG5osfZjkAcm4ptz-O46w_99AoYNvPmT69ocJwLGfNAgaWwLbyJzL3jVyDZKHHz92KV04TjnynSENp030qgJNd0GqPjN8JT9ZDlcjj7D4sf_KBdQ8CeCjIHiEryk",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ1yRKDfObwoARAJJz4NlGPH4",
+            "plus_code":{
+                  "compound_code":"6C5H+P7 Winnetka, Los Angeles, CA, USA",
+                  "global_code":"85636C5H+P7"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ1yRKDfObwoARAJJz4NlGPH4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":82,
+            "vicinity":"20123 Saticoy Street, Winnetka",
+            "CBG":60371341042,
+            "Radius":321.1309421345
+      }
+]

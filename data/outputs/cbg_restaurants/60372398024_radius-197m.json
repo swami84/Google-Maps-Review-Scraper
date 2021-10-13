@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9648983,
+                        "lng":-118.2649349
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9662475303,
+                              "lng":-118.2636966197
+                        },
+                        "southwest":{
+                              "lat":33.9635495697,
+                              "lng":-118.2663945803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Comida centroamericana pochomil",
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117310409388344050276\">Comida centroamericana pochomil<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBQ9W-MZO1uAvzIEHYoPznRYDsfOWPtL9Y0iZ5ZeyLfOFt1NhyVK8ry49cskT3tgLFLOAowsMQUYIF3iLEDSE4xHWBu2tGR6hwKnaXDQrrjkW4Kll_fzWsN7yiqoM-cpteclZjTnURx71EFuqXw3kp6farmkGs974Dd9c5Fo5pp9OI",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJn_fUGaHJwoARomboi3Pisqg",
+            "plus_code":{
+                  "compound_code":"XP7P+X2 Los Angeles, CA, USA",
+                  "global_code":"8553XP7P+X2"
+            },
+            "reference":"ChIJn_fUGaHJwoARomboi3Pisqg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8120 Avalon Boulevard, Los Angeles",
+            "CBG":60372398024,
+            "Radius":197.0774865183
+      }
+]

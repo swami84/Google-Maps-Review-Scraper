@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6746101,
+                        "lng":-112.0217971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6759497803,
+                              "lng":-112.0202550197
+                        },
+                        "southwest":{
+                              "lat":33.6732518197,
+                              "lng":-112.0229529803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"M Culinary Concepts",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109177318376245986533\">Christy Cabrera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDvWeg7qlHnkU_fgCIC_W-7PLkwgAjrGKhnZ0A8Ku496L88BhK_INOjOwJQKhbTQHitSE7XtftO5KIUSKYNgSzeXMc-VBzw9KF_-0pqeCsprsnUFsBp6BjfPt7W1SQwGfbd-TXTLYgciyz4YtnVogHB_OuG8exQjAhrnDVXnsvTkpty",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJb0viMkhwK4cRcAEFzr4C4lg",
+            "plus_code":{
+                  "compound_code":"MXFH+R7 Phoenix, AZ, USA",
+                  "global_code":"8559MXFH+R7"
+            },
+            "rating":4.3,
+            "reference":"ChIJb0viMkhwK4cRcAEFzr4C4lg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"20645 North 28th Street, Phoenix",
+            "price_level":null,
+            "CBG":40136170003,
+            "Radius":682.1049731802
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6709211,
+                        "lng":-112.0281189
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6722478303,
+                              "lng":-112.0267525197
+                        },
+                        "southwest":{
+                              "lat":33.6695498697,
+                              "lng":-112.0294504803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Costco Food Court",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100993823408325972297\">wilfredo carracelas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFi2en3g0Y8UhuwkMaWWjNggqEsRwU_xHTW4cZybhUdl8s79-dMvkk3OX-wCvFoSNvCostTcpeFblfmm6Ry2rbHV9u3S57XEL-HsLMhfB6nsfz1OUBZ3-I2ozho-XKbQJmHqgRZKVoLytbuAg0Q5V_Kvxg8p6tGz7G6b3Xx1fG-gBg",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJsVkEuzZwK4cRPpyxAqi6_Ps",
+            "plus_code":{
+                  "compound_code":"MXCC+9Q Phoenix, AZ, USA",
+                  "global_code":"8559MXCC+9Q"
+            },
+            "rating":4.6,
+            "reference":"ChIJsVkEuzZwK4cRPpyxAqi6_Ps",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"2450 East Beardsley Road, Phoenix",
+            "price_level":1.0,
+            "CBG":40136170003,
+            "Radius":682.1049731802
+      }
+]

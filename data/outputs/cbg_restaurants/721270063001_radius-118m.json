@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.4271709,
+                        "lng":-66.051936
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.4285378303,
+                              "lng":-66.0505862697
+                        },
+                        "southwest":{
+                              "lat":18.4258398697,
+                              "lng":-66.0532842303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Cafe Pan de Vida",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107332667303197382002\">Cafe Pan de Vida<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECyD5ZJXgv9k_W2aukeZwN5kXIGFzc1TtrgXBB8hZ5iKaxb1lWCXrXFTAITD3_Ay7hHTYzZfitmyPmuORQsdyRMMjQv2lG_RBS6WU2FvVA_yJtqNogoIFRyFAZSY4r0e9SlcX1zGwn8JcqmZ6wBi9G9qvTEb2znfn2yX1U2h_3jAoZT",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJb7dYaT5pA4wRsbs9U1PDwi4",
+            "plus_code":{
+                  "compound_code":"CWGX+V6 San Juan, Puerto Rico",
+                  "global_code":"77CMCWGX+V6"
+            },
+            "rating":4.6,
+            "reference":"ChIJb7dYaT5pA4wRsbs9U1PDwi4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"#159 Avenida Quisqueya, San Juan",
+            "CBG":721270063001,
+            "Radius":118.2754534044
+      }
+]

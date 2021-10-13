@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8301466,
+                        "lng":-122.2548474
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8315191303,
+                              "lng":-122.2535596697
+                        },
+                        "southwest":{
+                              "lat":37.8288211697,
+                              "lng":-122.2562576303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Bonita Taqueria INC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102344737586153329359\">La Bonita Taqueria INC<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECi7FG9Ss1_UmSSfssHEgHZUvplVzO2zaEWmTftK5VRXk2dA3H-a63VGSF6EfwvIXJtOs0LLkIRnf3nJmL9huoeMhD0X-KnXga9OgipgXQKpMW2-sVYOPVEIRkWntR-kpv62b_azL8OFHKO3_Fs5Afg-HmSUJIf7w0uafzsJ6ldo968",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJw-zWmpF9hYAR6c8hxac57Ng",
+            "plus_code":{
+                  "compound_code":"RPJW+33 Oakland, CA, USA",
+                  "global_code":"849VRPJW+33"
+            },
+            "rating":4.4,
+            "reference":"ChIJw-zWmpF9hYAR6c8hxac57Ng",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"4220 Broadway, Oakland",
+            "CBG":60014041012,
+            "Radius":289.3489609342
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2004109,
+                        "lng":-118.4516135
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2016697803,
+                              "lng":-118.4503880697
+                        },
+                        "southwest":{
+                              "lat":34.1989718197,
+                              "lng":-118.4530860303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Medical Center Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ9-MqUj2XwoARn7oYJ8ir-Mo",
+            "plus_code":{
+                  "compound_code":"6G2X+59 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636G2X+59"
+            },
+            "rating":3,
+            "reference":"ChIJ9-MqUj2XwoARn7oYJ8ir-Mo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"14624 Sherman Way, Van Nuys",
+            "CBG":60371278031,
+            "Radius":317.5966440052
+      }
+]

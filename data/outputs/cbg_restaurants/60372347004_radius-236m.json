@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.988706,
+                        "lng":-118.334929
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9900622803,
+                              "lng":-118.3337187697
+                        },
+                        "southwest":{
+                              "lat":33.9873643197,
+                              "lng":-118.3364167303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Grilled Fraiche (Hyde Park)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109812148711284877779\">JaMar Thomas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDxf0zctFP9kBdWEyIFQrdRI0aaQhM3rKuHDo2M1U1jqH_ukIJyZQCBgIJ82XDbFc2RzVJ-sHLSs8t4W5s0aDLMFXtEFJmxwqTjt9p1ExWlgXvKrKskYQ4CgNLVKVxq4TqE8lej9JmeZeewHnnSBdzF0o7GsVGOlvCK6FUxZVBtcfhn",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJmf_E-Jm3woARDPYHYL10Jfw",
+            "plus_code":{
+                  "compound_code":"XMQ8+F2 Los Angeles, CA, USA",
+                  "global_code":"8553XMQ8+F2"
+            },
+            "price_level":2.0,
+            "rating":4.7,
+            "reference":"ChIJmf_E-Jm3woARDPYHYL10Jfw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":375,
+            "vicinity":"5800 West Boulevard, Los Angeles",
+            "CBG":60372347004,
+            "Radius":236.0235049124
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9889841,
+                        "lng":-118.3358078
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9903330803,
+                              "lng":-118.3344588197
+                        },
+                        "southwest":{
+                              "lat":33.9876351197,
+                              "lng":-118.3371567803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"StopBye Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2880,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113995915071977454969\">Memos Munchies<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDmDmOMsZXCZodUetJxrgdgvjr2j5FWjGVBBqFgS1IzwIcDCDitrm_Trc4CemPF1QSkBFD7SLRQorZhid3FDCIWO_0_49MFr-HpbE9Sp9DGakduHLjEU4LyQ2nFt2RyAVZLBtZEsG3y98fO7u6_1wt07geVXyjmPbkb_UfNc0wAQCkc",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJl3rMhsG3woARHgD_39LrbU4",
+            "plus_code":{
+                  "compound_code":"XMQ7+HM Los Angeles, CA, USA",
+                  "global_code":"8553XMQ7+HM"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJl3rMhsG3woARHgD_39LrbU4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"West Slauson Avenue, Los Angeles",
+            "CBG":60372347004,
+            "Radius":236.0235049124
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0910787,
+                        "lng":-118.2977686
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0923866803,
+                              "lng":-118.2963980697
+                        },
+                        "southwest":{
+                              "lat":34.0896887197,
+                              "lng":-118.2990960303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"DeSano Pizza Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117747211354171439168\">Jorge Fern\u00e1ndez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFVoSi4OlOnMydsxn-kDYPvsuRoJoN1KleDsCv7jAJB1-T5vQNgDDLOSeno-5c0nbceAnFiK6FmHXzRL0SbvFEshjvWlBhblkuulufW1gRaigX2BdwmcRAQidXiYSQwaAXtx4KWMO1IDos0TT_O8vDez1LmyiJsf0JGS8jd-wNPcji",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJKxTm3FXHwoARF1OdT4oMLik",
+            "plus_code":{
+                  "compound_code":"3PR2+CV Los Angeles, CA, USA",
+                  "global_code":"85633PR2+CV"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJKxTm3FXHwoARF1OdT4oMLik",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1323,
+            "vicinity":"4959 Santa Monica Boulevard, Los Angeles",
+            "CBG":60371912041,
+            "Radius":252.9979843458
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0910532,
+                        "lng":-118.2992757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0923870803,
+                              "lng":-118.2979262697
+                        },
+                        "southwest":{
+                              "lat":34.0896891197,
+                              "lng":-118.3006242303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chinaloa Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1296,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108333737645897044137\">Marz R<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPuT3mg96GNtaERqvm_d8uGZ2oRyLU7xqObhtkYA0GEVkVn3JIHuuOXXNXqicfCYw9Yjv1TRMoVXFVIEyVJNu5j2p751Y7jdL2P8gmUBK6rRKYg347fA9R-wbRbjKQAoIr2GYgld0znp8iquf_W8LouYiJMLQKEHK9oC8YwOxT_J1s",
+                        "width":2304
+                  }
+            ],
+            "place_id":"ChIJPYXQDzvHwoAR9SybmDBuBrI",
+            "plus_code":{
+                  "compound_code":"3PR2+C7 Los Angeles, CA, USA",
+                  "global_code":"85633PR2+C7"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJPYXQDzvHwoAR9SybmDBuBrI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"5021 Santa Monica Boulevard, Los Angeles",
+            "CBG":60371912041,
+            "Radius":252.9979843458
+      }
+]

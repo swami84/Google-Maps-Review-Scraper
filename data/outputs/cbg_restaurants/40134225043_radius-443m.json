@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3923776,
+                        "lng":-111.7555506
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3936330303,
+                              "lng":-111.7542040197
+                        },
+                        "southwest":{
+                              "lat":33.3909350697,
+                              "lng":-111.7569019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bar B Que Kingdom",
+            "place_id":"ChIJ21fCFdCvK4cR8SziaS5ddb4",
+            "plus_code":{
+                  "compound_code":"96RV+XQ Mesa, AZ, USA",
+                  "global_code":"855C96RV+XQ"
+            },
+            "reference":"ChIJ21fCFdCvK4cR8SziaS5ddb4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1320 South Val Vista Drive, Mesa",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":40134225043,
+            "Radius":442.5713976118
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3923047,
+                        "lng":-111.7544369
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3936802803,
+                              "lng":-111.7530366697
+                        },
+                        "southwest":{
+                              "lat":33.3909823197,
+                              "lng":-111.7557346303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sonic Drive-In",
+            "place_id":"ChIJeYiOljavK4cROYqkvC9GpvM",
+            "plus_code":{
+                  "compound_code":"96RW+W6 Mesa, AZ, USA",
+                  "global_code":"855C96RW+W6"
+            },
+            "reference":"ChIJeYiOljavK4cROYqkvC9GpvM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"1260 South Val Vista Drive, Mesa",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104489646230061246728\">Nunya<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGG6uc2BcKNB9GPtscclBR98Cj1mVaCHGxKcNOC3nKzxpR5TfKh6EcLiSPmcWSA_c9fsD3SsEVz-0ymGkfqQjhETVhD1MgKwTdArVzWDJxqtSZa80JzzxkY0iNbTPA0v8vrQ_UkosRJyMxjxlit-QF0IvWmP3g55WOlStaetjRGDuo",
+                        "width":1920
+                  }
+            ],
+            "price_level":1.0,
+            "rating":3.8,
+            "user_ratings_total":1211.0,
+            "CBG":40134225043,
+            "Radius":442.5713976118
+      }
+]

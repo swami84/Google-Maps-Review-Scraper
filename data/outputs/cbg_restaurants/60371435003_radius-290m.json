@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1502162,
+                        "lng":-118.4134554
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1515461303,
+                              "lng":-118.4121588197
+                        },
+                        "southwest":{
+                              "lat":34.1488481697,
+                              "lng":-118.4148567803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pagliacci's Trattoria Taverna",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1158,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103754299214487802979\">Pagliacci&#39;s Trattoria Taverna<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEADKXOCsv7W5eFSLI9N1yEfCCM203twrb-xLCzOdz6SWbiB-Oke6ZGIRW8_vB5-Sik0OmOXZUb0Tf44nq9owkTxVBXyCtPaPyGiWZNXN6b8N3vnt-wvsiJaYiK0O41I_8WM0UnHDDfaQ2u40ZMhiRIBFpcYvDFRHlrUhvtBh4lCfawR",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJF4wAsh-WwoAR1Kniw_Fp5tw",
+            "plus_code":{
+                  "compound_code":"5H2P+3J Studio City, Los Angeles, CA, USA",
+                  "global_code":"85635H2P+3J"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJF4wAsh-WwoAR1Kniw_Fp5tw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":171,
+            "vicinity":"4366 Coldwater Canyon Avenue, Studio City",
+            "CBG":60371435003,
+            "Radius":289.897935091
+      }
+]

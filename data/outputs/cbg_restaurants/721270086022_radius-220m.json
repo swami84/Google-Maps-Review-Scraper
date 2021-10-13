@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.3999062,
+                        "lng":-66.0698228
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.4010953303,
+                              "lng":-66.0684499697
+                        },
+                        "southwest":{
+                              "lat":18.3983973697,
+                              "lng":-66.0711479303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wetzel's Pretzels",
+            "place_id":"ChIJYeDggwdpA4wR46RRXIqzB8w",
+            "plus_code":{
+                  "compound_code":"9WXJ+X3 San Juan, Puerto Rico",
+                  "global_code":"77CM9WXJ+X3"
+            },
+            "rating":1,
+            "reference":"ChIJYeDggwdpA4wR46RRXIqzB8w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"9410 Avenida Los Romeros Montehiedra Town Center RMU, San Juan",
+            "CBG":721270086022,
+            "Radius":219.8486896884
+      }
+]

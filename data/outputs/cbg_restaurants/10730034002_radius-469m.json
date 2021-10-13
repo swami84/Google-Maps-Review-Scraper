@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5077857,
+                        "lng":-86.9007651
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5092049803,
+                              "lng":-86.8995435697
+                        },
+                        "southwest":{
+                              "lat":33.5065070197,
+                              "lng":-86.9022415303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D&D Soul Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116588675691065103202\">Digital Photo Creations Aerial Services<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBMrshObQGra4XrGo0ZDfpLFqlP2KbLnbrxrsOAw7ukM2ZYB-UVxpZCkMGvRhGXI91dwP37ik2dv6RvbxamIZFECy4poNBAVyq7PxmeqWwGzln5C36KaFINcP4-VSnA6fZE-qyCbNEYa7XOSFoR1nlWvK4O492vB-nCLZ-65G4OMUHG",
+                        "width":7952
+                  }
+            ],
+            "place_id":"ChIJlbOtApIdiYgRZTHRldn3Ubo",
+            "plus_code":{
+                  "compound_code":"G35X+4M Birmingham, AL, USA",
+                  "global_code":"865MG35X+4M"
+            },
+            "rating":5,
+            "reference":"ChIJlbOtApIdiYgRZTHRldn3Ubo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"2501 Avenue East, Birmingham",
+            "CBG":10730034002,
+            "Radius":468.6812894139
+      }
+]

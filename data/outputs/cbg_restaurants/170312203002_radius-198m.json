@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.927174,
+                        "lng":-87.6971888
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9285271303,
+                              "lng":-87.6959879697
+                        },
+                        "southwest":{
+                              "lat":41.9258291697,
+                              "lng":-87.6986859303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Namaste Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105911131629511636265\">Bhagawati Dahal Thapaliya<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAh6yc7loh1qdwzllWx8BCEPr7NIaGhwTaypfP5JeNGHF9O_uqykipS_yMulv92X1n3rMk8tAMl9sNhT_fWmkgYrZHBx_IKZtvpVHAkfy-i_dtpWnMTHbEMw13fYauCh_6ByOq_GXuB0yKdja61ycj4hwif7btIvnVYSYDqn8ZnGfx2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8chYk7XTD4gRMs71exCf3kU",
+            "plus_code":{
+                  "compound_code":"W8G3+V4 Chicago, IL, USA",
+                  "global_code":"86HJW8G3+V4"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJ8chYk7XTD4gRMs71exCf3kU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":112,
+            "vicinity":"2515 North California Avenue, Chicago",
+            "CBG":170312203002,
+            "Radius":197.7659534277
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.927306,
+                        "lng":-87.6972267
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9286542803,
+                              "lng":-87.6960075197
+                        },
+                        "southwest":{
+                              "lat":41.9259563197,
+                              "lng":-87.6987054803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Volcano Sushi Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108119911703618335280\">Thomas Wangler<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECi8cizMNyPNooTKNgsxCdxEU9I4-qQEY9Z4XEPyE5JJfE9FipzE7R3Umd05gXROvx5ng08SEQsFWjvFt0DENO28mrTG__mZbvl1xmhHfqai50XKZwyUlwTX6ontvecG2dH_0tZF-KmRAhZeD6fnrc8wj8nA9Fo5vrVenRVTwvg90ZC",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ_atZfKLTD4gR_VlFBtcI0fw",
+            "plus_code":{
+                  "compound_code":"W8G3+W4 Chicago, IL, USA",
+                  "global_code":"86HJW8G3+W4"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJ_atZfKLTD4gR_VlFBtcI0fw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"2521 North California Avenue, Chicago",
+            "CBG":170312203002,
+            "Radius":197.7659534277
+      }
+]

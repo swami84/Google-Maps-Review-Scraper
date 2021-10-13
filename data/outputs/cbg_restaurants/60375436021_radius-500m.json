@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8191667,
+                        "lng":-118.29
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8204844803,
+                              "lng":-118.2887536197
+                        },
+                        "southwest":{
+                              "lat":33.8177865197,
+                              "lng":-118.2914515803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Monk's Charburgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115685261044720871557\">Shingo Star<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECuz5Ko7S627DXKNxza218rEhq3Vm8_y_8SVqPsF_8s9QspN6IQOiwWW-zEyU7uRyoQ2e5E7aJ37MCxVrN8q2xoe42dgIBX7qm7mpH-B3AK9h_Ia-X5lHkWjqtemQWPe706uhvtlyJ7mLI1fuCDUnq45Ts4O_o7tixdpj_5j0wRYvJr",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJs8MB6Ho13YAR9DNHZ3eDJ5w",
+            "plus_code":{
+                  "compound_code":"RP96+M2 Torrance, CA, USA",
+                  "global_code":"8553RP96+M2"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJs8MB6Ho13YAR9DNHZ3eDJ5w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":665,
+            "vicinity":"22726 Vermont Avenue, Torrance",
+            "CBG":60375436021,
+            "Radius":500.2863448931
+      }
+]

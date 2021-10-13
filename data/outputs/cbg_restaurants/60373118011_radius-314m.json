@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1674706,
+                        "lng":-118.3045956
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1687277803,
+                              "lng":-118.3031226197
+                        },
+                        "southwest":{
+                              "lat":34.1660298197,
+                              "lng":-118.3058205803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Vegan Plant Based Private Chef",
+            "place_id":"ChIJ2WtSReC_woAR9f1ZADxlH5o",
+            "plus_code":{
+                  "compound_code":"5M8W+X5 Burbank, CA, USA",
+                  "global_code":"85635M8W+X5"
+            },
+            "rating":5.0,
+            "reference":"ChIJ2WtSReC_woAR9f1ZADxlH5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"221 West Elm Avenue, Burbank",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60373118011,
+            "Radius":314.4854683551
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1667417,
+                        "lng":-118.308546
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1682505803,
+                              "lng":-118.3070791197
+                        },
+                        "southwest":{
+                              "lat":34.1655526197,
+                              "lng":-118.3097770803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Willie's Grill & Deli",
+            "place_id":"ChIJCdkQ3XC_woARzuajJNxIVZc",
+            "plus_code":{
+                  "compound_code":"5M8R+MH Burbank, CA, USA",
+                  "global_code":"85635M8R+MH"
+            },
+            "rating":4.6,
+            "reference":"ChIJCdkQ3XC_woARzuajJNxIVZc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"929 South Victory Boulevard, Burbank",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3898,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102541233734676253950\">S H<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECe6Tl6Ni4sEH4Hx5hU0yKB8UEbDPFemC7uPfajU1mXQ29u809k9ZhxTeuD_IRZ5deSd4oIepqlZswpeJovB5u2ZAkZTnAOyFICt91FhS2Z0XjrfdKFdX9_3LD_whxDFtFGYhqgKABnRZexioQzkM3ZzBg2vH95rytM5I4FhM9OOBLr",
+                        "width":5332
+                  }
+            ],
+            "CBG":60373118011,
+            "Radius":314.4854683551
+      }
+]

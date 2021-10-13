@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.226342,
+                        "lng":-118.243952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2277874803,
+                              "lng":-118.2427011697
+                        },
+                        "southwest":{
+                              "lat":34.2250895197,
+                              "lng":-118.2453991303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Byblos Mediterranean Bakery and Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115046210537782709555\">Byblos Mediterranean Bakery and Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECDYbwnUesHlGpimMc07UhHHDnlLzhaFwPzTHDT-e53b8-PJuTKNQr21BqKpeR40IqL0tk6yG3HI_mO25sPJuD8f-J05T73T72vO4Yf2P0-OocYWhWj9F0Zgboa4k5cGlSQ1lvhcelrBBGS8p6heZ-0X2EzYZFn0Ml-pdgUh6BN99fR",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJl0Zuf1HqwoARNMTjY_hD3OM",
+            "plus_code":{
+                  "compound_code":"6QG4+GC La Crescenta-Montrose, CA, USA",
+                  "global_code":"85636QG4+GC"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJl0Zuf1HqwoARNMTjY_hD3OM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":452,
+            "vicinity":"2948 Foothill Boulevard, La Crescenta-Montrose",
+            "CBG":60373005013,
+            "Radius":312.9767662383
+      }
+]

@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1517197,
+                        "lng":-80.1617189
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1529234303,
+                              "lng":-80.1603651197
+                        },
+                        "southwest":{
+                              "lat":26.1502254697,
+                              "lng":-80.1630630803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cami Creole Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJLf71gFEB2YgR6xXo5gAQh10",
+            "plus_code":{
+                  "compound_code":"5R2Q+M8 Fort Lauderdale, FL, USA",
+                  "global_code":"76RX5R2Q+M8"
+            },
+            "reference":"ChIJLf71gFEB2YgR6xXo5gAQh10",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1481 Northwest 19th Street, Fort Lauderdale",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":120110409011,
+            "Radius":630.14672776
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1572825,
+                        "lng":-80.1549165
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1586220803,
+                              "lng":-80.1534704197
+                        },
+                        "southwest":{
+                              "lat":26.1559241197,
+                              "lng":-80.1561683803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"USA Grocers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJV-hr7m0B2YgRWBLO15TdGqo",
+            "plus_code":{
+                  "compound_code":"5R4W+W2 Wilton Manors, FL, USA",
+                  "global_code":"76RX5R4W+W2"
+            },
+            "reference":"ChIJV-hr7m0B2YgRWBLO15TdGqo",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"2349 Northwest 9th Avenue, Wilton Manors",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113320662401129026793\">USA Grocers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED8mujEyz3MxrO0gMMmO6yeh67y5_JLAorZhLf7j2koghdD2DhqhrI47Za37Xib_nhj-pLykxe3-V8QRIa31TvrhXZB-uKOREOpGyI60rUEjdKkEsg1jKfp2Gg6v7T4Q0gGoOrJlRbBVp1ED5P4s2HdrM8kkLjvUcr9ljBQGvQJT8bq",
+                        "width":4032
+                  }
+            ],
+            "rating":4.7,
+            "user_ratings_total":27.0,
+            "CBG":120110409011,
+            "Radius":630.14672776
+      }
+]

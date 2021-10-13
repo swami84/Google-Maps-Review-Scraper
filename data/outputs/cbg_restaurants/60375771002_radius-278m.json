@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7679167,
+                        "lng":-118.1444028
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7693027303,
+                              "lng":-118.1429952197
+                        },
+                        "southwest":{
+                              "lat":33.7666047697,
+                              "lng":-118.1456931803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Starling Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117080615104939411880\">Isaac Sakrekov<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA3FFVRPSGo-d-WQDFZgsUV4D4ibbglenuro3dTxj8FmA8q0XBRNGfMo57V-Xe-_UU6OTCCC9njEPJD246HvfbvMp_mMzLHoRnX3ZgpKUaZXaHXhwR7_oQvIYJKuO-OSx_YDmRfZ7rSdYyk-pNzN756chqDdijz5PaFfNHBRoZm_zQ2",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJCQieyrMx3YARUJCgYfUkQUY",
+            "plus_code":{
+                  "compound_code":"QV94+56 Long Beach, CA, USA",
+                  "global_code":"8553QV94+56"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJCQieyrMx3YARUJCgYfUkQUY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":713.0,
+            "vicinity":"4114 East 3rd Street, Long Beach",
+            "CBG":60375771002,
+            "Radius":278.4565677178
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7715854,
+                        "lng":-118.1427317
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7729957303,
+                              "lng":-118.1413826697
+                        },
+                        "southwest":{
+                              "lat":33.7702977697,
+                              "lng":-118.1440806303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Restaurant On the Run",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJp8zMPLEx3YAR4udae0EC0LE",
+            "plus_code":{
+                  "compound_code":"QVC4+JW Long Beach, CA, USA",
+                  "global_code":"8553QVC4+JW"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJp8zMPLEx3YAR4udae0EC0LE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"4240 East 4th Street, Long Beach",
+            "CBG":60375771002,
+            "Radius":278.4565677178
+      }
+]

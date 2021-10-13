@@ -1,0 +1,110 @@
+[
+      {
+            "geometry":{
+                  "location":{
+                        "lat":33.8969125,
+                        "lng":-118.2078074
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8981405803,
+                              "lng":-118.2064857197
+                        },
+                        "southwest":{
+                              "lat":33.8954426197,
+                              "lng":-118.2091836803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Big Man Big Dogz",
+            "photos":[
+                  {
+                        "height":703,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112005060717482121348\">Big Man Big Dogz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBv_B7xTqvhEqfy5ppATKbcI-ycAFkWnkhCpm2prQuOXh-HXzS_NfxhwojWWfNPhAg6XD_qq9ryTQhgc6Kw7yBVc5TksqBcKCgxSzysaRcfxUcXF0i5s77MzTDqRPHNRUCHSPTVy_Fv4ZRYYkn0a572TcVWROEV6Rtldocqh_yRE4pZ",
+                        "width":1284
+                  }
+            ],
+            "place_id":"ChIJ5190j2HLwoARLq4dGxRb7t0",
+            "plus_code":{
+                  "compound_code":"VQWR+QV Compton, CA, USA",
+                  "global_code":"8553VQWR+QV"
+            },
+            "reference":"ChIJ5190j2HLwoARLq4dGxRb7t0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"120 North Long Beach Boulevard, Compton",
+            "business_status":null,
+            "opening_hours":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60375416051,
+            "Radius":315.9028421161
+      },
+      {
+            "geometry":{
+                  "location":{
+                        "lat":33.8967735,
+                        "lng":-118.2076097
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8980703803,
+                              "lng":-118.2063084697
+                        },
+                        "southwest":{
+                              "lat":33.8953724197,
+                              "lng":-118.2090064303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Compton Fish Market",
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106994944750760843555\">Compton Fish Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBvG9RsKkIihHOqI5l8A3fPA1Ib3pH75Be1S7rsqioffBBeJ6G0HgIelQpHO4fa1lZwEeVpejT296xLKCeZgtk8HuXUYjoA1QRIfExz9oYFldWD9jAl679K3GKXlaTmRBClHdgNz3C7Uu83pDCC8knPX8wfoz45Y1ry6PpMAinNquWf",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJZeUYkGHLwoARWxduvivvYsY",
+            "plus_code":{
+                  "compound_code":"VQWR+PX Compton, CA, USA",
+                  "global_code":"8553VQWR+PX"
+            },
+            "reference":"ChIJZeUYkGHLwoARWxduvivvYsY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"116 North Long Beach Boulevard, Compton",
+            "business_status":"OPERATIONAL",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "user_ratings_total":178.0,
+            "CBG":60375416051,
+            "Radius":315.9028421161
+      }
+]

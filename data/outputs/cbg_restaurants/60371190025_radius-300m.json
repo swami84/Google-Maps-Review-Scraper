@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.254913,
+                        "lng":-118.4364933
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2562071803,
+                              "lng":-118.4352201197
+                        },
+                        "southwest":{
+                              "lat":34.2535092197,
+                              "lng":-118.4379180803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TACOS TIJUANA LUNCH TRUCK",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110077033704186562755\">ANDRES ROJAS<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECs71-zhNZEDvmkCMBIi6Q9PmpVde6Jj6b3tdnFS0je85K-zEVvvX9hUF2KZKwYmSkPX7Ab58lz6NcDAFrgqjmnXzeWiCOZHTGP0PbEbnWql-RsLI6C7yLza6JckxKBWXtecnBjbOIobT0g6aPbL3qnuFCnOdY7H8C-GBgMJtos0dEU",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJCYKJ3SCRwoARZkTXx2YjNsU",
+            "plus_code":{
+                  "compound_code":"7H37+XC Arleta, Los Angeles, CA, USA",
+                  "global_code":"85637H37+XC"
+            },
+            "rating":5,
+            "reference":"ChIJCYKJ3SCRwoARZkTXx2YjNsU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"10146 Bartee Avenue, Arleta",
+            "CBG":60371190025,
+            "Radius":300.2188437328
+      }
+]

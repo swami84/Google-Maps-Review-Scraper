@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0069559,
+                        "lng":-118.2434705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0083042303,
+                              "lng":-118.2420601697
+                        },
+                        "southwest":{
+                              "lat":34.0056062697,
+                              "lng":-118.2447581303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maximo's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100210301109400585954\">yanca<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAl7SNFVUf8LW6ZZi3Ek5QaPD3MIzq7btMGLppb9HRq8OiSiaNK9kY-w4dTiNdNyBuGXEMA6e9RUeJ5M0sdkKejZvU0RUJH-q6gMFnmCBLuRJLI2iz54tAyRybYYErJ6x-TA7TaN2a8cLvfiZGB_Vv6LKpnIjKWhs1abfNfB6a8bvxd",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ1UrpLo3IwoARNDl3Z_VOguw",
+            "plus_code":{
+                  "compound_code":"2Q44+QJ Los Angeles, CA, USA",
+                  "global_code":"85632Q44+QJ"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ1UrpLo3IwoARNDl3Z_VOguw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"4157 Long Beach Avenue, Los Angeles",
+            "CBG":60372281002,
+            "Radius":242.6513744176
+      }
+]

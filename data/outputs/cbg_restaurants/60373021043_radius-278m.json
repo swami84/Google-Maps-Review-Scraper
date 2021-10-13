@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1482057,
+                        "lng":-118.2353291
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1494831803,
+                              "lng":-118.2338363697
+                        },
+                        "southwest":{
+                              "lat":34.1467852197,
+                              "lng":-118.2365343303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"KFC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2968,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104195080820764518056\">Armen Parsighian<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECFet5i8YPGltf_ZmczqvsbxGrAmPoS7LJgsQmJTcllboFtXMM84fdIAW5IOZkyWMDbZwSAcndTXuXF2M8SUDjnj-Eil0shxDHAMBtpwJys20pgA2JQ3z9xgzpYqPP2laK0dY4LAs4mqm4O_Z0I0Ueroepe8dA4-n8HsQC4zjerg7_N",
+                        "width":3541
+                  }
+            ],
+            "place_id":"ChIJU9z3YAnBwoARM4vp2A4eTvI",
+            "plus_code":{
+                  "compound_code":"4QX7+7V Glendale, CA, USA",
+                  "global_code":"85634QX7+7V"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJU9z3YAnBwoARM4vp2A4eTvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":296,
+            "vicinity":"200 North Verdugo Road, Glendale",
+            "CBG":60373021043,
+            "Radius":278.3702486121
+      }
+]

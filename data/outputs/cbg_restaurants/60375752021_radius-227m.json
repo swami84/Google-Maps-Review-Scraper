@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7879276,
+                        "lng":-118.1675282
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7892882803,
+                              "lng":-118.1662358697
+                        },
+                        "southwest":{
+                              "lat":33.7865903197,
+                              "lng":-118.1689338303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Phnom Penh Noodle Shack",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":841,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108328166533075698386\">Phnom Penh Noodle Shack<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBPHlVAn_5Cu_mMvEbGJm03yITDZC0n6IsMWI64B0ScWLaZlwHeMf56sGo2BJvprBNe6yZbaovOgW2MzfGDHB_Tm_Q9cEuwxEbtEab74g7ioBepWtOrQvxnChz63nVS_FDVxl7Y78BdBSda4nzRp48RRPZjDQTrW9SABzcPjP1m8GkW",
+                        "width":2272
+                  }
+            ],
+            "place_id":"ChIJ27rL9HAx3YARWSo8BUALEr4",
+            "plus_code":{
+                  "compound_code":"QRQJ+5X Long Beach, CA, USA",
+                  "global_code":"8553QRQJ+5X"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ27rL9HAx3YARWSo8BUALEr4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":633,
+            "vicinity":"1644 Cherry Avenue, Long Beach",
+            "CBG":60375752021,
+            "Radius":226.9669551729
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.789981,
+                        "lng":-118.1696735
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7912678303,
+                              "lng":-118.1683254197
+                        },
+                        "southwest":{
+                              "lat":33.7885698697,
+                              "lng":-118.1710233803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Casa Sanchez",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116685404722791987568\">Cody Godines<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEARir-69M4EQ9bUz7Ok4MEWAsg_DETBDnSZMdaGoVCsl3ORDpJtZo6SVWwojmPONCYNDY19N27MZ1jJ_IgvW1PyjxKxP6z4-qWb3GJko5pBQePuYLqSV8AP1AMsIg0ck-84Ps9gdWq0TmsEOUnCaAgT4BWxMajioxkjSs0uqXlpImMq",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ5fipwHox3YARqSdhj2vxh50",
+            "plus_code":{
+                  "compound_code":"QRQJ+X4 Long Beach, CA, USA",
+                  "global_code":"8553QRQJ+X4"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ5fipwHox3YARqSdhj2vxh50",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":207,
+            "vicinity":"1801 Pacific Coast Highway, Long Beach",
+            "CBG":60375752021,
+            "Radius":226.9669551729
+      }
+]

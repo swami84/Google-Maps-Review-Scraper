@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9768469,
+                        "lng":-118.2694309
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9782105803,
+                              "lng":-118.2681516697
+                        },
+                        "southwest":{
+                              "lat":33.9755126197,
+                              "lng":-118.2708496303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ramona's Mexican Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102325615386833536174\">Mz Ggrl<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChzURXGkMpAw9-UjAo2Yee3yGlokSmzdARV8bkAyFVwtLPRvdS3do9IhyUWCrcXf9MZCrAHijauV_OzLhWFbrKtwoP5s-oz23yDMiBdPI7Fdxyjf4MpuvQSEkh0VKHRs6iMjXfLKfBZv0VGp5fCSPLUO3ECEDrtGTJOKqYJbKC7DsV",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJJShanLPJwoARUjcpR5zJDfM",
+            "plus_code":{
+                  "compound_code":"XPGJ+P6 Los Angeles, CA, USA",
+                  "global_code":"8553XPGJ+P6"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJJShanLPJwoARUjcpR5zJDfM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":832,
+            "vicinity":"6900 San Pedro Street, Los Angeles",
+            "CBG":60372393202,
+            "Radius":241.7445384363
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9748574,
+                        "lng":-118.2707763
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9762045303,
+                              "lng":-118.2693657197
+                        },
+                        "southwest":{
+                              "lat":33.9735065697,
+                              "lng":-118.2720636803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Compadre Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112234087156761244770\">Linda Lockwood<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED7CFaAdHlg7MASkNSYu4rLylJblL2jyor_9Dh7myGBvQddQLlScqfHoDE7DDmDsnpQJzMgSZborX31H5bHdDQ1-gHVGCbz_ytC5IbGkQuPaRkvWodogw88mvL9AD_8xRMfWLm5ZrAS3Ytd2j-LVKIRPGk8KKQ0qykOl5QqUg1XUMzn",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJEZX2BbTJwoARFSVy7Feqkoc",
+            "plus_code":{
+                  "compound_code":"XPFH+WM Los Angeles, CA, USA",
+                  "global_code":"8553XPFH+WM"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJEZX2BbTJwoARFSVy7Feqkoc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":348,
+            "vicinity":"233 East Florence Avenue, Los Angeles",
+            "CBG":60372393202,
+            "Radius":241.7445384363
+      }
+]

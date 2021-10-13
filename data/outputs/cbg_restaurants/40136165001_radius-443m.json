@@ -1,0 +1,62 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6675146,
+                        "lng":-112.1007018
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6688950303,
+                              "lng":-112.0992297197
+                        },
+                        "southwest":{
+                              "lat":33.6661970697,
+                              "lng":-112.1019276803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"QuikTrip",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100421222786758292242\">QuikTrip<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1r13Ngoy2Pod7VZ8MdF-G2qlLe5kU2Rp2-siEhqN_IZBj9FcFSFnjkI6S-8yf4eA-T0RzSCSxOQh1wWDt5lv6mprzmLssHLSA8MGXx4rwl91HNRIvcDY6eC797tVzQM27gJVm_o8QSCsctt5lGxnxXo7AHOlstf7mtpXtsI3LXad2",
+                        "width":5184
+                  }
+            ],
+            "place_id":"ChIJv7BkQglvK4cRip1rj1agYAI",
+            "plus_code":{
+                  "compound_code":"MV9X+2P Phoenix, AZ, USA",
+                  "global_code":"8559MV9X+2P"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJv7BkQglvK4cRip1rj1agYAI",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "convenience_store",
+                  "meal_takeaway",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"19990 North 19th Avenue, Phoenix",
+            "CBG":40136165001,
+            "Radius":442.5900971533
+      }
+]

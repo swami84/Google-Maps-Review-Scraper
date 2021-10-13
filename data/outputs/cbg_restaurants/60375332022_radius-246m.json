@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9799221,
+                        "lng":-118.207939
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9814361803,
+                              "lng":-118.2065793697
+                        },
+                        "southwest":{
+                              "lat":33.9787382197,
+                              "lng":-118.2092773303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Restaurantes Mexico 86",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116183267776190252335\">JOSE LUIS VALDIVIA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBaIEOMMAezkFqC6YAgmKUafxphk0l7rEFHRMh8pdL_yGU2x0GBxjDuL2Hk9eXrYWeLDkemBF1veikdS3WwgthvVxdr_pqhdcW0wVaGsrhaFrmYVsoRYOG8Lhu7Lx8bebHMDLovy-wHoU8oSYij5yQjQEcjVHwZQec6X0iefFamYO7R",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYUmpZTPJwoARjWFNCGdhOCY",
+            "plus_code":{
+                  "compound_code":"XQHR+XR Huntington Park, CA, USA",
+                  "global_code":"8553XQHR+XR"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJYUmpZTPJwoARjWFNCGdhOCY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":194,
+            "vicinity":"3272 East Gage Avenue, Huntington Park",
+            "CBG":60375332022,
+            "Radius":246.0623465317
+      }
+]

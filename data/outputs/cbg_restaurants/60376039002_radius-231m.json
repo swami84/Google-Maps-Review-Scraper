@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8984492,
+                        "lng":-118.3536538
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8996924803,
+                              "lng":-118.3523279197
+                        },
+                        "southwest":{
+                              "lat":33.8969945197,
+                              "lng":-118.3550258803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Corner Burger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116107840261438299969\">Devine Serrina<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAd78MQX8QnWMbZDKCpINSMEWm_L9gGNmQXIlvC29s4D6JsyEFlXxW35UuEv3yr_kROr6cuQb_l76Uy2R38PR4mC_6gPdcpLQ1RnPP6Du0LzhIJR0rH-iiW_ERegp21HNBHNWg5kznlsz_lgS4umizmwNtc-kmnYscMacZRD41HoQOW",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ8-ORQTa0woARd_Z7QNbJFp4",
+            "plus_code":{
+                  "compound_code":"VJXW+9G Lawndale, CA, USA",
+                  "global_code":"8553VJXW+9G"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ8-ORQTa0woARd_Z7QNbJFp4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":452,
+            "vicinity":"4437 West 147th Street, Lawndale",
+            "CBG":60376039002,
+            "Radius":230.9259048748
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8986119,
+                        "lng":-118.3522199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8999719303,
+                              "lng":-118.3509630197
+                        },
+                        "southwest":{
+                              "lat":33.8972739697,
+                              "lng":-118.3536609803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Bamba",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114903918465059461819\">Andrew Gilson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECyBsEz0LF6L-hoVd7D--Zu5LyZ1cNFrrLRcqOcOHzyq6QK1LWII8TFS2qZoRCD3WgE0zGPDgR5hu-wTwsIwEgnfudC4Yl6n09hX7iMtYWka8xnNlvyc5pVPs52gmftWiHecbGah5fsvbfN3Bc9UHURKoxUWX3CsVvzUgPCZ12jtrWd",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ9zO_Cja0woARES0jQvhs6xc",
+            "plus_code":{
+                  "compound_code":"VJXX+C4 Lawndale, CA, USA",
+                  "global_code":"8553VJXX+C4"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJ9zO_Cja0woARES0jQvhs6xc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":331,
+            "vicinity":"14620 Hawthorne Boulevard, Lawndale",
+            "CBG":60376039002,
+            "Radius":230.9259048748
+      }
+]

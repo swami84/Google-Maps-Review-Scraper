@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8134075,
+                        "lng":-122.2918491
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8147773803,
+                              "lng":-122.2906110697
+                        },
+                        "southwest":{
+                              "lat":37.8120794197,
+                              "lng":-122.2933090303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chelini Fresh Pasta Works",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJJ1kXMa9_hYAR11ygKt1lT8E",
+            "plus_code":{
+                  "compound_code":"RP75+97 Oakland, CA, USA",
+                  "global_code":"849VRP75+97"
+            },
+            "reference":"ChIJJ1kXMa9_hYAR11ygKt1lT8E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"1700 Center Street, Oakland",
+            "CBG":60014105001,
+            "Radius":480.2164856634
+      }
+]

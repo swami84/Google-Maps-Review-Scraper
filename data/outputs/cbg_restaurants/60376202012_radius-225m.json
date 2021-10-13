@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9029708,
+                        "lng":-118.421502
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9043197803,
+                              "lng":-118.4201530197
+                        },
+                        "southwest":{
+                              "lat":33.9016218197,
+                              "lng":-118.4228509803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Surf Food Stand and beach rentals",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117811233251040444161\">Surf Food Stand and beach rentals<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDIeKU-xhNsYKB2aMVwJI44t5CUn0Bl6mon6vgQIAHNnhA5FcNFtQ4NeOf9DPzHTiKsbEBEOxdSgnzEnsDC3_ozfEPeALsxE-yhHK82TdTw01-QzTfAHomtBvJwfDSRX5WqStE4vHT-GgPKcEo0ziOUMUlftzxCzIitsICgNQNuZ9d0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhcXcnmGxwoARoxhhwiH_Gl8",
+            "plus_code":{
+                  "compound_code":"WH3H+59 Manhattan Beach, CA, USA",
+                  "global_code":"8553WH3H+59"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJhcXcnmGxwoARoxhhwiH_Gl8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":271,
+            "vicinity":"4119 The Strand, Manhattan Beach",
+            "CBG":60376202012,
+            "Radius":224.8215851225
+      }
+]

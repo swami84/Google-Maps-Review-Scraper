@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4796369,
+                        "lng":-112.1707454
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4809850303,
+                              "lng":-112.1692987197
+                        },
+                        "southwest":{
+                              "lat":33.4782870697,
+                              "lng":-112.1719966803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Hawaiiana - Raspados y Neveria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115684087878462387078\">Herson Razcon Herrera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBdlBK-wqS9DR3m-Jrntd6cF-p0NJJIsioXv7M3iQlbrfrdbxJyl6XwRd6APmygnaR5XM-ZHIM9nS6uyYE1L2y3yooMc2otpZVMOmv75JgbTlIcd4cmNqLbPfLy-AQFw2r87u31a5FE8VFTRxOocHujeuPWsml1qCTOlaN2pxAo_nm1",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJS48tkO0UK4cRgLEfodOcwZ4",
+            "plus_code":{
+                  "compound_code":"FRHH+VP Phoenix, AZ, USA",
+                  "global_code":"8559FRHH+VP"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJS48tkO0UK4cRgLEfodOcwZ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":256,
+            "vicinity":"2828 North 51st Avenue, Phoenix",
+            "CBG":40131124011,
+            "Radius":324.8453507721
+      }
+]

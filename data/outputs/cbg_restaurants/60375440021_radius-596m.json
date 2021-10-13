@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.832008,
+                        "lng":-118.218087
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8334135803,
+                              "lng":-118.2167395197
+                        },
+                        "southwest":{
+                              "lat":33.8307156197,
+                              "lng":-118.2194374803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Alea Cafe Long Beach",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111831827138008971902\">Juan Manrique<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHAAIfvnjjhbwyQxM_p568pFkX16bWrZVCSK9LhUpjmXzx1D99Ej08YXGqWXvsxvE01iCUiKyiYtyaXAF41ccW_J-FP2CbbsKY3Jhql__Xq0-t6G2jHEKzEcqcTp4Dr3lpnmqKKBODrMVTS94y1F-6lkfCurfRveYIWp7klPm4Arzg",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJV25Vn4g03YAR_uJDgU73no0",
+            "plus_code":{
+                  "compound_code":"RQJJ+RQ Carson, CA, USA",
+                  "global_code":"8553RQJJ+RQ"
+            },
+            "rating":4.3,
+            "reference":"ChIJV25Vn4g03YAR_uJDgU73no0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":459,
+            "vicinity":"2705 East Carson Street, Carson",
+            "price_level":null,
+            "CBG":60375440021,
+            "Radius":595.6957719064
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8319883,
+                        "lng":-118.2176281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8332973803,
+                              "lng":-118.2163625197
+                        },
+                        "southwest":{
+                              "lat":33.8305994197,
+                              "lng":-118.2190604803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dominguez Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115574845605594347590\">Marta Quinteros<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDX1tm1o-0PE9nt85TSva1cLMHA96HocIuIOyXj8RdQJokj5BRGhYG49dVT3njObKKAQf11y6Wu6qW_PSN0B0s0puGTRkXGHOefE2VGUpHRuHfwKn-T5gqrrhV-IIcJqS7V9tgGbYCNtY3-LU2N1qPryVDAG4_srHStghaJBTjs252B",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJmy8znog03YARszdqOIZzVOM",
+            "plus_code":{
+                  "compound_code":"RQJJ+QW Carson, CA, USA",
+                  "global_code":"8553RQJJ+QW"
+            },
+            "rating":4.6,
+            "reference":"ChIJmy8znog03YARszdqOIZzVOM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":264,
+            "vicinity":"2713 East Carson Street, Carson",
+            "price_level":2.0,
+            "CBG":60375440021,
+            "Radius":595.6957719064
+      }
+]

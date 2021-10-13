@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9872247,
+                        "lng":-118.3000099
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9885741303,
+                              "lng":-118.2987667697
+                        },
+                        "southwest":{
+                              "lat":33.9858761697,
+                              "lng":-118.3014647303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taste Of The Caribbean",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1297,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109062676117567095266\">Mark Haile<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAHq0Wk3WtkzEgx1pbXtmMn-CS7EZcExOvjaXsdhv48V0XOZj4q1a2PunHkc3MwKnlpprBQoC4DZqbZC6HN0Qw8EnRHRm_GbxQCR_ZZ0dK96ZDq2_vGLti7TVwvc1ORlV37LM2_j9rbPwBRN3WHZMAX6XdAXXdy0zTVn6L4X2s2XONO",
+                        "width":1114
+                  }
+            ],
+            "place_id":"ChIJx_Rtrdi3woARFLHH7s3WMeA",
+            "plus_code":{
+                  "compound_code":"XMPX+VX Los Angeles, CA, USA",
+                  "global_code":"8553XMPX+VX"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJx_Rtrdi3woARFLHH7s3WMeA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"5912 Normandie Avenue, Los Angeles",
+            "CBG":60372372011,
+            "Radius":226.6610147998
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9874056,
+                        "lng":-118.3004082
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9887541803,
+                              "lng":-118.2989653197
+                        },
+                        "southwest":{
+                              "lat":33.9860562197,
+                              "lng":-118.3016632803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Reina\u2019s Restaurant & Pupuser\u00eda",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110094703692559606989\">Yuri Lopez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECUkyrKui-STJeAq1KQ8C55XDrWh7McKiKi-Khg9FlanVQFSRGK3I22l_yzGZtkKuH0thLPdqJpJ8VHeNy-tuHS62RAFj9x86HmjBzC6ElvKpHaJ_Yp6dg5KT4iZU6QAwF9Mgqpbc6_aO8iYCjEjstpfbPrG2nFsv2ZQ5ESKcOJdfUN",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJAz9ETd-3woARiHekf30dOHg",
+            "plus_code":{
+                  "compound_code":"XMPX+XR Los Angeles, CA, USA",
+                  "global_code":"8553XMPX+XR"
+            },
+            "price_level":2,
+            "rating":4.0,
+            "reference":"ChIJAz9ETd-3woARiHekf30dOHg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"5901 Normandie Avenue, Los Angeles",
+            "CBG":60372372011,
+            "Radius":226.6610147998
+      }
+]

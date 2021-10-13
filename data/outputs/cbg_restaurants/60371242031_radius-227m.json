@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.17868,
+                        "lng":-118.370579
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1799496803,
+                              "lng":-118.3691752197
+                        },
+                        "southwest":{
+                              "lat":34.1772517197,
+                              "lng":-118.3718731803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Colmenita Market & Salvadoran Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107418639435775948936\">Carlos A Torres<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECkuGZAB4Vbi_zB0tFGW_kGuBSmAvuvH2x36iXZQFYvKep9QBXq6qR-Lzdw6McG2fje0hGwqOl100I4GIQ2xmghv3SfmJycHrm0bC8cX2ww0fHyGdFnGzju38IE9FKypoiM0L6IZCaDiNoPTkqE6YlosL9_r1jeuuZW7mRZZQqgMbNo",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJTeCxu-qVwoARmhqbizbD5I0",
+            "plus_code":{
+                  "compound_code":"5JHH+FQ North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JHH+FQ"
+            },
+            "rating":3.5,
+            "reference":"ChIJTeCxu-qVwoARmhqbizbD5I0",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"5937 Vineland Avenue, North Hollywood",
+            "CBG":60371242031,
+            "Radius":227.1751235867
+      }
+]

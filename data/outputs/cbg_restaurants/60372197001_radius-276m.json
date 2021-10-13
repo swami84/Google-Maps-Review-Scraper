@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0328272,
+                        "lng":-118.3468937
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0341576303,
+                              "lng":-118.3454548697
+                        },
+                        "southwest":{
+                              "lat":34.0314596697,
+                              "lng":-118.3481528303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Collins Fish Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109563787903749053924\">Collins Fish Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEATbfsIXR-DSWu6vmv8yYWAihlqUuVyj01tKte-ikylF32ccfMw3fDYH8u1IMGCintR4Pj629tw6c8tf6onALxQe7Ht8AFUbbFlTucddlZtvEevA81lQ5CUpi1HcHG5LRHukvOR_GcsvMUc_DqOORlsQm_jeqAHTrMNI1wCJ-rjQh0i",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJu1cwRa25woARTZXnOmgedm4",
+            "plus_code":{
+                  "compound_code":"2MM3+46 Los Angeles, CA, USA",
+                  "global_code":"85632MM3+46"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJu1cwRa25woARTZXnOmgedm4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":661.0,
+            "vicinity":"4873 West Adams Boulevard, Los Angeles",
+            "CBG":60372197001,
+            "Radius":276.2622723073
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0327962,
+                        "lng":-118.3477496
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0340158303,
+                              "lng":-118.3463998697
+                        },
+                        "southwest":{
+                              "lat":34.0313178697,
+                              "lng":-118.3490978303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cento Pasta Bar",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJP_DClc25woARFCSZcXQv1uY",
+            "plus_code":{
+                  "compound_code":"2MM2+4W Los Angeles, CA, USA",
+                  "global_code":"85632MM2+4W"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJP_DClc25woARFCSZcXQv1uY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"4921 West Adams Boulevard, Los Angeles",
+            "CBG":60372197001,
+            "Radius":276.2622723073
+      }
+]

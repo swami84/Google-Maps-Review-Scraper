@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9749062,
+                        "lng":-118.2774276
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9761447803,
+                              "lng":-118.2760618697
+                        },
+                        "southwest":{
+                              "lat":33.9734468197,
+                              "lng":-118.2787598303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Tijuana",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114984823266515110135\">Pedro D.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzf6185ptOGO7c8xq7x2kgEu6-dXCOvGCwcXdAEn9loDTRwpuqxdWpODpnVoNm5WvE_SIf809ATLn5VPpYyOh1x7JkDoW67ZVrc-7jCq-vYiuKA4U4gKzrSKuAGlnD-7dr1PQQJPOYzznAmGYl-EmKI89uhWL1nMvNLnFcSyDclUH5",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJP6vbX8rJwoAR2dkKGBhfFLE",
+            "plus_code":{
+                  "compound_code":"XPFF+X2 Los Angeles, CA, USA",
+                  "global_code":"8553XPFF+X2"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJP6vbX8rJwoAR2dkKGBhfFLE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":778,
+            "vicinity":"241 West Florence Avenue, Los Angeles",
+            "CBG":60372393103,
+            "Radius":195.6070590721
+      }
+]

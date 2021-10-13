@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.019959,
+                        "lng":-87.9251688
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0213303303,
+                              "lng":-87.9239095697
+                        },
+                        "southwest":{
+                              "lat":43.0186323697,
+                              "lng":-87.9266075303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria El Cabrito",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112584708096960147495\">Barry Klinger<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtnNCWegkBx5EPXBwojGoIiVSKHcvb7YHTpQLXvmBeT99oM3FeVTxe5JhtQWzQCEr3lSEIVIB1m4-U4PdxWBX_O4-XjoZ1X2eQ2wcg9u6QKVKJ7teX-OyevV4reKqai3rAFyCgWkKyErLqA7iNm0X1eZa6n4ythjN6QxjjNQGV9wFd",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJvQJiy_IZBYgR6XD5IEzDfWw",
+            "plus_code":{
+                  "compound_code":"239F+XW Milwaukee, WI, USA",
+                  "global_code":"86MJ239F+XW"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJvQJiy_IZBYgR6XD5IEzDfWw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1198,
+            "vicinity":"1100 South 11th Street, Milwaukee",
+            "CBG":550790157003,
+            "Radius":158.1533197452
+      }
+]

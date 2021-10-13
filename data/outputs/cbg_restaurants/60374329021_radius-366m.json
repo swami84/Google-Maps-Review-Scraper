@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0810738,
+                        "lng":-118.0610046
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0824375303,
+                              "lng":-118.0597071197
+                        },
+                        "southwest":{
+                              "lat":34.0797395697,
+                              "lng":-118.0624050803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Sason Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117323552854705846143\">El sason Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAWCbWT8Ycz1UEj5r1TwXrMiHBbXsdcQ62EVUhp-IIgpb6oRyXvRucEVpZtRBWAE_iH8VjXmtZ9i1Lg4f9e0brRFFax-55pqFCBIfVPhsco1KHxKjAkop7MXGyhwNf2hDGVjVKX-6LgoDbEi1WWmbsQx8kBlOoW6Ao0F5X5rPY9CukN",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ58belHzawoARzVpbQRJejJw",
+            "plus_code":{
+                  "compound_code":"3WJQ+CH Rosemead, CA, USA",
+                  "global_code":"85633WJQ+CH"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ58belHzawoARzVpbQRJejJw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":166,
+            "vicinity":"9544 Valley Boulevard, Rosemead",
+            "CBG":60374329021,
+            "Radius":365.731083506
+      }
+]

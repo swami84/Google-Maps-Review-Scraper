@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0397049,
+                        "lng":-118.3223299
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0410849303,
+                              "lng":-118.3210545197
+                        },
+                        "southwest":{
+                              "lat":34.0383869697,
+                              "lng":-118.3237524803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Natraliart Jamaican Restaurant & Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118111615831549523424\">Keskim Shillingford<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECnJ2ILmsJ4AaFl7jBew08FpybuDeqWKKcx0fORgdmh2JVKPQsJ0PMzPg_jI6IPSANNwz82E0V9mFyrEb6ntYmrNV2zpLL89y_6DOkmeiilgawWL5CH0AdRKGOe3K03GuYiyX41YeemQYfYBdG59wzr41DjXhwGeapCuTBTKy2ji9gw",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK0Sajme4woARGkEZRlLRn1o",
+            "plus_code":{
+                  "compound_code":"2MQH+V3 Los Angeles, CA, USA",
+                  "global_code":"85632MQH+V3"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJK0Sajme4woARGkEZRlLRn1o",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":436,
+            "vicinity":"3426 West Washington Boulevard, Los Angeles",
+            "CBG":60372188001,
+            "Radius":268.6336432704
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0396669,
+                        "lng":-118.3219804
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0411378803,
+                              "lng":-118.3206285197
+                        },
+                        "southwest":{
+                              "lat":34.0384399197,
+                              "lng":-118.3233264803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Main Chick Hot Chicken",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJU2KRtPe5woARumyp9M87SOM",
+            "plus_code":{
+                  "compound_code":"2MQH+V6 Los Angeles, CA, USA",
+                  "global_code":"85632MQH+V6"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJU2KRtPe5woARumyp9M87SOM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"3416 West Washington Boulevard, Los Angeles",
+            "CBG":60372188001,
+            "Radius":268.6336432704
+      }
+]

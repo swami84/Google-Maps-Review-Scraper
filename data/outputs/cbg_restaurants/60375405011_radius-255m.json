@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9276961,
+                        "lng":-118.21374
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9290086303,
+                              "lng":-118.2122482197
+                        },
+                        "southwest":{
+                              "lat":33.9263106697,
+                              "lng":-118.2149461803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Chuck E. Cheese",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114139562065062803852\">Chuck E. Cheese<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECNdMhOZfqQoWMysA9Zl0Uy1q-OA6e5j2hIi8rNpJcZ6jQwtzEzk7a4yAx5u7h3Nqc672q-Z3RtdvaDCouK73_v8x05SXKNcKV6LCN5hWCdW5LF1lRdloF6wqmbMCFvMRhGrZycfuyhZjXH-FsqX0sI5aWttencCpsUt0O5OFZxcS5x",
+                        "width":1778
+                  }
+            ],
+            "place_id":"ChIJvTqwmozLwoAR9sx39_UdR60",
+            "plus_code":{
+                  "compound_code":"WQHP+3G Lynwood, CA, USA",
+                  "global_code":"8553WQHP+3G"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJvTqwmozLwoAR9sx39_UdR60",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":994,
+            "vicinity":"3140 Imperial Highway, Lynwood",
+            "CBG":60375405011,
+            "Radius":254.7964111727
+      }
+]

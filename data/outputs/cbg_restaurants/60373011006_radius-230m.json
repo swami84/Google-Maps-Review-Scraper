@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1601392,
+                        "lng":-118.2547596
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1614906303,
+                              "lng":-118.2535799697
+                        },
+                        "southwest":{
+                              "lat":34.1587926697,
+                              "lng":-118.2562779303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Herand's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107405215776992238754\">Herand&#39;s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECztDUB0hrsZtM_JLB72lN_bJVmEvNnWRj01pzOdVuQs8keeeQbmOV2WL69J_KKjfZptPlXJ52ckeYh3qdRwvvP8xu082DJgXS7vt-IpVuD4DiTTIdf7GWdDyn8wpTX-5zTEt4t5A28lXQ2zmXP8Fen7BwkaTMvgG34n098lVkRaEQw",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJvTqu_EzAwoARIK3USjOmwDU",
+            "plus_code":{
+                  "compound_code":"5P6W+33 Glendale, CA, USA",
+                  "global_code":"85635P6W+33"
+            },
+            "rating":4.9,
+            "reference":"ChIJvTqu_EzAwoARIK3USjOmwDU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":71,
+            "vicinity":"946 North Brand Boulevard, Glendale",
+            "CBG":60373011006,
+            "Radius":229.766510948
+      }
+]

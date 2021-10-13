@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1570987,
+                        "lng":-118.4855234
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1584506303,
+                              "lng":-118.4842381197
+                        },
+                        "southwest":{
+                              "lat":34.1557526697,
+                              "lng":-118.4869360803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Amaebi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":257,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103754208034488067657\">Amaebi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDwk18Luwnx7O6Y7csVRdaYDEVLzZFButDE4m0oUyBEjfg75WQa35Qf-GB89K4gkBhIYwkOZlnBrJxfdLNJKxqisB6ovMfWo1R9inTTqhukKxuLXb40fPPX43tf_k9NGanxCkAEVhS7jJxzRWVpLDoumRREiav9a3owsjWaX7L5U6_J",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJpVbgwomXwoARmEgHY2mD5lk",
+            "plus_code":{
+                  "compound_code":"5G47+RQ Encino, Los Angeles, CA, USA",
+                  "global_code":"85635G47+RQ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJpVbgwomXwoARmEgHY2mD5lk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"16161 Ventura Boulevard b, Encino",
+            "CBG":60371397011,
+            "Radius":371.435616694
+      }
+]

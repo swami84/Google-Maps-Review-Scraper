@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1832613,
+                        "lng":-118.4461627
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1844835803,
+                              "lng":-118.4448142197
+                        },
+                        "southwest":{
+                              "lat":34.1817856197,
+                              "lng":-118.4475121803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack's Snack Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJoUcrIAeXwoARPquS-vDCrKs",
+            "plus_code":{
+                  "compound_code":"5HM3+8G Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635HM3+8G"
+            },
+            "rating":2,
+            "reference":"ChIJoUcrIAeXwoARPquS-vDCrKs",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"6230 Sylmar Avenue, Van Nuys",
+            "CBG":60371282102,
+            "Radius":286.490004123
+      }
+]

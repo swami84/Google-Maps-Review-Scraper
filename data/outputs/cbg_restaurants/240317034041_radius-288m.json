@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.056449,
+                        "lng":-77.072354
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0577425803,
+                              "lng":-77.0709040697
+                        },
+                        "southwest":{
+                              "lat":39.0550446197,
+                              "lng":-77.0736020303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Salte\u00f1as Deli | Empanadas",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100742373073055880437\">Salte\u00f1as Deli | Empanadas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAzVa9snAspmlA0xwrx8zejUdzEHBjZabm20ByL_MnVfsksPahi7cdCiwQE8fG3UDJWXYmera82jzkJhxveVRQcSBp-QfGlb_akowbnlJnTbheKjm-d44zFgE6o-ISltTPDNGaXwjcut-xU0VmRa5123aEszhLvB8F86ldl1pZ_jOY",
+                        "width":360
+                  }
+            ],
+            "place_id":"ChIJDXbJ31jOt4kRQ10AX11rSW4",
+            "plus_code":{
+                  "compound_code":"3W4H+H3 Silver Spring, MD, USA",
+                  "global_code":"87F43W4H+H3"
+            },
+            "rating":4.2,
+            "reference":"ChIJDXbJ31jOt4kRQ10AX11rSW4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"12202 Edgemont Street #1035, Silver Spring",
+            "CBG":240317034041,
+            "Radius":287.7211996353
+      }
+]

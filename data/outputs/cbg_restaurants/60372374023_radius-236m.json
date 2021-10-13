@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9747225,
+                        "lng":-118.3012196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9760011303,
+                              "lng":-118.2998696197
+                        },
+                        "southwest":{
+                              "lat":33.9733031697,
+                              "lng":-118.3025675803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Do\u00f1a Juanita",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102982000112607377956\">Ernesto Lopez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECv9yHqI1_ZF-0KiwvIWlu-CUprPaoAar3_QuWEcnFwtNCEC3TAn1oi4YLEZ6I6U0beaR3M-UKcVHZ2Sr6wcW6_fnCQgm3vc0FMqmK67xKLYy3ZJkBpt0NzSTFMb_U-mmJQD8KJDpIw8v4AGJCLktpdMe28V077Avbf_0bXMtOae4Dy",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJzdWwa363woARGVa3DrgFrEY",
+            "plus_code":{
+                  "compound_code":"XMFX+VG Los Angeles, CA, USA",
+                  "global_code":"8553XMFX+VG"
+            },
+            "reference":"ChIJzdWwa363woARGVa3DrgFrEY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1427 West Florence Avenue, Los Angeles",
+            "CBG":60372374023,
+            "Radius":235.5922215479
+      }
+]

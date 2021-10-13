@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0403651,
+                        "lng":-118.1758753
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0417140803,
+                              "lng":-118.1745263197
+                        },
+                        "southwest":{
+                              "lat":34.0390161197,
+                              "lng":-118.1772242803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos a Cabron #3",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJrda4zBfPwoARYf02TJwmqtg",
+            "plus_code":{
+                  "compound_code":"2RRF+4J Los Angeles, CA, USA",
+                  "global_code":"85632RRF+4J"
+            },
+            "reference":"ChIJrda4zBfPwoARYf02TJwmqtg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4160 East Cesar E Chavez Avenue, Los Angeles",
+            "CBG":60375310002,
+            "Radius":228.7668754806
+      }
+]

@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0051342,
+                        "lng":-118.4334862
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0064831803,
+                              "lng":-118.4321372197
+                        },
+                        "southwest":{
+                              "lat":34.0037852197,
+                              "lng":-118.4348351803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tokyo Shokudo",
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113756196827913439761\">Michael Ong<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEATwER9D76c2HYOURguO2wV5ctyXTPgDR67QnEEQXKTLeGRNigwRzb81VDHGeX2i7uKxdrFpzn-YzNGSqiv08GX_yRe2JHI9E69lDk09oTb9f5rJ3Pi1gV72tMy8z6148iOteSWW0a7Y3_AHHj5gyQJuhaKcdxNOPOPUMmignA2Uqhr",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJmQ9Tx9m7woARFN1m11w_6og",
+            "plus_code":{
+                  "compound_code":"2H48+3J Los Angeles, CA, USA",
+                  "global_code":"85632H48+3J"
+            },
+            "reference":"ChIJmQ9Tx9m7woARFN1m11w_6og",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3754 South Centinela Avenue, Los Angeles",
+            "CBG":60372719022,
+            "Radius":336.5394412735
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8807861,
+                        "lng":-118.0716969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8821379803,
+                              "lng":-118.0704347697
+                        },
+                        "southwest":{
+                              "lat":33.8794400197,
+                              "lng":-118.0731327303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fantastic Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104780655789506266364\">Patrick Goulding<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECNA9pE6JkQ0p-XyY3L4c_dOBY6x58_FzVwVLhF1kERhjz-bmA5cnxCqbmi85SNJLqZwc71HcZTJMI1_G34DQN-TMPgv1EWmcR13nRGSmvFHnLsoyoElzQFvqeQuPcPV1tfy7EBy24vVhvc9_G5WkSUqYyIudQMA-p23zPH56hIgelz",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgwbkPRkt3YARo2FHATKSRxY",
+            "plus_code":{
+                  "compound_code":"VWJH+88 Cerritos, CA, USA",
+                  "global_code":"8553VWJH+88"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJgwbkPRkt3YARo2FHATKSRxY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":580,
+            "vicinity":"16480 Norwalk Boulevard, Cerritos",
+            "CBG":60375545141,
+            "Radius":386.3825496172
+      }
+]

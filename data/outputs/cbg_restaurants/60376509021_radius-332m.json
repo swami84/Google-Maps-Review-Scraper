@@ -1,0 +1,48 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.827026,
+                        "lng":-118.312325
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8284695803,
+                              "lng":-118.3109770697
+                        },
+                        "southwest":{
+                              "lat":33.8257716197,
+                              "lng":-118.3136750303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"MR. J's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJVVXsPL1K3YARWNUDfhILtfE",
+            "plus_code":{
+                  "compound_code":"RMGQ+R3 Torrance, CA, USA",
+                  "global_code":"8553RMGQ+R3"
+            },
+            "rating":5,
+            "reference":"ChIJVVXsPL1K3YARWNUDfhILtfE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1860 West 220th Street, Torrance",
+            "CBG":60376509021,
+            "Radius":331.9645676066
+      }
+]

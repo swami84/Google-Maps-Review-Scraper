@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9342423,
+                        "lng":-118.2059314
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9357981803,
+                              "lng":-118.2045861697
+                        },
+                        "southwest":{
+                              "lat":33.9331002197,
+                              "lng":-118.2072841303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"MARSUSHI RESTAURANT",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106039843966995384013\">andrea ramirez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBdY1-AuYjKwKKIrmSNYhKeZd7elXWF42IFXNJF9LFFDB-gR2jKUzx8WOnYMBbmOgFRm0z1Cvql7k9BKfSuCNptra1a2EJyC-qtnp3ohVuyEBh0kJUKZv231Wf-fjLoIGaQJkE_H77FES8NT1X4uipyKnDdUkL8LNowecl9N5Nealls",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ53G_P3XMwoAR7B_mZaCQMX8",
+            "plus_code":{
+                  "compound_code":"WQMV+MJ Lynwood, CA, USA",
+                  "global_code":"8553WQMV+MJ"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJ53G_P3XMwoAR7B_mZaCQMX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":237,
+            "vicinity":"3570 Martin Luther King Junior Boulevard, Lynwood",
+            "CBG":60375402022,
+            "Radius":262.3693884319
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9334962,
+                        "lng":-118.2052513
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9348017303,
+                              "lng":-118.2038231197
+                        },
+                        "southwest":{
+                              "lat":33.9321037697,
+                              "lng":-118.2065210803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Raspados El Cristal",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117712296056967263501\">Celinita Portillo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBK3l3IJ2z4G1dvj3eMAMJOoXMysnrwET_qPKVpJ23LKV4PllW056PFd3YYT3jhkGz9k4ZtFeUjokUh6mXkGyqT837nwQN0WOnkQktDNMG8sB5adEKOQqFXD0cnJflbrJt4WjLRS-94ZgVv6-SCjQ4Iw8VRShf5hKVuEuzZv1e7SrxV",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJH9SzUXXMwoAReXu_hmYeEPU",
+            "plus_code":{
+                  "compound_code":"WQMV+9V Lynwood, CA, USA",
+                  "global_code":"8553WQMV+9V"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJH9SzUXXMwoAReXu_hmYeEPU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":126,
+            "vicinity":"3586 Martin Luther King Junior Boulevard, Lynwood",
+            "CBG":60375402022,
+            "Radius":262.3693884319
+      }
+]

@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.7334036,
+                        "lng":-122.293056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.7348111303,
+                              "lng":-122.2915613697
+                        },
+                        "southwest":{
+                              "lat":47.7321131697,
+                              "lng":-122.2942593303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nasai Teriyaki",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1224,
+                        "html_attributions":[
+                              "From a Google User"
+                        ],
+                        "photo_reference":"Aap_uEA_ZYS0ybCwG-5awiaV4pgyVLttRiRWlIR9Ift2pu0zy6GADj6rDy61buxm98X1SIYiQ2wLZ73yL9H0WWqRHXZ2cNVKblZgUH-z6ZlsJoR92BIZ_bw8rMXjdYo_ggt--IPsniMDfzMMJajhgQO90fJGgCKOzueU-0ELc0Upb4MYs_GQ",
+                        "width":1632
+                  }
+            ],
+            "place_id":"ChIJ9WAr158RkFQRXPJ_ZqR0zOs",
+            "plus_code":{
+                  "compound_code":"PPM4+9Q Seattle, WA, USA",
+                  "global_code":"84VVPPM4+9Q"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJ9WAr158RkFQRXPJ_ZqR0zOs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":157.0,
+            "vicinity":"3221 Northeast 145th Street, Seattle",
+            "CBG":530330001004,
+            "Radius":200.6017301053
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.7329966,
+                        "lng":-122.2962374
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.7343478803,
+                              "lng":-122.2950278197
+                        },
+                        "southwest":{
+                              "lat":47.7316499197,
+                              "lng":-122.2977257803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SPS school lunch delivery 11:27am M-F",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJTzs1V-4RkFQRuShFE1rFjiY",
+            "plus_code":{
+                  "compound_code":"PPM3+5G Seattle, WA, USA",
+                  "global_code":"84VVPPM3+5G"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJTzs1V-4RkFQRuShFE1rFjiY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"14362 30th Avenue Northeast, Seattle",
+            "CBG":530330001004,
+            "Radius":200.6017301053
+      }
+]

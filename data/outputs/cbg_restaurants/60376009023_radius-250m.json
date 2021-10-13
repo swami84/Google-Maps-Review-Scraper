@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9668344,
+                        "lng":-118.3510372
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9681388303,
+                              "lng":-118.3497735697
+                        },
+                        "southwest":{
+                              "lat":33.9654408697,
+                              "lng":-118.3524715303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Antojitos Martin",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103323667468766195506\">Antojitos Martin<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQLz0V_t9Bm7xLZ5tVrPYrQ9ZETegYoUxDiYJ6BhB9IiAC6_Rwpzg5Rwtg3lYOoEvJayEW6CIs2KEXfyf-iv69OMSwr0iNgyq1l1hGr70yTjsFW0fmZWKZowOQ2nSlW37DcCpGHPFMrHJ3cxWm52zwR1AkBISgTD2Yee3RBXaUgh3U",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJV_3diQa3woARiMS2gLNmpxQ",
+            "plus_code":{
+                  "compound_code":"XJ8X+PH Inglewood, CA, USA",
+                  "global_code":"8553XJ8X+PH"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJV_3diQa3woARiMS2gLNmpxQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":589,
+            "vicinity":"310 East Florence Avenue, Inglewood",
+            "CBG":60376009023,
+            "Radius":250.0353038991
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9671065,
+                        "lng":-118.350286
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9688180303,
+                              "lng":-118.3489540697
+                        },
+                        "southwest":{
+                              "lat":33.9661200697,
+                              "lng":-118.3516520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Orleans & York Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111912693773858789552\">Lo Shia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED1v8aKtaDAm5lfaUAiT17bdI3q8qFeLsluViSkglpYGonz_I79-zKwgh5IO1NiLqLZpYzD2BgFZoBGIPjdDoYRxQN98i-5i8fMLrCrcWUAp0T9Kbz1oICl_KIeROUX6B_ZKchADJFF7kJDYNfqICPasHWdbHMCQ-139tyQRMoEtTzf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJaUxRXwa3woARdn14D4eFFnA",
+            "plus_code":{
+                  "compound_code":"XJ8X+RV Inglewood, CA, USA",
+                  "global_code":"8553XJ8X+RV"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJaUxRXwa3woARdn14D4eFFnA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":880,
+            "vicinity":"400 East Florence Avenue, Inglewood",
+            "CBG":60376009023,
+            "Radius":250.0353038991
+      }
+]

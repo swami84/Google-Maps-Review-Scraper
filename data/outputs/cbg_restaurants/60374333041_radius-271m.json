@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0744904,
+                        "lng":-118.0169794
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0757390303,
+                              "lng":-118.0157807197
+                        },
+                        "southwest":{
+                              "lat":34.0730410697,
+                              "lng":-118.0184786803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104337805725640729715\">Tito<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC6Hk_eflT6Kg3XG2Cm65fHYUt5l8CF8RGvKyhT3aEa8wGQzXrS1g3IxltD8Yf98o24RqCsQ5aQRYGngRrZbuU5pIdy3TXxMablkOYSzvCXv4XSbWJdBj283XOitW5YKaVAnY9_BqNamSPA19LhcaIf_n7ay7qmKXtf1G0NcnGciS9d",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJNRaE6VLXwoARIwAzrVrFhbM",
+            "plus_code":{
+                  "compound_code":"3XFM+Q6 El Monte, CA, USA",
+                  "global_code":"85633XFM+Q6"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJNRaE6VLXwoARIwAzrVrFhbM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":833,
+            "vicinity":"11780 Ramona Boulevard, El Monte",
+            "CBG":60374333041,
+            "Radius":270.8444967878
+      }
+]

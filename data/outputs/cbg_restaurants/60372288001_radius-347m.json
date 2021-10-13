@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9992863,
+                        "lng":-118.24373
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0006362303,
+                              "lng":-118.2422619697
+                        },
+                        "southwest":{
+                              "lat":33.9979382697,
+                              "lng":-118.2449599303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carniceria Y Taqueria Tierra Caliente",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101058246579981249901\">Bryan Macz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC_JxlteNj-sgLqg3mvZtyLAYESmyS48Xq-XLgFPiCIe-9DOOCD7UzzEcYj1bqQCQkw-qJQxpHfkvRkRdAPFht6_pMdxgWWzYfgVAxh-VtshJreTkvi4TsQoND7OxO5eRZB7La06UaDXxwRvnZfGRyUm_zPI5F0Zv_JC3xq-puGxL73",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJC4FZqPHIwoARP5bpCIbjLbk",
+            "plus_code":{
+                  "compound_code":"XQX4+PG Los Angeles, CA, USA",
+                  "global_code":"8553XQX4+PG"
+            },
+            "rating":4,
+            "reference":"ChIJC4FZqPHIwoARP5bpCIbjLbk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4851 Long Beach Avenue, Los Angeles",
+            "CBG":60372288001,
+            "Radius":346.5869466793
+      }
+]

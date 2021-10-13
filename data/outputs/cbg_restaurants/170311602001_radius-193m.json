@@ -1,0 +1,105 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9607826,
+                        "lng":-87.7339792
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9621247803,
+                              "lng":-87.7327233697
+                        },
+                        "southwest":{
+                              "lat":41.9594268197,
+                              "lng":-87.7354213303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cuenca's Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103878439321009279100\">Manuel Mario Soto<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDv3BakJkNhKj-NfU0m9bxUkIgl9TIzD7MVVE_Kj2I_GjMeko00OIKUn48_XlDRDAc5WYN6EKHZGrxMft2bz_krOaVCMHrGG5vOfRfcXrUf3jv1rZTbJ61mUp1yGQWUhf_ScoyH-u9Z_AQ1iQBQSyi7I73Uoc70ZnyrC7AXmoqpVisD",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYY-kmcvND4gRcE2EsdymJR4",
+            "plus_code":{
+                  "compound_code":"X768+8C Chicago, IL, USA",
+                  "global_code":"86HJX768+8C"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJYY-kmcvND4gRcE2EsdymJR4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":221,
+            "vicinity":"4229 West Montrose Avenue, Chicago",
+            "CBG":170311602001,
+            "Radius":192.8158657541
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9609775,
+                        "lng":-87.734679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9622809803,
+                              "lng":-87.7333298697
+                        },
+                        "southwest":{
+                              "lat":41.9595830197,
+                              "lng":-87.7360278303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"R X Enterprises Inc",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJaUdCd8vND4gR83C1pLsZjQc",
+            "plus_code":{
+                  "compound_code":"X768+94 Chicago, IL, USA",
+                  "global_code":"86HJX768+94"
+            },
+            "price_level":null,
+            "rating":3.0,
+            "reference":"ChIJaUdCd8vND4gR83C1pLsZjQc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4248 West Montrose Avenue, Chicago",
+            "CBG":170311602001,
+            "Radius":192.8158657541
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6430933,
+                        "lng":-122.3467535
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6443508303,
+                              "lng":-122.3454605197
+                        },
+                        "southwest":{
+                              "lat":47.6416528697,
+                              "lng":-122.3481584803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Canlis",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111708657551412123616\">Canlis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECT1qwrBkTFVZaV_JMEFiw2U1xKksQpMaUJB7TlZOXDnEtjWBRRRsf8G4tjkIbzNSFQyK0jCjhVZeTW_V_hBL0tgudAA9P25isOmh-O2ZVSff02Fdk1VISAFTJcVgQVrh4nHEuVJVtXPvOXycF3hFPQW3NSwKlKa4kFOn6YNJOV-Omk",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJRXCfNwUVkFQRxraD8U-dANE",
+            "plus_code":{
+                  "compound_code":"JMV3+67 Seattle, WA, USA",
+                  "global_code":"84VVJMV3+67"
+            },
+            "price_level":4,
+            "rating":4.7,
+            "reference":"ChIJRXCfNwUVkFQRxraD8U-dANE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1761,
+            "vicinity":"2576 Aurora Avenue North, Seattle",
+            "CBG":530330060001,
+            "Radius":285.0095696374
+      }
+]

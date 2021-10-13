@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.039547,
+                        "lng":-118.3309427
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0409704303,
+                              "lng":-118.3294671197
+                        },
+                        "southwest":{
+                              "lat":34.0382724697,
+                              "lng":-118.3321650803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101833092800077217484\">Esther Martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAWTy59IHu0GMRSo3vUQrDHYGotLQhMvhKS5eq1QK6B2iSi8e2KX_ltQYyzopBljGnvnXKFHOd_tYufGQeo3pZG-LPFNWMxralobYq3kn5ro-eOqflL_fgyDBpnudvgwnX1d-SSBZIb22n8JKj37dRQeFknoINfzr904Lw9X7cTcUd1",
+                        "width":2184
+                  }
+            ],
+            "place_id":"ChIJhVLyuVu4woARyfKHtOiLRbw",
+            "plus_code":{
+                  "compound_code":"2MQ9+RJ Los Angeles, CA, USA",
+                  "global_code":"85632MQ9+RJ"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJhVLyuVu4woARyfKHtOiLRbw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1273,
+            "vicinity":"1906 Crenshaw Boulevard, Los Angeles",
+            "CBG":60372187011,
+            "Radius":269.6690469955
+      }
+]

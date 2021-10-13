@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.744373,
+                        "lng":-122.171129
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7457314303,
+                              "lng":-122.1696863697
+                        },
+                        "southwest":{
+                              "lat":37.7430334697,
+                              "lng":-122.1723843303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102606254261743887138\">Flawless Leigh Jackson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECgOFDRg9ulsxlGkBKvfhLlJLm6tKMQn2RUeUns4Jj836X_VRSWbzFvx7yhULSGzlQ96YHLY5-qLC5AVjHtzb47gb7ripI6s-7tmQiW6ged0TV_EjKeNsiif1efzz-8lSlNSKRvIsEYJ_uTaWi1oM7FRyzub_vgJ2lLZyXD1jUJ9dEZ",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJb9MiFmOPj4ARM2oHw9NvEX8",
+            "plus_code":{
+                  "compound_code":"PRVH+PG Oakland, CA, USA",
+                  "global_code":"849VPRVH+PG"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJb9MiFmOPj4ARM2oHw9NvEX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1259,
+            "vicinity":"9725 East 14th Street, Oakland",
+            "CBG":60014094001,
+            "Radius":201.2433480368
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9109407,
+                        "lng":-87.6404918
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9123365303,
+                              "lng":-87.6391558197
+                        },
+                        "southwest":{
+                              "lat":41.9096385697,
+                              "lng":-87.6418537803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Forastero Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111949404221042554585\">David Supp-Montgomerie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAjGb5vfvMBesMGqluD79aRt4hwz3BbVM2RdsiRhziZ8cIfj4gKHfcPA9_LJ4ww0_7yXL7qxPjPyLp07jhv4C4IH0iAI1tzA9D69BKy-OQeclF6G_t8BsXLGLbDzCSzD3451LtAC2f6SatSjyY225xBjSB1fOMCVCpjj3-Lu5JkitJS",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJgWTbLj_TD4gRbDCxosGqfqg",
+            "plus_code":{
+                  "compound_code":"W965+9R Chicago, IL, USA",
+                  "global_code":"86HJW965+9R"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJgWTbLj_TD4gRbDCxosGqfqg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":399,
+            "vicinity":"449 West North Avenue, Chicago",
+            "CBG":170310717002,
+            "Radius":158.9112850319
+      }
+]

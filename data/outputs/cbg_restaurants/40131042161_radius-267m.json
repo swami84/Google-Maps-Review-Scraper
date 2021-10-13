@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6242796,
+                        "lng":-112.1863293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6256031803,
+                              "lng":-112.1848840697
+                        },
+                        "southwest":{
+                              "lat":33.6229052197,
+                              "lng":-112.1875820303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Patos Mexican Food #2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2252,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118208783004879349898\">dub nphx<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBMGOjRvwrDuvZ9-p7_d-8BhAB7zRY2gEytwYgJtU4ueh0LH5FFEp8RQw4ZXEFWwRBJuXdltjlOEhGIhaZerxgSCrp9BPL5LnbbeWsXhBQe-tnAiyKI-y_N1HPHA93nFiSIgZkKeeWSWQ_veCz4IbOgLTofx3bhDt4p4fvbtFqm0Qcy",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ45sEJHppK4cRnetju8CrLjg",
+            "plus_code":{
+                  "compound_code":"JRF7+PF Glendale, AZ, USA",
+                  "global_code":"8559JRF7+PF"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJ45sEJHppK4cRnetju8CrLjg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":86,
+            "vicinity":"15224 North 59th Avenue suit 1, Glendale",
+            "CBG":40131042161,
+            "Radius":267.1436188685
+      }
+]

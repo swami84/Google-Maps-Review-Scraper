@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0909772,
+                        "lng":-118.3023352
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0922984803,
+                              "lng":-118.3009849697
+                        },
+                        "southwest":{
+                              "lat":34.0896005197,
+                              "lng":-118.3036829303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Al Pastor",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117467317296116903551\">Roy Samaan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECn-SSU0CnVJYdB3dNAb--bli9r8mrNbMPD5hZcKDiRIo874x44FSEjYRUNJd7IFX1l06LlJfGD3vh2I_oviDX66fjfARvd6TqEltleHUqx205Txn_-5g_cWD_OGiTuYUCVSiK2WG93LzBE-M2JP5ZoJ-OMyQFot7dvzpOPYbrz8YPa",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJkWWHTKq4woARE3s-68HkqWs",
+            "plus_code":{
+                  "compound_code":"3MRX+93 Los Angeles, CA, USA",
+                  "global_code":"85633MRX+93"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJkWWHTKq4woARE3s-68HkqWs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":305,
+            "vicinity":"5179 Santa Monica Boulevard, Los Angeles",
+            "CBG":60371916201,
+            "Radius":269.8985317729
+      }
+]

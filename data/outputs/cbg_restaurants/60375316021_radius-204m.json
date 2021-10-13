@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0174198,
+                        "lng":-118.1627325
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0186563303,
+                              "lng":-118.1614168197
+                        },
+                        "southwest":{
+                              "lat":34.0159583697,
+                              "lng":-118.1641147803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chabelitas",
+            "place_id":"ChIJgVP6fePPwoARRR7bzoGEPfQ",
+            "plus_code":{
+                  "compound_code":"2R8P+XW East Los Angeles, CA, USA",
+                  "global_code":"85632R8P+XW"
+            },
+            "reference":"ChIJgVP6fePPwoARRR7bzoGEPfQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5001 East Olympic Boulevard, East Los Angeles",
+            "CBG":60375316021,
+            "Radius":204.3542647411
+      }
+]

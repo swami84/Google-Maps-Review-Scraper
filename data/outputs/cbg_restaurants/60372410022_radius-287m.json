@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9235546,
+                        "lng":-118.2546038
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9248589803,
+                              "lng":-118.2532558697
+                        },
+                        "southwest":{
+                              "lat":33.9221610197,
+                              "lng":-118.2559538303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Pete",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2666,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106659970845795022907\">Lisa Marie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBehFWL5biIC73BVxLFVbGpyYxpwnOJRPKbJUs7_8CoMhMWhKwzc5Bx7x42T50ZiqXy0eg-GGtMb1wVL4xLQhk5JyVV4rIoBWZ1laI34DpNTAyc8KBndHuF0HULzBrrYIxy002p9Ve1YTap5FIW498eORwNKxknWFru6TOaH7saXNxl",
+                        "width":2667
+                  }
+            ],
+            "place_id":"ChIJX-GkEDXKwoARTJEixOCcXpQ",
+            "plus_code":{
+                  "compound_code":"WPFW+C5 Los Angeles, CA, USA",
+                  "global_code":"8553WPFW+C5"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJX-GkEDXKwoARTJEixOCcXpQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1005.0,
+            "vicinity":"12007 South Central Avenue, Los Angeles",
+            "CBG":60372410022,
+            "Radius":286.9651472304
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9242551,
+                        "lng":-118.2541699
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9256039303,
+                              "lng":-118.2529080197
+                        },
+                        "southwest":{
+                              "lat":33.9229059697,
+                              "lng":-118.2556059803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"3 Big Sister Bbq",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJK7GWHzXKwoARGfk0BM9fqnM",
+            "plus_code":{
+                  "compound_code":"WPFW+P8 Los Angeles, CA, USA",
+                  "global_code":"8553WPFW+P8"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJK7GWHzXKwoARGfk0BM9fqnM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"11922 South Central Avenue, Los Angeles",
+            "CBG":60372410022,
+            "Radius":286.9651472304
+      }
+]

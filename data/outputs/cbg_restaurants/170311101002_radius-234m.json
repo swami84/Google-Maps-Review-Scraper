@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.985552,
+                        "lng":-87.7697591
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9868927803,
+                              "lng":-87.7682712197
+                        },
+                        "southwest":{
+                              "lat":41.9841948197,
+                              "lng":-87.7709691803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger Bull",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104508198209793022728\">tom olson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC6t5ODqhnZFF5T1c31Dk4qtl_GhjNrZmGAb4ENEI_p2OVCJgqt3MHgRabUo0HQGAIul-N7yl4GFHb_QCXo-PBoPEQlXQQHRmn5afNlvenRWys_ZeIISs27E0UVqrvcdptsi4kbThKyHTR7OD9ZE4HNzGLN3phFXlTEFxedeELHtrw8",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJE2CFRK7OD4gRXNxVuPX1yqk",
+            "plus_code":{
+                  "compound_code":"X6PJ+63 Chicago, IL, USA",
+                  "global_code":"86HJX6PJ+63"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJE2CFRK7OD4gRXNxVuPX1yqk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":186,
+            "vicinity":"5736 North Elston Avenue, Chicago",
+            "CBG":170311101002,
+            "Radius":233.9523524977
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.986336,
+                        "lng":-87.771488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9877913803,
+                              "lng":-87.7700368697
+                        },
+                        "southwest":{
+                              "lat":41.9850934197,
+                              "lng":-87.7727348303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#13B5C7",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Folklore Group Sloboda",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ28eVCa7OD4gRWtml7XME2EY",
+            "plus_code":{
+                  "compound_code":"X6PH+GC Chicago, IL, USA",
+                  "global_code":"86HJX6PH+GC"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ28eVCa7OD4gRWtml7XME2EY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5782 North Elston Avenue, Chicago",
+            "CBG":170311101002,
+            "Radius":233.9523524977
+      }
+]

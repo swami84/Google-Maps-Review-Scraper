@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.771823,
+                        "lng":-118.168613
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7731180303,
+                              "lng":-118.1672236197
+                        },
+                        "southwest":{
+                              "lat":33.7704200697,
+                              "lng":-118.1699215803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Honduras' Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100042261137046368186\">Honduras&#39; Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECdp6e0cbzQGugW-o2xwMHkdqqoURn73MRt4v9k6-1UyryPPq4-Y8RD0CsNznB6Xbw83OYVODp-NT3Aw6VXExrLLqUx8-UJ26FSRuQbi6hsz4wLfXmoQPMhK-x71nrGWRChTxmB6EaT0zH0UZ07ghuPp6PKOQaenTtYyfvW3Wm5HJH4",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJezkUWw4x3YARpzvqMxdPYSg",
+            "plus_code":{
+                  "compound_code":"QRCJ+PH Long Beach, CA, USA",
+                  "global_code":"8553QRCJ+PH"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJezkUWw4x3YARpzvqMxdPYSg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":371,
+            "vicinity":"1909 East 4th Street, Long Beach",
+            "CBG":60375765031,
+            "Radius":227.2234586454
+      }
+]

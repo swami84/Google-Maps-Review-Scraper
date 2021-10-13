@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.003693,
+                        "lng":-118.4608321
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0049465803,
+                              "lng":-118.4595491697
+                        },
+                        "southwest":{
+                              "lat":34.0022486197,
+                              "lng":-118.4622471303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"2 Joes Pop-Up (order now for Sunday delivery)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104569646797972863618\">2 Joes Pop-Up (order now for Sunday delivery)<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBtVn57z9JiB1omff3JEf_I_6CidpS5Yjq6vxTzXiINxHbj9VifLLUUQjfvWJ6D7FQ7wz3uC2PAWnPV1SVH0j8sVtJme6oSNLpYVkFqiYXmWb6s-nx21rVBP2wGQrwi6M6M-jDX1ES5gPSYOCm8mQwUXtuHxRQOBbz_l3maiKVVXw",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJyfFiDmK7woAR_RuSYtqxBOQ",
+            "plus_code":{
+                  "compound_code":"2G3Q+FM Venice, Los Angeles, CA, USA",
+                  "global_code":"85632G3Q+FM"
+            },
+            "rating":5,
+            "reference":"ChIJyfFiDmK7woAR_RuSYtqxBOQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"812 Courtland Street, Venice",
+            "CBG":60372731003,
+            "Radius":291.6194392733
+      }
+]

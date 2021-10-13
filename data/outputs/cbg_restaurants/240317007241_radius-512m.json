@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.1435456,
+                        "lng":-77.2060202
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.1447745803,
+                              "lng":-77.2047319697
+                        },
+                        "southwest":{
+                              "lat":39.1420766197,
+                              "lng":-77.2074299303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\"The Heritage\" Dining Hall",
+            "permanently_closed":true,
+            "place_id":"ChIJ8_ApG_EttokRD1urgjUI660",
+            "plus_code":{
+                  "compound_code":"4QVV+CH Gaithersburg, MD, USA",
+                  "global_code":"87F44QVV+CH"
+            },
+            "reference":"ChIJ8_ApG_EttokRD1urgjUI660",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7 Red Oak Street, Gaithersburg",
+            "CBG":240317007241,
+            "Radius":511.812316768
+      }
+]

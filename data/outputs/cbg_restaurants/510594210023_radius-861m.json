@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.75445,
+                        "lng":-77.1876624
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.7557868803,
+                              "lng":-77.1862530697
+                        },
+                        "southwest":{
+                              "lat":38.7530889197,
+                              "lng":-77.1889510303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":690,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117622392826641039565\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBmscJT1D3fk5POJXQUn61m_svcCgGnCnzUa-qIzXSvwgcpWXGINIxrSlDzkMtyHdgKd5nua8w2FCxja5J3nFflS-laMfodNGVCc9yuSmeoDnJIXd52mZ_dhE2JXPLHOlGdG8eMtNd08eNJRHb9D3BCjr6GWsg9Wpt_aeUr6A0ReSYU",
+                        "width":1227
+                  }
+            ],
+            "place_id":"ChIJxZ854list4kRtsk1qFT6x2M",
+            "plus_code":{
+                  "compound_code":"QR36+QW Fort Belvoir, VA, USA",
+                  "global_code":"87C4QR36+QW"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJxZ854list4kRtsk1qFT6x2M",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"National Geospatial Int Agency, 7500 Heller Road, Fort Belvoir",
+            "CBG":510594210023,
+            "Radius":860.5659378034
+      }
+]

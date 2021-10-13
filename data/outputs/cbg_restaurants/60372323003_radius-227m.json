@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9996082,
+                        "lng":-118.3003302
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0009564303,
+                              "lng":-118.2989167697
+                        },
+                        "southwest":{
+                              "lat":33.9982584697,
+                              "lng":-118.3016147303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Herbalife club Arriaga",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117360031118863491735\">Herbalife club Arriaga<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBqoc3MuuHWlxFt3vkkt9jaC3aUCKVG4jH34Ea1zW7Z1vgOyuZSVWV6gVno4SFF-y2ELsFIdS9zA_VxC-CQJFcs9fDRP57VjZ66c8Vwo7nHQU1S2tcgFoA7PwxeqkwB7Lkew8ACxxAi7Hm8KVlIUWHiO-TkKhiT1bieOgT6ay9XoHSs",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJJSyeUc7HwoARk19kHpG5u-k",
+            "plus_code":{
+                  "compound_code":"XMXX+RV Los Angeles, CA, USA",
+                  "global_code":"8553XMXX+RV"
+            },
+            "reference":"ChIJJSyeUc7HwoARk19kHpG5u-k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4817 Normandie Avenue, Los Angeles",
+            "CBG":60372323003,
+            "Radius":226.8659562756
+      }
+]

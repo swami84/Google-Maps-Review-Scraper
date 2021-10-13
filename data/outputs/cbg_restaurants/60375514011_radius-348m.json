@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9482377,
+                        "lng":-118.1555543
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9495853803,
+                              "lng":-118.1543103197
+                        },
+                        "southwest":{
+                              "lat":33.9468874197,
+                              "lng":-118.1570082803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104930922457888060029\">Taco Bell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA54dAUOXHkBkzj9FGeV7yttfUgGTS3BOME-LV-mSgADbDGqj2gFXMlWWCRLXxSuYaaix4Um2ysByOPYNEIG_IVDPOQwZZEL5fYNu5BhBCYkFA2IG-rO6xTSnIPaNsv2WqWKcJrciIMaZM8MiDoXR6zhia4q0Kxgjt_QV64MrM8CehB",
+                        "width":600
+                  }
+            ],
+            "place_id":"ChIJRUt4Q8rNwoARroimBG-X2kk",
+            "plus_code":{
+                  "compound_code":"WRXV+7Q Downey, CA, USA",
+                  "global_code":"8553WRXV+7Q"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJRUt4Q8rNwoARroimBG-X2kk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":299,
+            "vicinity":"7127 Firestone Boulevard, Downey",
+            "CBG":60375514011,
+            "Radius":347.755951521
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9472614,
+                        "lng":-118.1543218
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9486113303,
+                              "lng":-118.1530299697
+                        },
+                        "southwest":{
+                              "lat":33.9459133697,
+                              "lng":-118.1557279303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carl's Jr.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":694,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111237359176587915342\">Carl&#39;s Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAEYw1X4tWcMKsDjiX7cASFgR7tTGdCRpLOmzZZ2xALA5qnFuA21CnA9QXuYLdZz-QnHGvi5UKwzEHg5texzb1HjU858xltFm5Kd-3D9AtE3NBW1TZAgKeckd6oxrTTOQNPVDVomEMlaNzAIhXDsadpSmdWOfxuTfEoHEMZ2yI4yJQE",
+                        "width":1234
+                  }
+            ],
+            "place_id":"ChIJGXzeE8rNwoARXVk8q7xuuFo",
+            "plus_code":{
+                  "compound_code":"WRWW+W7 Downey, CA, USA",
+                  "global_code":"8553WRWW+W7"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJGXzeE8rNwoARXVk8q7xuuFo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":229,
+            "vicinity":"7200 Firestone Boulevard, Downey",
+            "CBG":60375514011,
+            "Radius":347.755951521
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.4663076,
+                        "lng":-122.3275275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.4677671303,
+                              "lng":-122.3263645697
+                        },
+                        "southwest":{
+                              "lat":47.4650691697,
+                              "lng":-122.3290625303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kayleeb Sugar shack",
+            "place_id":"ChIJtaZROp9DkFQRwEx63FOOnMk",
+            "plus_code":{
+                  "compound_code":"FM8C+GX Burien, WA, USA",
+                  "global_code":"84VVFM8C+GX"
+            },
+            "reference":"ChIJtaZROp9DkFQRwEx63FOOnMk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"515 South 152nd Street, Burien",
+            "CBG":530330280003,
+            "Radius":419.2672692872
+      }
+]

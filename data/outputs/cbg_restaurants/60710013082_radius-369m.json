@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.078024,
+                        "lng":-117.612999
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0792992803,
+                              "lng":-117.6116323697
+                        },
+                        "southwest":{
+                              "lat":34.0766013197,
+                              "lng":-117.6143303303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fredy's Tacos Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101897354935501945889\">MIGUEL ORTEGA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKtmFxYX9684cJ4P3TqrX-GcZyTW2mnZJDW8IBkVqOfG9uZwq3zZP40d7JyEVVAiFEYv_KEvVkA9XPif9dyULsu94cSQR-gxdmHIvwvYuvcBLsHsE9UDsPRXNuZLtNa4AO5J8rD8w-oxJ9assw3wn13NyAlfKSb_uy5OzasLDIGL6j",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJLUBfOkc0w4AR_pb2xWhVhFc",
+            "plus_code":{
+                  "compound_code":"39HP+6R Ontario, CA, USA",
+                  "global_code":"856439HP+6R"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJLUBfOkc0w4AR_pb2xWhVhFc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":526,
+            "vicinity":"1821 East 4th Street, Ontario",
+            "CBG":60710013082,
+            "Radius":368.895004346
+      }
+]

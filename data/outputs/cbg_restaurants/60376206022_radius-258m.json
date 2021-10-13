@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":33.8614838,
+                        "lng":-118.3624253
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8627102803,
+                              "lng":-118.3610759197
+                        },
+                        "southwest":{
+                              "lat":33.8600123197,
+                              "lng":-118.3637738803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Musubi Shack",
+            "permanently_closed":true,
+            "place_id":"ChIJMfrgcWu1woARL6MsNdX_OdE",
+            "plus_code":{
+                  "compound_code":"VJ6Q+H2 Redondo Beach, CA, USA",
+                  "global_code":"8553VJ6Q+H2"
+            },
+            "reference":"ChIJMfrgcWu1woARL6MsNdX_OdE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2607 Alvord Lane, Redondo Beach",
+            "CBG":60376206022,
+            "Radius":257.6358003777
+      }
+]

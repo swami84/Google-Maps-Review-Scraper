@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9385547,
+                        "lng":-118.3655082
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9399034803,
+                              "lng":-118.3642510697
+                        },
+                        "southwest":{
+                              "lat":33.9372055197,
+                              "lng":-118.3669490303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chavez Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100830340922843643553\">Chavez Catering<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC_D64uhtmVw-0BkSpdLASJBDYC9HhofxgUy6ikqLFnOQorO7zLwP7NGh_7Zau04jsMT78lTSzQIvRCqN3pqrCeZcogI26onQoHSB4nT7ZfknB0ToLDXeGRNpg1uGdX2kHEQ-PSz7K2hQvP8UrO0SORN3wrDSIzKs3PDNEHGwZOqXN7",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ4TkVcXe3woAR3Eb3hEbzE2I",
+            "plus_code":{
+                  "compound_code":"WJQM+CQ Lennox, CA, USA",
+                  "global_code":"8553WJQM+CQ"
+            },
+            "rating":4.7,
+            "reference":"ChIJ4TkVcXe3woAR3Eb3hEbzE2I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"10720 Felton Avenue, Lennox",
+            "CBG":60376015022,
+            "Radius":281.1991294018
+      }
+]

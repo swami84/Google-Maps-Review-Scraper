@@ -1,0 +1,62 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7666192,
+                        "lng":-118.1825819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7679634803,
+                              "lng":-118.1812318197
+                        },
+                        "southwest":{
+                              "lat":33.7652655197,
+                              "lng":-118.1839297803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"Shell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113378928084007665099\">Juan Abila<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDIjWMSXBH4AzSh8DqsDNkDP8QwF4EVzQlbr-2tCK8zfYcRcLuHxcwjea0uZpFOR3OT1wNlMdWs6ALah94vQAUgty9aZW5jj9sSdGWK2d_C1Eo4DPl52mpx8EmproD72DrxBnRRdO5aTlkMq8658SEu25pW2fY2-_OWN30v1ZPh2vhc",
+                        "width":1932
+                  }
+            ],
+            "place_id":"ChIJGf7BYT0x3YARxLX6X2p099M",
+            "plus_code":{
+                  "compound_code":"QR88+JX Long Beach, CA, USA",
+                  "global_code":"8553QR88+JX"
+            },
+            "price_level":2,
+            "rating":3.4,
+            "reference":"ChIJGf7BYT0x3YARxLX6X2p099M",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":152,
+            "vicinity":"805 East Ocean Boulevard, Long Beach",
+            "CBG":60375766011,
+            "Radius":286.8025992356
+      }
+]

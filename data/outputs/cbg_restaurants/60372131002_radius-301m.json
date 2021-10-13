@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0527522,
+                        "lng":-118.3160762
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0541227803,
+                              "lng":-118.3148611197
+                        },
+                        "southwest":{
+                              "lat":34.0514248197,
+                              "lng":-118.3175590803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chung Kiwa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2252,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116216513992063300453\">\uc870\uba85\ud604<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPCzg1v-cHswjosiFepLVaAXmF9GGtu7N0yVdHOhCepaBZ-1iDjBwLNJQllxrySB5RYwn9RKGMzhjoMi9Ka7BHepuIGmGFDSTn0tashzjHZ3qLLsvLndh6Xshz6MmRuldmsezglMUPSUWTP2X0xGhXnINdSm68evu3a9m0BOhTyqWc",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJY1nccIm4woARNnWYuNOfk8k",
+            "plus_code":{
+                  "compound_code":"3M3M+4H Los Angeles, CA, USA",
+                  "global_code":"85633M3M+4H"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJY1nccIm4woARNnWYuNOfk8k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":312,
+            "vicinity":"3545 West Olympic Boulevard, Los Angeles",
+            "CBG":60372131002,
+            "Radius":300.5653486312
+      }
+]

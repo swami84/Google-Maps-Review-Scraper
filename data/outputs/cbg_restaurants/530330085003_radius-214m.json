@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6019848,
+                        "lng":-122.3273803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6033246303,
+                              "lng":-122.3261799697
+                        },
+                        "southwest":{
+                              "lat":47.6006266697,
+                              "lng":-122.3288779303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Deli Cut Subs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108959697247602124588\">John Mccafferty<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDQ9ji7CsCZnsfI3UKTpjAt7_Of7tUFGzKjJWSt5G1tEYbKOI_FgPKqs-3jes__CYHakA64wIIEpVyTEYEbKWTb9ICNy7vSDADkcd2zR2fYnEMQ1o_Pc5ZvvwJdF32HAhbjTJIBzyzbhDGaXjhn1qT-RWxbGjtd5w822xmVL5fVi4v_",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJI9eLZbBqkFQRxICXLFwVaPc",
+            "plus_code":{
+                  "compound_code":"JM2F+Q2 Seattle, WA, USA",
+                  "global_code":"84VVJM2F+Q2"
+            },
+            "rating":4.9,
+            "reference":"ChIJI9eLZbBqkFQRxICXLFwVaPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"300 5th Avenue, Seattle",
+            "CBG":530330085003,
+            "Radius":213.9424457273
+      }
+]

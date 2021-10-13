@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0489704,
+                        "lng":-118.284386
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0503965303,
+                              "lng":-118.2830370197
+                        },
+                        "southwest":{
+                              "lat":34.0476985697,
+                              "lng":-118.2857349803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Biiria Los Compis",
+            "place_id":"ChIJ_VyxqI3HwoARghwCsnZtpPA",
+            "plus_code":{
+                  "compound_code":"2PX8+H6 Los Angeles, CA, USA",
+                  "global_code":"85632PX8+H6"
+            },
+            "rating":5.0,
+            "reference":"ChIJ_VyxqI3HwoARghwCsnZtpPA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2300 West 12th Street, Los Angeles",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "CBG":60372134021,
+            "Radius":201.4141009574
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0475,
+                        "lng":-118.2863889
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0487410803,
+                              "lng":-118.2850732197
+                        },
+                        "southwest":{
+                              "lat":34.0460431197,
+                              "lng":-118.2877711803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pollos El Brasero",
+            "place_id":"ChIJKzsZoprHwoARH-qOpSRpUhs",
+            "plus_code":{
+                  "compound_code":"2PW7+XC Los Angeles, CA, USA",
+                  "global_code":"85632PW7+XC"
+            },
+            "rating":4.6,
+            "reference":"ChIJKzsZoprHwoARH-qOpSRpUhs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":408,
+            "vicinity":"2281 West Pico Boulevard, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107637482391931632460\">Jose Martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDnE-y3P06NTLcINRcDFXLzmd5h3TmHUzDSVJHokziAu6AoqzIrz8Hpz5QHNeMTbLyVzYZYzmsziwzfdaa4GkIG9SRUlbW59VU2oFT80tXs90mEhyhSbLkrniSJrYwLX7zSH8Er5Wijcsqv7L_5HV2PqhyahOMBN_XELV1NEE8_iVKa",
+                        "width":5312
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":60372134021,
+            "Radius":201.4141009574
+      }
+]

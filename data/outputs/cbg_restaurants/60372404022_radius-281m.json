@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.944818,
+                        "lng":-118.2829295
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9460700303,
+                              "lng":-118.2815251197
+                        },
+                        "southwest":{
+                              "lat":33.9433720697,
+                              "lng":-118.2842230803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tam's Burgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117849567919112077673\">Moto GSeven<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDjlRutcSxQqiDiWBwkT1q1rARmdFSrbBn1HyIHvAnRwUUeBopiMwwBNs_uf_kLJaG78HRL3Y5ozA2sXbbubwBNXLCdrWDn3Y1lI3kJykCF_82912C2ORPoD82iQYSF2u77wJ4CuwSvRqv0VjPG21nhhyYHPnN6J9LT9qTBW8UnTwId",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJwenN68PJwoARs9yiVlVuClY",
+            "plus_code":{
+                  "compound_code":"WPV8+WR Los Angeles, CA, USA",
+                  "global_code":"8553WPV8+WR"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJwenN68PJwoARs9yiVlVuClY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":673,
+            "vicinity":"10023 South Figueroa Street, Los Angeles",
+            "CBG":60372404022,
+            "Radius":281.3196587196
+      }
+]

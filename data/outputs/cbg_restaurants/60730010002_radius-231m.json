@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7593463,
+                        "lng":-117.1423382
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7607610803,
+                              "lng":-117.1410328697
+                        },
+                        "southwest":{
+                              "lat":32.7580631197,
+                              "lng":-117.1437308303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Mystic Mocha",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1166,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109355564380096212940\">Mystic Mocha<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBom_g9vS5wxbGywrrWc027UsWhyA9dnlFnYwJSk5GtG0SIx1ixOkcwty6-7TDthxM9vcH2dHWMOXZLrUmga-gZaWknHodd7dt7WjArV75PkK6ZhQu23hn0hEKiw4BXFWNkLmfAcilSRy8gxKHht5us4MxLfVXp_f8bxUGTXm6sAnfF",
+                        "width":1749
+                  }
+            ],
+            "place_id":"ChIJZ6wSQeJU2YARtXtahqPr3-o",
+            "plus_code":{
+                  "compound_code":"QV55+P3 San Diego, CA, USA",
+                  "global_code":"8544QV55+P3"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJZ6wSQeJU2YARtXtahqPr3-o",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":231,
+            "vicinity":"2105 Mission Avenue, San Diego",
+            "CBG":60730010002,
+            "Radius":230.8307751968
+      }
+]

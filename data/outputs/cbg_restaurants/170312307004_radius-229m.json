@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9087982,
+                        "lng":-87.7262192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9101471803,
+                              "lng":-87.7248702197
+                        },
+                        "southwest":{
+                              "lat":41.9074492197,
+                              "lng":-87.7275681803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pozoleria San Juan Inc.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3018,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118357219569482537473\">Christina Eilers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzQrM6rDd9LAgkEWNFB4BaLBmmBNsXztNlmGE7vzldJJYz_4vIET5bFOxMrNFYuQAtYttQSrivAxDoNX8xb4uD9ic-d_OAv4onpJN3vGYbjwdnoEDUPuzLcjKLeztt0T_IDOunFK8DpdGNhjykTyM4Xz3yowfZ3teqrGDBiz3hIdvp",
+                        "width":2358
+                  }
+            ],
+            "place_id":"ChIJV1KsxTrND4gRNQqz6e3fUjo",
+            "plus_code":{
+                  "compound_code":"W75F+GG Chicago, IL, USA",
+                  "global_code":"86HJW75F+GG"
+            },
+            "price_level":2.0,
+            "rating":4.1,
+            "reference":"ChIJV1KsxTrND4gRNQqz6e3fUjo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":688,
+            "vicinity":"1523 North Pulaski Road, Chicago",
+            "CBG":170312307004,
+            "Radius":229.359546673
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9100592,
+                        "lng":-87.7244152
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9113597303,
+                              "lng":-87.7230646197
+                        },
+                        "southwest":{
+                              "lat":41.9086617697,
+                              "lng":-87.7257625803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Rinconcito De Morelos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113126465594224162113\">Mela Pelas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDb7it8H_t-yLceBtcZOB9TNmCdovEMpQGowtx_COIO53fSeZN7VbzmpFNpg6bwbpi3IgWP3q8Vzn6Hc08OZeMxWM2NTvo3Yh8aBKeWlk7GMj3mEQJbP44-PQ5kI75UZjg8gF9PU4e3P4KMYR--zEhINQ5yw0fE8B7YlovYHN-J1nH7",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ0RXeqDvND4gRsdSUozFqMEk",
+            "plus_code":{
+                  "compound_code":"W76G+26 Chicago, IL, USA",
+                  "global_code":"86HJW76G+26"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJ0RXeqDvND4gRsdSUozFqMEk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":111,
+            "vicinity":"3910 West North Avenue, Chicago",
+            "CBG":170312307004,
+            "Radius":229.359546673
+      }
+]

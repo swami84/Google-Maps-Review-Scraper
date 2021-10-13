@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.103531,
+                        "lng":-118.2355261
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1048197803,
+                              "lng":-118.2341166197
+                        },
+                        "southwest":{
+                              "lat":34.1021218197,
+                              "lng":-118.2368145803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109426660684335691873\">T. Jay O<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB8iN2qQYMzAGze4gXhV42iL6OCEqdRUgP_glwvwYzxqksl4MNxHg5fy7gEy0IJitljuruknzD8EoK7t6bqQNFtaAP8HJ-TjpWca318ZjiKJrSg8KcRe9UUb6sCtn5IwSrcHbYcbpFnNK8qwVvrmudzwrp8MyRrEA0BypfmmOFz2ECG",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ2_IS8ZHGwoART7Wz3Qdo2mA",
+            "plus_code":{
+                  "compound_code":"4Q37+CQ Los Angeles, CA, USA",
+                  "global_code":"85634Q37+CQ"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ2_IS8ZHGwoART7Wz3Qdo2mA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":175,
+            "vicinity":"2933 Division Street Ste B, Los Angeles",
+            "CBG":60371864041,
+            "Radius":266.01224759
+      }
+]

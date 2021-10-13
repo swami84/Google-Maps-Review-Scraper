@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0090899,
+                        "lng":-118.4277465
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0103682803,
+                              "lng":-118.4265250197
+                        },
+                        "southwest":{
+                              "lat":34.0076703197,
+                              "lng":-118.4292229803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LA Sober Living",
+            "place_id":"ChIJ12CqJ-S7woARXF_4n5ew7aE",
+            "plus_code":{
+                  "compound_code":"2H5C+JW Los Angeles, CA, USA",
+                  "global_code":"85632H5C+JW"
+            },
+            "reference":"ChIJ12CqJ-S7woARXF_4n5ew7aE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3718 South Barrington Avenue, Los Angeles",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372719023,
+            "Radius":316.3609768183
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0062605,
+                        "lng":-118.4295061
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0075789303,
+                              "lng":-118.4280479197
+                        },
+                        "southwest":{
+                              "lat":34.0048809697,
+                              "lng":-118.4307458803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "place_id":"ChIJd8I4Xlu6woARuwYlZqHs0MY",
+            "plus_code":{
+                  "compound_code":"2H4C+G5 Los Angeles, CA, USA",
+                  "global_code":"85632H4C+G5"
+            },
+            "reference":"ChIJd8I4Xlu6woARuwYlZqHs0MY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"12011 Venice Boulevard, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116502967444874910530\">Quinta Quinte Kibojjelakulwazi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEANTk7C-kOw8Bs_CdLwBe5jmz9YymaTGBJLsX0KjyzEn9uci1qyREkuVhEfYG7t6lUDFVC9KSbz80sI-Hj_qlseaDzT5yt3XIyA00V37puDigUHakpHCj6VSc3iOqjmYaxkxgdn5meguG4dxQSqBJrkCU8e_gK-eSmUtLbz9Krwsr_R",
+                        "width":1836
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.0,
+            "user_ratings_total":724.0,
+            "CBG":60372719023,
+            "Radius":316.3609768183
+      }
+]

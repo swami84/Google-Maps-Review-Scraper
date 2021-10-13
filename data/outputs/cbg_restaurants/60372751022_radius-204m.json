@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0009381,
+                        "lng":-118.4161398
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0024260303,
+                              "lng":-118.4149210197
+                        },
+                        "southwest":{
+                              "lat":33.9997280697,
+                              "lng":-118.4176189803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Samosa House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113858294643673817224\">Rajiv Vyas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB2k6-LDNUXmHEYMmCXPmxHwcdHg__CTNS4TI2X-F9DO57e5yqqNa_UjBszylLWpteDCBfDXSb9HEtzobgljrCzN_eId_Rg8h1ZpdKrgN2IHBd_2L5mPCz0tckMOrKJHGOsH_R5PAM8mD3gJDcoTpoiX5x2XaDaK9GtG6sL0LPbaV94",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJRZxpzBS6woAReNp-AMn12Qo",
+            "plus_code":{
+                  "compound_code":"2H2M+9G Los Angeles, CA, USA",
+                  "global_code":"85632H2M+9G"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJRZxpzBS6woAReNp-AMn12Qo",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1212,
+            "vicinity":"11510 Washington Boulevard, Los Angeles",
+            "CBG":60372751022,
+            "Radius":204.1906472926
+      }
+]

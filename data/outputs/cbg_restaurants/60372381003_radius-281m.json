@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9597309,
+                        "lng":-118.3146054
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9610897803,
+                              "lng":-118.3133650697
+                        },
+                        "southwest":{
+                              "lat":33.9583918197,
+                              "lng":-118.3160630303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108321805631425571823\">Elsy Rams-1111<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDMN82WIsRKPDdV0WkQhfYv82Ji42TyqS3FDTCQpV00NnksfeM_uWE08Mm_xh5y7SdONdhzhRQAQQS1n1vA2lzWo6pO3gVKieN1HG2zWFBjQAgBj-3cwIBLT2H9q3Ei4lIJFMG21dJqYEWu-FyKhaZBMj7j6RxjzGy8M6tQDTgeFTLJ",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJR2Db8TC2woARCybBloYcYc0",
+            "plus_code":{
+                  "compound_code":"XM5P+V5 Los Angeles, CA, USA",
+                  "global_code":"8553XM5P+V5"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJR2Db8TC2woARCybBloYcYc0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":511,
+            "vicinity":"2046 West Manchester Boulevard, Los Angeles",
+            "CBG":60372381003,
+            "Radius":280.9771750534
+      }
+]

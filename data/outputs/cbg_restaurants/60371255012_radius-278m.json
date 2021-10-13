@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1627735,
+                        "lng":-118.3661942
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1640596803,
+                              "lng":-118.3648451197
+                        },
+                        "southwest":{
+                              "lat":34.1613617197,
+                              "lng":-118.3675430803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mesa Otsego",
+            "place_id":"ChIJwXm_rIuVwoARE5fY0gQcMdY",
+            "plus_code":{
+                  "compound_code":"5J7M+4G North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J7M+4G"
+            },
+            "reference":"ChIJwXm_rIuVwoARE5fY0gQcMdY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10803 Otsego Street, North Hollywood",
+            "CBG":60371255012,
+            "Radius":277.9502758694
+      }
+]

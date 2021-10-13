@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9536067,
+                        "lng":-118.2921531
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9550443303,
+                              "lng":-118.2907578697
+                        },
+                        "southwest":{
+                              "lat":33.9523463697,
+                              "lng":-118.2934558303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Casa Honduras Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107625283745783165281\">Ephraim Solis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBO_cBYlc0kXUeKWqlWWOjvvxuuTKTSXbid35DLUKGYTLfv1GnVpb1cceox50HSzAcuDC_nki6d-zosy7Usqf6Lyc87vJdAOsRwnBUWzN2dtf50MVUtzjCnbG_s2tjDqvIxer0h_mbtnWfVIQt9b8uqQU3P7th394MrZKzKjR3ETRNA",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJs4aQ9N3JwoARLqKsrgTrcd4",
+            "plus_code":{
+                  "compound_code":"XP35+C4 Los Angeles, CA, USA",
+                  "global_code":"8553XP35+C4"
+            },
+            "price_level":2.0,
+            "rating":4.0,
+            "reference":"ChIJs4aQ9N3JwoARLqKsrgTrcd4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1135,
+            "vicinity":"9131 Vermont Avenue, Los Angeles",
+            "CBG":60376001003,
+            "Radius":290.1443328913
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.951822,
+                        "lng":-118.292266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9531703303,
+                              "lng":-118.2907309697
+                        },
+                        "southwest":{
+                              "lat":33.9504723697,
+                              "lng":-118.2934289303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Magic Dreams Banquet Hall",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113288413774504937321\">Marie L.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECTCbf7yddECtsfZDR0lVBmqhZsu0a8gmDL3b97_nDKhppI-qmwL5W32RfYVEEgGGUwndE1nK5O1PvI_w9CuAUi1r7tlubEYf8mLCX0mM1__IxnKXFxnTOGBJWSCb43161FgAmkywnAUGmD-YMHQzLjpNw9I_4PHCeUuY2SNyDc8Yep",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ2TNdPufJwoARkWN74377He8",
+            "plus_code":{
+                  "compound_code":"XP25+P3 Los Angeles, CA, USA",
+                  "global_code":"8553XP25+P3"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJ2TNdPufJwoARkWN74377He8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":50,
+            "vicinity":"9309 Vermont Avenue, Los Angeles",
+            "CBG":60376001003,
+            "Radius":290.1443328913
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.2600672,
+                        "lng":-122.455623
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.2613883803,
+                              "lng":-122.4540929697
+                        },
+                        "southwest":{
+                              "lat":47.2586904197,
+                              "lng":-122.4567909303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Frisko Freeze",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115369449934978572247\">FishitOut<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAgFxCYw_Cj-xpEtSJSw_RUgeEsj4S4Uj2OVb4epEoHKuAJmkZVPnBj39Fa96PvqMmI_QAQeWgUPPqi5TmrtikIbj-JyVAov61vNCij26AlytBFzKL03QsOKYBdXRKjGDOWHqybTiRCxoFg1e_JMQ6wZyXxAFzo5gyzICDowWYXkos",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJl5hLaAZVkFQR0rWoTx0pKp8",
+            "plus_code":{
+                  "compound_code":"7G6V+2Q Tacoma, WA, USA",
+                  "global_code":"84VV7G6V+2Q"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJl5hLaAZVkFQR0rWoTx0pKp8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3820,
+            "vicinity":"1201 Division Avenue, Tacoma",
+            "CBG":530530615004,
+            "Radius":301.5850602538
+      }
+]

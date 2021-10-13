@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.898294,
+                        "lng":-118.221002
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8996305803,
+                              "lng":-118.2197442197
+                        },
+                        "southwest":{
+                              "lat":33.8969326197,
+                              "lng":-118.2224421803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tam's Burgers #23",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115309221504495468664\">jwayne2k<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBdgHYsro89YW2G0bVEQuqfrS6z3VSQGwv3rg503QcGa9nv-rEg2LSlSxikl1GsejH-jQC2n5Yk7t3nUnCzrR-nOJloHH-ZlBzmcga0ENvOJbBR0BfrYr5F_zMUtH0bTvfgY93snZ1__bQS3xjnoklsPorPelB-xy-_qDkrlRXcRyHj",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJCf3oM27LwoARPkf1Pw9htGE",
+            "plus_code":{
+                  "compound_code":"VQXH+8H Compton, CA, USA",
+                  "global_code":"8553VQXH+8H"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJCf3oM27LwoARPkf1Pw9htGE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":685,
+            "vicinity":"2403 303 North Alameda Street, Compton",
+            "CBG":60375416062,
+            "Radius":236.8628871293
+      }
+]

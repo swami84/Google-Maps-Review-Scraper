@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1455778,
+                        "lng":-117.2530411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1468902303,
+                              "lng":-117.2513803697
+                        },
+                        "southwest":{
+                              "lat":34.1441922697,
+                              "lng":-117.2540783303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0442 \"\u0421\u043b\u044a\u043d\u0446\u0435\u0442\u043e \u043d\u0430 \u0425\u0430\u043b\u0438\u0441\u043a\u043e\"",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101485952693732921525\">BIRRIERIA EL SOL DE JALISCO<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA_pz1Rk7ins5uuLIfGYX6IWq9KeiXi2rtlBGOwJ-Xc-CZk9eDTmeupodTKxnk0vp3DLvZwX-LHB-MYgJQQC-CIBenrYMC_2vgLtBubGfFo5NQKmGOPttzrqHzLIUZyjhkyMKnegwBHhDi-h24Np-zuBHDLjRkn-weywyoywGi0ZISh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJI7eRuOFVw4ARHseL-H-H-wI",
+            "plus_code":{
+                  "compound_code":"4PWW+6Q San Bernardino, CA, USA",
+                  "global_code":"85644PWW+6Q"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJI7eRuOFVw4ARHseL-H-H-wI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":253,
+            "vicinity":"2990 Del Rosa Avenue North ste f, San Bernardino",
+            "CBG":60710062032,
+            "Radius":412.5938907455
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1449237,
+                        "lng":-117.2526907
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1462728303,
+                              "lng":-117.2512047197
+                        },
+                        "southwest":{
+                              "lat":34.1435748697,
+                              "lng":-117.2539026803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Del Rosa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJcx6-0olUw4ARKOwbjmF5kyc",
+            "plus_code":{
+                  "compound_code":"4PVW+XW San Bernardino, CA, USA",
+                  "global_code":"85644PVW+XW"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJcx6-0olUw4ARKOwbjmF5kyc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"2950 Del Rosa Avenue North, San Bernardino",
+            "CBG":60710062032,
+            "Radius":412.5938907455
+      }
+]

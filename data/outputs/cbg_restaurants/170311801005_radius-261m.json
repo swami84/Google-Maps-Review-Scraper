@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9322651,
+                        "lng":-87.8062752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9337645303,
+                              "lng":-87.8049850697
+                        },
+                        "southwest":{
+                              "lat":41.9310665697,
+                              "lng":-87.8076830303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Geo's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112584637223157241189\">Maricela Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDswkqGFN4O1GxBLdiNX1xArz4w4lJIViJ6rD9gt0RQ_1s_YcYbIdpKV8AIsrzLqrf-BSbNUZNiJzhbcn91VT2xqH7-7ZMT70DkKpN7Vs95Tvby_azKFkVMqL2DtOwcxjdfhLHnH8ZeGsHxqysGEflFCXRG6ZJldiUlixlXG8vd5HFT",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJAytWjQXLD4gR_XJCY8JhVy0",
+            "plus_code":{
+                  "compound_code":"W5JV+WF Chicago, IL, USA",
+                  "global_code":"86HJW5JV+WF"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJAytWjQXLD4gR_XJCY8JhVy0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":132,
+            "vicinity":"2849 North Harlem Avenue, Chicago",
+            "CBG":170311801005,
+            "Radius":261.1826087018
+      }
+]

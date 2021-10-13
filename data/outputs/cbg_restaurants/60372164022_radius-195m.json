@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0619602,
+                        "lng":-118.3831734
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0633091803,
+                              "lng":-118.3818244197
+                        },
+                        "southwest":{
+                              "lat":34.0606112197,
+                              "lng":-118.3845223803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ubatuba A\u00e7a\u00ed RPT",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ40ETerK5woARkXDj6uJZbAo",
+            "plus_code":{
+                  "compound_code":"3J68+QP Los Angeles, CA, USA",
+                  "global_code":"85633J68+QP"
+            },
+            "reference":"ChIJ40ETerK5woARkXDj6uJZbAo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"822 South Robertson Boulevard, Los Angeles",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372164022,
+            "Radius":195.4125008694
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0599664,
+                        "lng":-118.3833104
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0613466303,
+                              "lng":-118.3821151697
+                        },
+                        "southwest":{
+                              "lat":34.0586486697,
+                              "lng":-118.3848131303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sushi 101",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJXWDYElu5woAR60X_9ckvUOs",
+            "plus_code":{
+                  "compound_code":"3J58+XM Los Angeles, CA, USA",
+                  "global_code":"85633J58+XM"
+            },
+            "reference":"ChIJXWDYElu5woAR60X_9ckvUOs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"930 South Robertson Boulevard Unit A, Los Angeles",
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105535836831712617974\">Michael Mahger.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1r67yMkimtISh3rcL69_HJ7QwDW4fCnZM2oQMfZDEblBkZDCWTmsLTu0-SFdzfiuiOa0NSJkcugPbOVYNNCK-DfPPRNduGecy65e2Ufrfz7RKKMHvk_JhpDQqdJRmsBnu4eWlMJtnRSTlhOHFTfaqYr82x6Amqhz15uVHGZFxxTMM",
+                        "width":2252
+                  }
+            ],
+            "rating":4.2,
+            "user_ratings_total":117.0,
+            "CBG":60372164022,
+            "Radius":195.4125008694
+      }
+]

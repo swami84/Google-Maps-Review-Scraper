@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1651194,
+                        "lng":-118.396263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1664862303,
+                              "lng":-118.3948358197
+                        },
+                        "southwest":{
+                              "lat":34.1637882697,
+                              "lng":-118.3975337803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Chopsticks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107358231537130466762\">Alexis Osuna<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAX_SrEbtLGklswQ4RRiANm3MHqQDVhS92tp3pZSptAS9NbgKUoQyZbRgZ97QrZ7Nr6NevBxdFEtnwhCPFV62GWkkZAN7-4TJ3AjDGY2FGc-F7fk5jkxV_LOLkYkzme9n2JMni886eW-hskoJG9tPj7A0vLJM6NBWP7pwUVemQa5aMh",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJoT5q_AiWwoARfnwTka2BjEU",
+            "plus_code":{
+                  "compound_code":"5J83+2F Valley Village, Los Angeles, CA, USA",
+                  "global_code":"85635J83+2F"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJoT5q_AiWwoARfnwTka2BjEU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"5206 Laurel Canyon Boulevard, Valley Village",
+            "CBG":60371251002,
+            "Radius":374.1614971802
+      }
+]

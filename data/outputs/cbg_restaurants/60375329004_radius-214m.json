@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9802464,
+                        "lng":-118.2557258
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9814830303,
+                              "lng":-118.2543791697
+                        },
+                        "southwest":{
+                              "lat":33.9787850697,
+                              "lng":-118.2570771303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"gox carpet cleaning services",
+            "place_id":"ChIJOWxeTbLJwoARDf_HwFeL90Y",
+            "plus_code":{
+                  "compound_code":"XPJV+3P Los Angeles, CA, USA",
+                  "global_code":"8553XPJV+3P"
+            },
+            "rating":5,
+            "reference":"ChIJOWxeTbLJwoARDf_HwFeL90Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1121 East 66th Street # 15, Los Angeles",
+            "CBG":60375329004,
+            "Radius":214.4217338807
+      }
+]

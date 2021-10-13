@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0303329,
+                        "lng":-118.015249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0315134803,
+                              "lng":-118.0136461197
+                        },
+                        "southwest":{
+                              "lat":34.0288155197,
+                              "lng":-118.0163440803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Crossroads Cafe & Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":612,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113330009613911411064\">Helen Yun<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAMzo1pM8cgt3ey0cpflBk4GGbJ7zXtUIrwXEpfPLHZte5tIii47Ognn8cwnQ6R6E983qTsItQYcxpnI8yLM61qp9Vi3beg1VqBBKiN0H4FCQt6HA9yeoNvCP4D1fYESYnK9V4aVfGPKhJpHXsUhNNwYjGIb7cim8SSjjZIUyai3Ub4",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJraFoUszWwoARUwzpSYjW6Mw",
+            "plus_code":{
+                  "compound_code":"2XJM+4W City of Industry, CA, USA",
+                  "global_code":"85632XJM+4W"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJraFoUszWwoARUwzpSYjW6Mw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":35,
+            "vicinity":"13191 Crossroads Parkway North #195, City of Industry",
+            "CBG":60374083021,
+            "Radius":964.9144617511
+      }
+]

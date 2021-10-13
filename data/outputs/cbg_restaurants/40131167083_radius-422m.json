@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3406452,
+                        "lng":-111.9701824
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3418245303,
+                              "lng":-111.9688537697
+                        },
+                        "southwest":{
+                              "lat":33.3391265697,
+                              "lng":-111.9715517303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"IKEA Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114853361800427512795\">Francisco Javier \u00c1vila Osuna<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJ_d3IuZJXhDW2CV6ih0mqMRGd13Upr_UVRriiTuKjVNYeiXBH5zsxKWywMc9TOcx1jxSKlrH65kNB6-d3WxNnbjzOnOgQgWGUOX4aXOU3UV1mtER25F9tefgDpFTD_LFg8zFbzDbqPKJKkNtl5S_O6YEv6DPDWBIG0a5Ap-nnr8vZ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJp2DFVMkFK4cRwWV9YMDh4Rg",
+            "plus_code":{
+                  "compound_code":"82RH+7W Tempe, AZ, USA",
+                  "global_code":"855C82RH+7W"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJp2DFVMkFK4cRwWV9YMDh4Rg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":481,
+            "vicinity":"2110 West Ikea Way, Tempe",
+            "CBG":40131167083,
+            "Radius":421.7723749041
+      }
+]

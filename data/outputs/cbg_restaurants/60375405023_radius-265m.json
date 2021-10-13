@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.914624,
+                        "lng":-118.208801
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9159729803,
+                              "lng":-118.2074520197
+                        },
+                        "southwest":{
+                              "lat":33.9132750197,
+                              "lng":-118.2101499803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JV TEJUINO Y RASPADOS NATURALES",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110682902598972583836\">JV TEJUINO Y RASPADOS NATURALES<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKUlOMdlLcf0iyqrzHrjKJaEla3tbT6jK44-CMkHLAxshhvfD-UnCqiZfeiAmlLyguC7U1n_K13Qo93qQSK6fOHBFks4o75XWqeCabZQYW5YEXIzz47K4_DHKhYCqAD6NK9ImxwXVOgsF4fi_qrV7N_GAuZ6my3-8P0apozeLRl7gv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJMR1bVfnLwoARhvZ3PDW3uxE",
+            "plus_code":{
+                  "compound_code":"WQ7R+RF Lynwood, CA, USA",
+                  "global_code":"8553WQ7R+RF"
+            },
+            "rating":4.7,
+            "reference":"ChIJMR1bVfnLwoARhvZ3PDW3uxE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"12408 Long Beach Boulevard, Lynwood",
+            "price_level":null,
+            "CBG":60375405023,
+            "Radius":265.0874642707
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9171409,
+                        "lng":-118.2092132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9183860303,
+                              "lng":-118.2076441197
+                        },
+                        "southwest":{
+                              "lat":33.9156880697,
+                              "lng":-118.2103420803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Infierno Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107755623080169960092\">BenVjr v<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDsRYByX59HG6DgKtoEP-EECxoHIg4MTDHn4Wjfrx2CPhycuL50RBUIMhEvBALjhJyB8Yn66TQp_y-BJA1B9H_gvpaBLrM578c0ZWWu-RZxEElM5HHo7HRbIWtGkaX1dbo5bRdMnWiEbMck2jmy2gzklbEy5X6cXRAavNXkmvyK2slY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJH9gL1EGi4RQRz2uwOP1hzf8",
+            "plus_code":{
+                  "compound_code":"WQ8R+V8 Lynwood, CA, USA",
+                  "global_code":"8553WQ8R+V8"
+            },
+            "rating":4.1,
+            "reference":"ChIJH9gL1EGi4RQRz2uwOP1hzf8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":584,
+            "vicinity":"12130 Long Beach Boulevard, Lynwood",
+            "price_level":2.0,
+            "CBG":60375405023,
+            "Radius":265.0874642707
+      }
+]

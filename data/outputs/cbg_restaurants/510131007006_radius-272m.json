@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8960867,
+                        "lng":-77.1229435
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8975239303,
+                              "lng":-77.1215100197
+                        },
+                        "southwest":{
+                              "lat":38.8948259697,
+                              "lng":-77.1242079803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104644531730848884775\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZBDUJ0GvPHEIl9MXr88q9jmDkCmrbIwUVQezQZzfxdd1QZNp_QeEveuoImCUNshc2jSCkyY-othZma-c9qH2tsmVQ8whc4MExUUkAiyu9zFUT9TJSLT0Og-ufj1cgjqC51Ie0H3xeQMFpZpVE4ZpZaHx989H5b3UwcV99OR8Lux8",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJfWhtKMu1t4kRd1zB6gshG5A",
+            "plus_code":{
+                  "compound_code":"VVWG+CR Arlington, VA, USA",
+                  "global_code":"87C4VVWG+CR"
+            },
+            "price_level":1,
+            "rating":3.1,
+            "reference":"ChIJfWhtKMu1t4kRd1zB6gshG5A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":56,
+            "vicinity":"2108 North Glebe Road, Arlington",
+            "CBG":510131007006,
+            "Radius":272.1312764833
+      }
+]

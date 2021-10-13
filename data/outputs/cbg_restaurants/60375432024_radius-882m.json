@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8829381,
+                        "lng":-118.2331587
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8843035803,
+                              "lng":-118.2314413197
+                        },
+                        "southwest":{
+                              "lat":33.8816056197,
+                              "lng":-118.2341392803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Establo bebida de leche de vaca",
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112790475781650634431\">Julio Morales<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBh9ZHNMYEoQD851tM23wNcXuROglti203SXYXOl4YeXtw5XUu8lNFaxUaqkw_jIGZQYiP7wEixEOJNHfV4UKOlVXBSLrq0dswnXUsoAb0tWrsoyU_EB2XH_-X1QomLobDPJHdmpJu5J4cQsJTbIVgnAXIF1IlDfg8LlBM7kFiqjwBP",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJUy75cEnLwoARuwuViS4QIH0",
+            "plus_code":{
+                  "compound_code":"VQM8+5P Compton, CA, USA",
+                  "global_code":"8553VQM8+5P"
+            },
+            "rating":4.7,
+            "reference":"ChIJUy75cEnLwoARuwuViS4QIH0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"1401 South Central Avenue, Compton",
+            "CBG":60375432024,
+            "Radius":881.7135244811
+      }
+]

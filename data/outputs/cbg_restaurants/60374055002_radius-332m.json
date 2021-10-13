@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0738084,
+                        "lng":-117.9259643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0751629303,
+                              "lng":-117.9247245197
+                        },
+                        "southwest":{
+                              "lat":34.0724649697,
+                              "lng":-117.9274224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"It's Pho Girls",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ2y_q8UnXwoARffuGi_e5b8Y",
+            "plus_code":{
+                  "compound_code":"33FF+GJ West Covina, CA, USA",
+                  "global_code":"856433FF+GJ"
+            },
+            "price_level":2,
+            "rating":3.2,
+            "reference":"ChIJ2y_q8UnXwoARffuGi_e5b8Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"116 North Vincent Avenue, West Covina",
+            "photos":null,
+            "CBG":60374055002,
+            "Radius":332.2592883973
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0738084,
+                        "lng":-117.9259643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0751629303,
+                              "lng":-117.9247245197
+                        },
+                        "southwest":{
+                              "lat":34.0724649697,
+                              "lng":-117.9274224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Saigon Avenue",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJNzz0GdLXwoAR7Qfn7CZOd1M",
+            "plus_code":{
+                  "compound_code":"33FF+GJ West Covina, CA, USA",
+                  "global_code":"856433FF+GJ"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJNzz0GdLXwoAR7Qfn7CZOd1M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"116 North Vincent Avenue, West Covina",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105019452208608179349\">SYN OG<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEByqLbhGp4fDogKtjgM2ybDmaivkiGWQThmcVmIdhjLlWKNm8HscGIpowH89IE4TOk-XS99frPMgXy_UEDWDYI02i-LHhU2wzaC55Zyy6PKB93P8BnDIc-mxIE1IJVxZ2TTRsC3MmwScKxKaLNhzKLkIzcO4oJonqMMrKb1NyCvyZ42",
+                        "width":3024
+                  }
+            ],
+            "CBG":60374055002,
+            "Radius":332.2592883973
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2082395,
+                        "lng":-118.4544478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2096962803,
+                              "lng":-118.4530986197
+                        },
+                        "southwest":{
+                              "lat":34.2069983197,
+                              "lng":-118.4557965803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Vanguard Outdoor Rentals",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJXf_LXzqXwoARRKYm9xz2POA",
+            "plus_code":{
+                  "compound_code":"6G5W+76 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636G5W+76"
+            },
+            "rating":2.3,
+            "reference":"ChIJXf_LXzqXwoARRKYm9xz2POA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"14738 Saticoy Street, Van Nuys",
+            "CBG":60371272201,
+            "Radius":259.2437323236
+      }
+]

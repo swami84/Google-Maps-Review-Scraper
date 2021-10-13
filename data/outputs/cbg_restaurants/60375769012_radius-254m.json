@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7757063,
+                        "lng":-118.165257
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7768742303,
+                              "lng":-118.1640135697
+                        },
+                        "southwest":{
+                              "lat":33.7741762697,
+                              "lng":-118.1667115303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza x Two (the original)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111927490824815720048\">Elaine Lanie Lane 5k<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECWaOaWpgq4Phg3UzzxcC7jOVw8LOiHc3TOX_fpR8nW02zElAhpAAj6_BonlmXsO9LZTnuiZn0C_NW1q0_6Xgu1ecxbqdISe4CX7kEcxCKpxRhDG4UUuvNIGBsESmaRiqLZoTOaNRSwlYWgzPtrvFTEo_D171qTx0KSA4iI2uRmUAbC",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJS8uiCwwx3YARgNFC1Kfast4",
+            "plus_code":{
+                  "compound_code":"QRGM+7V Long Beach, CA, USA",
+                  "global_code":"8553QRGM+7V"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJS8uiCwwx3YARgNFC1Kfast4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":550,
+            "vicinity":"2211 East 7th Street B, Long Beach",
+            "CBG":60375769012,
+            "Radius":253.5936471112
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.774956,
+                        "lng":-118.165107
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7763491803,
+                              "lng":-118.1636644697
+                        },
+                        "southwest":{
+                              "lat":33.7736512197,
+                              "lng":-118.1663624303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"PAD THAI CLASSIC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1125,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106294993001997560954\">Katie C<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDu0oOkYFG-PgytxE57b4kgf6jDLq6coqqZ1WIwGltaLQLN5dQtfQ_UyOT0h5Tf9FNyHZXVdV5N-1-jMuQV9EyzJNe3Eo3sOGVSaCrZzT3qE-8sZHLpSpq4v5hS1YMAVyDAEvPMPb1XFWxEV7jM5_zVCVRDEaaKw9ra3V-BB_DefUwU",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJ0cDPJkIx3YARpVG9AXSYFqM",
+            "plus_code":{
+                  "compound_code":"QRFM+XX Long Beach, CA, USA",
+                  "global_code":"8553QRFM+XX"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ0cDPJkIx3YARpVG9AXSYFqM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"2226 East 7th Street, Long Beach",
+            "CBG":60375769012,
+            "Radius":253.5936471112
+      }
+]

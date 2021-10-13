@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.7506742,
+                        "lng":-92.3172622
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.7519299303,
+                              "lng":-92.3159715697
+                        },
+                        "southwest":{
+                              "lat":34.7492319697,
+                              "lng":-92.3186695303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116419602644613670934\">O G SonjaT<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECIZaxrj0vwwM1oxiv6kT8hQq0ATbt_AmEMERO5m-hs3YqDuiKetFVhMNRb3XcL8MAYKdVzQiqFLMDR6zbEfX37LiM3GUzfYzSiiN1VGHYsPdtRktbLb_9X2kfP0Rfx0VO8krfPo_nmf3dWL-yM4tI1f1otyZeDQSKb_GgunAsADVlN",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJ3WaVtaCk0ocR-NSwj6Y9JxM",
+            "plus_code":{
+                  "compound_code":"QM2M+73 Little Rock, AR, USA",
+                  "global_code":"8669QM2M+73"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ3WaVtaCk0ocR-NSwj6Y9JxM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":134,
+            "vicinity":"117 South Cedar Street, Little Rock",
+            "CBG":51190048004,
+            "Radius":347.191194774
+      }
+]

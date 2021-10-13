@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0181441,
+                        "lng":-87.8072613
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0195029803,
+                              "lng":-87.8057943697
+                        },
+                        "southwest":{
+                              "lat":42.0168050197,
+                              "lng":-87.8084923303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"P & S Meats & Greek Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114864019708588740374\">P &amp; S Meats &amp; Greek Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBjzOHN9QfyVXFoSTDIYSVaCn53Mf0IW3Eep2wGt5VHR6NNd1wKzpvP0-LNX0GKRDcl0E6eqYfvdG_OCLCq-CVhwnLLjkkOhiQGAbPBERgQ7sflH4zF5Php3H0v_wuQIFDxgz2nEAEjZ1NdGN__5kw3NgrWG3yakevkbeffyEjkmFDn",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJ82-Q8yHJD4gRa8QBRdmfFSs",
+            "plus_code":{
+                  "compound_code":"259V+73 Chicago, IL, USA",
+                  "global_code":"86JJ259V+73"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJ82-Q8yHJD4gRa8QBRdmfFSs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"7544 North Milwaukee Avenue, Chicago",
+            "CBG":170310901001,
+            "Radius":279.1632636008
+      }
+]

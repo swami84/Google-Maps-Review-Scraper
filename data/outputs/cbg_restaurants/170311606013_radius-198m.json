@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.959442,
+                        "lng":-87.6982352
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9607934803,
+                              "lng":-87.6969803197
+                        },
+                        "southwest":{
+                              "lat":41.9580955197,
+                              "lng":-87.6996782803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Emma's Fruitas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJnVUU0IjND4gRg5NqPSpEgY0",
+            "plus_code":{
+                  "compound_code":"X852+QP Chicago, IL, USA",
+                  "global_code":"86HJX852+QP"
+            },
+            "rating":4.8,
+            "reference":"ChIJnVUU0IjND4gRg5NqPSpEgY0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"North California Avenue, Chicago",
+            "CBG":170311606013,
+            "Radius":198.1390121162
+      }
+]

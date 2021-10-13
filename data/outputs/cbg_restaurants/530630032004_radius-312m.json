@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":47.6518991,
+                        "lng":-117.4131957
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6532696803,
+                              "lng":-117.4119312697
+                        },
+                        "southwest":{
+                              "lat":47.6505717197,
+                              "lng":-117.4146292303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thai Lunch Box",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116584862453073715342\">Sarah Brauneis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED4fnkROwITUelkiwi_P-x-m3J4IDqPFVfGr_xSHNZ4ZJpKsDtPOGJtsbLf-svSq-PH61VeAIHC79OdAFLWaLnww8XZ4oNz-V5WU0k8oaUVSQ4KXiEjdf9UHmS1He305uP2oZg5TC4Tqo7xM9_V4-DJSD4VXbwVRgngKUDXduW0uv0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJfR6hRVEYnlQRvx-UrcMKrE0",
+            "plus_code":{
+                  "compound_code":"MH2P+QP Spokane, WA, USA",
+                  "global_code":"85V4MH2P+QP"
+            },
+            "rating":4.6,
+            "reference":"ChIJfR6hRVEYnlQRvx-UrcMKrE0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"417 South Browne Street, Spokane",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":530630032004,
+            "Radius":311.6272960226
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.653206,
+                        "lng":-117.4167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6545799303,
+                              "lng":-117.4152229197
+                        },
+                        "southwest":{
+                              "lat":47.6518819697,
+                              "lng":-117.4179208803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Time",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105494090032561692243\">Abdel Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECEH8f6CO52quaYwyaE13KASdxn7I6IXiNWhUlZuMJEEE1oIlGUzUSJx3KKTaYZJ-Ug1AHDz1Ak9Xym8O4PsKvz_ureoSk1FQRc5hYN9NBF0iSELRvRThnjOUK-9aiiVOQJJdR-1xvUABO51XgvoRynHzbpGw60aJqXj_2BivSopRKb",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ89WZocNhtYARjfbFTK5Suog",
+            "plus_code":{
+                  "compound_code":"MH3M+78 Spokane, WA, USA",
+                  "global_code":"85V4MH3M+78"
+            },
+            "rating":3.8,
+            "reference":"ChIJ89WZocNhtYARjfbFTK5Suog",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":512,
+            "vicinity":"303 West 3rd Avenue, Spokane",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":530630032004,
+            "Radius":311.6272960226
+      }
+]

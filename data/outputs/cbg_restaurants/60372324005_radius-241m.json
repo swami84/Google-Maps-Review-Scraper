@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0030803,
+                        "lng":-118.3091956
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0044531303,
+                              "lng":-118.3078093697
+                        },
+                        "southwest":{
+                              "lat":34.0017551697,
+                              "lng":-118.3105073303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Master Burger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107338068143870678990\">Speed Way<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJILW-WK3zYsqaXW4H3WjFxKXbf8iB8r5ABqbPLXx73aJ_Zu6eRkdztjAQbMJdwC8xiy0fZ5rOixmKx5Z-_hYkPRm0fEoqM4DM6qd37IZIbfa2ddEUbDyGQ2dj_fB6bIFZoUaNT0_P-5D-bLLLIfM3r7l--HEZyfGGVlrhwtDKGvJa",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9QNPWPq3woARZFw0tamq9CM",
+            "plus_code":{
+                  "compound_code":"2M3R+68 Los Angeles, CA, USA",
+                  "global_code":"85632M3R+68"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ9QNPWPq3woARZFw0tamq9CM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":581,
+            "vicinity":"4419 South Western Avenue, Los Angeles",
+            "CBG":60372324005,
+            "Radius":241.2529019281
+      }
+]

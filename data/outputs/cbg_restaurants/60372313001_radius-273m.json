@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0154199,
+                        "lng":-118.2999915
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0168186303,
+                              "lng":-118.2986674697
+                        },
+                        "southwest":{
+                              "lat":34.0141206697,
+                              "lng":-118.3013654303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Zacatecas Meat Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114029453771197953603\">Bernardo Sotres<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA9uFwV_M0R3vQtVteCowQ4E_dEKBHp-WcEQ4NU72LfAdMUuVvsRpm0iZjUDti1_uYSXu7T2omC042Lntlxpo6GUzVQwj1ywKrMZqHtvpNC_YhvqwFTvhvUKWUFzECMnYYjDm-xHWWQH6rQciSHjflMHEdCYeZ8U43hZLVQROaJ7v6I",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJCdpefAC4woARKUvFZWFhmHE",
+            "plus_code":{
+                  "compound_code":"2P82+52 Los Angeles, CA, USA",
+                  "global_code":"85632P82+52"
+            },
+            "rating":4.6,
+            "reference":"ChIJCdpefAC4woARKUvFZWFhmHE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"1286 West 39th Street, Los Angeles",
+            "CBG":60372313001,
+            "Radius":272.8788527804
+      }
+]

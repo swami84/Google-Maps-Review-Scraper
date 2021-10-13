@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9306847,
+                        "lng":-118.400445
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9320493803,
+                              "lng":-118.3992834197
+                        },
+                        "southwest":{
+                              "lat":33.9293514197,
+                              "lng":-118.4019813803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"1440 Bistro & Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106691963699895875838\">Takuya Mishima<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZzlgaSr-DV1j9zJzwG5Qw8X5yboevZQ7H7_sRdiTOkCuMcWk7cjjEqS8Cxw4fDOs3odkhz840j25Gp_mMPJhSBGS_5C0YjelpVclfgDeNmAHXM-SQAqBXQUT-uCsrsI0imDOFHpEv4j8zI46Q8A1d65ogB5wL_c5eJl20ri43dBhX",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqwKyxTaxwoAReUlhV4fWMdA",
+            "plus_code":{
+                  "compound_code":"WHJX+7R El Segundo, CA, USA",
+                  "global_code":"8553WHJX+7R"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJqwKyxTaxwoAReUlhV4fWMdA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":35,
+            "vicinity":"1440 East Imperial Avenue, El Segundo",
+            "CBG":60376200011,
+            "Radius":366.4835874299
+      }
+]

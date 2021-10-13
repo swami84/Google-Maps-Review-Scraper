@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8745795,
+                        "lng":-118.2509263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8759227303,
+                              "lng":-118.2497585697
+                        },
+                        "southwest":{
+                              "lat":33.8732247697,
+                              "lng":-118.2524565303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\ud604\uc218 \ud68c\uc0ac",
+            "place_id":"ChIJO4g7HLLLwoARlX-zKqE90RQ",
+            "plus_code":{
+                  "compound_code":"VPFX+RJ Carson, CA, USA",
+                  "global_code":"8553VPFX+RJ"
+            },
+            "reference":"ChIJO4g7HLLLwoARlX-zKqE90RQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1225 East Artesia Boulevard, Carson",
+            "CBG":60375431005,
+            "Radius":691.4089827575
+      }
+]

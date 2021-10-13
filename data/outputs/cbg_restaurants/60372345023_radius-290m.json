@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0003168,
+                        "lng":-118.33023
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0016339303,
+                              "lng":-118.3288211697
+                        },
+                        "southwest":{
+                              "lat":33.9989359697,
+                              "lng":-118.3315191303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Church's Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3492,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115520300215418505149\">D Mac<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB48ieMUliiYLv8AiTlJrQHzwn7s0cFL14odT6QEGwKqp8YCQFfNqUgNssGqd2vyM5u-bJtj4fWxYm8sBEC8ZRb805eX1Bscn4GDwXwvVjcPRnTZ6GYu5uWKD-QQb5tzijh2cM_5sP9rxBAwxHEdvDpxYJgIoEo7iTT1BHH_d0h9ENt",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJ_x02NYm3woARboxv0OvaSqg",
+            "plus_code":{
+                  "compound_code":"2M29+4W Los Angeles, CA, USA",
+                  "global_code":"85632M29+4W"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJ_x02NYm3woARboxv0OvaSqg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":766,
+            "vicinity":"4720 Crenshaw Boulevard, Los Angeles",
+            "CBG":60372345023,
+            "Radius":289.5221732577
+      }
+]

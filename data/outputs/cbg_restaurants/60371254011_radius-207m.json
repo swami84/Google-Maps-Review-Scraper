@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1645198,
+                        "lng":-118.3775658
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1658987803,
+                              "lng":-118.3761420197
+                        },
+                        "southwest":{
+                              "lat":34.1632008197,
+                              "lng":-118.3788399803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Casita Taco Al Carbon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109151437995628209756\">Steven Marter<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECrdpStDuBD2NwTda6vj4AaeEa_Z1JyvhlkV6bggT0RJhHru_BHqUcYSd7NZB5GaQhMoPVQbFs1QKg7KVyeYvfmy38VWtvrrUVC5U-U6LVSTjscM1IGj2bRdMXsABFRJ39FJRIrV-Dl86QVSR9B-nYnFRg-q3PP_z7Kg7SB3k5QrhAj",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8VnjBfGVwoARwo6K3hApdtE",
+            "plus_code":{
+                  "compound_code":"5J7C+RX North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J7C+RX"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJ8VnjBfGVwoARwo6K3hApdtE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":347,
+            "vicinity":"11300 West Magnolia Boulevard, North Hollywood",
+            "CBG":60371254011,
+            "Radius":207.3586693042
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1645303,
+                        "lng":-118.3775429
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1659431303,
+                              "lng":-118.3762261197
+                        },
+                        "southwest":{
+                              "lat":34.1632451697,
+                              "lng":-118.3789240803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Casita Taco Real Mexican Tradition",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113939059182383992700\">Jordan B<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDo7zBftzroSKhWUDW97BweJ62-Dn11CjtnuzAULQ9UZe6SyS6ZhVjzQHivNGucJwNg0KEoVIE1a9LMHd7Pn-fOjyRDKcadfftM0tdrN_VvWZlJ8Yg08Tkw_XHm4pEa0VevaQoVVEWyXhefTUjldNDWUEJxfwnzhsdZqSdK_fFk1auu",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJS99xD_GVwoARGWHUuGfhRbA",
+            "plus_code":{
+                  "compound_code":"5J7C+RX North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J7C+RX"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJS99xD_GVwoARGWHUuGfhRbA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"5159 Bakman Avenue, North Hollywood",
+            "CBG":60371254011,
+            "Radius":207.3586693042
+      }
+]

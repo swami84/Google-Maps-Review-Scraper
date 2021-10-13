@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8877305,
+                        "lng":-77.0845963
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8891984803,
+                              "lng":-77.0831317197
+                        },
+                        "southwest":{
+                              "lat":38.8865005197,
+                              "lng":-77.0858296803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Noomy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107308719344126708762\">Noomy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECNbQOyITYdPsD34Q_Tp-ML7g8JMIgx9h5RQHzZ5Wbf8XqtCvP5D6QSXzVNPMkQIQOtzrcgWqkGwRNGoly6s9yPVWZ7UYxXms0q2jd1KHv1OZNNCOUoI_JYZW39h7ApoyCNwh0b_wnMcs4bd718I8CdkLoBG2hQcJ-HCD5tsLFZOfuQ",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJVV4NF6K3t4kRT4v6bE5lA5s",
+            "plus_code":{
+                  "compound_code":"VWQ8+35 Arlington, VA, USA",
+                  "global_code":"87C4VWQ8+35"
+            },
+            "reference":"ChIJVV4NF6K3t4kRT4v6bE5lA5s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1200 North Veitch Street, Arlington",
+            "CBG":510131018023,
+            "Radius":121.6165579657
+      }
+]

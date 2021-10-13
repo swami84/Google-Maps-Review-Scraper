@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0733595,
+                        "lng":-118.2774094
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0748081303,
+                              "lng":-118.2759777197
+                        },
+                        "southwest":{
+                              "lat":34.0721101697,
+                              "lng":-118.2786756803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Molcajetes (Temple)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108375217953131174276\">Jose morales<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDj5AhrxpjX4THUz6004qbsYf945cAqHNIlS4EFkGTd3ngytTCFwFCHXhCaDA6lTc2_3X-f0MZdFeM0Fw36ZYVz4RcRBy6N-OysI8fKv1fiQtaD4hHdR4axulXjZJWyQbVGGdBn1dTJ8_fc5uJfYyj8PU5svVPxW-23gTnoZJD54iAz",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJL8oBwWzHwoARbe7TCrb9H6s",
+            "plus_code":{
+                  "compound_code":"3PFF+82 Los Angeles, CA, USA",
+                  "global_code":"85633PFF+82"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJL8oBwWzHwoARbe7TCrb9H6s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":666,
+            "vicinity":"2748 West Temple Street, Los Angeles",
+            "CBG":60371958022,
+            "Radius":236.2230187713
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0726952,
+                        "lng":-118.2749667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0741113303,
+                              "lng":-118.2735389197
+                        },
+                        "southwest":{
+                              "lat":34.0714133697,
+                              "lng":-118.2762368803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Panamerican Night Club (Oficial)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106569575659974966062\">Jackeline Vazquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECkvldIBUcVA0Rqr7cenGaAvk4kYPdKJbHw0OqFJP6mn8qrKzyLqVJey7FPaJxjJspg07E3ottnmjzMh-wnd_c7IVCkBmsXlk3VGEU5XXcJDdHT9SqSRezQyTJOttuafltD8reTot8PJRCvYsoKRmqG4Tvp32La9kEp0I9FIMNFTcsW",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJoTps3BLHwoARKkmzb0r_G9A",
+            "plus_code":{
+                  "compound_code":"3PFG+32 Los Angeles, CA, USA",
+                  "global_code":"85633PFG+32"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJoTps3BLHwoARKkmzb0r_G9A",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"2601 West Temple Street, Los Angeles",
+            "CBG":60371958022,
+            "Radius":236.2230187713
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4663366,
+                        "lng":-112.1080911
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4674834803,
+                              "lng":-112.1067414197
+                        },
+                        "southwest":{
+                              "lat":33.4647855197,
+                              "lng":-112.1094393803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Chuy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJvRLOX1YTK4cRtvBRoBUdBfo",
+            "plus_code":{
+                  "compound_code":"FV8R+GQ Phoenix, AZ, USA",
+                  "global_code":"8559FV8R+GQ"
+            },
+            "reference":"ChIJvRLOX1YTK4cRtvBRoBUdBfo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2244 West McDowell Road, Phoenix",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":40131168001,
+            "Radius":913.838055696
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4515006,
+                        "lng":-112.1135681
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4528465303,
+                              "lng":-112.1120108197
+                        },
+                        "southwest":{
+                              "lat":33.4501485697,
+                              "lng":-112.1147087803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taquer\u00eda Los Gavilanes Tacos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJRSxFlXUTK4cRmgPDn_iFHEs",
+            "plus_code":{
+                  "compound_code":"FV2P+JH Phoenix, AZ, USA",
+                  "global_code":"8559FV2P+JH"
+            },
+            "reference":"ChIJRSxFlXUTK4cRmgPDn_iFHEs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Van Buren St &, North 25th Avenue, Phoenix",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102912749495319813997\">Amanda Valles<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC33E8hbgk3__a3EX1jZYBcuPA-ShhRHRfcuDUMjw4uyPg60TZjvS8oAT9TnNvfxN1Q9clVmiQ9Am9C4kJVB7t5BL6s0Kcz-SIi_veuEuvO0r785YKiTw_7GopemkSoQ_xsJGvHS2gLzmqwzyTwuaYaK8CPjXrJXEg3sHf9qubNOpmE",
+                        "width":4032
+                  }
+            ],
+            "rating":4.7,
+            "user_ratings_total":6.0,
+            "CBG":40131168001,
+            "Radius":913.838055696
+      }
+]

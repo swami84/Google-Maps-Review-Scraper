@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1868854,
+                        "lng":-118.4046688
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1882343803,
+                              "lng":-118.4033198197
+                        },
+                        "southwest":{
+                              "lat":34.1855364197,
+                              "lng":-118.4060177803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Pizza Hut",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109442723195939148634\">Gaia Gaia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA_n4YQuaYIR3iIpHJW1efwqqBU0iP3znGQ2i_JyJ86cypn1WQ2kQuLKAuZDS7B9rLMfCdjEbyE9KAp7KC6vmT6_idOH0T0i_533_SsolxMM3DSF30yoca5pOSBScH_9t9A1xEn4wBo-crj7M4tIF7QipZj7PC681r45-L_2Sk9uzUy",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJxTpxq3yWwoARVPC7jv0i1Sw",
+            "plus_code":{
+                  "compound_code":"5HPW+Q4 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635HPW+Q4"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJxTpxq3yWwoARVPC7jv0i1Sw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":170,
+            "vicinity":"12447 Victory Boulevard, North Hollywood",
+            "CBG":60371238001,
+            "Radius":389.4931324244
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1864458,
+                        "lng":-118.3998704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1877964803,
+                              "lng":-118.3984597197
+                        },
+                        "southwest":{
+                              "lat":34.1850985197,
+                              "lng":-118.4011576803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Venado",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117887290633756620577\">Milton E. Salazar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDw5KPnLvHTxasFCNoD0aa7IHw_SyxTXFYR4g7rRkZXBRgSxQSIHFC_or_TNzcHt6N1uYJYtj-AWGe09MStq2S0dp6QRLog3gcU5HrK7zfAXX6GLyOmpLOgHrEk8nMatMeoGAgyvH7kMlHTlSBIdydtes16s6vB9FcD2OF9dr4WXe8",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJcSDKflWXwoARhMuuGhYk1kc",
+            "plus_code":{
+                  "compound_code":"5JP2+H3 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JP2+H3"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJcSDKflWXwoARhMuuGhYk1kc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"North Hollywood",
+            "CBG":60371238001,
+            "Radius":389.4931324244
+      }
+]

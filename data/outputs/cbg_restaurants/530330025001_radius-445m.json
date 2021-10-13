@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6833279,
+                        "lng":-122.3004367
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6846101303,
+                              "lng":-122.2990488697
+                        },
+                        "southwest":{
+                              "lat":47.6819121697,
+                              "lng":-122.3017468303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jet City Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107056712198401068597\">Mark Konings<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNZBP2wbqbfQDtAkbgI7OOXuDrf_oEH3zNquWuef-n3-V2LuWah6OCPRkLemx_wwHiFEHepDVsmU5RoCV-Kbby-wg8hymMEOzjAVaSW_c0QkzkVZ-4V2InH_ao3gid7xQFOQcBYd1iBw0-ObrqD7KavGMgbs_x3NUA5Rs70HrwSLON",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ_3iXdokTkFQREaYFTJxAuGw",
+            "plus_code":{
+                  "compound_code":"MMMX+8R Seattle, WA, USA",
+                  "global_code":"84VVMMMX+8R"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ_3iXdokTkFQREaYFTJxAuGw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"7500 25th Avenue Northeast, Seattle",
+            "CBG":530330025001,
+            "Radius":444.959624591
+      }
+]

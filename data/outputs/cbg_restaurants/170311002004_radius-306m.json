@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9890661,
+                        "lng":-87.7928348
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9904150803,
+                              "lng":-87.7914858197
+                        },
+                        "southwest":{
+                              "lat":41.9877171197,
+                              "lng":-87.7941837803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Trinity Pub Chicago",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1195,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106518704038831370718\">Trinity Pub Chicago<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAy3W4R6d-4OU1l-bgHNxbf1hYvoCxPHo-qIVuCIRHTjTVmKidHAr4VWXPF2wRbn-65OQaAD4LWxFVOBFN5ZJAq9_H4dq6dSSnw4ms6tT62UMWNmaNo_gdKgJ2OqC5dkb-XI7xQU3WDwlFAtm-337k0GmXUE9gJ4vNftQ4Ir_-xVau1",
+                        "width":1195
+                  }
+            ],
+            "place_id":"ChIJba7mFkPJD4gRY6oDln3ImZk",
+            "plus_code":{
+                  "compound_code":"X6Q4+JV Chicago, IL, USA",
+                  "global_code":"86HJX6Q4+JV"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJba7mFkPJD4gRY6oDln3ImZk",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"5943 North Northwest Highway, Chicago",
+            "CBG":170311002004,
+            "Radius":306.2453073035
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9891074,
+                        "lng":-87.7928359
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9903646803,
+                              "lng":-87.7915803197
+                        },
+                        "southwest":{
+                              "lat":41.9876667197,
+                              "lng":-87.7942782803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Burbon Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111446248416238374813\">The burbon street Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhc43Vab0z63ZjnLYVyylxNfSMese4mNPoiJlE7OlpzHCjfXDDDYunux1vLWbPaSwrEndSm78SJU4O-OoCjRQjtrnR5iazNwEpIcqfF8Or_1pHXtFNmJ1JLifbxIaCnuq1FgccitWpaJmi-NqZiAGZYFog8JeMhN1w59qH-nsrSG0R",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJYVsZnA3JD4gRMtEhrhHRDcY",
+            "plus_code":{
+                  "compound_code":"X6Q4+JV Chicago, IL, USA",
+                  "global_code":"86HJX6Q4+JV"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJYVsZnA3JD4gRMtEhrhHRDcY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5943 North Northwest Highway, Chicago",
+            "CBG":170311002004,
+            "Radius":306.2453073035
+      }
+]

@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6225837,
+                        "lng":-122.1359734
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6239338303,
+                              "lng":-122.1347579697
+                        },
+                        "southwest":{
+                              "lat":47.6212358697,
+                              "lng":-122.1374559303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Energy Station Inc. (Traditional Taiwanese Taste)",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111343625774716466056\">Energy Station Inc. (Traditional Taiwanese Taste)<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBximMzKR7BDQJ_TEAe_VLDdiEXl0jkNVH8FDwXLdi30GiVmrCHm-fhnWdoPLWe1PF1yBSzVrtPNv0flgNf_9ejM5KvxISRSKwh3fxb0892vy63MhhcPSg19ecFPXpn2zu8wjvy9OxXQ-1wwf1whTNKz-tS_gn5c4RgscITrNjFriym",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJdYuny8htkFQRBH5cwMrY0jU",
+            "plus_code":{
+                  "compound_code":"JVF7+2J Bellevue, WA, USA",
+                  "global_code":"84VVJVF7+2J"
+            },
+            "reference":"ChIJdYuny8htkFQRBH5cwMrY0jU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1400 153rd Avenue Northeast Apt 3702, Bellevue",
+            "CBG":530330232012,
+            "Radius":392.8992117234
+      }
+]

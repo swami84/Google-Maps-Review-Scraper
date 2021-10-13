@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9888316,
+                        "lng":-118.3257895
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9902921803,
+                              "lng":-118.3244415197
+                        },
+                        "southwest":{
+                              "lat":33.9875942197,
+                              "lng":-118.3271394803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Five Girls'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1907,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112610116217657732201\">Five Girls&#39;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAfglqvBhc0OzCVcu2QNrtLZ1nwT3u539GWQeHYV6tGMYNZMoKReJDWXQNlACCa8QZzvM3G41EDJXkLpknOyWY4WEIAml5bhLaFo4ZFfV5J5Roa7IHYtQ37jWr9Lv8kJ0iz6aERKwOYYet3Ya0G-b702wAApgxogBOOlRXJ6ZpIXbky",
+                        "width":1073
+                  }
+            ],
+            "place_id":"ChIJ64KUeiq3woARpp4KxkVvJng",
+            "plus_code":{
+                  "compound_code":"XMQF+GM Los Angeles, CA, USA",
+                  "global_code":"8553XMQF+GM"
+            },
+            "rating":5,
+            "reference":"ChIJ64KUeiq3woARpp4KxkVvJng",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"3012 West Slauson Avenue, Los Angeles",
+            "CBG":60372346002,
+            "Radius":247.8443164892
+      }
+]

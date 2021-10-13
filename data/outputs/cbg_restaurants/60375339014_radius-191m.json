@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9677429,
+                        "lng":-118.1569618
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9690361303,
+                              "lng":-118.1556405697
+                        },
+                        "southwest":{
+                              "lat":33.9663381697,
+                              "lng":-118.1583385303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizzaroni Pizza - Bell Gardens, CA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105142348612132794608\">Pizzaroni Pizza - Bell Gardens, CA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJjq_cv_nPmT_KXnsNgjk-RgLflGUiTwYvbTFJ2sua1vR4AzVkH5Yt_HB22venqcTBIc_aYY_0R8YIjlHTgf31M5UT6cuADtHVEahqjBxhJXsbr2tA00-f0iAXOyCUbQx0PwTYO_xKUhaGkPXt3Fknt6ubJnO6Ms7Q47GdkZRtsHPi",
+                        "width":3600
+                  }
+            ],
+            "place_id":"ChIJFSL7l3_OwoARMR0NZ-ghRjw",
+            "plus_code":{
+                  "compound_code":"XR9V+36 Bell Gardens, CA, USA",
+                  "global_code":"8553XR9V+36"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJFSL7l3_OwoARMR0NZ-ghRjw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":240,
+            "vicinity":"6023 Florence Avenue, Bell Gardens",
+            "CBG":60375339014,
+            "Radius":191.2586045394
+      }
+]

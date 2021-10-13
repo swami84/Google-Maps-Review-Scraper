@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.938318,
+                        "lng":-87.793837
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9396086303,
+                              "lng":-87.7924998697
+                        },
+                        "southwest":{
+                              "lat":41.9369106697,
+                              "lng":-87.7951978303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafe Prague",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114285757102851043472\">Cafe Prague<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEArvRMorAyTzABq7TuOL1Mvazm8tBJqANqahABUkNyLv42WJj89shBDlssSbpYYLu1cP_BKunzZKTs0g5VjaUWhcQ-9eCk1J9CPBGhhjR8qTDYiTgwbkfuODzPTiBBsMdBL4xegI_VFyOxt5GSRN14UO6qV2v-qMWa8mlkRYeaTDC77",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJ92we1J_LD4gRwiCwLl4y1AE",
+            "plus_code":{
+                  "compound_code":"W6Q4+8F Chicago, IL, USA",
+                  "global_code":"86HJW6Q4+8F"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJ92we1J_LD4gRwiCwLl4y1AE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":543,
+            "vicinity":"6710 West Belmont Avenue, Chicago",
+            "CBG":170311801001,
+            "Radius":253.8433083417
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9383743,
+                        "lng":-87.7936391
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9396379303,
+                              "lng":-87.7922890697
+                        },
+                        "southwest":{
+                              "lat":41.9369399697,
+                              "lng":-87.7949870303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Aranda Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118249211831819416634\">W A Strnad<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA4jVF4O_mKMaf8W298LhP18Id9VHiga8rUeaUyYQbPhUMqtwjUpWcLMoew_Heu8t4rv_UrruXeBLqe5Saugl0qEkb_SIhribE2jKvbSftrbPlEEMCUCAbUYmhLlAQx0-tv01acNgSoSWoLnlQL3OuADhJkSsMYxQOo5l6uvwpVZN3U",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJgxjd1J_LD4gRqCQ-rjwGaq0",
+            "plus_code":{
+                  "compound_code":"W6Q4+8G Chicago, IL, USA",
+                  "global_code":"86HJW6Q4+8G"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJgxjd1J_LD4gRqCQ-rjwGaq0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":168,
+            "vicinity":"6706 West Belmont Avenue, Chicago",
+            "CBG":170311801001,
+            "Radius":253.8433083417
+      }
+]

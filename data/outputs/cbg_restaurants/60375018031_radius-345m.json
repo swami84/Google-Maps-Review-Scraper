@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9686991,
+                        "lng":-118.0428248
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9700514303,
+                              "lng":-118.0414684697
+                        },
+                        "southwest":{
+                              "lat":33.9673534697,
+                              "lng":-118.0441664303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Arandinos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102655601603436790899\">Marisol Cruz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECq-14NnVKUmzOGsxe4bHybIYIxmnSRm3uQwggbCjN-1VXbWFB_oR3Y-skzExRGbmksanxLVVBBs9rmM4E6fnqWW1_cHtLQBe7NEYMUSVoZDC0ju3HLO2FEPiMpK4g7E0pSzSc_V_1-zA5lIJNqzw8Y4-pD_YKdj9Pe4fvg9DngXaWY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJX6ai6AXTwoARm0pNW8ohcWw",
+            "plus_code":{
+                  "compound_code":"XX94+FV Whittier, CA, USA",
+                  "global_code":"8553XX94+FV"
+            },
+            "rating":4,
+            "reference":"ChIJX6ai6AXTwoARm0pNW8ohcWw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"12540 Whittier Boulevard, Whittier",
+            "CBG":60375018031,
+            "Radius":345.4268867294
+      }
+]

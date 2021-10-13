@@ -1,0 +1,91 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.017219,
+                        "lng":-118.245554
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0186654803,
+                              "lng":-118.2441558197
+                        },
+                        "southwest":{
+                              "lat":34.0159675197,
+                              "lng":-118.2468537803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"EL TERRE (SEAFOOD - MARISCOS)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJJ0GB64XIwoARmNJjEed5Se0",
+            "plus_code":{
+                  "compound_code":"2Q83+VQ Los Angeles, CA, USA",
+                  "global_code":"85632Q83+VQ"
+            },
+            "rating":3.8,
+            "reference":"ChIJJ0GB64XIwoARmNJjEed5Se0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8.0,
+            "vicinity":"1602 East 22nd Street, Los Angeles",
+            "CBG":60372270102,
+            "Radius":326.4303614542
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.01732,
+                        "lng":-118.2408161
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0187174303,
+                              "lng":-118.2394556697
+                        },
+                        "southwest":{
+                              "lat":34.0160194697,
+                              "lng":-118.2421536303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cali crizp",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJaxF3qpLJwoARoKP1uueEMBw",
+            "plus_code":{
+                  "compound_code":"2Q85+WM Los Angeles, CA, USA",
+                  "global_code":"85632Q85+WM"
+            },
+            "rating":null,
+            "reference":"ChIJaxF3qpLJwoARoKP1uueEMBw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1758 East 21st Street, Los Angeles",
+            "CBG":60372270102,
+            "Radius":326.4303614542
+      }
+]

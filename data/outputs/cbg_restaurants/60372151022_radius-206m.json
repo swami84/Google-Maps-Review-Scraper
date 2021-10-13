@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0675966,
+                        "lng":-118.3438979
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0689461303,
+                              "lng":-118.3426189697
+                        },
+                        "southwest":{
+                              "lat":34.0662481697,
+                              "lng":-118.3453169303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Twist Eatery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102114789534046223479\">Mike Uesugi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDT2Dxao5rykS4aITkzOmQPnscIYgaQMzvInmnKmi9HmDuOS3KMvoBEUA_9CH9wMZTox-ZYcyfWrifWG5TVgcLAnzE2z4VVbmwA0PZhD4JqXpqUL94izCAnVgPsWqCF-Ct0qSy7KdWVr3ZOWtpXYLpIu2ngYA2QQxNNgoVnAyftiq16",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJgThLO9-4woARF19YTgmj3R0",
+            "plus_code":{
+                  "compound_code":"3M94+2C Los Angeles, CA, USA",
+                  "global_code":"85633M94+2C"
+            },
+            "rating":4.5,
+            "reference":"ChIJgThLO9-4woARF19YTgmj3R0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":86,
+            "vicinity":"344 South La Brea Avenue, Los Angeles",
+            "CBG":60372151022,
+            "Radius":205.8604017459
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0840843,
+                        "lng":-87.9701893
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0854849303,
+                              "lng":-87.9687108697
+                        },
+                        "southwest":{
+                              "lat":43.0827869697,
+                              "lng":-87.9714088303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJK9rUzDIdBYgRC79_1aNBWkU",
+            "plus_code":{
+                  "compound_code":"32MH+JW Milwaukee, WI, USA",
+                  "global_code":"86MJ32MH+JW"
+            },
+            "reference":"ChIJK9rUzDIdBYgRC79_1aNBWkU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"McDonalds 60th & Silver Spring Location, Milwaukee",
+            "CBG":550790038001,
+            "Radius":263.9460737715
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0757348,
+                        "lng":-118.328251
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0770837803,
+                              "lng":-118.3269020197
+                        },
+                        "southwest":{
+                              "lat":34.0743858197,
+                              "lng":-118.3295999803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Highline",
+            "place_id":"ChIJzXYTE5W5woARsh6TR_NMW8s",
+            "plus_code":{
+                  "compound_code":"3MGC+7M Los Angeles, CA, USA",
+                  "global_code":"85633MGC+7M"
+            },
+            "reference":"ChIJzXYTE5W5woARsh6TR_NMW8s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Beverly Boulevard, Los Angeles",
+            "CBG":60372110003,
+            "Radius":485.3129151727
+      }
+]

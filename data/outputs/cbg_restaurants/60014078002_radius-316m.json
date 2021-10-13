@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.783548,
+                        "lng":-122.1887773
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7848759303,
+                              "lng":-122.1871529697
+                        },
+                        "southwest":{
+                              "lat":37.7821779697,
+                              "lng":-122.1898509303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sushi Go Go",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":472,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115429782863714036103\">steve li<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDwUsKaJXKvYLtjei0UPFPO9H4bWlpLklejNmQW7RVRftNqHxvux3z8ZVG3yH3-0m8NPNZJ_4_K1e6bbiHRqmKg2AnezT1-gNlcrcj28_h0cLKYrZGi1SKqZhOBR2k-ZJeCmySSOyWZ_Mr30u2jsCRaGUrruoNrGW6x4Rb70f9AfJMI",
+                        "width":472
+                  }
+            ],
+            "place_id":"ChIJJbPYrBeGj4ARrqOmvgvIzS4",
+            "plus_code":{
+                  "compound_code":"QRM6+CF Oakland, CA, USA",
+                  "global_code":"849VQRM6+CF"
+            },
+            "rating":4,
+            "reference":"ChIJJbPYrBeGj4ARrqOmvgvIzS4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":132,
+            "vicinity":"3535 Pierson Street #3427, Oakland",
+            "CBG":60014078002,
+            "Radius":316.0529417726
+      }
+]

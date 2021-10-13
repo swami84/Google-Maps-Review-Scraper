@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9929823,
+                        "lng":-118.2830743
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9943835303,
+                              "lng":-118.2817550197
+                        },
+                        "southwest":{
+                              "lat":33.9916855697,
+                              "lng":-118.2844529803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117302135371556936911\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBchMG5-RajzTbBxk37y_lg293dM8XjVl6AjzTt_MatV3amB4bDfKCODXto231-dEV_KFG8bQm195P7M0UsANPE6vCfZh9sTc9tstJxoefOnwnMur28G4mjR56no4ZeCVDueXQ4RgZGioWxVD3BOMb-0-3Gpo4zsE-QqE2POpvGBOBd",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJjwtBOzzIwoAR3wRjYha0uWo",
+            "plus_code":{
+                  "compound_code":"XPV8+5Q Los Angeles, CA, USA",
+                  "global_code":"8553XPV8+5Q"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJjwtBOzzIwoAR3wRjYha0uWo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":576,
+            "vicinity":"5401 South Figueroa Street, Los Angeles",
+            "CBG":60372327003,
+            "Radius":221.380976048
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9935184,
+                        "lng":-118.2831167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9948475303,
+                              "lng":-118.2816312197
+                        },
+                        "southwest":{
+                              "lat":33.9921495697,
+                              "lng":-118.2843291803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Church's Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102670444694780205562\">Church&#39;s Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECQljB-asaw1GqgHI4G0sBpRw8UKciV0Kgeo-TeIQK94PYltAU7PR5Qu3auAzjp0lgEIyOHMm6WUyVn3YKQquvRSncfrdNevLCIg-5F6guO9VeJTrGW9_XXi2s9xWNjM3znpOhOIHAfnur2Ahsb64NUDAgBR513Lvy27plkcG2cJC4",
+                        "width":1025
+                  }
+            ],
+            "place_id":"ChIJHwUkNzzIwoARr51OwnR7Je0",
+            "plus_code":{
+                  "compound_code":"XPV8+CQ Los Angeles, CA, USA",
+                  "global_code":"8553XPV8+CQ"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJHwUkNzzIwoARr51OwnR7Je0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":380,
+            "vicinity":"5325 South Figueroa Street, Los Angeles",
+            "CBG":60372327003,
+            "Radius":221.380976048
+      }
+]

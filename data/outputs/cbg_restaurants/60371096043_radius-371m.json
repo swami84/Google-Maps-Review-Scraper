@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2634645,
+                        "lng":-118.4665178
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2646768303,
+                              "lng":-118.4650951697
+                        },
+                        "southwest":{
+                              "lat":34.2619788697,
+                              "lng":-118.4677931303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fabian Bed Egg",
+            "place_id":"ChIJedEuRNDFwoARokdQvLQ_sBc",
+            "plus_code":{
+                  "compound_code":"7G7M+99 Los Angeles, CA, USA",
+                  "global_code":"85637G7M+99"
+            },
+            "reference":"ChIJedEuRNDFwoARokdQvLQ_sBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"15343 Kingsbury Street, Sunland-Tujunga",
+            "CBG":60371096043,
+            "Radius":371.474606869
+      }
+]

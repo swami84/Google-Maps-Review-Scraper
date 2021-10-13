@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.12246,
+                        "lng":-117.9073441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1238342303,
+                              "lng":-117.9060829197
+                        },
+                        "southwest":{
+                              "lat":34.1211362697,
+                              "lng":-117.9087808803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110660481123343881926\">Jason Eastman<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBaYYVH89dxZNZ8NbzbD6jUlFhtfhgVvoYyr21Vx0MhW9W6wnZc3jcM08TjUVJ5flxXi-QMWOmQDsLPrNcAOVNNyOcfDPlgh8Pf-hAiCcARhmj68w89PnemdHwnP7U9kqsgC7CTQ_88RyvOfuFs3dRIyE1iq7Z4dyhFm0v1j6ZEvx1o",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJVeN-K-8nw4ARH5fKScxRYoc",
+            "plus_code":{
+                  "compound_code":"43CV+X3 Azusa, CA, USA",
+                  "global_code":"856443CV+X3"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJVeN-K-8nw4ARH5fKScxRYoc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":913,
+            "vicinity":"126 North Azusa Avenue, Azusa",
+            "CBG":60374043012,
+            "Radius":298.0961215554
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.126114,
+                        "lng":-117.9073869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1274629803,
+                              "lng":-117.9060379197
+                        },
+                        "southwest":{
+                              "lat":34.1247650197,
+                              "lng":-117.9087358803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":9000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115734042294590761808\">Max Ruso<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEABJHEW5XCedv7Yd7aJ_0roCOiEoVpKrWepuOPDnDACp2pb9Zu8Hctr01TUhdqz7NRYjUxvabf8M9x6O-mFyZMNBMuk8zjgZvIsHmGWgUMrs4LDWHoZfg8rYbgzvR9cHrtUEdaxwvWMRgoG5tZI0n1xb2YQF-J-VrWlZs21eXoCXbif",
+                        "width":12000
+                  }
+            ],
+            "place_id":"ChIJmQHEOUUnw4ARhPx-WqT2WXA",
+            "plus_code":{
+                  "compound_code":"43GV+C2 Azusa, CA, USA",
+                  "global_code":"856443GV+C2"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJmQHEOUUnw4ARhPx-WqT2WXA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":170,
+            "vicinity":"246 North Azusa Avenue, Azusa",
+            "CBG":60374043012,
+            "Radius":298.0961215554
+      }
+]

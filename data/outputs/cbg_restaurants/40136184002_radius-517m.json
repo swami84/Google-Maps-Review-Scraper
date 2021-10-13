@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6526498,
+                        "lng":-112.1161484
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6540220303,
+                              "lng":-112.1152872697
+                        },
+                        "southwest":{
+                              "lat":33.6513240697,
+                              "lng":-112.1179852303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/lodging-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/hotel_pinlet",
+            "name":"Sleep Inn Phoenix North I-17",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111916682547072785559\">Sleep Inn Phoenix North I-17<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAAkLbthjPQPf7Np9nQqIA5mOv1dtQsVQSkxbTp72TbJYepV8-qnKZXzUKTxUivhQDbKVbFZMKb7F6kx57LIzh69TkaL8P2slYIboan9T_WDEQFT40jS7ngx7bpKKa5t8pC8bp2fp6X9KydHYKQAktRIeyKi8Lw1OCne1X2zEJ-3YHZ",
+                        "width":2880
+                  }
+            ],
+            "place_id":"ChIJdbDgFx9vK4cRHdENkIH71U0",
+            "plus_code":{
+                  "compound_code":"MV3M+3G Phoenix, AZ, USA",
+                  "global_code":"8559MV3M+3G"
+            },
+            "rating":3.9,
+            "reference":"ChIJdbDgFx9vK4cRHdENkIH71U0",
+            "scope":"GOOGLE",
+            "types":[
+                  "lodging",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":505,
+            "vicinity":"18235 North 27th Avenue, Phoenix",
+            "CBG":40136184002,
+            "Radius":516.8112087569
+      }
+]

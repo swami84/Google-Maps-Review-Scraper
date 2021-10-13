@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9502716,
+                        "lng":-76.9260406
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9516444303,
+                              "lng":-76.9245171197
+                        },
+                        "southwest":{
+                              "lat":38.9489464697,
+                              "lng":-76.9272150803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria La Placita",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107313437515451143493\">Taqueria La Placita<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAIxEQarHyKOaA8R9WSqqQ5MaEhTqkv_1rp3nzIgYWoG-Uf3xX2nvQ5VRKF0-xJB9Cieq07WZ3zZvDHT2r8quPXbkXjIOwuhaj5RS-3xq3Te7NeRNlP0B5vBwRb9qO0mkyOH5jYChAqdjXREwrZlWlwQD3ZDF5j515W5ZvhzAXVdIDY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJr43WMinHt4kRXNqTkHUgwmY",
+            "plus_code":{
+                  "compound_code":"X32F+4H Hyattsville, MD, USA",
+                  "global_code":"87C5X32F+4H"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJr43WMinHt4kRXNqTkHUgwmY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3126,
+            "vicinity":"5020 Edmonston Road, Hyattsville",
+            "CBG":240338039002,
+            "Radius":214.4996561732
+      }
+]

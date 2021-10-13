@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.4558482,
+                        "lng":-66.0851005
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.4572204803,
+                              "lng":-66.0838062697
+                        },
+                        "southwest":{
+                              "lat":18.4545225197,
+                              "lng":-66.0865042303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Casita Miramar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112557788024340815047\">Will Crowder<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBacIz7041JlI-fdMcFlZw2RtVQbmKkwDTUyl3DFh4Qsx6nGg1gWvzLqyoXSPbO3eXMC7-fGNXQLa6jIJXacxZxgyOI11bGaS7hL3_9TnamPWuoHeEKuP5VqwFzCPaPP78YSrPi5f5AA2Ui1r1zOJvowgG2UvGZGK1gLqWftxilDxKi",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ_wl9dy9vA4wReA-OeIhk7uc",
+            "plus_code":{
+                  "compound_code":"FW47+8X San Juan, Puerto Rico",
+                  "global_code":"77CMFW47+8X"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ_wl9dy9vA4wReA-OeIhk7uc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1820,
+            "vicinity":"00907, 605 Avenida Miramar, San Juan",
+            "CBG":721270019005,
+            "Radius":137.1479777262
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2561586,
+                        "lng":-118.4678374
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2575050803,
+                              "lng":-118.4663351197
+                        },
+                        "southwest":{
+                              "lat":34.2548071197,
+                              "lng":-118.4690330803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101506603443968145649\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECIS0PXsvMzDHaUbnZXWgtDm30OW2UlOU4_2eJl6CFdVXBB_VNyaSoVSV-BJ3aLN_B-OT4WX-83JK7kZQoZthF2MV9CKtySUmjAh0VhMVhzcWb_lpao2EmSVQMxE5zcz31Dl5aL_FjAVNGuL_DXjZyEik8dlYYtoZheaS0LP5QrA-aB",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJIYtwFoqQwoARAj-6zmfJ-i0",
+            "plus_code":{
+                  "compound_code":"7G4J+FV Mission Hills, Los Angeles, CA, USA",
+                  "global_code":"85637G4J+FV"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJIYtwFoqQwoARAj-6zmfJ-i0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":168,
+            "vicinity":"10223 Sepulveda Boulevard, Mission Hills",
+            "CBG":60371096033,
+            "Radius":337.8153151577
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2562609,
+                        "lng":-118.4678356
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2575559303,
+                              "lng":-118.4663329697
+                        },
+                        "southwest":{
+                              "lat":34.2548579697,
+                              "lng":-118.4690309303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jenny's Thai Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108723239629019445417\">Bruce Hutchinson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGcCfd7APrCTCurtYyXfLJ2IKs82cSKpcBwAkH0OKAkxTABdOI1in0eKkml7212HACPGXVex6jcYq-2J2DqAAhFVoCLc2kxwc4mh39o7LOEa1C-GwxrJ8IkhaK2ghKR__lqQpt-ToDavM4l_v4WheKIDuhbkTkHaAuuXBISBf7ZL-S",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJIYtwFoqQwoARLMPR3zsMh2I",
+            "plus_code":{
+                  "compound_code":"7G4J+GV Mission Hills, Los Angeles, CA, USA",
+                  "global_code":"85637G4J+GV"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJIYtwFoqQwoARLMPR3zsMh2I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"10223 Sepulveda Boulevard, Mission Hills",
+            "CBG":60371096033,
+            "Radius":337.8153151577
+      }
+]

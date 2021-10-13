@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.9058051,
+                        "lng":-87.7119663
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9071545803,
+                              "lng":-87.7105172197
+                        },
+                        "southwest":{
+                              "lat":41.9044566197,
+                              "lng":-87.7132151803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Palma Restaurant",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102975877887848683940\">Silvia Carina Nunez-Alvarez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVCZUEDH4bAD6vBOSEXbxtAqmu8MBl70SKPi54ADMbMTvx6JvxsJAypuN6BF_ZfHj0UPxCA1C9WJTd1SKnUB6Pssdg5_EpUTki_KFV-Wl4BDG_qABM-lIy2Bqrn7bxr-Pb0NjZGDUQ0O2kgSTCuw6EbB8Q3xZzaObZ-vni-llhVAb1",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJjTbQSU_ND4gRgHVNJC45gu4",
+            "plus_code":{
+                  "compound_code":"W74Q+86 Chicago, IL, USA",
+                  "global_code":"86HJW74Q+86"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJjTbQSU_ND4gRgHVNJC45gu4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":313,
+            "vicinity":"1340 North Homan Avenue, Chicago",
+            "CBG":170312308001,
+            "Radius":255.0754705291
+      }
+]

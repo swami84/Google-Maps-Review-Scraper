@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0619925,
+                        "lng":-87.9143128
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0633402803,
+                              "lng":-87.9128594697
+                        },
+                        "southwest":{
+                              "lat":43.0606423197,
+                              "lng":-87.9155574303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hong Kong Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100114666374989111634\">Adan De La Cruz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECGxbODbvi35OBkylBy6G6zO5ZD_x9AEY_WMVvmSB6CupNECvjRNwg8BgZlozru9rPP42AihpaaQr79LyYIc6vY94VeBIAwexh2hEPC_oB5HWleM6u_zMGDB8XFEcyS0OVWawvaGUWZq2Cc9Ju747zjaADjBXFG3kg6QJrQAOJbgrZu",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJOQMkkEAZBYgR8FibHSjBjCM",
+            "plus_code":{
+                  "compound_code":"336P+Q7 Milwaukee, WI, USA",
+                  "global_code":"86MJ336P+Q7"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJOQMkkEAZBYgR8FibHSjBjCM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":382,
+            "vicinity":"2373 North Doctor Martin Luther King Junior Drive, Milwaukee",
+            "CBG":550791856003,
+            "Radius":228.4473223292
+      }
+]

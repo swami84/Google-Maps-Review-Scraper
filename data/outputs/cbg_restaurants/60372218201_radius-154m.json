@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0317026,
+                        "lng":-118.2858569
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0330511303,
+                              "lng":-118.2844415197
+                        },
+                        "southwest":{
+                              "lat":34.0303531697,
+                              "lng":-118.2871394803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chelia con Carne",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100033881012566897421\">Chelia con Carne<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEClciKMDsCZNxgqka48R4YPyPOMk21vDYWZ7OnlOOBRVOL0sJlFgXlya8zORF0MeLWynyUDsSta-oMqze6WqCaae0kF25QimTxRPkVZghw151gKkYWfWCgmLNvHZDtPq2k8mIJ1TmXvDto4R5hr6mZxR_rCxkNDWxbph6gjD6YSo52y",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJZwWyNMHHwoARb-fzI1TGGi0",
+            "plus_code":{
+                  "compound_code":"2PJ7+MM Los Angeles, CA, USA",
+                  "global_code":"85632PJ7+MM"
+            },
+            "rating":2,
+            "reference":"ChIJZwWyNMHHwoARb-fzI1TGGi0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1174 1\/2 West Adams Boulevard, Los Angeles",
+            "CBG":60372218201,
+            "Radius":153.6388825452
+      }
+]

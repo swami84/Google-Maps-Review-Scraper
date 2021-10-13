@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.945325,
+                        "lng":-118.2736956
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9467015303,
+                              "lng":-118.2723251697
+                        },
+                        "southwest":{
+                              "lat":33.9440035697,
+                              "lng":-118.2750231303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"PUPUSERIA LEMUS",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107082233316498130354\">Mardo Lemus<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBo0ltuOCUTZ-kuFSB2OW5gQ8RpejEomaSN7M2mSEqAqsgpgKXHbf5YLKxDxxvgrWijr5PmkIZkEkTsX46jq1HbT334GVb1mz0HxQwwb91bjWaWjnwdxRPGijl6IBv9tjpqXyWiWR0vUh5ibUSHRzODZoKYVM9_biW2D2m2mevAylw3",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJN9SorFbJwoARlvh0OlebBXM",
+            "plus_code":{
+                  "compound_code":"WPWG+4G Los Angeles, CA, USA",
+                  "global_code":"8553WPWG+4G"
+            },
+            "rating":4.6,
+            "reference":"ChIJN9SorFbJwoARlvh0OlebBXM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"100 E West Century Boulevard, Los Angeles",
+            "CBG":60372405002,
+            "Radius":232.4728100358
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0181483,
+                        "lng":-118.345673
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0194298803,
+                              "lng":-118.3443145697
+                        },
+                        "southwest":{
+                              "lat":34.0167319197,
+                              "lng":-118.3470125303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cajun Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111573406913781190791\">David Sanders<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYxnUrHWxd0BaybWKtzsMTU0Fxd_kxT08in3-UaNCQtz1ognQD2QIr94QKLRf-vcFfM9Lfq7lrHpQJVWonJ7Rlt8T8Z3-X3mtlMIkaZPeH4pbPubaeFsDs5n5k4EbhoAaJcF8KTROnATZeQ-R2403GY97sEENWDWADniJ5MYzwgcQP",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJPYQtsjS4woARXvVgJHDxsH4",
+            "plus_code":{
+                  "compound_code":"2M93+7P Los Angeles, CA, USA",
+                  "global_code":"85632M93+7P"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJPYQtsjS4woARXvVgJHDxsH4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"4501 West Martin Luther King Junior Boulevard, Los Angeles",
+            "CBG":60372362031,
+            "Radius":292.5805803557
+      }
+]

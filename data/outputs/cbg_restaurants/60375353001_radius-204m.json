@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9599785,
+                        "lng":-118.2400603
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9614144803,
+                              "lng":-118.2387112697
+                        },
+                        "southwest":{
+                              "lat":33.9587165197,
+                              "lng":-118.2414092303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Las Tinajas Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJx28h5qHJwoARzTyw67v2YlA",
+            "plus_code":{
+                  "compound_code":"XQ55+XX Los Angeles, CA, USA",
+                  "global_code":"8553XQ55+XX"
+            },
+            "reference":"ChIJx28h5qHJwoARzTyw67v2YlA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1816 Firestone Boulevard, Los Angeles",
+            "CBG":60375353001,
+            "Radius":204.4368028654
+      }
+]

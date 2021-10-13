@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0666093,
+                        "lng":-118.4289143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0678940303,
+                              "lng":-118.4274295197
+                        },
+                        "southwest":{
+                              "lat":34.0651960697,
+                              "lng":-118.4301274803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Vegan Plant Based Private Chef",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4008,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105314479869947529781\">G<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC9mQBmxJtUcPLdaUyUHM6Yj5vihWBUIwF9ML_lkrnfESabvt8gG9Ip1zCgfXgwRqRsAQHbTC9dF-4vL-Z5giRlTY2zuWfGIOSNILmSJLknzQwx0s9VFBiwCak750SMayjHGNldMwnJ_lE4TP041lTmQJUn9icueL5TOz02Pmff8Sy9",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJAc6AK5u9woARGv-UzK8iKQk",
+            "plus_code":{
+                  "compound_code":"3H8C+JC Los Angeles, CA, USA",
+                  "global_code":"85633H8C+JC"
+            },
+            "reference":"ChIJAc6AK5u9woARGv-UzK8iKQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10416 Wilshire Boulevard, Los Angeles",
+            "CBG":60372657001,
+            "Radius":267.4728742681
+      }
+]

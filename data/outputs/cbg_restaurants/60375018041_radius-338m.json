@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9701865,
+                        "lng":-118.0369803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9715402803,
+                              "lng":-118.0358381197
+                        },
+                        "southwest":{
+                              "lat":33.9688423197,
+                              "lng":-118.0385360803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Green Leaf Thai Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107943178792188619538\">Artem McKay<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA3Dy3Y0YXRHWvRSg6m9CqDEF6N8NxNWdjkDcOs9UaAsD4CPWWvBj7RKwHaoc37gbiFDpV4e_dsPqh7kG0c1090v9QX1UqmdH_pdg7xA2O77TOeji2dr4ZbfcsZ0N6KprPstX96oeRvBDOxU_lu1tGcr-n6Ln3aJmSgsOlH6BVknzmE",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJbZMLppbTwoARLVsS4FCJvt8",
+            "plus_code":{
+                  "compound_code":"XXC7+36 Whittier, CA, USA",
+                  "global_code":"8553XXC7+36"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJbZMLppbTwoARLVsS4FCJvt8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":367,
+            "vicinity":"7756 Greenleaf Avenue, Whittier",
+            "CBG":60375018041,
+            "Radius":337.5730674588
+      }
+]

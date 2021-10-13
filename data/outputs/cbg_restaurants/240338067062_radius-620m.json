@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.98911,
+                        "lng":-76.8823976
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9904192303,
+                              "lng":-76.8810249697
+                        },
+                        "southwest":{
+                              "lat":38.9877212697,
+                              "lng":-76.8837229303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Willy K's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107645783868393187561\">Chomar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDQqREMdXuS70Z_ssBXzS9L47BM7AqSbdDLtCRRe6GBajBXjuiELlbE-GkYkOu1s5md5Na1liQrPG_6vw0igXNZfXgotI3e2w23PszwFCflBeXbj62la7PJiXO0XOknk_6VqTvgcjlYA482NVQbSWQFZJ-FhyNkyrjPPGtNUvC2jy2j",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJfXRbH33Bt4kR6RAXYk6dkVo",
+            "plus_code":{
+                  "compound_code":"X4Q9+J2 Greenbelt, MD, USA",
+                  "global_code":"87C5X4Q9+J2"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJfXRbH33Bt4kR6RAXYk6dkVo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":585,
+            "vicinity":"7200 Hanover Drive, Greenbelt",
+            "CBG":240338067062,
+            "Radius":620.2201553599
+      }
+]

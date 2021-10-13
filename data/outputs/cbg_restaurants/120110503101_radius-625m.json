@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1887941,
+                        "lng":-80.2080577
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1900835303,
+                              "lng":-80.2066326697
+                        },
+                        "southwest":{
+                              "lat":26.1873855697,
+                              "lng":-80.2093306303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Krispy Kreme",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100776345335101101700\">Riyadh Rafique<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdc6gBoUUlDIgv3iJHGfgYPA026cblvjKKidzz_FUOa_om9QXJB1BZ7zVS-tWErljdaSlGlNcrnxsXvgEkr5iDjqprJePDMDNyL_ln0Oq2p60QWA353ppMjQ8WtwiJ-X1HYYbDy4Je9uU3tVNTpVz7olzlhE9YO-Qr01rkfVZ3yj1i",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJPST4HBkE2YgRMvdq4kVm8_0",
+            "plus_code":{
+                  "compound_code":"5QQR+GQ Tamarac, FL, USA",
+                  "global_code":"76RX5QQR+GQ"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJPST4HBkE2YgRMvdq4kVm8_0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1386,
+            "vicinity":"4299 West Commercial Boulevard, Tamarac",
+            "CBG":120110503101,
+            "Radius":624.6694737573
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1881079,
+                        "lng":-80.2077482
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1894367803,
+                              "lng":-80.2064262197
+                        },
+                        "southwest":{
+                              "lat":26.1867388197,
+                              "lng":-80.2091241803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wow Wing House Tamarac",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJtxxLfSwF2YgRMW9ZmkPHfsk",
+            "plus_code":{
+                  "compound_code":"5QQR+6W Tamarac, FL, USA",
+                  "global_code":"76RX5QQR+6W"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJtxxLfSwF2YgRMW9ZmkPHfsk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4231 West Commercial Boulevard, Tamarac",
+            "CBG":120110503101,
+            "Radius":624.6694737573
+      }
+]

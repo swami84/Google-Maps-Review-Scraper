@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0309639,
+                        "lng":-118.3211868
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0321475303,
+                              "lng":-118.3198359197
+                        },
+                        "southwest":{
+                              "lat":34.0294495697,
+                              "lng":-118.3225338803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Integrity Vending LA",
+            "place_id":"ChIJ89nXrj-5woARlK5maB2zPio",
+            "plus_code":{
+                  "compound_code":"2MJH+9G Los Angeles, CA, USA",
+                  "global_code":"85632MJH+9G"
+            },
+            "reference":"ChIJ89nXrj-5woARlK5maB2zPio",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3335 West 27th Street, Los Angeles",
+            "CBG":60372189002,
+            "Radius":250.2738887764
+      }
+]

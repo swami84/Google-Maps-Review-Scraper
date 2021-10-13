@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0325736,
+                        "lng":-118.3006749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0339246303,
+                              "lng":-118.2993252697
+                        },
+                        "southwest":{
+                              "lat":34.0312266697,
+                              "lng":-118.3020232303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos de la se\u00f1ora q cae bien",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116146126068266698586\">Jeremiah Sellers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC61CSv1jcpQfcQ8tlOYML2UNPxrITK9txTvFvJY7-QRGECk-tKroW_JFi9C1He1VVbXPY2MjX5jkZlgwYQizRhWerPucH9y4snPdxHkA5nrmBfaem4qJwFnYk5rBYSa4wUffjXCG5mzXqPHUihjnVl63b7_yTsxBbtGEWlnivJU_qm",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJLwZ841O5woARqQxSj8Ktc-8",
+            "plus_code":{
+                  "compound_code":"2MMX+2P Los Angeles, CA, USA",
+                  "global_code":"85632MMX+2P"
+            },
+            "rating":5,
+            "reference":"ChIJLwZ841O5woARqQxSj8Ktc-8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"Normandie \/ Adams, Los Angeles",
+            "CBG":60372215002,
+            "Radius":232.6917844908
+      }
+]

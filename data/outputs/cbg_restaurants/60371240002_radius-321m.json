@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.159138,
+                        "lng":-118.39672
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1605065803,
+                              "lng":-118.3952659197
+                        },
+                        "southwest":{
+                              "lat":34.1578086197,
+                              "lng":-118.3979638803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Menchie's Frozen Yogurt",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104259609673959491167\">Mahesh Sugathadasa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAMX8EihiQbuwvc-v2_Eiq0cDWigyMQIVp1VeW8ucb6YJYGHqdvuhho5b7nRk0V-HRMjv8_8Td7HSXxKomUfnFTG2Yduj36W56rPAeCq_UJMBPgzB-gNUh1kTwaXJ95Py1uNayOKlOn8zd3V2TcLfyFV_Dx_LPBTR5C6LaT62-S0mTp",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJC70Y6QaWwoARE_xPcSFxSe0",
+            "plus_code":{
+                  "compound_code":"5J53+M8 Valley Village, Los Angeles, CA, USA",
+                  "global_code":"85635J53+M8"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJC70Y6QaWwoARE_xPcSFxSe0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":169,
+            "vicinity":"4849 Laurel Canyon Boulevard, Valley Village",
+            "CBG":60371240002,
+            "Radius":321.2662145248
+      }
+]

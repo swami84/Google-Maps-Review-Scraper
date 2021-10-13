@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0053482,
+                        "lng":-118.2913301
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0066942803,
+                              "lng":-118.2900968197
+                        },
+                        "southwest":{
+                              "lat":34.0039963197,
+                              "lng":-118.2927947803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Reina's Pupuseria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106024245240489177437\">Jerrika Viera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAomdo02I3jzypwTKMrEkmynl9DGU_X9t5hUjUF7z-F1nxLLtXy5FnVX9Nz1w8sR4hSY17_miDxDG110R_CDC50sz090RVk0LGGhKAnwThpdNHl-gnrpP6974MjUYuURkTfoKm_GxJvdW4E35NEj6jhkeq5WJxxOSqN5x6N_TPaEmkF",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJRWHH0QTIwoARM8a-RFTc8lE",
+            "plus_code":{
+                  "compound_code":"2P45+4F Los Angeles, CA, USA",
+                  "global_code":"85632P45+4F"
+            },
+            "rating":4.2,
+            "reference":"ChIJRWHH0QTIwoARM8a-RFTc8lE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54,
+            "vicinity":"4300 South Vermont Avenue, Los Angeles",
+            "CBG":60372317103,
+            "Radius":197.1719502086
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0053474,
+                        "lng":-118.2913596
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0066938803,
+                              "lng":-118.2901115697
+                        },
+                        "southwest":{
+                              "lat":34.0039959197,
+                              "lng":-118.2928095303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Esquinita",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118059332341162396472\">Chapin Chapin<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAm8vYiLZQRjOQA6-AncSn-YluhI7cdnT5Wp7BZEj9NN1Yg0mQ_UPXaeBglVuiULgemyXTeyncsCxxH5GDi-awlCWTbGpBnvg1YdWnVg1pVsLTJFZjhH_3A5ffQWUjkABpHuzuJ2Ci7_ah8s7PmWqKF36k4Lt0KSB4yEoyIcp3or8zq",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJjyAH0QTIwoARAC1BtHwCIhY",
+            "plus_code":{
+                  "compound_code":"2P45+4F Los Angeles, CA, USA",
+                  "global_code":"85632P45+4F"
+            },
+            "rating":4.4,
+            "reference":"ChIJjyAH0QTIwoARAC1BtHwCIhY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":100,
+            "vicinity":"4300 South Vermont Avenue, Los Angeles",
+            "CBG":60372317103,
+            "Radius":197.1719502086
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.3971607,
+                        "lng":-122.2273512
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.3984976803,
+                              "lng":-122.2263375697
+                        },
+                        "southwest":{
+                              "lat":47.3957997197,
+                              "lng":-122.2290355303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Denny's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104769406779877611798\">Kortz Life Adventures<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDLa9HqnbWzusR2S5UDCa_3kXxsHEmI7Nz_fDEv3pmhzmrBqewF28e01GKTnvFQJOFoxvVvTFzhBRGI5RENkTtucaJUaU-a8i9fWH1nivt9RdiL1oE3Gshr5lNK2zrHHFKrSm9tYzkXli_ryFiV1qrnpf0EWe5MuQMqH7ZPT0m-e0QW",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJF--tfQVckFQRScuNeDuW504",
+            "plus_code":{
+                  "compound_code":"9QWF+V3 Kent, WA, USA",
+                  "global_code":"84VV9QWF+V3"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJF--tfQVckFQRScuNeDuW504",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1644,
+            "vicinity":"1246 Central Avenue North, Kent",
+            "CBG":530330292044,
+            "Radius":368.1794192374
+      }
+]

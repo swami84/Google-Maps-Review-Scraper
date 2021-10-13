@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2103389,
+                        "lng":-118.4542533
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2116594803,
+                              "lng":-118.4529042697
+                        },
+                        "southwest":{
+                              "lat":34.2089615197,
+                              "lng":-118.4556022303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Buck's BBQ Catering-On site Grilling-Cooking-BBQing",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112260548642866044693\">Buck&#39;s BBQ Catering-On site Grilling-Cooking-BBQing<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAN8jRZN1uf0_g8WJjeC0uM5ZqdZdFhOEORs7XImSPvojWVAeXvN3209PuFUTCCVqYyXlKA1GT493Ijn9vPPZD1gPw0cTTd53JhBaJsX4cPcEMUyHfgJDbi3GrVqDh75HgnGto8hARKo6J9X4fN1Ry0W6XlYumlz2Kc7Lzbzg5TBLKI",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJvUKfYjCXwoARdJ-J-6h_Tsg",
+            "plus_code":{
+                  "compound_code":"6G6W+47 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636G6W+47"
+            },
+            "rating":4.3,
+            "reference":"ChIJvUKfYjCXwoARdJ-J-6h_Tsg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"14733 Keswick Street, Van Nuys",
+            "CBG":60371272101,
+            "Radius":345.9982032385
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2082395,
+                        "lng":-118.4544478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2096962803,
+                              "lng":-118.4530986197
+                        },
+                        "southwest":{
+                              "lat":34.2069983197,
+                              "lng":-118.4557965803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Vanguard Outdoor Rentals",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJXf_LXzqXwoARRKYm9xz2POA",
+            "plus_code":{
+                  "compound_code":"6G5W+76 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636G5W+76"
+            },
+            "rating":2.3,
+            "reference":"ChIJXf_LXzqXwoARRKYm9xz2POA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"14738 Saticoy Street, Van Nuys",
+            "CBG":60371272101,
+            "Radius":345.9982032385
+      }
+]

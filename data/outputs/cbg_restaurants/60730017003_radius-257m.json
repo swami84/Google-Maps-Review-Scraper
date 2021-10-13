@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7568971,
+                        "lng":-117.1226607
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7581239803,
+                              "lng":-117.1213149197
+                        },
+                        "southwest":{
+                              "lat":32.7554260197,
+                              "lng":-117.1240128803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Winston Chapel",
+            "place_id":"ChIJVVVFEFdU2YARh4d-5E1azsA",
+            "plus_code":{
+                  "compound_code":"QV4G+QW San Diego, CA, USA",
+                  "global_code":"8544QV4G+QW"
+            },
+            "reference":"ChIJVVVFEFdU2YARh4d-5E1azsA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3295 Meade Avenue, San Diego",
+            "opening_hours":null,
+            "CBG":60730017003,
+            "Radius":256.5388089898
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7594502,
+                        "lng":-117.1243152
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7607980803,
+                              "lng":-117.1227894197
+                        },
+                        "southwest":{
+                              "lat":32.7581001197,
+                              "lng":-117.1254873803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Crab Spot",
+            "place_id":"ChIJa5tVmElV2YARTFCtE-ITY5U",
+            "plus_code":{
+                  "compound_code":"QV5G+Q7 San Diego, CA, USA",
+                  "global_code":"8544QV5G+Q7"
+            },
+            "reference":"ChIJa5tVmElV2YARTFCtE-ITY5U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4514 Bancroft Street Unit 16, San Diego",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60730017003,
+            "Radius":256.5388089898
+      }
+]

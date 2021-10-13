@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1943575,
+                        "lng":-118.4534559
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1954958803,
+                              "lng":-118.4522663197
+                        },
+                        "southwest":{
+                              "lat":34.1927979197,
+                              "lng":-118.4549642803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Anthony's Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111491989238992509327\">Anthony&#39;s Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECmhrUCNeL4pSEvkFOcQIo_9rgGRiR6WXhk3rbxV06WHl07v6gAOVRVg8-2dPmu8lpaHJBReyLHqStoU-MqbBu3RENQU9cigghnggna6wliAptJDgR9bV411ajA42EIU6UvI5Q_JO1cNTWpUsEalA16RIqdZ09VBONPfMpOSWKB4jcS",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJD3uazhCXwoARncgU8dbBabk",
+            "plus_code":{
+                  "compound_code":"5GVW+PJ Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635GVW+PJ"
+            },
+            "rating":4.6,
+            "reference":"ChIJD3uazhCXwoARncgU8dbBabk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"6803 Cedros Avenue, Van Nuys",
+            "price_level":null,
+            "CBG":60371278032,
+            "Radius":321.1354025721
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1941503,
+                        "lng":-118.4507457
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1953935303,
+                              "lng":-118.4494115697
+                        },
+                        "southwest":{
+                              "lat":34.1926955697,
+                              "lng":-118.4521095303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chuy's Tacos Dorados",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114671580627871465296\">Chuy&#39;s Tacos Dorados<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAiygMnR4X1djcH-xn11H8njLsQ-UaLGw8RfvKd74acZRHIlvgvB6cj9DfD07ZHjHY0Uyq1LCDhqJlbaTAcgUgdJ-D4bqgaW6vTQxfRx1280Aid6j9qf4m4M0z49WQzvXeLUZjUlX_DZeyu7KZV5cEbIWcom2s-WQFdRQKuPW_1yWjy",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8cvU-GeXwoARoJvWsJIzKPA",
+            "plus_code":{
+                  "compound_code":"5GVX+MP Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635GVX+MP"
+            },
+            "rating":4.4,
+            "reference":"ChIJ8cvU-GeXwoARoJvWsJIzKPA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":159,
+            "vicinity":"14557 Vanowen Street, Van Nuys",
+            "price_level":1.0,
+            "CBG":60371278032,
+            "Radius":321.1354025721
+      }
+]

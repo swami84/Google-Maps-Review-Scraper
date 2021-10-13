@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9308364,
+                        "lng":-87.7798554
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9323087803,
+                              "lng":-87.7785105197
+                        },
+                        "southwest":{
+                              "lat":41.9296108197,
+                              "lng":-87.7812084803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kali Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJPxskXHzLD4gRVNQ8UDizQbk",
+            "plus_code":{
+                  "compound_code":"W6JC+83 Chicago, IL, USA",
+                  "global_code":"86HJW6JC+83"
+            },
+            "rating":5,
+            "reference":"ChIJPxskXHzLD4gRVNQ8UDizQbk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6137 West Diversey Avenue, Chicago",
+            "CBG":170311906011,
+            "Radius":198.1060761739
+      }
+]

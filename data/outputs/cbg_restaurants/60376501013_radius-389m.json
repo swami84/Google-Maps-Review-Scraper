@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8662917,
+                        "lng":-118.317375
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8676022803,
+                              "lng":-118.3159225697
+                        },
+                        "southwest":{
+                              "lat":33.8649043197,
+                              "lng":-118.3186205303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Red Rock-Torrance\/South Bay",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116974641743938476754\">Kwang Seo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHipw3CLhJAc1GtRClLPFYzcsaVCVvo-_iPefGMYU2sNZRcTYrg-fyOBmcl9EGkVxW-I4HDdDAmcHJFCB_B-4F28XKf63aBB8TQEKrvi6bUofyMuZAZxEgdHvYswAJch3VxJOM3IwRmyjgR22GyEFySmiuzp0SHuOXcc6oxohIEf8J",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJmy9AImq1woAR_qSczdBVUFQ",
+            "plus_code":{
+                  "compound_code":"VM8M+G3 Torrance, CA, USA",
+                  "global_code":"8553VM8M+G3"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJmy9AImq1woAR_qSczdBVUFQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":312.0,
+            "vicinity":"2141 West 182nd Street, Torrance",
+            "CBG":60376501013,
+            "Radius":388.8883128664
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.865885,
+                        "lng":-118.3175651
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8672849803,
+                              "lng":-118.3162106197
+                        },
+                        "southwest":{
+                              "lat":33.8645870197,
+                              "lng":-118.3189085803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LALALA Ramen",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJp02UHFq1woARlqiX9ecwgF8",
+            "plus_code":{
+                  "compound_code":"VM8J+9X Torrance, CA, USA",
+                  "global_code":"8553VM8J+9X"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJp02UHFq1woARlqiX9ecwgF8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2161 West 182nd Street, Torrance",
+            "CBG":60376501013,
+            "Radius":388.8883128664
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7813923,
+                        "lng":-118.166883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7827399303,
+                              "lng":-118.1653891197
+                        },
+                        "southwest":{
+                              "lat":33.7800419697,
+                              "lng":-118.1680870803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Whatcha'Ma Call It And More",
+            "place_id":"ChIJ2T-LL04x3YARqo1f8XEWVMQ",
+            "plus_code":{
+                  "compound_code":"QRJM+H6 Long Beach, CA, USA",
+                  "global_code":"8553QRJM+H6"
+            },
+            "reference":"ChIJ2T-LL04x3YARqo1f8XEWVMQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1131 Saint Louis Avenue, Long Beach",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60375769011,
+            "Radius":196.3087906857
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7822167,
+                        "lng":-118.1657098
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7836499803,
+                              "lng":-118.1643959697
+                        },
+                        "southwest":{
+                              "lat":33.7809520197,
+                              "lng":-118.1670939303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Monorom Cambodian Restaurant",
+            "place_id":"ChIJe2C9mnMx3YARcHWFkkf7zsc",
+            "plus_code":{
+                  "compound_code":"QRJM+VP Long Beach, CA, USA",
+                  "global_code":"8553QRJM+VP"
+            },
+            "reference":"ChIJe2C9mnMx3YARcHWFkkf7zsc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2150 East Anaheim Street, Long Beach",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1295,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101584906980262096666\">Monorom Cambodian Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFXaydGux-gndfF0bJZN9RWlDMWe75gX2qzl6HDNhGuvFsGK7v8pGWA7yDN_cBErNkMfDRvgnFFybEHMT8xUgzMmZ-3jTK0qAJGPYk8Op1MNBZIO7bmS9W_0M6UFjSUpdb7wQbDoZ_8CnltphF8HWZ0RBIlUEWvj08zPBm6dLMNyT7",
+                        "width":971
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.4,
+            "user_ratings_total":273.0,
+            "CBG":60375769011,
+            "Radius":196.3087906857
+      }
+]

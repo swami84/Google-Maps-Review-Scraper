@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.466304,
+                        "lng":-112.1400873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4674767303,
+                              "lng":-112.1387380697
+                        },
+                        "southwest":{
+                              "lat":33.4647787697,
+                              "lng":-112.1414360303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Zebra Ice Cream",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105660647286685709966\">La Zebra Ice Cream<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBuwJ-cFSmmr_PLRufQvo29D-vuysvy27a9IqAtysG6BP96jc-aIuZV7iguqsE7XHcYjDfGOf_pHsntyUE-jDrPGfV9AR9Z8WocFlN5wNHOyAySsFCsJgkepB1ldt-vX1q26ck1ShE-7GodZQjxFTjNks-6YS4mZ_hkXSNep5EIj_Fl",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJh9u1XTITK4cRvdZy3dgsFLc",
+            "plus_code":{
+                  "compound_code":"FV85+GX Phoenix, AZ, USA",
+                  "global_code":"8559FV85+GX"
+            },
+            "rating":4.5,
+            "reference":"ChIJh9u1XTITK4cRvdZy3dgsFLc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"3750 West McDowell Road #6, Phoenix",
+            "CBG":40131126012,
+            "Radius":413.7017982958
+      }
+]

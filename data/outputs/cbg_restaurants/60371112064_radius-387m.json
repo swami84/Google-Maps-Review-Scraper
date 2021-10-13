@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2640724,
+                        "lng":-118.5353837
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2654224803,
+                              "lng":-118.5341303197
+                        },
+                        "southwest":{
+                              "lat":34.2627245197,
+                              "lng":-118.5368282803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Food truck el chilanguito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117417013483807263240\">JAY Are<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAjD_Qs_9ZwqhyuvVXJ74YHrJowmwVPlvP30OGq9xT9ui4anWitnmlgpRqvf-Snj86Q30ZJtpyAvTQxV4u2bjWiF-YsN89kqqAShxH1b8WpbIw396uHfeLP5yReLvg9jKcZHvy0xaa_4UzUjRpEiEbb0g2UBftWovx199R6YkryfFuZ",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJyaDz8e2bwoARbdd46xc-OlI",
+            "plus_code":{
+                  "compound_code":"7F77+JR Northridge, Los Angeles, CA, USA",
+                  "global_code":"85637F77+JR"
+            },
+            "rating":4.5,
+            "reference":"ChIJyaDz8e2bwoARbdd46xc-OlI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"10642-10698 Reseda Boulevard, Northridge",
+            "CBG":60371112064,
+            "Radius":387.1532888476
+      }
+]

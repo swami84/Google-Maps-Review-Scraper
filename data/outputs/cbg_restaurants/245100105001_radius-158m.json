@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2896238,
+                        "lng":-76.5871281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2909399303,
+                              "lng":-76.5858470697
+                        },
+                        "southwest":{
+                              "lat":39.2882419697,
+                              "lng":-76.5885450303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Charmed Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116874216203480939258\">Charmed Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED6c-LlUSLqhGUUn54VxiBcaAGPKi0hAuvz-LWI85fS8fQVJjeHovh-T8kUP_Jxq2wiGY1hJeoyWi-oiR40HeteVRB8i3WSzqp7NSq3tsJL3C8ZGWQsbuuraswt1DMAUbFjHHaMW2Jas8kPRSrAZIUOyJcU6pSlNwpG2jS9H75oTsFJ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJHcENAqMFyIkR-n9CLVreUm0",
+            "plus_code":{
+                  "compound_code":"7CQ7+R4 Baltimore, MD, USA",
+                  "global_code":"87F57CQ7+R4"
+            },
+            "rating":4.5,
+            "reference":"ChIJHcENAqMFyIkR-n9CLVreUm0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bakery",
+                  "cafe",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"123 South Chester Street, Baltimore",
+            "CBG":245100105001,
+            "Radius":157.7401835079
+      }
+]

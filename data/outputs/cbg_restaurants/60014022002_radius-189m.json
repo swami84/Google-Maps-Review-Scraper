@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8057134,
+                        "lng":-122.2958469
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8070032303,
+                              "lng":-122.2945197697
+                        },
+                        "southwest":{
+                              "lat":37.8043052697,
+                              "lng":-122.2972177303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JollyJolly Coffee & Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116040303479280692581\">Partha Chakraborty<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA58u4xK-Jrm96FBr-wcCbPuc-rEYTbwfGHlNwFIa6mMGk1JVoOMEAOaCGxJqZzcZTqE7de54nUZW-t2i8PkO_zCaOpg-eh20iCy3oQfdvRieFFDhTOgyQ_SD2sRd_cSkq9fRnbxw4WAmTj50GPfDx6WWjOojeBd9wy2AjFc_2QPVwD",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ5M8zzaBj4ARTXJaLhuiP_0",
+            "plus_code":{
+                  "compound_code":"RP43+7M Oakland, CA, USA",
+                  "global_code":"849VRP43+7M"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJZ5M8zzaBj4ARTXJaLhuiP_0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"1498 7th Street Suite B, Oakland",
+            "CBG":60014022002,
+            "Radius":189.3509676763
+      }
+]

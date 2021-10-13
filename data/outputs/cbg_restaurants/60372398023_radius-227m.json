@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9603886,
+                        "lng":-118.2633072
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9616423303,
+                              "lng":-118.2619571197
+                        },
+                        "southwest":{
+                              "lat":33.9589443697,
+                              "lng":-118.2646550803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Top Beijing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5184,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116153951094917816590\">Top Beijing<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC0mWfa34kHxyvN_35Qhj8fxzfFsanbIecjhoyXAdxFvzMeZ7s5Xh5Z5cR01AvENpnWZdoX4kYqqFr2EmIiYWDgEzgIGtgVpwt7ZM7xv9flmvkVONJneDs-oNHraVICrYKge-SORsiiq0cI6nwxrqBOW6-xHkW9lSRfkIAXyGMRpRTa",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJuzYMwpbJwoARN2LPL-esWLo",
+            "plus_code":{
+                  "compound_code":"XP6P+5M Los Angeles, CA, USA",
+                  "global_code":"8553XP6P+5M"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJuzYMwpbJwoARN2LPL-esWLo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"649 East Manchester Avenue, Los Angeles",
+            "CBG":60372398023,
+            "Radius":227.3831014232
+      }
+]

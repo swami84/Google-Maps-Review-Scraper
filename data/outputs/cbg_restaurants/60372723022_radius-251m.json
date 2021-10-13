@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0023796,
+                        "lng":-118.4253608
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0036290803,
+                              "lng":-118.4241928197
+                        },
+                        "southwest":{
+                              "lat":34.0009311197,
+                              "lng":-118.4268907803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tasty Chori",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105709955078076927137\">Tasty Chori<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJh9utUBSGAdING7gMvUAKiaRCWq4C2_kqDHZ24H4BJSrFlmOL7sKY-G8yOfksnD5TC8FNEHmBaKbAgIxCoHLCJyyhOrdugPMWoH_ZC7qbHNtp8jIuMm8YpvTv67QACVBaCuKQaae1nqAuB7wVMXqXjl8_JHHBR1I8zws-nDXWdvbb",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJf5d8bHy7woARRF8diUAM5j0",
+            "plus_code":{
+                  "compound_code":"2H2F+XV Los Angeles, CA, USA",
+                  "global_code":"85632H2F+XV"
+            },
+            "price_level":1,
+            "reference":"ChIJf5d8bHy7woARRF8diUAM5j0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3992 Inglewood Boulevard #6, Los Angeles",
+            "CBG":60372723022,
+            "Radius":251.1702071555
+      }
+]

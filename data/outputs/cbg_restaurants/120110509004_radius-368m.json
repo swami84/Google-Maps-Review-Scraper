@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.164446,
+                        "lng":-80.1386322
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1657997803,
+                              "lng":-80.1372183197
+                        },
+                        "southwest":{
+                              "lat":26.1631018197,
+                              "lng":-80.1399162803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Candela Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110767216570226895226\">Armando Vega<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBiadw4rro_nqFJNNE4hzyejt98KYN3wm4moUmetq_euXCZYrv8bVLk4N-H6lWLQIY5aW_-Vzn_mtV_F0I1idLDz9g5ffr-lp27QrfVJ8lVuXchW4u-qhadgB_g-7AIpdad-yUnE6Vn16-E1Wum7guPzKmZL9HC4i8AuVe8EEesr09g",
+                        "width":6016
+                  }
+            ],
+            "place_id":"ChIJR_tpT4MB2YgRxGwM1vU0IUc",
+            "plus_code":{
+                  "compound_code":"5V76+QG Wilton Manors, FL, USA",
+                  "global_code":"76RX5V76+QG"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJR_tpT4MB2YgRxGwM1vU0IUc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":372,
+            "vicinity":"2909 Northeast 6th Avenue, Wilton Manors",
+            "CBG":120110509004,
+            "Radius":367.5122459259
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1647525,
+                        "lng":-80.1386864
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1662210303,
+                              "lng":-80.1371757697
+                        },
+                        "southwest":{
+                              "lat":26.1635230697,
+                              "lng":-80.1398737303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bravo Peruvian Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":502,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104199087858106329034\">Bravo Peruvian Cuisine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAw2SubtHIKs2iKDjJ_iPZX641WzA-dnz4Shh8Z7qcZtpzKvuFj_umqAdTnU0dmRjCQbSpCtarsTyItZZ24FwzutOq3yrB9fJz_GKtil8Kbr1oQ3bx_SNY0QsmZtJNSZacjmErXL5W3-rtfJK2iHGhPEkUmuUm6e2JMKVCkbIMmlqWc",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJKz54RoMB2YgRzwqB67kMow8",
+            "plus_code":{
+                  "compound_code":"5V76+WG Wilton Manors, FL, USA",
+                  "global_code":"76RX5V76+WG"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJKz54RoMB2YgRzwqB67kMow8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1305,
+            "vicinity":"2925 Northeast 6th Avenue, Wilton Manors",
+            "CBG":120110509004,
+            "Radius":367.5122459259
+      }
+]

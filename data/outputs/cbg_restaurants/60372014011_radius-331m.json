@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0842094,
+                        "lng":-118.1782073
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0855540803,
+                              "lng":-118.1767909697
+                        },
+                        "southwest":{
+                              "lat":34.0828561197,
+                              "lng":-118.1794889303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"La Tapatia Meat Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1706,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112304263628082683205\">Mark Yutan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAOcNLb4f4r65PSAvAIU9IxpWoeAcnG2U6OrKYAfsfXhmIJkwMnRruZeYpEvOArBVftl2NaINz5vyrpBiUPwO2tVmO6bXJf8mlwQxLxiNnJgm98AYWu6H5MxP518OiHpvHFjHT5e_TOxDJJZJV3SIAtIC7FYaR0PCfj0AxVa78xNrSr",
+                        "width":2257
+                  }
+            ],
+            "place_id":"ChIJRTQ1y7TFwoARo7tSW7rGnoo",
+            "plus_code":{
+                  "compound_code":"3RMC+MP Los Angeles, CA, USA",
+                  "global_code":"85633RMC+MP"
+            },
+            "rating":4.4,
+            "reference":"ChIJRTQ1y7TFwoARo7tSW7rGnoo",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"3319 North Eastern Avenue, Los Angeles",
+            "CBG":60372014011,
+            "Radius":330.7748789709
+      }
+]

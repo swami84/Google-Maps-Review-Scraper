@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1272884,
+                        "lng":-118.1506551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1286877803,
+                              "lng":-118.1493811697
+                        },
+                        "southwest":{
+                              "lat":34.1259898197,
+                              "lng":-118.1520791303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yuca's Pasadena",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":858,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106511957070767542694\">Yuca&#39;s Pasadena<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDVgSatZvTe2U9Xw8EJcxygHGKkbmNIynOiOF-7VM3VXtdqFhzo0g95qceGVQc83hpvixFETwDMuc2Y2owVUGv3yGf8fE2_XvXyfaRX6dEsZsK2I4fPF5TA5YpFjRvWM18LtwKgsZ0XZ3w9Yly7pRgTDxswO0MTEuOUz-TcrIP0P9CU",
+                        "width":1078
+                  }
+            ],
+            "place_id":"ChIJGVb-g4PEwoARsymczzhahjM",
+            "plus_code":{
+                  "compound_code":"4RGX+WP Pasadena, CA, USA",
+                  "global_code":"85634RGX+WP"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJGVb-g4PEwoARsymczzhahjM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":158,
+            "vicinity":"1075 South Fair Oaks Avenue, Pasadena",
+            "CBG":60374639002,
+            "Radius":363.306113814
+      }
+]

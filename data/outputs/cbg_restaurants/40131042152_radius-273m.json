@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6371281,
+                        "lng":-112.2014867
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6385451303,
+                              "lng":-112.1999956197
+                        },
+                        "southwest":{
+                              "lat":33.6358471697,
+                              "lng":-112.2026935803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Caramba Mexican Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101225948641539404369\">Andrea Butler<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECN5gKmIzU7D-aHEeoYxk-k_Ra7sjOhvrbgJqrgCQQu0qOUWbZZUSz7NztM575zxFQFOgSnPtmDlFyiRiuu-lAQHakWzB6JN_LGNPWW1f5ZYWXDmX2RxKql9HPFQRlhacCEkGT4fgbuWqL8gcX3jf4a006OjqyrK8UJoEeqfChBohqn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJY3kTFFJoK4cRRD2x-XpguUI",
+            "plus_code":{
+                  "compound_code":"JQPX+VC Glendale, AZ, USA",
+                  "global_code":"8559JQPX+VC"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJY3kTFFJoK4cRRD2x-XpguUI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":741,
+            "vicinity":"6661 West Bell Road, Glendale",
+            "CBG":40131042152,
+            "Radius":272.8969327442
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.6371533,
+                        "lng":-112.2000542
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6385828803,
+                              "lng":-112.1987857197
+                        },
+                        "southwest":{
+                              "lat":33.6358849197,
+                              "lng":-112.2014836803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tasty Pot Glendale",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103921442686429600480\">Alexander Tang<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPW42irNWfinA_72tuKER9UyZDjeFVnjivH8ZhqSSqIEZQh7RiVtcoJoh54NS0o7ot-EuOc-yZdjyDhnaXWXg4fV4BVtdbLsh_71OgoUbDtTWbQXUwe2DgCsJkczHxLPuPAFeASOa00k3mxQSYY38rP_pNouuT-adGPiUlYqSX79Ts",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJS2vUd7tpK4cR6VWYQmMM7ec",
+            "plus_code":{
+                  "compound_code":"JQPX+VX Glendale, AZ, USA",
+                  "global_code":"8559JQPX+VX"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJS2vUd7tpK4cR6VWYQmMM7ec",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":22,
+            "vicinity":"6645 West Bell Road #101-103, Glendale",
+            "CBG":40131042152,
+            "Radius":272.8969327442
+      }
+]

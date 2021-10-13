@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.952221,
+                        "lng":-87.7173578
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9536472803,
+                              "lng":-87.7159440197
+                        },
+                        "southwest":{
+                              "lat":41.9509493197,
+                              "lng":-87.7186419803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thai Thai Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114834160163235690209\">Boom Ski<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED_XeyqpD4TaQngxWJhlmgiQRLLjfbZf_0TdRs48d5vgJkWvu7gW4AfX0VIKbibeqgqdbMM9nr4VRKlTNRAUoVggk-_0MF3u1dSj3pNYzk9uMn7fTbAgZeyUGcjUSO-2R86mjuDBT6j-NnJ1DJAORx4C3gnm2VPhr1ckZaD2ZOS99uC",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJs-svA77ND4gR4RfsjPlIVI4",
+            "plus_code":{
+                  "compound_code":"X72M+V3 Chicago, IL, USA",
+                  "global_code":"86HJX72M+V3"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJs-svA77ND4gR4RfsjPlIVI4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":153,
+            "vicinity":"3922 North Elston Avenue, Chicago",
+            "CBG":170311609001,
+            "Radius":297.3905321906
+      }
+]

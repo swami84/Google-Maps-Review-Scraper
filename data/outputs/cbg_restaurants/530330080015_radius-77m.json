@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6162419,
+                        "lng":-122.3529967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6175153303,
+                              "lng":-122.3516878697
+                        },
+                        "southwest":{
+                              "lat":47.6148173697,
+                              "lng":-122.3543858303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107056712198401068597\">Mark Konings<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEARglvHl2H38xGJ_brxbJTPpOdyFiYAF1NYrfDFjweGjV_9-F47dMPVH2SMycqhy4Hrl-RNHB9T-sGLmMZsGkGV9AhWHJzw9OrGn4gLx_IGB7257FwG3-f915sN9CWmIbluJc2qjL2Fz4gNd0mat-RXxhvWAj-VqMKQIlLizP4FuOyq",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe6Js1k8VkFQRssmkLUQeQYY",
+            "plus_code":{
+                  "compound_code":"JJ8W+FR Seattle, WA, USA",
+                  "global_code":"84VVJJ8W+FR"
+            },
+            "price_level":1,
+            "rating":3.1,
+            "reference":"ChIJe6Js1k8VkFQRssmkLUQeQYY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"2822 Western Avenue, Seattle",
+            "CBG":530330080015,
+            "Radius":77.2074428962
+      }
+]

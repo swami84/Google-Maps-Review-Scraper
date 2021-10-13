@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2012863,
+                        "lng":-118.4790069
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2026284803,
+                              "lng":-118.4776580197
+                        },
+                        "southwest":{
+                              "lat":34.1999305197,
+                              "lng":-118.4803559803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barbacoa estilo Jerez (fri,sat,sun)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ0xPhmA6XwoARTmnlF4HkolM",
+            "plus_code":{
+                  "compound_code":"6G2C+G9 Lake Balboa, Los Angeles, CA, USA",
+                  "global_code":"85636G2C+G9"
+            },
+            "rating":5,
+            "reference":"ChIJ0xPhmA6XwoARTmnlF4HkolM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"Sherman Way \/ Gloria, Lake Balboa",
+            "CBG":60371276041,
+            "Radius":371.910931975
+      }
+]

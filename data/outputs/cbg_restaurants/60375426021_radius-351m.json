@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8973884,
+                        "lng":-118.2221374
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8986157803,
+                              "lng":-118.2207846197
+                        },
+                        "southwest":{
+                              "lat":33.8959178197,
+                              "lng":-118.2234825803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Eggroll King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110620962668606872247\">andres macias<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-bjv4zhMMSnliL-inMTTS2nwGDJ_yTgYhKOEy04c3kPPehbs9PMsIhcv83aJ2Mw9BsJcniax-4YEnbURKRf3mB8ADyApWtL-QNr8ipCpxqz2DQDzRtOyqxXtT0ntmtLtCkOc6Ab_b0x8Z0oEatTq-ayXaOOx4OLrn9wvqVxVnmgWR",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJJ-s48m7LwoARtyC7VuCsaG8",
+            "plus_code":{
+                  "compound_code":"VQWH+X4 Compton, CA, USA",
+                  "global_code":"8553VQWH+X4"
+            },
+            "rating":4.2,
+            "reference":"ChIJJ-s48m7LwoARtyC7VuCsaG8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":274,
+            "vicinity":"219 East Compton Boulevard, Compton",
+            "price_level":null,
+            "CBG":60375426021,
+            "Radius":350.6659527835
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.898294,
+                        "lng":-118.221002
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8996305803,
+                              "lng":-118.2197442197
+                        },
+                        "southwest":{
+                              "lat":33.8969326197,
+                              "lng":-118.2224421803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tam's Burgers #23",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115309221504495468664\">jwayne2k<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1onfXDuPJNzEwQgLEmOh6t2YzuyqrAtdkLjcK9Gy2_9gsuWhbmUEx0QrD6vnWa1qEQtNJ-i-l5wkQbReWiPtJUuxd2nlDvJi2AkDcnTc3mLEfQesJZW3Ej-ZvrUdo3izFxjLe4f6qwBP79n1xaVaHErHrGGGuqRiCeU1j8yZP2fby",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJCf3oM27LwoARPkf1Pw9htGE",
+            "plus_code":{
+                  "compound_code":"VQXH+8H Compton, CA, USA",
+                  "global_code":"8553VQXH+8H"
+            },
+            "rating":4.1,
+            "reference":"ChIJCf3oM27LwoARPkf1Pw9htGE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":685,
+            "vicinity":"2403 303 North Alameda Street, Compton",
+            "price_level":1.0,
+            "CBG":60375426021,
+            "Radius":350.6659527835
+      }
+]

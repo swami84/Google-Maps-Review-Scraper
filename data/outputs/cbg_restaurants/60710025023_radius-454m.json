@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0811407,
+                        "lng":-117.4624371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0824896803,
+                              "lng":-117.4610881197
+                        },
+                        "southwest":{
+                              "lat":34.0797917197,
+                              "lng":-117.4637860803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0442 \"\u041f\u043b\u0430\u0436\u043e\u0432\u0435\u0442\u0435\"",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114407191589277678449\">Angel Marquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDn0iWIgl6sn5ehb9XX0Ke8iZiizcObBHfIw36fYdSO1rxJJGbnyfoiB8DQOW7yArjqdcT_pMOjzoOFWkK7havbyq3-_08ZEAPyoKUb9ST9HzS6fYP3ZlzC3tuFbtzMPqVcId1W0IWV_2ptQzBPr01KqGqhXtlUts2covHj1EqA6jCu",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJ_djVbGRLw4ARUyXqkE-uEL4",
+            "plus_code":{
+                  "compound_code":"3GJQ+F2 Fontana, CA, USA",
+                  "global_code":"85643GJQ+F2"
+            },
+            "rating":3.9,
+            "reference":"ChIJ_djVbGRLw4ARUyXqkE-uEL4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"Fontana Avenue, Fontana",
+            "CBG":60710025023,
+            "Radius":453.93320912
+      }
+]

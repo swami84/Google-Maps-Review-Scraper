@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5094756,
+                        "lng":-86.8930035
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5108832803,
+                              "lng":-86.8916209697
+                        },
+                        "southwest":{
+                              "lat":33.5081853197,
+                              "lng":-86.8943189303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Green Acres Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110379746900720064623\">fat mama&#39;s lunchbox<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC9xfCVmmGUVrFAHU49vUZvArXqfWU0441VZvn7IKLM7FUMe81_i1G2Ti332vhS7Apvj-5gvfbxhHklcKHLHVl_6rG6mkKD-vZvgaw9c8aRK_Jdwt7TY5ouAfNjDCKuEA_7ShyeomSD738zxYWzja2h2jDhOGRg3kjuUmm8mQBQaIGR",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJc5BvhfIdiYgRKyvhVFhWRak",
+            "plus_code":{
+                  "compound_code":"G454+QQ Ensley, Birmingham, AL, USA",
+                  "global_code":"865MG454+QQ"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJc5BvhfIdiYgRKyvhVFhWRak",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":782,
+            "vicinity":"913 20th Street Ensley, Ensley",
+            "CBG":10730032002,
+            "Radius":389.3349641116
+      }
+]

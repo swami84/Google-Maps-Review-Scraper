@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7809632,
+                        "lng":-118.192183
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7822859803,
+                              "lng":-118.1909378197
+                        },
+                        "southwest":{
+                              "lat":33.7795880197,
+                              "lng":-118.1936357803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Compadres",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108662646350285410146\">Christopher Nguyen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAEuVMrvyREyahpUFrmN5wie2TZ8x4vx1VEMtQ1B9yypPnPm29QOvZFEWuxFxTfLcO5P5vx106QL8URIvnSD9MLQqdAldq9vhhqFE0F3Ra2sBWE8OjscV53dH9_2ermnvyP53SJj3kSH4SGOKZwMXcdeHlHU4Bvu8ygD3Dom2MjWkF3",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJExjBDkUx3YARgr5dB81X870",
+            "plus_code":{
+                  "compound_code":"QRJ5+94 Long Beach, CA, USA",
+                  "global_code":"8553QRJ5+94"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJExjBDkUx3YARgr5dB81X870",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1141,
+            "vicinity":"1144 Pine Avenue, Long Beach",
+            "CBG":60375758031,
+            "Radius":178.1240425241
+      }
+]

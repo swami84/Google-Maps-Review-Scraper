@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0046909,
+                        "lng":-77.091614
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0059258303,
+                              "lng":-77.0902540697
+                        },
+                        "southwest":{
+                              "lat":39.0032278697,
+                              "lng":-77.0929520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Warrior Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108575574014845199832\">Dereje Hailu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHOHUbvfdXoCkJj0yIypXPmPDfj0pyEmICB-EuPn_BQKmeeXNwJ8zL5hUGO4HFPqSRNZW2mO2fsdgqm4pvufodg35zl_lUrau9-lEgPFnoJ3wRYRAJM_LuDeqAhCbuQ9fCiWMHTBEVS8W_4oVheiL1FXX0dWTr5IvwRt9-vDe9l1l8",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJD6eUqFrJt4kR_EZgIY4P5qg",
+            "plus_code":{
+                  "compound_code":"2W35+V9 Bethesda, MD, USA",
+                  "global_code":"87F42W35+V9"
+            },
+            "rating":4.4,
+            "reference":"ChIJD6eUqFrJt4kR_EZgIY4P5qg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":61,
+            "vicinity":"Bethesda",
+            "CBG":240317044041,
+            "Radius":579.4622546537
+      }
+]

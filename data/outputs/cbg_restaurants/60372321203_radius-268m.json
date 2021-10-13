@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9994391,
+                        "lng":-118.2831408
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0007887303,
+                              "lng":-118.2817414697
+                        },
+                        "southwest":{
+                              "lat":33.9980907697,
+                              "lng":-118.2844394303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Solomon's Seafoods Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJxRXpvsfJwoAR5qMBp0F9GvI",
+            "plus_code":{
+                  "compound_code":"XPX8+QP Los Angeles, CA, USA",
+                  "global_code":"8553XPX8+QP"
+            },
+            "rating":4,
+            "reference":"ChIJxRXpvsfJwoAR5qMBp0F9GvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4805 South Figueroa Street, Los Angeles",
+            "CBG":60372321203,
+            "Radius":268.391217355
+      }
+]

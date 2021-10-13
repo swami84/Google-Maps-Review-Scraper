@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1469954,
+                        "lng":-80.2036426
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1485865303,
+                              "lng":-80.2021328197
+                        },
+                        "southwest":{
+                              "lat":26.1458885697,
+                              "lng":-80.2048307803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Happy Wok",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVNAMIl9p6ezvoTSzFmpkVkHvvqjD0YYaoEPS18xsV0NdgJ_1bqmVrnifYwdvmklDIKryvNeT-tIrIqDCLmagK1PVurK-2I-6iT2A9ED1AKc-ovKCamAd81znV-W-6OvNm50Fs5cfBTu1iviKDYwuQkp6Pbya7OACmdTmF22D_d_W5",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJc-Yn4toG2YgRxWTR0KcBHy4",
+            "plus_code":{
+                  "compound_code":"4QWW+QG Lauderhill, FL, USA",
+                  "global_code":"76RX4QWW+QG"
+            },
+            "price_level":1.0,
+            "rating":3.5,
+            "reference":"ChIJc-Yn4toG2YgRxWTR0KcBHy4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":305.0,
+            "vicinity":"1615n North State Road 7, Lauderhill",
+            "CBG":120110604032,
+            "Radius":315.8338126335
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1472621,
+                        "lng":-80.2035809
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1487332303,
+                              "lng":-80.2020941697
+                        },
+                        "southwest":{
+                              "lat":26.1460352697,
+                              "lng":-80.2047921303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"sunshine bistros carribean food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJI2b7RCYH2YgR8J8EsKpi1NM",
+            "plus_code":{
+                  "compound_code":"4QWW+WH Lauderhill, FL, USA",
+                  "global_code":"76RX4QWW+WH"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJI2b7RCYH2YgR8J8EsKpi1NM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1619 North State Road 7, Lauderhill",
+            "CBG":120110604032,
+            "Radius":315.8338126335
+      }
+]

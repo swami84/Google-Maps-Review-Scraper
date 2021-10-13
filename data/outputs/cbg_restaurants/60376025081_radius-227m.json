@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9161611,
+                        "lng":-118.342391
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9176427303,
+                              "lng":-118.3411441197
+                        },
+                        "southwest":{
+                              "lat":33.9149447697,
+                              "lng":-118.3438420803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110920407837888438502\">Burger King<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDAu1WEq01ZQ4H4A78syAe1TGdEtUsUhkR8tdFxCU59RubJ6n_m50LOOF92IHCBS9z0kqDsR9OGBVeTKlldjJai993Nen6j2QVg8_ycmE1juKrBBm_JA8-50pqYu1nMpKXoXnUq7roxwVxwcJHpdEIwWldqilAhDfSBZplPSwpGicBE",
+                        "width":1400
+                  }
+            ],
+            "place_id":"ChIJOdDlXdS1woARg5h_EtF7dqA",
+            "plus_code":{
+                  "compound_code":"WM85+F2 Hawthorne, CA, USA",
+                  "global_code":"8553WM85+F2"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJOdDlXdS1woARg5h_EtF7dqA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":603,
+            "vicinity":"3930 West El Segundo Boulevard, Hawthorne",
+            "CBG":60376025081,
+            "Radius":227.025149402
+      }
+]

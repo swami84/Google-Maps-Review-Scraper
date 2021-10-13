@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.9065341,
+                        "lng":-87.6868327
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9078998803,
+                              "lng":-87.6855898697
+                        },
+                        "southwest":{
+                              "lat":41.9052019197,
+                              "lng":-87.6882878303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hash",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102844617952008083615\">Hash<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDwT7McP0fyl_73HqQzZe2EIP5KtUm4q0bSLxvVVN-DYMtXNsOq6WgcoMCCZ0TQvUbSmMdOVEq-ZRtF5e7MgBjZ62bmCOdDLNV_zAl3zKyOM4xPAi8ds8hszcYf7PV8fmNqlvn8tde1K6QziejH1WKA6YV_yAUflOXt5WaI7V3NRSM2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJw05eprrSD4gRUUxbWZXqITA",
+            "plus_code":{
+                  "compound_code":"W847+J7 Chicago, IL, USA",
+                  "global_code":"86HJW847+J7"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJw05eprrSD4gRUUxbWZXqITA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":561,
+            "vicinity":"1357 North Western Avenue, Chicago",
+            "CBG":170312412002,
+            "Radius":228.6485745341
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0232259,
+                        "lng":-87.9269199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0245591803,
+                              "lng":-87.9255712697
+                        },
+                        "southwest":{
+                              "lat":43.0218612197,
+                              "lng":-87.9282692303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Compa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1445,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108135282437853584442\">Tacos El Compa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBX9SuMMiNlfOMZrrpReetEZ15G5JvZD4Jt_QuAKqSpWBZVHc5UuC7p0g0IBjpmSwiI-yhonImtZYjSoC9NyBHGeeIfz0hLgqrufOkrHydBGiWn8Mq1OYC7KHXXvDFKyThB4-Qnlb4jEOPElIkarZ8trORKWJj9gkgcrxQ44IKDj1Pm",
+                        "width":1078
+                  }
+            ],
+            "place_id":"ChIJO7zrxikZBYgRZgS8TD0fZIw",
+            "plus_code":{
+                  "compound_code":"23FF+76 Milwaukee, WI, USA",
+                  "global_code":"86MJ23FF+76"
+            },
+            "reference":"ChIJO7zrxikZBYgRZgS8TD0fZIw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"12th and National, Milwaukee",
+            "CBG":550790157001,
+            "Radius":232.250888056
+      }
+]

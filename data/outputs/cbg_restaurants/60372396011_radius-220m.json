@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9729021,
+                        "lng":-118.2738066
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9742897803,
+                              "lng":-118.2724578697
+                        },
+                        "southwest":{
+                              "lat":33.9715918197,
+                              "lng":-118.2751558303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Leo\u00b4s Tacos Inc.",
+            "place_id":"ChIJAUBuerbJwoAR9A2NiiJ3YgY",
+            "plus_code":{
+                  "compound_code":"XPFG+5F Los Angeles, CA, USA",
+                  "global_code":"8553XPFG+5F"
+            },
+            "reference":"ChIJAUBuerbJwoAR9A2NiiJ3YgY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":60372396011,
+            "Radius":220.4321265965
+      }
+]

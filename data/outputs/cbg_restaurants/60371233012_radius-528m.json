@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2018343,
+                        "lng":-118.4048748
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2030799803,
+                              "lng":-118.4034619697
+                        },
+                        "southwest":{
+                              "lat":34.2003820197,
+                              "lng":-118.4061599303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cilantro Mexican Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116717439276016162912\">Santiago Perez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAmE-na8EzWCNDh-13itBmkrJvCZBhWQiIKGaIZMWFNsOBeEhBJSD-sDWVQ5dQ8preQQt3bZDnn1lC39OoRjaodylpSFGaKxHalWLnyUY_-lQh8tzHkXeXXBUsrm_7l011Hjq9B4d6RleXjrNhBV_9NCub4VwuBvD-5JZpWf17R5-1N",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJX6B6AJCWwoARHeVI_8C2s5k",
+            "plus_code":{
+                  "compound_code":"6H2W+P3 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85636H2W+P3"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJX6B6AJCWwoARHeVI_8C2s5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1173,
+            "vicinity":"7214 Whitsett Avenue, North Hollywood",
+            "CBG":60371233012,
+            "Radius":527.5353626461
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2062357,
+                        "lng":-118.397058
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2075034803,
+                              "lng":-118.3955732697
+                        },
+                        "southwest":{
+                              "lat":34.2048055197,
+                              "lng":-118.3982712303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cielito Lindo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111744676859115457132\">Frank Orozco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQ0GwO6Fy1RFJbxt9YJ6sTHpJZZWu4q_OVCsDk-SqeGLHUbz-BAHm4ZzZGNt0mC7fJ2NdFB4nz4t69wXiMz8fQxzvybyIwScfHpZjGhzIKdTvAiq5SnAf31a9864uOTTcIlxbNSVZGh2Wlzss6lT_J7GlDT84SOOv07qSQzDrp_8rn",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJDzLnXpyWwoARcufdEzca7XY",
+            "plus_code":{
+                  "compound_code":"6J43+F5 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85636J43+F5"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJDzLnXpyWwoARcufdEzca7XY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":342,
+            "vicinity":"7453 Laurel Canyon Boulevard, North Hollywood",
+            "CBG":60371233012,
+            "Radius":527.5353626461
+      }
+]

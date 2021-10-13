@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2285585,
+                        "lng":-118.4650548
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2298582303,
+                              "lng":-118.4637153697
+                        },
+                        "southwest":{
+                              "lat":34.2271602697,
+                              "lng":-118.4664133303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Guadalajara",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101303825936033299186\">Miguel Onate<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED1gdKuE_tzAhOZY2IcY7W1ZtnBE1Ljytiy1ItYeqTTuDh8Ilx39UBg-5W5n27xDk6G3Whi4bdOa8JWhlqE0J2ZZubEDQRfjOefyWVUCoQjhSO9IJtlAZ00evKP--ruMOiGnLEHlR678wiJ-PaeqBwcjHjSq_HKSvGYafKI1e8Fx9z_",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJGe10SLiQwoAR7duD4Lt12NE",
+            "plus_code":{
+                  "compound_code":"6GHM+CX North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GHM+CX"
+            },
+            "rating":4.5,
+            "reference":"ChIJGe10SLiQwoAR7duD4Lt12NE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":55,
+            "vicinity":"15251 Parthenia Street, North Hills",
+            "CBG":60371175201,
+            "Radius":319.993988001
+      }
+]

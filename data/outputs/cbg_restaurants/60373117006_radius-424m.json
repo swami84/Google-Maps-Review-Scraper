@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1599525,
+                        "lng":-118.3234848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1612293803,
+                              "lng":-118.3221190197
+                        },
+                        "southwest":{
+                              "lat":34.1585314197,
+                              "lng":-118.3248169803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sotta",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":893,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104634991804406361803\">Sotta<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECplog_QEJ2-SiDphbdv_tkeaCxVl8Gr4rzK512dxP6w477movks5oK_95UuUCQctU1INQ_bflbktuqmBHqrQD7EkDolPcye8Vtf_ddlYGFCU13_NYskoRtIuu5DdcOUzeF4CIrdEKReE0WGkLejmlL7iV_ZjqQ_B_CqE7liXlmSBeM",
+                        "width":1340
+                  }
+            ],
+            "place_id":"ChIJa53kr8K_woARFIQv7Qx7hvQ",
+            "plus_code":{
+                  "compound_code":"5M5G+XJ Burbank, CA, USA",
+                  "global_code":"85635M5G+XJ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJa53kr8K_woARFIQv7Qx7hvQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":392,
+            "vicinity":"2009 West Alameda Avenue, Burbank",
+            "CBG":60373117006,
+            "Radius":424.3857149004
+      }
+]

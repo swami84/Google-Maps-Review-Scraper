@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1821435,
+                        "lng":-118.1691061
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1836074803,
+                              "lng":-118.1678182697
+                        },
+                        "southwest":{
+                              "lat":34.1809095197,
+                              "lng":-118.1705162303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106383758624815590040\">MOODY360TV<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECUnuGRoXICoJbRLeqgS4gW8AUXtrvyzn8o7FRLGsWmfGS6hEODJVsHN98FEQvEzIUcx0HTO0_z-uZiJsUcuSoLWxMxdK3uyF2uuSNlzMmFxvSbN9KvYY1IGMJBmzKwLRs2EvSUq7NtZYzitIeoGrRg8gIiYWC2Zdm5yww_SCxJWk5p",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJYYaQFlvCwoARTGU42Vtgdfg",
+            "plus_code":{
+                  "compound_code":"5RJJ+V9 Altadena, CA, USA",
+                  "global_code":"85635RJJ+V9"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJYYaQFlvCwoARTGU42Vtgdfg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1154,
+            "vicinity":"2125 North Windsor Avenue, Altadena",
+            "CBG":60374609004,
+            "Radius":573.9438823476
+      }
+]

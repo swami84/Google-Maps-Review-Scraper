@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0241667,
+                        "lng":-117.7322222
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0255256803,
+                              "lng":-117.7307969697
+                        },
+                        "southwest":{
+                              "lat":34.0228277197,
+                              "lng":-117.7334949303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Monicas Mexican Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100071147230244746007\">Maria Contreras<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBa7_h4-oI4TNe1WvEAvby0ldUIaBMmAHy_yjowkEH8RacaZpuCLMSAxZ1Z7RL8CtQK4TkTbzalaumq5n6PC-6ey4l1wyBrr65hu11a8t8s-lNoRgTs7lWuL1CcXGxXdm2CuaJ2AbaGdC5ylVuvmubaavBIWkihR7GHY9LLhsSJezPq",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9W2L-oMyw4ARIwMQM9XLlYA",
+            "plus_code":{
+                  "compound_code":"27F9+M4 Pomona, CA, USA",
+                  "global_code":"856427F9+M4"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ9W2L-oMyw4ARIwMQM9XLlYA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":804,
+            "vicinity":"2727 South Reservoir Street, Pomona",
+            "CBG":60374029042,
+            "Radius":680.5705083199
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0236877,
+                        "lng":-117.7320025
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0252021303,
+                              "lng":-117.7307268697
+                        },
+                        "southwest":{
+                              "lat":34.0225041697,
+                              "lng":-117.7334248303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2184,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113161110540628359563\">Donovan Fung<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEADW5eXRDJLN1_6zV0RAFe_u96OKo_2WvbzLwhPNbqR9AtDhWZ6s3Rgfbm2k9z6ONb8NepltDKrqEMa0wwf_595e3ACTBjfuwfHKEnwJbT7mr0Vi1zhe61fK2d4BQA_ZAvom85p-tiP6PPvqu_eACrWjvvS0CRzkRkUMPgA8nSG1M8V",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJqwTuCYQyw4AR5wCVPy9zl5Q",
+            "plus_code":{
+                  "compound_code":"27F9+F5 Pomona, CA, USA",
+                  "global_code":"856427F9+F5"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJqwTuCYQyw4AR5wCVPy9zl5Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":840,
+            "vicinity":"2775 South Reservoir Street, Pomona",
+            "CBG":60374029042,
+            "Radius":680.5705083199
+      }
+]

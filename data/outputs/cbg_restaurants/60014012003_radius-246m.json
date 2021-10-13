@@ -1,0 +1,96 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8260243,
+                        "lng":-122.2572373
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8274242303,
+                              "lng":-122.2560178197
+                        },
+                        "southwest":{
+                              "lat":37.8247262697,
+                              "lng":-122.2587157803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"broadwayburrito",
+            "place_id":"ChIJ8b4aaP59hYARv1F1ouKTgzc",
+            "plus_code":{
+                  "compound_code":"RPGV+C4 Oakland, CA, USA",
+                  "global_code":"849VRPGV+C4"
+            },
+            "reference":"ChIJ8b4aaP59hYARv1F1ouKTgzc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3810 Broadway, Oakland",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60014012003,
+            "Radius":245.5236130301
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8260243,
+                        "lng":-122.2572373
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8274242303,
+                              "lng":-122.2560178197
+                        },
+                        "southwest":{
+                              "lat":37.8247262697,
+                              "lng":-122.2587157803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ali Baba Fast Food",
+            "place_id":"ChIJx0S6EdR9hYARz4pqTIMiegQ",
+            "plus_code":{
+                  "compound_code":"RPGV+C4 Oakland, CA, USA",
+                  "global_code":"849VRPGV+C4"
+            },
+            "reference":"ChIJx0S6EdR9hYARz4pqTIMiegQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3810 Broadway, Oakland",
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101408599427719381927\">mcLa twofivesix<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDmxqbA_SQC2gDjE6-h23df4cKzUnyfD6df5oAv1_GFgXfFI_RgpWswzy31u9b5B4VBpTe0wtN-JY-9RiCmSg_nvJ8uz3Fzp2QuP6U17qZOcxVWPu7bmZlRroNPAftSNhtS_wt84D0hELxatizfDsEnP0uwr6UYql1khIfDSFnQpwlg",
+                        "width":1080
+                  }
+            ],
+            "rating":5.0,
+            "user_ratings_total":1.0,
+            "CBG":60014012003,
+            "Radius":245.5236130301
+      }
+]

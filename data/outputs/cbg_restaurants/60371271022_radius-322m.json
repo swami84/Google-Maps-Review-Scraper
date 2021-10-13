@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2014204,
+                        "lng":-118.4471025
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2027331803,
+                              "lng":-118.4458788197
+                        },
+                        "southwest":{
+                              "lat":34.2000352197,
+                              "lng":-118.4485767803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Big Mama's & Papa's Pizzeria - Van Nuys",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":541,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108527886390220499920\">Big Mama&#39;s &amp; Papa&#39;s Pizzeria - Van Nuys<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBduWIiiFJXqRQ7ij29YXCvtjaGiMBTlfi-iTmSExkNGzcc4JwFpwb9DCkj5H0Muwg1lOnaoiBq8JK5OPRtBgsIlNpHgEytH5FDBDjXKO8usB-ych7RCNCkNOcyscrTZ8lIF8zTGjrG1gsbw9xQEDRE7_wSaongBGCwqk_5ePc4icBL",
+                        "width":639
+                  }
+            ],
+            "place_id":"ChIJeXbpdCKXwoARYRvKhcVkeoc",
+            "plus_code":{
+                  "compound_code":"6H23+H5 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636H23+H5"
+            },
+            "rating":3.4,
+            "reference":"ChIJeXbpdCKXwoARYRvKhcVkeoc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"14419 Sherman Way, Van Nuys",
+            "price_level":null,
+            "CBG":60371271022,
+            "Radius":321.725616278
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.201425,
+                        "lng":-118.4472361
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2027354803,
+                              "lng":-118.4459456197
+                        },
+                        "southwest":{
+                              "lat":34.2000375197,
+                              "lng":-118.4486435803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yum Yum Donuts",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100770355058722629221\">Gina Garcia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC8qRPQZanoxutwptnW4_xwCVXYEAc86O59HlAdrJZ-Ag1Xio7Aa8ko-DbaThykY0Yyt3UEjy-ZgTpNC9pek60-71xtlKSDvJUHo9QxCT4p7Bikc8ks-ohkmAFto4Eftv-O81vbg8qpgFS6ow1OY6G06RlBotqSObFtUyZJxulQd-CU",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJOzBrdCKXwoARXxEXHHdgV1w",
+            "plus_code":{
+                  "compound_code":"6H23+H4 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636H23+H4"
+            },
+            "rating":4.5,
+            "reference":"ChIJOzBrdCKXwoARXxEXHHdgV1w",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":377,
+            "vicinity":"14425 Sherman Way, Van Nuys",
+            "price_level":1.0,
+            "CBG":60371271022,
+            "Radius":321.725616278
+      }
+]

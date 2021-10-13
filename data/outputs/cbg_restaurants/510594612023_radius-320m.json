@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8531061,
+                        "lng":-77.3404353
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8545396803,
+                              "lng":-77.3390343697
+                        },
+                        "southwest":{
+                              "lat":38.8518417197,
+                              "lng":-77.3417323303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Angelico Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111544496618755285647\">Elshad R Mammadzada<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBlmE1qw58W8wIMnpNvbVCMBivkt-iIrLf9Xvm9Bux4BmHUWc1DpETZHL7wNa-Lh1rxgXaNO159ej4ljC3tixzUCek08J4wBFtgGtXJtrbQAVkNdY388lxfOWDtZ6VgswZlmlt8hbsKMB03ghoIQ22eRN_S-jrMROx5abrUWavXtnpX",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJhXAERuhOtokRpe6lHs_Z13Y",
+            "plus_code":{
+                  "compound_code":"VM35+6R Fairfax, VA, USA",
+                  "global_code":"87C4VM35+6R"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJhXAERuhOtokRpe6lHs_Z13Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"11391 Government Center Parkway, Fairfax",
+            "CBG":510594612023,
+            "Radius":320.1888971095
+      }
+]

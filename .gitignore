@@ -8,4 +8,5 @@ geckodriver.log
 !notebooks
 notebooks/*
 !notebooks/Review Scraper.ipynb
-data/outputs/
+data/outputs/reviews/
+data/outputs/review_files/

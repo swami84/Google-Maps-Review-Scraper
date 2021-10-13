@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.94563,
+                        "lng":-118.355845
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9468845803,
+                              "lng":-118.3544965197
+                        },
+                        "southwest":{
+                              "lat":33.9441866197,
+                              "lng":-118.3571944803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Sirena Azul",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2992,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108617173832324461298\">Speeding in progress<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAKLIvORcAxLQzWmr8_5eqRhGt8WbMpITdODEAxntKdJ5XmQTyTIHjJHR-x1sOD4q6CUaMiSxvTnAGwDdQlwUUnjmPAxCUi5Qfc1uCTcn_7IzxtIH4gkXpuffLnoSk8CfzZD3DOm29dKjPQRmi6s-tng7bz8z1zXoO4uNUJ-L13mcU5",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ6zetT_C2woARznaOlIKa-pY",
+            "plus_code":{
+                  "compound_code":"WJWV+7M Inglewood, CA, USA",
+                  "global_code":"8553WJWV+7M"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ6zetT_C2woARznaOlIKa-pY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":152,
+            "vicinity":"4545 West Century Boulevard, Inglewood",
+            "CBG":60376012022,
+            "Radius":278.651401892
+      }
+]

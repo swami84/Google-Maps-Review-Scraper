@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5451914,
+                        "lng":-112.0430854
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5464941303,
+                              "lng":-112.0416929197
+                        },
+                        "southwest":{
+                              "lat":33.5437961697,
+                              "lng":-112.0443908803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Aunt Chiladas Squaw Peak",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117530544190644423586\">Aunt Chiladas Squaw Peak<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECk-kx3TARApg0Ab8UnTfWJP6dsQCtyO345z2JT5zFay2cH5NfxxNra4L1c4DGxfwoJ1Bn-GDhA5AuHCtXdeQ444Rlrfq8EnP4la7tVO2BGkWCUmpca3nZ6RZWBsIXmQKZAt9umPsV8imzyj6HrSQNmny44hlL3txqgd2NTvH_wnMej",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJaxeIn6hyK4cRYSgYbO_hU6g",
+            "plus_code":{
+                  "compound_code":"GXW4+3Q Phoenix, AZ, USA",
+                  "global_code":"8559GXW4+3Q"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJaxeIn6hyK4cRYSgYbO_hU6g",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2840,
+            "vicinity":"7330 North Dreamy Draw Drive, Phoenix",
+            "CBG":40131051024,
+            "Radius":418.1642115316
+      }
+]

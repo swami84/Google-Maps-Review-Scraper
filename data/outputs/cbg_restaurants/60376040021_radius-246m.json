@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8785057,
+                        "lng":-118.3548176
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8798545803,
+                              "lng":-118.3534306697
+                        },
+                        "southwest":{
+                              "lat":33.8771566197,
+                              "lng":-118.3561286303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Deeonna's and kariah's Unicorn store",
+            "place_id":"ChIJT6OVHrq1woARCsKICp7q7kw",
+            "plus_code":{
+                  "compound_code":"VJHW+C3 Lawndale, CA, USA",
+                  "global_code":"8553VJHW+C3"
+            },
+            "reference":"ChIJT6OVHrq1woARCsKICp7q7kw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"16798 Rogers Ave, Lawndale",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60376040021,
+            "Radius":245.9963633314
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8772367,
+                        "lng":-118.3529234
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8787438803,
+                              "lng":-118.3515739197
+                        },
+                        "southwest":{
+                              "lat":33.8760459197,
+                              "lng":-118.3542718803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "place_id":"ChIJr-_HGla0woARhg32wPZaNPs",
+            "plus_code":{
+                  "compound_code":"VJGW+VR Lawndale, CA, USA",
+                  "global_code":"8553VJGW+VR"
+            },
+            "reference":"ChIJr-_HGla0woARhg32wPZaNPs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"16901 Hawthorne Boulevard, Lawndale",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118131938628019996837\">Sabrina Cattaneo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAL7r2UeWo7wDjXm_Dcm0iULaJZHG7izxM-bPwNLRvpXBGs6EhcP9X7EaDcvF_xE7MIm0yBwYrQNCGjEbpEE54Q6Lkn-HT5PVBcYqdZaKHMgYkYg7pxzQLW4rp61CNBlSW_-WndX6fpDPQd2oYT5g8hpIb1XsWEVpwNuOvyS5jYbPj_",
+                        "width":4608
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.0,
+            "user_ratings_total":442.0,
+            "CBG":60376040021,
+            "Radius":245.9963633314
+      }
+]

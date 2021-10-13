@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8704071,
+                        "lng":-118.2013481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8717645803,
+                              "lng":-118.2000959197
+                        },
+                        "southwest":{
+                              "lat":33.8690666197,
+                              "lng":-118.2027938803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Burger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1717,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108079634353249123960\">SSGL - Split Screen Gaming League<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDcdAz8eF5d-8L8si3V__j5cDdSchgkxynRxyOtmO5qlmRiHwmqsm59CGugPxr_xpPvVf7xrh5ASXco9mlLPq6NEdlc43B_sfg-1-5nUs_jl_Ssv_QcRwjMXiKTj84IZxnOVVyeq4QqRb8P-01nzoKn25-52V29pIEpnH9YEuUcBG4N",
+                        "width":3052
+                  }
+            ],
+            "place_id":"ChIJvbOwYFQz3YARIIVKpfTKcFU",
+            "plus_code":{
+                  "compound_code":"VQCX+5F Long Beach, CA, USA",
+                  "global_code":"8553VQCX+5F"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJvbOwYFQz3YARIIVKpfTKcFU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":462,
+            "vicinity":"6380 Long Beach Boulevard, Long Beach",
+            "CBG":60375704021,
+            "Radius":489.3309638303
+      }
+]

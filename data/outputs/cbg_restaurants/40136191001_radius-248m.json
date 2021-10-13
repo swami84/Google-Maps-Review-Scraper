@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.641977,
+                        "lng":-112.064971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.6433256803,
+                              "lng":-112.0637082697
+                        },
+                        "southwest":{
+                              "lat":33.6406277197,
+                              "lng":-112.0664062303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110160956885526247685\">Tom Birk<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDXTeJ6tzvC0S31FAU25ZV4MA5B8NuSjIlTTP_ouAQI0Dc8W2hf46Z2cTqj5W5nFN2tLiaGZ3pUAQkl7zKrOd5TeQ-PlqvebqIEDO-V9n_75Gldydr14DXjcU0ikpOszx3C3UAvN3zae8n5-KQSb7QK32n-FejBoMrfCZtockLREe9i",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJRRIkIDxuK4cRqvlQNfYUMvc",
+            "plus_code":{
+                  "compound_code":"JWRP+Q2 Phoenix, AZ, USA",
+                  "global_code":"8559JWRP+Q2"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJRRIkIDxuK4cRqvlQNfYUMvc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":502,
+            "vicinity":"17045 North 7th Street, Phoenix",
+            "CBG":40136191001,
+            "Radius":248.2158468754
+      }
+]

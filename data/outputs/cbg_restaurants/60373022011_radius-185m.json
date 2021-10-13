@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.146095,
+                        "lng":-118.2457568
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1475683303,
+                              "lng":-118.2444138197
+                        },
+                        "southwest":{
+                              "lat":34.1448703697,
+                              "lng":-118.2471117803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Mario's Italian Deli & Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110035472792897084710\">Thomas Clark<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED95UbPSUdOVjauRWL6r7C25OiHofc69eFjSgYm3iTTtHU6xcSPYFnoe-6zbm4QemGvKVhPUJbiI2mrUa2xy5OZmJuFmhHXPRwRRETE1d8vcyLjK7PeFTAdCb54aHeyz0z_K29mXOhyQO4_imuvqWuOdw0DXeND2I9lCPSRTdDuWnDL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ3atC2wbBwoARuFCpDBv0B4g",
+            "plus_code":{
+                  "compound_code":"4QW3+CM Glendale, CA, USA",
+                  "global_code":"85634QW3+CM"
+            },
+            "rating":4.7,
+            "reference":"ChIJ3atC2wbBwoARuFCpDBv0B4g",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":798,
+            "vicinity":"740 East Broadway, Glendale",
+            "price_level":null,
+            "CBG":60373022011,
+            "Radius":184.8493793397
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1463915,
+                        "lng":-118.2434163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1476784803,
+                              "lng":-118.2420680197
+                        },
+                        "southwest":{
+                              "lat":34.1449805197,
+                              "lng":-118.2447659803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rafi's Village",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116679633574145354042\">Rafik Ahangari<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECq8KM9LtlmMUHxZxiexrg2YFIuVqUCuP2abdXsEIq04bSPhCOereT1vDt4cfNtBMX7X124FMMigiFSa_AcRNf_CTle7OLNr5AgTMVHICrwmxRke5sQsK_TWNDhP6jyIS5zpMQgUR2961oJdrte-woqPeQAZu_XQZ97OeHPvXjx1Ydo",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJIcckXSLBwoARHEGqQXlYsKI",
+            "plus_code":{
+                  "compound_code":"4QW4+HJ Glendale, CA, USA",
+                  "global_code":"85634QW4+HJ"
+            },
+            "rating":4.9,
+            "reference":"ChIJIcckXSLBwoARHEGqQXlYsKI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"921 East Broadway unit b, Glendale",
+            "price_level":1.0,
+            "CBG":60373022011,
+            "Radius":184.8493793397
+      }
+]

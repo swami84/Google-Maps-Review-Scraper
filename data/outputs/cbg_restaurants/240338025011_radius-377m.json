@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8661384,
+                        "lng":-76.9431535
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8676032303,
+                              "lng":-76.9418986697
+                        },
+                        "southwest":{
+                              "lat":38.8649052697,
+                              "lng":-76.9445966303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Johnny Boy Carryout",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114456565012099629146\">swagg life<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBWNTFG5v-aZ12io5JwRErcnlzIsskGL9-N2ac1K_7139gAfpOKA6sdnOzjFrpSZwVQoRJzvITcmrL9QxTeLYoKiL7ydUaI-r_VpbFjzNm9GNSxQQCh08ep4v3Yy6774GnIUvoStkylcXRiAI3sNF1ZDp50CkSZuMEeI5wxZ6A4Q9cL",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJHQGCOBi5t4kR4rYC_zpyjko",
+            "plus_code":{
+                  "compound_code":"V384+FP Capitol Heights, MD, USA",
+                  "global_code":"87C5V384+FP"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJHQGCOBi5t4kR4rYC_zpyjko",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":850,
+            "vicinity":"4125 Southern Avenue Southeast, Capitol Heights",
+            "CBG":240338025011,
+            "Radius":376.8621718439
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.866113,
+                        "lng":-76.94307
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8675905303,
+                              "lng":-76.9418727697
+                        },
+                        "southwest":{
+                              "lat":38.8648925697,
+                              "lng":-76.9445707303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"New China Carryout",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109613233567053007629\">Igor at skvltd.media<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDuSID0qWABRWUzAzuoQha9XtTQq4wsBaKGBPaBGngqrElgVfYEOF1Hy8rOBE2UAg1e2o-yLGjggcn9W6X-RfCYjVd8yeIAJ6faoR9gFVJfouNJxbxjyvbAXP4V4UDmHY0YQPKIk3iWDBSQXzOdDbAg4nvIpeNfK_ctktZBhrzP4iz7",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJ69jOOBi5t4kRF3_5oZl4dEs",
+            "plus_code":{
+                  "compound_code":"V384+CQ Capitol Heights, MD, USA",
+                  "global_code":"87C5V384+CQ"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJ69jOOBi5t4kRF3_5oZl4dEs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":112,
+            "vicinity":"4121 Southern Avenue Southeast, Capitol Heights",
+            "CBG":240338025011,
+            "Radius":376.8621718439
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1883185,
+                        "lng":-118.4314616
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1896480803,
+                              "lng":-118.4300163197
+                        },
+                        "southwest":{
+                              "lat":34.1869501197,
+                              "lng":-118.4327142803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Rancherito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108356579337345860315\">Isidro Cazares Jr<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAXGDgCn5fcPvdJEWzKB_zkyruCEceeIz6klbITYMBFKAOjUuNxJBjxvlYSpGaVfL6-N3QOnpWZrkKOwWiBQMzxtUsIuwd6d5yfsYIbtcDHYRnrgc-qajxz5D10XeosUrojF8aGEXmKUQpOiQ_wqj3SY1eXicSkUL3u7KvMrvLPORth",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJBZOKC_mWwoARX2C4iTC0myI",
+            "plus_code":{
+                  "compound_code":"5HQ9+8C Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635HQ9+8C"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJBZOKC_mWwoARX2C4iTC0myI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":562,
+            "vicinity":"6455 Woodman Avenue, Van Nuys",
+            "CBG":60371281011,
+            "Radius":359.1123206435
+      }
+]

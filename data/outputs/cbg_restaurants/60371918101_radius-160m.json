@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0885797,
+                        "lng":-118.3236073
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0901077303,
+                              "lng":-118.3222600697
+                        },
+                        "southwest":{
+                              "lat":34.0874097697,
+                              "lng":-118.3249580303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Find me Tacos",
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100548277228532706054\">Saramay Benavides<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYkBJyl-PpTzj7RYqPQsY1TyI_4m3_HAtlp-rBgTY47cTpI0VxoPyh6O0YB8KEcrqQoYU6IsZP_E-ZXth8G_KF0ROCD0SA3UvRhzbsaabKIhDjbgkmO9hlSQMe9feW4eaA_3pXo0-nyRK6ONpoNswPsmPYLWw42PN90LBHYQ7x9bG1",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJN8qEBG65woARTIlqLcCEIp4",
+            "plus_code":{
+                  "compound_code":"3MQG+CH Los Angeles, CA, USA",
+                  "global_code":"85633MQG+CH"
+            },
+            "rating":5,
+            "reference":"ChIJN8qEBG65woARTIlqLcCEIp4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"6006 Romaine Street, Los Angeles",
+            "CBG":60371918101,
+            "Radius":160.1771886258
+      }
+]

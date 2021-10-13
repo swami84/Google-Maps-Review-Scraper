@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.4530717,
+                        "lng":-77.9652544
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.4544052303,
+                              "lng":-77.9637646697
+                        },
+                        "southwest":{
+                              "lat":39.4517072697,
+                              "lng":-77.9664626303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Historic McFarland House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104843101785391978327\">Historic McFarland House<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAcCTJBpSo3tjk-5fpMAI2PeECr41h0XJ_xVLsbPLQJsoXGpe2yfATuIoZiHoSiNw8PuCb04J9rtwV_h838JbIUkDXKRgLdMfS7fGcZNAL05d8LAR7RcBbkfO_ZQIJ9UhTM_cdI11ySexVZ4iBWbUT4ad51tFH_k3Wkua2GdDiH0gBu",
+                        "width":7952
+                  }
+            ],
+            "place_id":"ChIJzf0LJDcCyokRD4uwelukTYk",
+            "plus_code":{
+                  "compound_code":"F23M+6V Martinsburg, WV, USA",
+                  "global_code":"87F4F23M+6V"
+            },
+            "rating":4.5,
+            "reference":"ChIJzf0LJDcCyokRD4uwelukTYk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":149,
+            "vicinity":"409 South Queen Street, Martinsburg",
+            "CBG":540039715004,
+            "Radius":553.2916665271
+      }
+]

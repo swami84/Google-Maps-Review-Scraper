@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0456788,
+                        "lng":-118.1887113
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0470279303,
+                              "lng":-118.1872174197
+                        },
+                        "southwest":{
+                              "lat":34.0443299697,
+                              "lng":-118.1899153803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Antojitos el flaco",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104114990569746687269\">Antojitos el flaco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFtODS5ylXOX6DqNMogpqg6GtvTa8aLr-xPA8si7M0vVBSOocMMKvSEjyjYu8ijkHyyvheVIMb9dPr8euhTaj3QoH6NwP_FSIx1Z6T9oB7dyZ7LrSjSOuQ4Wv3T_aysoIX_H9eDsi9uDHOhDBM_gwd4G2ySjViBKaM-ZJZCIAYFYK0",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJQQf3loHFwoARzlARri0FAMY",
+            "plus_code":{
+                  "compound_code":"2RW6+7G Los Angeles, CA, USA",
+                  "global_code":"85632RW6+7G"
+            },
+            "rating":5,
+            "reference":"ChIJQQf3loHFwoARzlARri0FAMY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"829 North Townsend Avenue, Los Angeles",
+            "CBG":60375309012,
+            "Radius":227.5139528942
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9802469,
+                        "lng":-118.3087602
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9815853803,
+                              "lng":-118.3075202197
+                        },
+                        "southwest":{
+                              "lat":33.9788874197,
+                              "lng":-118.3102181803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"C W & Chris",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116255292002554398353\">Rob Smith<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBPMsqbn0F0S98jaBfELe6Wr0c7js0GPe0ksHv-jpVmtrvN14zuHGOMT1OeGdRwYrL1Hmc5dWhk1YJUoOR_SusiBI4f60FvWC-4n7G-Pm-BtB3JiiWB5OfiKxxpZjyPfiMnX9VYi4T50LjZZtPF-wtaBx8t9v_RlECKAEwmgBblpItd",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJ06g1g9q3woARH09kvwIfIZo",
+            "plus_code":{
+                  "compound_code":"XMJR+3F Los Angeles, CA, USA",
+                  "global_code":"8553XMJR+3F"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ06g1g9q3woARH09kvwIfIZo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":719,
+            "vicinity":"6512 South Western Avenue, Los Angeles",
+            "CBG":60372373005,
+            "Radius":223.1025627875
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9816651,
+                        "lng":-118.3092052
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9829666803,
+                              "lng":-118.3078569197
+                        },
+                        "southwest":{
+                              "lat":33.9802687197,
+                              "lng":-118.3105548803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Primo Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103035600600134803017\">Anthony Tarquinto<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-wBfNwvdFT6u5Ni5IfwkBIaxBmtTeU4EFxLCSQZrvgApL-BczsXi-3jH0jg7YBpQDOOOVMIA3RLnrPzcths-GZVUqdoeSSUaiPPTfS9wEQmDvlPzc_jsNxO_OentsfS_QQuowHPCm0BfVsUU02yLtx69fqV6HJ-on58KyKIZm5CAH",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJf9cp79q3woAR5P5ZXDJrfG8",
+            "plus_code":{
+                  "compound_code":"XMJR+M8 Los Angeles, CA, USA",
+                  "global_code":"8553XMJR+M8"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJf9cp79q3woAR5P5ZXDJrfG8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":420,
+            "vicinity":"6325 South Western Avenue, Los Angeles",
+            "CBG":60372373005,
+            "Radius":223.1025627875
+      }
+]

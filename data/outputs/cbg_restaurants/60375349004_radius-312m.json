@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9701829,
+                        "lng":-118.2384281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9713636803,
+                              "lng":-118.2370780197
+                        },
+                        "southwest":{
+                              "lat":33.9686657197,
+                              "lng":-118.2397759803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gelatinas lolis",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109012548333273464714\">Gelatinas lolis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA5NaA7PLQloDePj-PaeciNEdbhnajnJK7OLPPubFLTUPJ1VjXEk9NOhlZ9Ts2Xf7h-KoB2A5OM5Bjw8kU7skS2HNUSdZPYQakpVTK862R6sqVBff86IbybaqinS0yOC9LZU4gQ-47ylG4fA6UO4CMltvntRPIqo4UDi-RByGybk5kH",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJy9oWPcTJwoARopxn68R3N9M",
+            "plus_code":{
+                  "compound_code":"XQC6+3J Los Angeles, CA, USA",
+                  "global_code":"8553XQC6+3J"
+            },
+            "rating":5,
+            "reference":"ChIJy9oWPcTJwoARopxn68R3N9M",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1915 East 77th Street, Los Angeles",
+            "CBG":60375349004,
+            "Radius":311.897861272
+      }
+]

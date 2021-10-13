@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.150912,
+                        "lng":-118.02528
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1521105303,
+                              "lng":-118.0239277697
+                        },
+                        "southwest":{
+                              "lat":34.1494125697,
+                              "lng":-118.0266257303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Paco's Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":450,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117858302310542403307\">Paco&#39;s Mexican Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECbSWG39vkOVAVZulYVLFlFloNo_b9LUMbFkwOz7N3EGOTTcIjQIj8FAza9IIkzfzB59yL4UVFcBgmCwbKe34ECYxkz78spN1MzDoo1TdpPiHWa6-OSuklsj7mxtkb7RgEg3K7S7TLtgUr5wZY2CIwrrBNOsw8LjfKIj3cfHkKiuszN",
+                        "width":600
+                  }
+            ],
+            "place_id":"ChIJz5GXj-TbwoAR2P7Mlu2bkkQ",
+            "plus_code":{
+                  "compound_code":"5X2F+9V Arcadia, CA, USA",
+                  "global_code":"85635X2F+9V"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJz5GXj-TbwoAR2P7Mlu2bkkQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":698,
+            "vicinity":"200 East Foothill Boulevard, Arcadia",
+            "CBG":60374304004,
+            "Radius":373.7077837475
+      }
+]

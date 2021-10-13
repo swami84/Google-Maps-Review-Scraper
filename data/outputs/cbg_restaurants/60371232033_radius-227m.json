@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1920048,
+                        "lng":-118.3880493
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1933457303,
+                              "lng":-118.3865750697
+                        },
+                        "southwest":{
+                              "lat":34.1906477697,
+                              "lng":-118.3892730303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Fonda De Don Cuper",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101383469973525037917\">Otto Rodas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECcWZsouiiwbLddAskzBVjqvi2biYZsvXJAZfrPlqPXZ2QrRK7sACCug93mHdEgvs2b7NvkuC6S8AIPu1B7p9hj9iTMDy1kNijAIQ__To8_Pd43ByQ5Al9JQr4vHm3ekcaQXUvxhHwj5Ke5KtEcxKRH1MH_pfT9cCnBgaC_ceYy-j2a",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJXfmebtSVwoAROd2Ni69aJhY",
+            "plus_code":{
+                  "compound_code":"5JR6+RQ North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JR6+RQ"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJXfmebtSVwoAROd2Ni69aJhY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"6661 Lankershim Boulevard, North Hollywood",
+            "CBG":60371232033,
+            "Radius":227.1197708163
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1936889,
+                        "lng":-118.3888278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1951031303,
+                              "lng":-118.3875242697
+                        },
+                        "southwest":{
+                              "lat":34.1924051697,
+                              "lng":-118.3902222303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salsa & Beer #4",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2320,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104045476523299786055\">Christina Torres<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECUswIvHiVs4MI9c_7gmHYr2vgNfbBUPO2EXjd2VvcHHHzLheEsAY1Tw1C8aD5cWqqyQK-DcHEDClZpkWhEQ-WJymb9bbv2KUMmZ_XTDnfKG15m4rigIuw0aJn46uWGaQ6-b2toluIrolKFkIK02hC2C94hnkB6qb2FL3QO_uT3uI1U",
+                        "width":4640
+                  }
+            ],
+            "place_id":"ChIJucRjkW-VwoARKf6W_P3ic5k",
+            "plus_code":{
+                  "compound_code":"5JV6+FF North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JV6+FF"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJucRjkW-VwoARKf6W_P3ic5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":167,
+            "vicinity":"11720 Vanowen Street, North Hollywood",
+            "CBG":60371232033,
+            "Radius":227.1197708163
+      }
+]

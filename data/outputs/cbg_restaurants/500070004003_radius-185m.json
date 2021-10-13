@@ -1,0 +1,52 @@
+[
+      {
+            "geometry":{
+                  "location":{
+                        "lat":44.4819804,
+                        "lng":-73.220665
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.4833157803,
+                              "lng":-73.2193161197
+                        },
+                        "southwest":{
+                              "lat":44.4806178197,
+                              "lng":-73.2220140803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Beansie\u2019s Bus",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113037080110025793091\">Beansie\u2019s Bus<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED4ntO9_wu9gPrNNyzbkdMZRnZUoHjZF0itV-1kpgKrMb0CaizWAPgcKLSVIP2wHi9oOPx3NW6MxopuMK71-li0-s68a4azl4402F5rybZwY3J4kFxqmJgsCS6_dMXjhxQUpdce0yFdF0OaTrjy-pvG_qMkOUtlqQjYRD2gJFrZvKsO",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJB40qBu56ykwRgbwgj2tW7qY",
+            "plus_code":{
+                  "compound_code":"FQJH+QP Burlington, VT, USA",
+                  "global_code":"87P8FQJH+QP"
+            },
+            "rating":4.4,
+            "reference":"ChIJB40qBu56ykwRgbwgj2tW7qY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"1 Sherman Street, Burlington",
+            "CBG":500070004003,
+            "Radius":185.3394984276
+      }
+]

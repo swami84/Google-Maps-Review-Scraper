@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.2307279,
+                        "lng":-122.4313898
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.2320803803,
+                              "lng":-122.4297844197
+                        },
+                        "southwest":{
+                              "lat":47.2293824197,
+                              "lng":-122.4324823803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Stanley & Seafort's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":420,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113890424093895923469\">Stanley &amp; Seafort&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBh6vb4BbPpke4gTKaqIZLIt1Dh-2wcOJ9FGLrdUAGIYpPxVUweIvmS4kAr-gc8JOa-PJm6LOQUX9tVL7XPeSi0Rm_Zj9bwnRZIxrLlYFXlbEQNTDeQNFDFvo-WoKgL0Aziy47gnEKfcTxtobzZGhKOuj5NfQoHSaCAaDIxZxm4OjXf",
+                        "width":700
+                  }
+            ],
+            "place_id":"ChIJiRNVe4j_kFQRGTdGxMPGF6Y",
+            "plus_code":{
+                  "compound_code":"6HJ9+7C Tacoma, WA, USA",
+                  "global_code":"84VV6HJ9+7C"
+            },
+            "price_level":3,
+            "rating":4.3,
+            "reference":"ChIJiRNVe4j_kFQRGTdGxMPGF6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2106,
+            "vicinity":"115 East 34th Street, Tacoma",
+            "CBG":530530619001,
+            "Radius":374.6138113992
+      }
+]

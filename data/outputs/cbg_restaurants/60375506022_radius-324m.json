@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9619346,
+                        "lng":-118.1261505
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9632835803,
+                              "lng":-118.1248015197
+                        },
+                        "southwest":{
+                              "lat":33.9605856197,
+                              "lng":-118.1274994803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Camachos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1300,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113236777407497288194\">Los Camachos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECQkJB1mXC4Z74msSP-dFTna3SWRoSKg-7wXRnL6XpY8NNTxF2feqhrptrHUpF2ruARGr7IHW49UYEBNcENToSmIe2zO_90LZ1ybKs8B6K_QZaBsGokFQRC-0icjeikdloRg41M90pOBJzHE62VKUbqrHW2q5-07NAthkelZT4MzwKA",
+                        "width":1300
+                  }
+            ],
+            "place_id":"ChIJy-aaJ__NwoARW1POYkX4Zqo",
+            "plus_code":{
+                  "compound_code":"XV6F+QG Downey, CA, USA",
+                  "global_code":"8553XV6F+QG"
+            },
+            "reference":"ChIJy-aaJ__NwoARW1POYkX4Zqo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"96th Tweedy Lane, Downey",
+            "CBG":60375506022,
+            "Radius":323.6840754926
+      }
+]

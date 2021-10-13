@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1514931,
+                        "lng":-118.2581558
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1527983803,
+                              "lng":-118.2566950697
+                        },
+                        "southwest":{
+                              "lat":34.1501004197,
+                              "lng":-118.2593930303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Phoenicia Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116111962353086732681\">Christina Falls<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqP-exjR6N1etJM7NEkQksWYOuhfh3yeYBFaUXijhRG1ALvIJlEeJ85k4i9338Rcd5UGSXUDXYkc7qOMsyvsS7Bz9nzw87l7FCvZkDVFnY9P4i0WVFtGkMkpEoZ1FfHv5kem9i0Lu8rpa-o0WfMNsheTMc4R8OlqNJ2m0y8hDJvLEn",
+                        "width":1171
+                  }
+            ],
+            "place_id":"ChIJJS3O-FPAwoARfpc4I0mASB8",
+            "plus_code":{
+                  "compound_code":"5P2R+HP Glendale, CA, USA",
+                  "global_code":"85635P2R+HP"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJJS3O-FPAwoARfpc4I0mASB8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":679,
+            "vicinity":"343 North Central Avenue, Glendale",
+            "CBG":60373018011,
+            "Radius":180.2963130703
+      }
+]

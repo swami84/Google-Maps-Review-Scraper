@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9807522,
+                        "lng":-77.0711698
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9822533303,
+                              "lng":-77.0697184197
+                        },
+                        "southwest":{
+                              "lat":38.9795553697,
+                              "lng":-77.0724163803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Olympia Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109922758324524781294\">E. W.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEACxtZaQ_YXGEgZGZuxAHKCsHDyuA1_P16HpPxDwYJhzCuJ4rsZrWfCMchCJXY2UD-1aWbP-UBDDPesM1xShd5VuXqldfjeDGpzpFQwg6kPp_q26zBSPyWBX4rbKxBhmZx_24lMWyAhDiuAKpQgfC01GaB6bOGdypDGCK_OPklV3irM",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJe8YkSg7Jt4kRd7nKa8jxnTg",
+            "plus_code":{
+                  "compound_code":"XWJH+8G Chevy Chase, MD, USA",
+                  "global_code":"87C4XWJH+8G"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJe8YkSg7Jt4kRd7nKa8jxnTg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":114,
+            "vicinity":"7021 Brookville Road, Chevy Chase",
+            "CBG":240317051004,
+            "Radius":321.0258561242
+      }
+]

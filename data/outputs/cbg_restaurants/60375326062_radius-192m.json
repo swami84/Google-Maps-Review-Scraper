@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9817977,
+                        "lng":-118.2200307
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9831242803,
+                              "lng":-118.2187463697
+                        },
+                        "southwest":{
+                              "lat":33.9804263197,
+                              "lng":-118.2214443303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nina's Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108980636342391919387\">CDC PUBLICIDAD<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBbLpklOO9o3WVbjaiYQw3zT8Vp7eC10LWB97c4omoDAQSZLC2CbHSw5k9bCq77SsI9wGLFbK6X41UP4gT_xtkn_QOitNXx0k51q7cTy1k2YQu1O7qw8I3HrH_f3P5qzxMykiaXcgZRZffx04ZsiabIidcOPfMCE7ama5A6gnYdZnky",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJIV1gLCXJwoARtotPFI2_3to",
+            "plus_code":{
+                  "compound_code":"XQJH+PX Huntington Park, CA, USA",
+                  "global_code":"8553XQJH+PX"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJIV1gLCXJwoARtotPFI2_3to",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":471,
+            "vicinity":"2805 East Gage Avenue, Huntington Park",
+            "CBG":60375326062,
+            "Radius":191.9480424904
+      }
+]

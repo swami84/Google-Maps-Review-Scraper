@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0083126,
+                        "lng":-118.2661516
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0095959803,
+                              "lng":-118.2648024197
+                        },
+                        "southwest":{
+                              "lat":34.0068980197,
+                              "lng":-118.2675003803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"GKOW Catering Food Truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101564789057579315920\">Rutilo Cruz Jr<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC9FFZ6x4zI6IOEKsHM_XhmnJpel1c1N-OF0CkUDeBuwf1haAVMkeWuGw3X1csaX5FyfociIcuqN55TX8QuB045XyWWKJhFR_CoQEXS8Y9aKO23XBs0J1-Flews8Wd5loJKQSVGee2iajmd_JxN7bv6vF4szsD-1iQiAlKkIaOd3EYj",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJP1IZiGrJwoAR2ix-daOPW8c",
+            "plus_code":{
+                  "compound_code":"2P5M+8G Los Angeles, CA, USA",
+                  "global_code":"85632P5M+8G"
+            },
+            "reference":"ChIJP1IZiGrJwoAR2ix-daOPW8c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"483 East 41st Place, Los Angeles",
+            "CBG":60372283201,
+            "Radius":201.3595706251
+      }
+]

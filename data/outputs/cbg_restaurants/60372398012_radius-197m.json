@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9657172,
+                        "lng":-118.2653388
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9670870803,
+                              "lng":-118.2639904197
+                        },
+                        "southwest":{
+                              "lat":33.9643891197,
+                              "lng":-118.2666883803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Monster Burger #3",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":809,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104903200777387597632\">Monster burger #3<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECkT60MjbKL4rQy6iO2Q2ARAqwa6VYta4aIV_sl3pCUYXOrwNkxf8a1V-KmXFKkZy7HzMvvPgVRwhOvuf179FM_k13QksA1IYqj1-qXZIqTnzqT4gO9kJxItzjtIaypBa9nQH58tk77Z0c18y-yuHWVS7-13QVyVzh0aYCLkPd6XK_d",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJUzxUGY7JwoAR9cOlTcw7guA",
+            "plus_code":{
+                  "compound_code":"XP8M+7V Los Angeles, CA, USA",
+                  "global_code":"8553XP8M+7V"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJUzxUGY7JwoAR9cOlTcw7guA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"8025 Avalon Boulevard, Los Angeles",
+            "CBG":60372398012,
+            "Radius":197.4034773918
+      }
+]

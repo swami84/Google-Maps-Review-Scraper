@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7648352,
+                        "lng":-117.0615821
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7660745803,
+                              "lng":-117.0601116697
+                        },
+                        "southwest":{
+                              "lat":32.7633766197,
+                              "lng":-117.0628096303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cheba Hut Toasted Subs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1068,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117324360972652079678\">Cheba Hut Toasted Subs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjTKC-rYCwvwwnDknhnBYz4MBXR728bvcNDWXBYtIB6WvksedWuB-q01n1c_hICmnJSpyTTVVvRKls4LgO6y8CDSh12tLpLYtMZIbAEJJzeihfllFIUhNww_g_z859D1pyfz3RvW8Pvdi9Xjqmj1tw_dyYdide7OSuYNZGIi-fJQBy",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJGQ9d_JNW2YARTgZQGfzF-IM",
+            "plus_code":{
+                  "compound_code":"QW7Q+W9 San Diego, CA, USA",
+                  "global_code":"8544QW7Q+W9"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJGQ9d_JNW2YARTgZQGfzF-IM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":880,
+            "vicinity":"6364 El Cajon Boulevard, San Diego",
+            "CBG":60730029044,
+            "Radius":288.5480871869
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7649303,
+                        "lng":-117.0615509
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7660883803,
+                              "lng":-117.0602930197
+                        },
+                        "southwest":{
+                              "lat":32.7633904197,
+                              "lng":-117.0629909803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Moon Thai Eatery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103599115343835255970\">Elmer Teodoro And Charles Mullen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC3p--_Rr5l5u4gJ69hzBcmcZsUT8toHF46peLA_xVUoOj_d3GsQVbI0l2XYYsCYEFRpf67F5VLKXpbStBp7ALUukPruUMF5HRgV5AyOe8Xj0dBLONcRds1BW3z0pNy_2h6LBBU2f4wGsghIKqXCBeYwVPgt8phmESVd8kdk-jl8I5M",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJLWb_MZtX2YARXM1fpkeuiQo",
+            "plus_code":{
+                  "compound_code":"QW7Q+X9 San Diego, CA, USA",
+                  "global_code":"8544QW7Q+X9"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJLWb_MZtX2YARXM1fpkeuiQo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":102,
+            "vicinity":"6366 El Cajon Boulevard, San Diego",
+            "CBG":60730029044,
+            "Radius":288.5480871869
+      }
+]

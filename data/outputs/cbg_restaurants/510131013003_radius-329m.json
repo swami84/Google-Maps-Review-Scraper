@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.867763,
+                        "lng":-77.117374
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8690825803,
+                              "lng":-77.1159488697
+                        },
+                        "southwest":{
+                              "lat":38.8663846197,
+                              "lng":-77.1186468303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Crystal Thai Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118257634759771479722\">Crystal Thai Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECSevPy8lJxQv5OSZFFrTfrJVR757sPiMzGEQRcJuuQVSBQlmCOXqwuD_9GT-S0NKcAji_l5NS9FTh1uUufJTdCwCCZ9-R5LPcKZ_P5WSb6LRHKKb6jyCzqYFoqcBtaZMSIV6UHtf36JQyEqeFHvxg3MuYd4M3FcwO2iEH1U8SP6ARF",
+                        "width":4928
+                  }
+            ],
+            "place_id":"ChIJXRXH7RC0t4kRAn0Z00-Quz8",
+            "plus_code":{
+                  "compound_code":"VV9M+43 Arlington, VA, USA",
+                  "global_code":"87C4VV9M+43"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJXRXH7RC0t4kRAn0Z00-Quz8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":240,
+            "vicinity":"4819 1st Street North, Arlington",
+            "CBG":510131013003,
+            "Radius":328.6180335689
+      }
+]

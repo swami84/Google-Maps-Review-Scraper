@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9599283,
+                        "lng":-118.235803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9612772803,
+                              "lng":-118.2344540197
+                        },
+                        "southwest":{
+                              "lat":33.9585793197,
+                              "lng":-118.2371519803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gabriel's Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114540893576535849401\">Gabriel Martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDUtU7fm8v9PravJ1_ND6m-rgPxrr3ti_4AN_MYRetqq1EAHW2kEE5XdDbPR3FdmPZOdbIhF8o1xaCvaaFZ09eo9tSx3FC_FJwDVzQFNYVCetJxRwgydGzYlPJWPdRoKmHRFqZAumdB6HFjW8CywPjNTUfByKCMR45uuMG-aiaKNrMH",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJ0VBv127JwoARi4-ZlAmz5cw",
+            "plus_code":{
+                  "compound_code":"XQ57+XM Los Angeles, CA, USA",
+                  "global_code":"8553XQ57+XM"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ0VBv127JwoARi4-ZlAmz5cw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":213,
+            "vicinity":"2010 Firestone Boulevard, Los Angeles",
+            "CBG":60375353004,
+            "Radius":242.4164486323
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.960443,
+                        "lng":-118.234812
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9616441803,
+                              "lng":-118.2334635697
+                        },
+                        "southwest":{
+                              "lat":33.9589462197,
+                              "lng":-118.2361615303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Birria El Abuelo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107435321962080009537\">Birria El Abuelo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChwfC7azPY14GkpNwSvQ4yJJWRM4L66o3z2hHrjPUQAFfudiNkMbN9JzHaSEWhHcQRKeQXIbhxNBxiBYXjB6pdcqnROU_SfLxMKGaYt2GLwosIXc_gkmrTuNIDh92m3Kk_kR9bE2Hhlkqzt6KvN5pArb30mhypIZs8WbL4YIHEuYg",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJH-XSbUvJwoARZSsJGPmu3io",
+            "plus_code":{
+                  "compound_code":"XQ68+53 Los Angeles, CA, USA",
+                  "global_code":"8553XQ68+53"
+            },
+            "price_level":1,
+            "rating":5.0,
+            "reference":"ChIJH-XSbUvJwoARZSsJGPmu3io",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2111 Firestone Boulevard, Los Angeles",
+            "CBG":60375353004,
+            "Radius":242.4164486323
+      }
+]

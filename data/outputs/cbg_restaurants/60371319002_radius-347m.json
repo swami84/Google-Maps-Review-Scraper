@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.207266,
+                        "lng":-118.5079681
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2086244803,
+                              "lng":-118.5067384697
+                        },
+                        "southwest":{
+                              "lat":34.2059265197,
+                              "lng":-118.5094364303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112554191634498422427\">American Riviera Tours<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECxoBsA-mZ5Xkr0RVaMmeGENWiHkUpw8fl0nCt3fsz6HHxnowxX-Q2QD_LbYgdqrBKxLbs3SDEsXdS3TfmkopSGL4XXvMw5yHnoFmUgzHYM6dqIq5pcLLEMFXKORZcyPu7j-gK-0-F_acIGs39fXM5FJ3tVIjuYS9T2wXlIDkhVb1Ut",
+                        "width":2992
+                  }
+            ],
+            "place_id":"ChIJMxH_oR-awoARobofvKHA3gs",
+            "plus_code":{
+                  "compound_code":"6F4R+WR Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85636F4R+WR"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJMxH_oR-awoARobofvKHA3gs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"17224 Saticoy Street, Van Nuys",
+            "CBG":60371319002,
+            "Radius":346.9119124618
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.846284,
+                        "lng":-118.115973
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8475849803,
+                              "lng":-118.1146377697
+                        },
+                        "southwest":{
+                              "lat":33.8448870197,
+                              "lng":-118.1173357303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102385198518765830981\">McDonald&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECTDGsUEtxKj-Ptd0rNYwVsorfArHdoGiO0JDqw_jbaP7GhMixw67mbxz_1H8YBbN553qA4hIjU9o4qqiAc64kICr76gBpODlRHt0WXIhRyYZrmj8tMfi7VG1BwPWYrmiPu3ODNZbG993ZKcRqVy61jJctQYiddwJ7FBI10F8QRfzTK",
+                        "width":1025
+                  }
+            ],
+            "place_id":"ChIJwRT_DXky3YARbo7t6F3_gpE",
+            "plus_code":{
+                  "compound_code":"RVWM+GJ Lakewood, CA, USA",
+                  "global_code":"8553RVWM+GJ"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJwRT_DXky3YARbo7t6F3_gpE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":839,
+            "vicinity":"4848 Woodruff Avenue, Lakewood",
+            "CBG":60375711015,
+            "Radius":332.5896398683
+      }
+]

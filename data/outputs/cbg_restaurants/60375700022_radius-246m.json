@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8607679,
+                        "lng":-118.1260098
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8620325803,
+                              "lng":-118.1246891697
+                        },
+                        "southwest":{
+                              "lat":33.8593346197,
+                              "lng":-118.1273871303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117649915967104659589\">\uc138\ub9ac\ud1a0\uc2a4\ucda9\ub9cc\uad50\ud68c \uae40\uae30\ub3d9\ubaa9\uc0ac<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA-RkAZMedkCkB9rEmwnisqto3xMpOlPbvj2vz0ha2Bu91AmhcrEfvuQf7N4VfZV-3YHaqMoi6v8ridgrCg2b38pt3OtLiRgaIrBQu5eZsVwAU10BLSif_c8WUtYsrC5Oa1VnF-QnIf18XtYJOsD9-hgH1f4PhImRakaz1-Z0glZ-7t",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJTepNxY8y3YARaCZCgQ6cyQw",
+            "plus_code":{
+                  "compound_code":"VV6F+8H Lakewood, CA, USA",
+                  "global_code":"8553VV6F+8H"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJTepNxY8y3YARaCZCgQ6cyQw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"5457 South Street, Lakewood",
+            "CBG":60375700022,
+            "Radius":246.2660065759
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8614476,
+                        "lng":-118.1256425
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8627113303,
+                              "lng":-118.1243020197
+                        },
+                        "southwest":{
+                              "lat":33.8600133697,
+                              "lng":-118.1269999803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Don Ruben Mexican Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":289,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106880867212273428880\">Don Ruben Mexican Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBWAP0Z6vKYOHUSrFhgNyvKo2I5EuCt-Z3oBwGdYwTyatbUZHr4KSAwAI8Yhso_fSZHNUVC5cbWJP2AFnCUoZlXxOWlD1J9aytVkGF21w7PENVAYC22LYfpQzSE-c878Fsf_jOq_8yFr7_S5Sn9ej4v7K2dxkTks5h5SxshsFqhprxb",
+                        "width":512
+                  }
+            ],
+            "place_id":"ChIJOW5OQWMy3YARcWl5yCr77iQ",
+            "plus_code":{
+                  "compound_code":"VV6F+HP Lakewood, CA, USA",
+                  "global_code":"8553VV6F+HP"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJOW5OQWMy3YARcWl5yCr77iQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":169,
+            "vicinity":"5835 Bellflower Boulevard, Lakewood",
+            "CBG":60375700022,
+            "Radius":246.2660065759
+      }
+]

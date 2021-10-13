@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6991852,
+                        "lng":-117.1242463
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7005347303,
+                              "lng":-117.1227937697
+                        },
+                        "southwest":{
+                              "lat":32.6978367697,
+                              "lng":-117.1254917303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gorditas do\u00f1a leo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2736,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102572841177250819487\">Fernanda Hernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAziRV7JDQ5bnL4ouys0l1XeXjeS2Ak-6Ze53-b9A8FfziNs6vAShoDrRZdj0Ki7c8JBbZXhy8_zE4JvujEs31itgPmusUMCgOozxMcdWITnzce8Y_A-Ner-Knkq9UWk_6qgpV4ebN2po36jXjxOGqF8grYcQub_9iDTxAhfKbr3RA0",
+                        "width":3648
+                  }
+            ],
+            "place_id":"ChIJSwhEEUtT2YARU1F5TL4kH-c",
+            "plus_code":{
+                  "compound_code":"MVXG+M8 San Diego, CA, USA",
+                  "global_code":"8544MVXG+M8"
+            },
+            "rating":5,
+            "reference":"ChIJSwhEEUtT2YARU1F5TL4kH-c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"3261 Martin Avenue, San Diego",
+            "CBG":60730039022,
+            "Radius":320.819053483
+      }
+]

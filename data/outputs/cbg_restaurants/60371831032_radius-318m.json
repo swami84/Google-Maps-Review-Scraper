@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.1136246,
+                        "lng":-118.1719488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1150456303,
+                              "lng":-118.1706997697
+                        },
+                        "southwest":{
+                              "lat":34.1123476697,
+                              "lng":-118.1733977303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Arroyo Seco Grill",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109373768894411192865\">Phillip Yoon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBD1NJPEfozo3YiMLjWYmkc3cB82V3jKxW0xUexYzEmKZQ3JO99XM9_NqzJMUViN4HPbOysP_qOO1BuRrPDcjFOJYXrz2MzjzBM6mDliMoBi52BPG3r3qEBNoEYDo2YwXM1Xvx7loPgkF3T8X4j0x73Z5ROoBv2pMHW_UUlZZZ03Imr",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJ8Rkm1mTEwoARW8nYjpOe3WI",
+            "plus_code":{
+                  "compound_code":"4R7H+C6 South Pasadena, CA, USA",
+                  "global_code":"85634R7H+C6"
+            },
+            "rating":4.3,
+            "reference":"ChIJ8Rkm1mTEwoARW8nYjpOe3WI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1055 Lohman Lane, South Pasadena",
+            "CBG":60371831032,
+            "Radius":318.4848949814
+      }
+]

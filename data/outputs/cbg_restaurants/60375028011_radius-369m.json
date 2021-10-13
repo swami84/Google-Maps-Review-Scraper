@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9480465,
+                        "lng":-118.0903289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9493586303,
+                              "lng":-118.0889126697
+                        },
+                        "southwest":{
+                              "lat":33.9466606697,
+                              "lng":-118.0916106303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Veracruz Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1936,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108562829009600120459\">John Nite<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAA78cXxuYF-iF9_LCnw0uDZVyiNn6QoiamNe5xEJ1gW2Q7hQZB64YDitVE3wDEwuRBZzcwc0OnDjN7rFj9l7rgYz7fBYr1IQRo4LpoOvg_S__4LTUYsAvpmPhSkGDQsVZ8nZPW7ptul02u05zxvHa7gg-TxwF8_-2CDhE6BjKArXzF",
+                        "width":2582
+                  }
+            ],
+            "place_id":"ChIJ14hXP2fSwoARGKSMQ-9MEjI",
+            "plus_code":{
+                  "compound_code":"WWX5+6V Santa Fe Springs, CA, USA",
+                  "global_code":"8553WWX5+6V"
+            },
+            "rating":4.3,
+            "reference":"ChIJ14hXP2fSwoARGKSMQ-9MEjI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":882,
+            "vicinity":"9931 Orr and Day Road, Santa Fe Springs",
+            "price_level":null,
+            "CBG":60375028011,
+            "Radius":368.9830069911
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9490046,
+                        "lng":-118.0910002
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9503051303,
+                              "lng":-118.0894801197
+                        },
+                        "southwest":{
+                              "lat":33.9476071697,
+                              "lng":-118.0921780803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Del Taco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105027207020713025229\">Julio Pay\u00e1n<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEADwx2yn1HwPzMEgqvOncTD6bvLUX_5SHymGbcb0EiqN0RPWtKWdKLHJpaNH_PPbGVcU8qfOTAdoBcKGBYuI13vOeK4yNgipbXU8J6xr7PzOpN8Dy8BHAdZhxeWkBzzPhB1hl7YsqJja-jT4zxKSx_uvtuH4jmb75IyRBBvZEG2fth4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAwKOD2fSwoARBYQMPT1CTNQ",
+            "plus_code":{
+                  "compound_code":"WWX5+JH Santa Fe Springs, CA, USA",
+                  "global_code":"8553WWX5+JH"
+            },
+            "rating":4.0,
+            "reference":"ChIJAwKOD2fSwoARBYQMPT1CTNQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":775,
+            "vicinity":"11344 Telegraph Road, Santa Fe Springs",
+            "price_level":1.0,
+            "CBG":60375028011,
+            "Radius":368.9830069911
+      }
+]

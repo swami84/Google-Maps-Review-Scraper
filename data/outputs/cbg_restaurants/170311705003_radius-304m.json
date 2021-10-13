@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9523012,
+                        "lng":-87.8340699
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9536501803,
+                              "lng":-87.8327209197
+                        },
+                        "southwest":{
+                              "lat":41.9509522197,
+                              "lng":-87.8354188803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bob-O's Hot Dogs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108384940222884971145\">Bob-O&#39;s Hot Dogs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDklP9inCBzrrsH3IRuubC0J4-H51HWnQMeX2SmzeGeWQ7UJeDfZ2boG5ugQaEyv3O1aaB-OaNLp2rV56BfEugZ3Rg9yrYkg2soxuoleTdXJi8MGS-d0q9OoO_mTOc9k1MMXofxdiZnYHWzoaSoT7eh9-LhB_2PvnXiIk2aTa5thgDF",
+                        "width":4928
+                  }
+            ],
+            "place_id":"ChIJT214akLKD4gRFdbbV_-yzss",
+            "plus_code":{
+                  "compound_code":"X528+W9 Chicago, IL, USA",
+                  "global_code":"86HJX528+W9"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJT214akLKD4gRFdbbV_-yzss",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":661,
+            "vicinity":"8258 West Irving Park Road, Chicago",
+            "CBG":170311705003,
+            "Radius":304.1159794883
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9518899,
+                        "lng":-87.834375
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9532748303,
+                              "lng":-87.8329689697
+                        },
+                        "southwest":{
+                              "lat":41.9505768697,
+                              "lng":-87.8356669303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Polish Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":497,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106446876251590377133\">Polish Bistro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAWb52Tm3SYT6btxZEtxbUckAQu8DHh-2EX42GqQzrsPHm1FmXKSWO9PcoONKZaJ-tHEQ2svK0bY0e44GKJZJBuE_SPFKDDxxu-GFEyQ1fH4FWEPgkOUeT5asC6un2xqdrpQ0BWEy1QTrYBXxa5w8JZsNK9TQcXpSHkpRVc3jV-6Fww",
+                        "width":700
+                  }
+            ],
+            "place_id":"ChIJVzMzb0LKD4gRhMqz_89wRVk",
+            "plus_code":{
+                  "compound_code":"X528+Q7 Chicago, IL, USA",
+                  "global_code":"86HJX528+Q7"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJVzMzb0LKD4gRhMqz_89wRVk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":223,
+            "vicinity":"8303 West Irving Park Road, Chicago",
+            "CBG":170311705003,
+            "Radius":304.1159794883
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.5410432,
+                        "lng":-122.2722322
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.5424760303,
+                              "lng":-122.2707420697
+                        },
+                        "southwest":{
+                              "lat":47.5397780697,
+                              "lng":-122.2734400303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Los Potrillos 1",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100168833196185124137\">Morgan Black Crow<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBpLLq5H25Z0vMSlK06-4uz1aetX5NhmbrnQdye50-JJnIl21sswP64vzKqgT5_hFXUlAiDQrapL5hn9HsAVjWn0kz-Y40fNutQ1PtggdrjV_HY3LT_elg7U8OMFnVAJdJYq8GypvwyL7uLY2EGhEYuPGOeFHDSKFeR9CSY0PKky23Q",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJp8eJoQFqkFQREBYBizNn8lU",
+            "plus_code":{
+                  "compound_code":"GPRH+C4 Seattle, WA, USA",
+                  "global_code":"84VVGPRH+C4"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJp8eJoQFqkFQREBYBizNn8lU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":150,
+            "vicinity":"6815 Rainier Avenue South, Seattle",
+            "CBG":530330111011,
+            "Radius":228.4285111637
+      }
+]

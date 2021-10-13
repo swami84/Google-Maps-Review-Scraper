@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0391432,
+                        "lng":-118.208204
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0404420803,
+                              "lng":-118.2068874197
+                        },
+                        "southwest":{
+                              "lat":34.0377441197,
+                              "lng":-118.2095853803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"L.A. Tipsy Tacos",
+            "photos":[
+                  {
+                        "height":1464,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106366814603289914220\">L.A. Tipsy Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDH4fYYZaoxSgDuyIsourG-KoeTK9p7dp_zbom7P--kg6S2dgs88ub6SiC-P5j_ODKalhohCEvY-lBPKhozyxJPCb0_uPwT2UXtAWweIIAphUs5-peLchzqIx0pLYCCC8ksXNEgv4Xjbu-wtIesvQhLuCik4UZDwyATgMONuUspbHN_",
+                        "width":824
+                  }
+            ],
+            "place_id":"ChIJKXlJz4zHwoARB048SFM7dlA",
+            "plus_code":{
+                  "compound_code":"2QQR+MP Los Angeles, CA, USA",
+                  "global_code":"85632QQR+MP"
+            },
+            "rating":5,
+            "reference":"ChIJKXlJz4zHwoARB048SFM7dlA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"2635 East 4th Street, Los Angeles",
+            "CBG":60372043003,
+            "Radius":249.0550358874
+      }
+]

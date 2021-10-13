@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7906324,
+                        "lng":-118.2489529
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7919813803,
+                              "lng":-118.2476039197
+                        },
+                        "southwest":{
+                              "lat":33.7892834197,
+                              "lng":-118.2503018803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Super Gallito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1664,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106752834728022066064\">Blk Dmnd<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJop-ersQieZrynHuAMbdQy1E6Lip1LCSnq3w_jN9ZGor7u5Fa-MaPlrlxIS3ZGxnG0qz7X5W7g2p9x_8gqF_5eTt0eHKQcuiAO6IXnLRE6pRn1-UTIAtq4GH1rfZw2nA7vkdqGzIWkNf9oGYF0iObFKjgYP0y462eq485Z2IJ4Ot-",
+                        "width":3727
+                  }
+            ],
+            "place_id":"ChIJGfSzZzI03YARBN6yQ725kEc",
+            "plus_code":{
+                  "compound_code":"QQR2+7C Wilmington, Los Angeles, CA, USA",
+                  "global_code":"8553QQR2+7C"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJGfSzZzI03YARBN6yQ725kEc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":259,
+            "vicinity":"1108 Pacific Coast Highway, Wilmington",
+            "CBG":60372941202,
+            "Radius":212.3497471074
+      }
+]

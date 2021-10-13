@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1388782,
+                        "lng":-118.3666365
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1402933303,
+                              "lng":-118.3652492697
+                        },
+                        "southwest":{
+                              "lat":34.1375953697,
+                              "lng":-118.3679472303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SunCafe Organic",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3744,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112459688724200387135\">SunCafe Organic<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHg20fqjfiC-xieRfdohsCU1L8bV07F9D-FwFDiouOxrKHCSS7t8mcrdn9AEsQl5JJ0PhUcyo8DnpKJXovuZ5dW_exuoH7wVEcWWzbUrxW9MMFtuDxJhVcqTQD65OTLSUkb1jFzxGlNn3sA9Xkl3mLSCyWWv9YNJYDITp0UyjY538l",
+                        "width":5616
+                  }
+            ],
+            "place_id":"ChIJj2XzOkS-woAR0LVPCRsgs-Q",
+            "plus_code":{
+                  "compound_code":"4JQM+H8 Studio City, Los Angeles, CA, USA",
+                  "global_code":"85634JQM+H8"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJj2XzOkS-woAR0LVPCRsgs-Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":928.0,
+            "vicinity":"10820 Ventura Boulevard, Studio City",
+            "CBG":60371436042,
+            "Radius":353.4173798908
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1381605,
+                        "lng":-118.3651421
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1395979303,
+                              "lng":-118.3636397197
+                        },
+                        "southwest":{
+                              "lat":34.1368999697,
+                              "lng":-118.3663376803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Backdrop Cafe and Lounge",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJwRjtS3i_woARNYvazjg1fRQ",
+            "plus_code":{
+                  "compound_code":"4JQM+7W Studio City, Los Angeles, CA, USA",
+                  "global_code":"85634JQM+7W"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJwRjtS3i_woARNYvazjg1fRQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"10730 Ventura Boulevard, Studio City",
+            "CBG":60371436042,
+            "Radius":353.4173798908
+      }
+]

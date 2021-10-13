@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1446472,
+                        "lng":-80.2199533
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1459983303,
+                              "lng":-80.2187209197
+                        },
+                        "southwest":{
+                              "lat":26.1433003697,
+                              "lng":-80.2214188803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cocktalis",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1117,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103272328692891476952\">Cocktalis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAfKSEp_-TC2lYJfm_6LrIFCX3BEp2eYO3aclYTe4FpU9PJMHL1alKiK-NCr5nm8IAHdz0e2kbkR17qz4RF-5R5XHMjdgyTt6I8uMVddu2jLxC6d1x4FNw04C4EIlX7-2Z02btOZa1qCAtsZx9tp4y1SswPf5AXoJEqoon_tFDSq48-",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJRxNh_IQH2YgRXyeqxm7XnrA",
+            "plus_code":{
+                  "compound_code":"4QVJ+V2 Lauderhill, FL, USA",
+                  "global_code":"76RX4QVJ+V2"
+            },
+            "reference":"ChIJRxNh_IQH2YgRXyeqxm7XnrA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1620 Northwest 52nd Avenue, Lauderhill",
+            "CBG":120110603041,
+            "Radius":488.8601003946
+      }
+]

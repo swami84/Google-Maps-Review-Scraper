@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9597309,
+                        "lng":-118.3146054
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9610897803,
+                              "lng":-118.3133650697
+                        },
+                        "southwest":{
+                              "lat":33.9583918197,
+                              "lng":-118.3160630303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108321805631425571823\">Elsy Rams-1111<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZgU3La5xGXfv3wmQxVg3m8TEmJGlh3qW6IXL5_fIv06karaeTVdfcpLj8zZrOHpg81gq1AOSKeW1qfNNT4lHa4kxApziU1RjRnSeuljNGDy06JqZZz81P5BXZWI39Adqm70CGzz5LI9GieGlN24oDZPhYY7ljvbByEApMUzshLZeo",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJR2Db8TC2woARCybBloYcYc0",
+            "plus_code":{
+                  "compound_code":"XM5P+V5 Los Angeles, CA, USA",
+                  "global_code":"8553XM5P+V5"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJR2Db8TC2woARCybBloYcYc0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":512,
+            "vicinity":"2046 West Manchester Boulevard, Los Angeles",
+            "CBG":60372384003,
+            "Radius":321.8472873918
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9585703,
+                        "lng":-118.3164263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9599183803,
+                              "lng":-118.3149270197
+                        },
+                        "southwest":{
+                              "lat":33.9572204197,
+                              "lng":-118.3176249803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Scot's Bar B-Que",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJd2vYtjC2woARMt82lCMeFvU",
+            "plus_code":{
+                  "compound_code":"XM5M+CC Los Angeles, CA, USA",
+                  "global_code":"8553XM5M+CC"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJd2vYtjC2woARMt82lCMeFvU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"8711 Cimarron Street, Los Angeles",
+            "CBG":60372384003,
+            "Radius":321.8472873918
+      }
+]

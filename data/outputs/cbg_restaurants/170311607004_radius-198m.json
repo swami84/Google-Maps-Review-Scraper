@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9478337,
+                        "lng":-87.707463
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9491708303,
+                              "lng":-87.7063020697
+                        },
+                        "southwest":{
+                              "lat":41.9464728697,
+                              "lng":-87.7090000303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Banuelos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJIWTvhz3ND4gRZKG6WUKR4tI",
+            "plus_code":{
+                  "compound_code":"W7XV+42 Chicago, IL, USA",
+                  "global_code":"86HJW7XV+42"
+            },
+            "reference":"ChIJIWTvhz3ND4gRZKG6WUKR4tI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3656 North Albany Avenue, Chicago",
+            "photos":null,
+            "CBG":170311607004,
+            "Radius":198.0667065223
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9485828,
+                        "lng":-87.7081691
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9498649303,
+                              "lng":-87.7067502197
+                        },
+                        "southwest":{
+                              "lat":41.9471669697,
+                              "lng":-87.7094481803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jeddie's Restaurant and Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJUcIbxVvND4gRW2mJy6mL_nk",
+            "plus_code":{
+                  "compound_code":"W7XR+CP Chicago, IL, USA",
+                  "global_code":"86HJW7XR+CP"
+            },
+            "reference":"ChIJUcIbxVvND4gRW2mJy6mL_nk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3700 North Kedzie Avenue, Chicago",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101714814481358836484\">Jeddie&#39;s Restaurant and Bar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDgXw07RDUXCFYaANG29j87NSozSCpvSLmiRwHPMD9DOxudTTdIyzzC6mkIjLM_ClPWkne1SCK7Jo3NQLtw4QHH9oQImop5MXNEKzWAoa4MTMq_StZ9tXCg_Ii4NbMQ52LkfUCS_-OxyQ9ESvu0BqBVKmsWOA9sYAzOw-PpFwSMNg7Z",
+                        "width":4032
+                  }
+            ],
+            "CBG":170311607004,
+            "Radius":198.0667065223
+      }
+]

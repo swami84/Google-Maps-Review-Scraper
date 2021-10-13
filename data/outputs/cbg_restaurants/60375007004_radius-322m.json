@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9849839,
+                        "lng":-118.0963042
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9862860803,
+                              "lng":-118.0949944697
+                        },
+                        "southwest":{
+                              "lat":33.9835881197,
+                              "lng":-118.0976924303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Boba Time",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3872,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100196137762795889655\">Cristina G.P.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBehw87XeWwWjMJ4Cb66l6GPnsuyC0gJTMf4a7B247I8ZMLXEfeyEz7tzOpeJBRnunmsdYjcA1Q8QIpS58a1CV0jQJFu-4x7UZo2RD8Y6L_Y6Bh8vjtuopzlRdiIh2YzQRK865LcuY0lMyWn7O1m70u_bUy9NViALImNsxXGiPICqXO",
+                        "width":6138
+                  }
+            ],
+            "place_id":"ChIJ05mBw5jRwoAR3nQ0nNmtmig",
+            "plus_code":{
+                  "compound_code":"XWM3+XF Pico Rivera, CA, USA",
+                  "global_code":"8553XWM3+XF"
+            },
+            "rating":4.2,
+            "reference":"ChIJ05mBw5jRwoAR3nQ0nNmtmig",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"8935 Washington Boulevard, Pico Rivera",
+            "CBG":60375007004,
+            "Radius":321.6217142753
+      }
+]

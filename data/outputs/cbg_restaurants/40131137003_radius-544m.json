@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4540409,
+                        "lng":-111.9865761
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4552562303,
+                              "lng":-111.9849997697
+                        },
+                        "southwest":{
+                              "lat":33.4525582697,
+                              "lng":-111.9876977303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"The Lunch Lounge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1079,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100977668143905904780\">The Lunch Lounge<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAawr3dot7qc_QwXhA12S6aeIn13MQxdZnQ7LeDY8pOnRGRBZ_klUQio30acHSFVkoMrAzJ_3d86upKq5fHAi3K9fV7ojQJENz8Z5LBFLirclnltbhE0Cy_sDOOgY0s14442SfAHHQPwQz-p1vgOupafmH1qhRv2M0W1CS4QIxa9jrF",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJh-ihWJsOK4cRyf8nZlLyHmI",
+            "plus_code":{
+                  "compound_code":"F237+J9 Phoenix, AZ, USA",
+                  "global_code":"855CF237+J9"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJh-ihWJsOK4cRyf8nZlLyHmI",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":243,
+            "vicinity":"501 North 44th Street Ste 175, Phoenix",
+            "CBG":40131137003,
+            "Radius":543.6466538583
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4531889,
+                        "lng":-111.9864806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4544818303,
+                              "lng":-111.9850925697
+                        },
+                        "southwest":{
+                              "lat":33.4517838697,
+                              "lng":-111.9877905303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"RBG Bar and Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106650073773903979824\">Hoshimi Ames<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGB2AczQp-PY6akFYt2PBrTQ411pA8njE1BOknTB9PGVZ2VrDXQsLrv0_6XWlYmZY_lwtSDG5wWjq0DGUU_nqkQqRp61kwexatklA8mTjN9ircU6iO3fasEJiiNvJvLO-Uhh0tXJgmb4hsmoyzMvr0U9SF_G23Y8m-DUNAZJ5kDEQG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJKzrKFZsOK4cRZU1ia9ak88U",
+            "plus_code":{
+                  "compound_code":"F237+7C Phoenix, AZ, USA",
+                  "global_code":"855CF237+7C"
+            },
+            "price_level":null,
+            "rating":3.7,
+            "reference":"ChIJKzrKFZsOK4cRZU1ia9ak88U",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"427 North 44th Street, Phoenix",
+            "CBG":40131137003,
+            "Radius":543.6466538583
+      }
+]

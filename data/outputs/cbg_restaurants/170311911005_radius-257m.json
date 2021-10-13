@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9238386,
+                        "lng":-87.754121
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9253179303,
+                              "lng":-87.7527757197
+                        },
+                        "southwest":{
+                              "lat":41.9226199697,
+                              "lng":-87.7554736803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"3 D's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ69fnX-zMD4gRbD9G41RoUd4",
+            "plus_code":{
+                  "compound_code":"W6FW+G9 Chicago, IL, USA",
+                  "global_code":"86HJW6FW+G9"
+            },
+            "rating":5,
+            "reference":"ChIJ69fnX-zMD4gRbD9G41RoUd4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"5109 West Fullerton Avenue, Chicago",
+            "CBG":170311911005,
+            "Radius":256.5822328416
+      }
+]

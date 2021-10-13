@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.882802,
+                        "lng":-77.2270433
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8841358303,
+                              "lng":-77.2258014197
+                        },
+                        "southwest":{
+                              "lat":38.8814378697,
+                              "lng":-77.2284993803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Metro Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109978015871245875340\">Patrick Ramos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDcE8rVUPXhWUYa_laZRQj60JvwKpOzJxXwmSbLdBwd2Z7gFdYQtIy584hJzR52kO1cGFFVy6ERpNykrl1FHL3P_9AVwlukRGGDmX6oiwOB3Lg5reeg51-IEXBiHMwsmGRJ3kRe0mBJDr4yK8R3c3wl1RG_l33eNI1G9-iaCSVjJ1VT",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJX_aQt21LtokRlUwvafx0Nn0",
+            "plus_code":{
+                  "compound_code":"VQMF+45 Vienna, VA, USA",
+                  "global_code":"87C4VQMF+45"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJX_aQt21LtokRlUwvafx0Nn0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"2650 Park Tower Drive, Vienna",
+            "CBG":510594616023,
+            "Radius":335.2074379286
+      }
+]

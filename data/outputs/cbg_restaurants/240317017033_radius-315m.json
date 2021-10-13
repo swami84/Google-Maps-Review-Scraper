@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9840329,
+                        "lng":-76.9878202
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9854412803,
+                              "lng":-76.9866803197
+                        },
+                        "southwest":{
+                              "lat":38.9827433197,
+                              "lng":-76.9893782803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"IHOP",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104691114228905594675\">Jenavine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAPByJ7dfJt1BtTzLhXBPEP6smEe8uZTSWW_GlC_w9hWCgLvpdmZEJIoa9HWq6-X6PPKdJFWNYC2-mIOq5_x4utvkb-dPVCOmEXa_STa0GukmNJzE7MKRV2967meyQ_i3fWGYe5fsFDMRVYvQOPaGjq7Uxcy_NoNq8InCV_assTQLTg",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJy3jfRBXGt4kRtHqMf2I0Nr4",
+            "plus_code":{
+                  "compound_code":"X2M6+JV Takoma Park, MD, USA",
+                  "global_code":"87C5X2M6+JV"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJy3jfRBXGt4kRtHqMf2I0Nr4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1640,
+            "vicinity":"7405 New Hampshire Avenue, Takoma Park",
+            "CBG":240317017033,
+            "Radius":315.4112450722
+      }
+]

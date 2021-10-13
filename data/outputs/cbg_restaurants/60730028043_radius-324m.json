@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.75885,
+                        "lng":-117.0733444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7601228803,
+                              "lng":-117.0719838197
+                        },
+                        "southwest":{
+                              "lat":32.7574249197,
+                              "lng":-117.0746817803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ackee Tree the real Jamaican Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1153,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112609385851790238303\">Ackee Tree the real Jamaican Cuisine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1slvy1EUN_5JOJIZ7JvRz3yA3491-aJ96rzEFBAQ41Xfd2dBVPMzqsSKEQjDKE3CutiDevpC1_FIMssYab-gn-zx5qDfW1Y8e4UezjwoQtA-jqgshf4JkqxCc3GTlEMF6SattsSAXC1vnzk155XHvRbNXI8bsTMMVs3DvDcSV8rHT",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJSRwJK5lW2YARpSGY4ZLQfBE",
+            "plus_code":{
+                  "compound_code":"QW5G+GM San Diego, CA, USA",
+                  "global_code":"8544QW5G+GM"
+            },
+            "rating":4.5,
+            "reference":"ChIJSRwJK5lW2YARpSGY4ZLQfBE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":210,
+            "vicinity":"5712 El Cajon Boulevard, San Diego",
+            "CBG":60730028043,
+            "Radius":324.2568889859
+      }
+]

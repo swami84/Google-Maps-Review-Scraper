@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7993779,
+                        "lng":-122.2664907
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8005948803,
+                              "lng":-122.2652204197
+                        },
+                        "southwest":{
+                              "lat":37.7978969197,
+                              "lng":-122.2679183803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Classic Guilin Rice Noodles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112809598656679076137\">Yumake L<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJiHxq3NzSekD83TGlp0xyXKPH_sr3khbIw-nRhL2WKHJIAVq4FrwYM64fLwyLR4L4vD_p82MwIQBAGAHf0ALgI2nEIP-s4Vk8t8O7xJ0jtx-DYYG45yxNzoDEtEP68P8ftevo2tswA-HIQJ_a9Vr3hwZFAGOqxZDQrGXpbTRvHc-2",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ4ZR8hLWAj4ARLXPy9odfL0s",
+            "plus_code":{
+                  "compound_code":"QPXM+QC Oakland, CA, USA",
+                  "global_code":"849VQPXM+QC"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ4ZR8hLWAj4ARLXPy9odfL0s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":198,
+            "vicinity":"188 10th Street, Oakland",
+            "CBG":60014033002,
+            "Radius":238.1748896428
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7966764,
+                        "lng":-122.2653333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7981173303,
+                              "lng":-122.2639373697
+                        },
+                        "southwest":{
+                              "lat":37.7954193697,
+                              "lng":-122.2666353303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Krispy Krunchy Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":935,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111450706673730952587\">Albertino M.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB3FDdlxdDgQtdACeZEeeI7AmItY46HxIH1MiGI05k5PUk2DO3lRmf889E92yWYhgJW-9oTIWskRaL4M7P-ibW6v4Szku5_UCbhWIl6u1aUKqVRsZafT4Pk4RGHimciwb7UDdlQ10DmsmcM5sZz3Byr2e4mlMAIW6Kr6YIbCUEFZiVS",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ2V30miiHj4AReknLwFsl2IU",
+            "plus_code":{
+                  "compound_code":"QPWM+MV Oakland, CA, USA",
+                  "global_code":"849VQPWM+MV"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ2V30miiHj4AReknLwFsl2IU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"93 8th Street, Oakland",
+            "CBG":60014033002,
+            "Radius":238.1748896428
+      }
+]

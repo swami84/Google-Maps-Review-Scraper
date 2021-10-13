@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0254065,
+                        "lng":-118.3459137
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0267725803,
+                              "lng":-118.3446355197
+                        },
+                        "southwest":{
+                              "lat":34.0240746197,
+                              "lng":-118.3473334803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mel's Fish Shack",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109421066511502782679\">Mel&#39;s Fish Shack<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA8c2phNiReVhz2PlTk2XGMtpxFR0TKc184WLtQjA_xXuNqlzSwfcLmN2BHE2Gb3TfvNQFNmqA9SR6Rn7ILQvWlyalOM3LPrlRU4WMGLElGezyJ1fZPhW8Ai21GKJbzpe74Hxk_Mr2KzXMm_O017GnWsM4sAqYMWe9w9XwTkHLynkQD",
+                        "width":1499
+                  }
+            ],
+            "place_id":"ChIJ11sYNEu4woARNHptC7fl0sU",
+            "plus_code":{
+                  "compound_code":"2MG3+5J Los Angeles, CA, USA",
+                  "global_code":"85632MG3+5J"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ11sYNEu4woARNHptC7fl0sU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":640,
+            "vicinity":"4524 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372200003,
+            "Radius":228.441748812
+      }
+]

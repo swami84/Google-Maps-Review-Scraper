@@ -1,0 +1,117 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7744608,
+                        "lng":-117.0484122
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7756769803,
+                              "lng":-117.0470871697
+                        },
+                        "southwest":{
+                              "lat":32.7729790197,
+                              "lng":-117.0497851303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Marie Callender's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2184,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108586853889520954615\">Gregory Paul<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBmrubo0Sl1rj14TCOFoYJogHtQl8DKMYtzDCR3O54mizgRXI0IdPuZxcGhuaQ5RoE3n2LGWlWXYa32ZvZ0oHdkSizU_xxwLgZjA_qucD5wkX8YYGhkQSAk1GtLXb4qk4KMqfyyyzVcq0oYyM6QSO3IjhgJ5hS5txNEIuvO965HxvGG",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJIZCgovFW2YARtBCjL24JL2Q",
+            "plus_code":{
+                  "compound_code":"QXF2+QJ San Diego, CA, USA",
+                  "global_code":"8544QXF2+QJ"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJIZCgovFW2YARtBCjL24JL2Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1517,
+            "vicinity":"6950 Alvarado Road, San Diego",
+            "CBG":60730029053,
+            "Radius":430.4803494105
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7750973,
+                        "lng":-117.0489808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7763444803,
+                              "lng":-117.0477913197
+                        },
+                        "southwest":{
+                              "lat":32.7736465197,
+                              "lng":-117.0504892803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"DZ Akins",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1125,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109081062241375042414\">DZ Akins<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC8xOjdF8aRo1m2mtfWQOaSFCWlIUJZa6y8hajt_KvUIwHeOUrlzoPg-J8lpHDl4tQkNCxX5xCfJGu2YNBqEitAuUTzn2czzOzrObRwonkyoCf7ZG3mmMGcQjxEzhGT2UY50ffS9p4dybaRBzAzMX9Kb2qCiUVo37stOEkKLcMZcnNe",
+                        "width":2436
+                  }
+            ],
+            "place_id":"ChIJ6yKSdvFW2YARBXBfc0yr4Y0",
+            "plus_code":{
+                  "compound_code":"QXG2+2C San Diego, CA, USA",
+                  "global_code":"8544QXG2+2C"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ6yKSdvFW2YARBXBfc0yr4Y0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":3842,
+            "vicinity":"6930 Alvarado Road, San Diego",
+            "CBG":60730029053,
+            "Radius":430.4803494105
+      }
+]

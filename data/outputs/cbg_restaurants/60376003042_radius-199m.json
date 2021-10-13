@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9308004,
+                        "lng":-118.2938135
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9322142303,
+                              "lng":-118.2924336197
+                        },
+                        "southwest":{
+                              "lat":33.9295162697,
+                              "lng":-118.2951315803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mom's Bar-B-Q",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114941517340484079259\">L. Monk<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZxYKGYqCjVqkP-Ea1rB2LxeI_39xrcvc6FJbjndxMGSz3wcSU78lTFp76vP445dhYS4g-1RAlcc4AVnfpDoZtqkscRGnQzCTmwxwUdfQeVhgr0UJ3rGygoUp7RZGAXufc1sIwe8Oc0gjsjHAMvHOj0cAqbmSjq0-ddtP6iaCVg3-5",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJAR_liwHKwoARL5e7hmQL4jg",
+            "plus_code":{
+                  "compound_code":"WPJ4+8F Los Angeles, CA, USA",
+                  "global_code":"8553WPJ4+8F"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJAR_liwHKwoARL5e7hmQL4jg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":824,
+            "vicinity":"1050 Imperial Highway, Los Angeles",
+            "CBG":60376003042,
+            "Radius":198.5666822297
+      }
+]

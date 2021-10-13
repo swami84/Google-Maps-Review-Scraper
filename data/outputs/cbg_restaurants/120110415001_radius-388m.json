@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1297347,
+                        "lng":-80.1515587
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1310007303,
+                              "lng":-80.1501891697
+                        },
+                        "southwest":{
+                              "lat":26.1283027697,
+                              "lng":-80.1528871303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jimmy John's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104690912414985454849\">andr\u00e9s sol\u00eds the indestructible<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDzJ3NwYT-GM86gj17SCO34788z51JjCwCm4qBuvxi4FxTyC2D5JnNobLgBOVva1ubxWkybn0zVB4QwQyT9D92QZIdszeeeuYnsH7dyg9pS0yrULNcefhsfxuFtQeP8f80YfSyAR3fRj--isECqazGxvFEYkYYNYMQmuLmLngapqTo",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJnWLIiAIB2YgRi9BBD2KKJJQ",
+            "plus_code":{
+                  "compound_code":"4RHX+V9 Fort Lauderdale, FL, USA",
+                  "global_code":"76RX4RHX+V9"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJnWLIiAIB2YgRi9BBD2KKJJQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":176,
+            "vicinity":"729 Northwest 6th Street, Fort Lauderdale",
+            "permanently_closed":null,
+            "CBG":120110415001,
+            "Radius":388.1345510175
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":26.1346151,
+                        "lng":-80.1554398
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1359604803,
+                              "lng":-80.1542182697
+                        },
+                        "southwest":{
+                              "lat":26.1332625197,
+                              "lng":-80.1569162303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Shrimpy Fish and Chicken",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105195282304410477342\">Shrimpy Fish and Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAsm96BaywArGuFuBXnoDscBRcO_ybFpp7GncKxD_78_MnsibFh8B3nL-xeiz49U8azoinrk62-SkXyHjhC0hsGRa7jQbdchxYBKXQm-xMbNO6Wd2h93dEfZCQGHc13bu0cBGy2RdvHukZtVyHLPmznr3Pq_pUeaSSkQ3eEtzgOtHjM",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ6cZxcZkB2YgRFbO2b1VmAD8",
+            "plus_code":{
+                  "compound_code":"4RMV+RR Fort Lauderdale, FL, USA",
+                  "global_code":"76RX4RMV+RR"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ6cZxcZkB2YgRFbO2b1VmAD8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"844 Northwest 10th Terrace, Fort Lauderdale",
+            "permanently_closed":true,
+            "CBG":120110415001,
+            "Radius":388.1345510175
+      }
+]

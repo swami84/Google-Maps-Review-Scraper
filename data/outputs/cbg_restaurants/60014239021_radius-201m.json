@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8562086,
+                        "lng":-122.2531422
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8574847303,
+                              "lng":-122.2517641697
+                        },
+                        "southwest":{
+                              "lat":37.8547867697,
+                              "lng":-122.2544621303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"A'Cuppa Tea",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111383913900870229200\">Lawrence Marcus<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAAwjI0y0iw_AHk7TXuKz3_It9Ih7LD05nvFYzjnXPUJc_1AbtOGsaZCyZNKtGX-S0rwln2g4EPH2wcloRuEWWaGiQ3f0zQDxZdJ4LScyo35mALfXtyfY09UZBB-A5_RB6TJdaeD6KZSwM43_Pv353iLKpaPqYHD2m2UnWrdv_FJsxQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJS99RaMV9hYARiRGhFGT0qPc",
+            "plus_code":{
+                  "compound_code":"VP4W+FP Berkeley, CA, USA",
+                  "global_code":"849VVP4W+FP"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJS99RaMV9hYARiRGhFGT0qPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"2992 College Avenue, Berkeley",
+            "CBG":60014239021,
+            "Radius":200.7682723872
+      }
+]

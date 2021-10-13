@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.153187,
+                        "lng":-118.257566
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1544081303,
+                              "lng":-118.2562655697
+                        },
+                        "southwest":{
+                              "lat":34.1517101697,
+                              "lng":-118.2589635303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2368,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110351479124700473227\">Keith Best<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuZ7otaAMUEYOwW5lCEql6MK0Er6h4oQHj-fFYlg39xyQjufppdlgePdSpBIeR5llsUnDJYXFqnRq45yXK0tuJG0GeeDf0Xcx0rsrmCAUU0l3RKHlnP2t4Cz6O98tq3MxPPe_5D2xQFqIc3v78yixpgVeohy7XBlXpgHZOmYJ1-yct",
+                        "width":4208
+                  }
+            ],
+            "place_id":"ChIJ5_ssx1PAwoAREc_Qdvkn9do",
+            "plus_code":{
+                  "compound_code":"5P3R+7X Glendale, CA, USA",
+                  "global_code":"85635P3R+7X"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ5_ssx1PAwoAREc_Qdvkn9do",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1371,
+            "vicinity":"500 North Central Avenue, Glendale",
+            "CBG":60373018012,
+            "Radius":328.4305498287
+      }
+]

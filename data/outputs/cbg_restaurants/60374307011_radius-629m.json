@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1444069,
+                        "lng":-118.0518585
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1455685303,
+                              "lng":-118.0499470197
+                        },
+                        "southwest":{
+                              "lat":34.1428705697,
+                              "lng":-118.0526449803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"The Peacock Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108595429008538742633\">Diana Martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOVLZTD5W3BKLKNaz5nDFR5nJ0rwSBUOLnKnTwP7WS8HRz6C5L9YwA8xuhYCJGrM07wRzIPnI3-koIqtCA52xmlsBB10vzZmJg708vOsGrF9vybTnicaKjmx8Hi-aOFAMTuqJyihDfmwYM_GSnCebM_zRGKcWs4oSh66_TJF3leVPJ",
+                        "width":3096
+                  }
+            ],
+            "place_id":"ChIJ-eut-JDbwoARTkGD3LDyzug",
+            "plus_code":{
+                  "compound_code":"4WVX+Q7 Arcadia, CA, USA",
+                  "global_code":"85634WVX+Q7"
+            },
+            "rating":4.4,
+            "reference":"ChIJ-eut-JDbwoARTkGD3LDyzug",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"301 North Baldwin Avenue, Arcadia",
+            "CBG":60374307011,
+            "Radius":628.8251686531
+      }
+]

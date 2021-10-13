@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.840986,
+                        "lng":-122.274082
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8423232803,
+                              "lng":-122.2728298697
+                        },
+                        "southwest":{
+                              "lat":37.8396253197,
+                              "lng":-122.2755278303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Al-Maida Hot Food and Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105662936779275764261\">Al-Maida Hot Food and Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBUCnSIeSWtimqHN105WdTKmC11CowiUosP42nl1Iy9Qb6HwKDlvUZdlAd8o2FZyj49yk71OTMG0XQyPXu48JtxyEAAt9zTN_U9_57wXoG52HDr3i3QF9uON4TODdNxeTsCmZPI-H0RPSQHteUAyzZXrf64eR4pS7-yKOHX-nNglbLA",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ_-Ucg3F-hYAR3QCD0ilqJX0",
+            "plus_code":{
+                  "compound_code":"RPRG+99 Oakland, CA, USA",
+                  "global_code":"849VRPRG+99"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJ_-Ucg3F-hYAR3QCD0ilqJX0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"5650 Market Street, Oakland",
+            "CBG":60014007003,
+            "Radius":210.6052534492
+      }
+]

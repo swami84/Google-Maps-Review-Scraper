@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.0169079,
+                        "lng":-87.9587483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0182575303,
+                              "lng":-87.9574423697
+                        },
+                        "southwest":{
+                              "lat":43.0155595697,
+                              "lng":-87.9601403303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Rodeo",
+            "place_id":"ChIJtWNEJ6obBYgRlFsewdCiC2k",
+            "plus_code":{
+                  "compound_code":"228R+QG Milwaukee, WI, USA",
+                  "global_code":"86MJ228R+QG"
+            },
+            "reference":"ChIJtWNEJ6obBYgRlFsewdCiC2k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1401 South 36th Street, Milwaukee",
+            "CBG":550790161002,
+            "Radius":213.0583360462
+      }
+]

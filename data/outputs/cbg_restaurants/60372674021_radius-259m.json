@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0448705,
+                        "lng":-118.4661173
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0463142303,
+                              "lng":-118.4648742697
+                        },
+                        "southwest":{
+                              "lat":34.0436162697,
+                              "lng":-118.4675722303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"California Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116513797712236546430\">Jessica Golden<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDIm-edLee6BAwp5Ug5U1DXPge3F2FEbtvgo6atbhKkUDSToK-u59YL21WaFR17KCywnau86f1OmuYx9h453gtxmhGzl3B9EBsf_1yzV7UYqodxfUIWG05CaUTIXXOpGNWx0fOF-P9Ao_Ngzw_w3O9mI2jUKy9CqV6Me8jSdnx3oTjB",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJpWOCy4a7woARhGeCgrhSfwQ",
+            "plus_code":{
+                  "compound_code":"2GVM+WH Los Angeles, CA, USA",
+                  "global_code":"85632GVM+WH"
+            },
+            "rating":3.8,
+            "reference":"ChIJpWOCy4a7woARhGeCgrhSfwQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":233,
+            "vicinity":"12004 Wilshire Boulevard, Los Angeles",
+            "CBG":60372674021,
+            "Radius":259.3296668974
+      }
+]

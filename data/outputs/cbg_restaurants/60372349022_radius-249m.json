@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9823584,
+                        "lng":-118.3352775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9837075303,
+                              "lng":-118.3339091197
+                        },
+                        "southwest":{
+                              "lat":33.9810095697,
+                              "lng":-118.3366070803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Section 8 referral",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJL0bB9tq3woARePPAZ-jBHfE",
+            "plus_code":{
+                  "compound_code":"XMJ7+WV Los Angeles, CA, USA",
+                  "global_code":"8553XMJ7+WV"
+            },
+            "rating":5,
+            "reference":"ChIJL0bB9tq3woARePPAZ-jBHfE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"6328-6310 West Boulevard, Los Angeles",
+            "CBG":60372349022,
+            "Radius":248.5323957231
+      }
+]

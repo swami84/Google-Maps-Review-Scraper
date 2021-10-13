@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.030879,
+                        "lng":-118.187104
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0322262803,
+                              "lng":-118.1859068197
+                        },
+                        "southwest":{
+                              "lat":34.0295283197,
+                              "lng":-118.1886047803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chapo's Carnitas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1228,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112182057401948593770\">Cemitas Poblanas Cinco de mayo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECOlgnVSfJLz4Rc4X5mc8s3zSmRMCEYk0iSnSpqHQdxoDirAVj588SOeZ5aH6XjSL58NEEOwjQ5_9ICZBjRQPFKX33zQ6PEFJVRdc-Fm0p9P1tYoXTgXEA78eRpxT7Bw_Jrs4wP2qsUm2mFezf6GRYFq0N5DOaMnlLxsfb_wmwPZpw6",
+                        "width":1716
+                  }
+            ],
+            "place_id":"ChIJrZpZr7bPwoAReX9YWrn5m4Q",
+            "plus_code":{
+                  "compound_code":"2RJ7+95 Los Angeles, CA, USA",
+                  "global_code":"85632RJ7+95"
+            },
+            "reference":"ChIJrZpZr7bPwoAReX9YWrn5m4Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"450 South Rowan Avenue, Los Angeles",
+            "CBG":60375312012,
+            "Radius":278.9762034683
+      }
+]

@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7526509,
+                        "lng":-117.0661397
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7538902803,
+                              "lng":-117.0647430697
+                        },
+                        "southwest":{
+                              "lat":32.7511923197,
+                              "lng":-117.0674410303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fish taco truck",
+            "place_id":"ChIJI7LDh8FX2YAR46NxlrrtEGc",
+            "plus_code":{
+                  "compound_code":"QW3M+3G San Diego, CA, USA",
+                  "global_code":"8544QW3M+3G"
+            },
+            "rating":4.7,
+            "reference":"ChIJI7LDh8FX2YAR46NxlrrtEGc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"6070 1\/2 University Avenue, San Diego",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60730027022,
+            "Radius":363.2710662078
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.752669,
+                        "lng":-117.0660805
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7539084303,
+                              "lng":-117.0646839197
+                        },
+                        "southwest":{
+                              "lat":32.7512104697,
+                              "lng":-117.0673818803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Valedor Seafood",
+            "place_id":"ChIJo6wn3J9X2YARe8-7GJ2FwLs",
+            "plus_code":{
+                  "compound_code":"QW3M+3H San Diego, CA, USA",
+                  "global_code":"8544QW3M+3H"
+            },
+            "rating":4.5,
+            "reference":"ChIJo6wn3J9X2YARe8-7GJ2FwLs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":155,
+            "vicinity":"6070 1\/2 University Avenue, San Diego",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107227569808727477097\">Yuliana Hernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKja3WXunQU2dbdiYlKdIXAcYiXXoLeX6BvnPEI-6ncVLGajcB4u7m2Q2TeA2xU35XL9pkh3hPH9L2K1tQHHusdES4XwazWpW5ZP9hwuZR8a1uv1rqYvY9pLKIhhJl81IoXmzcgv4NwmQLr33GGN-ewIlv7FakjRevow9dmg4e_wAD",
+                        "width":4032
+                  }
+            ],
+            "CBG":60730027022,
+            "Radius":363.2710662078
+      }
+]

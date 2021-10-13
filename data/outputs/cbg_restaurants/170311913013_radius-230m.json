@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9218606,
+                        "lng":-87.7836335
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9233108803,
+                              "lng":-87.7822035697
+                        },
+                        "southwest":{
+                              "lat":41.9206129197,
+                              "lng":-87.7849015303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Reynoso Sports",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJFdo39WbLD4gRvwg169IhaZQ",
+            "plus_code":{
+                  "compound_code":"W6C8+PG Chicago, IL, USA",
+                  "global_code":"86HJW6C8+PG"
+            },
+            "rating":5,
+            "reference":"ChIJFdo39WbLD4gRvwg169IhaZQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"6315 West Grand Avenue, Chicago",
+            "CBG":170311913013,
+            "Radius":230.3338091985
+      }
+]

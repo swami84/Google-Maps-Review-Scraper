@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.880383,
+                        "lng":-118.1524333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8816203803,
+                              "lng":-118.1512092197
+                        },
+                        "southwest":{
+                              "lat":33.8789224197,
+                              "lng":-118.1539071803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos La Carreta",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117001898077109403373\">Hector Avendano<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDtuccKpSwpJ7SFk_DLns4wasKFzdahmHTsOfcvqSg-AkEpX-sbg6h7P7rmbDjgkJ6KPyCQnfDUAKHgvB1ZtI2fbES509V8B0jMdXlmLlA-g6wr7O7ie7rpOhsV58OeuQicosu1p6fg6yGiLM5gXoX8uFeQ7P4HrF5wG4L_GdKFj3Dn",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJg-APhOEz3YARvmi0v_XR47g",
+            "plus_code":{
+                  "compound_code":"VRJX+52 Long Beach, CA, USA",
+                  "global_code":"8553VRJX+52"
+            },
+            "rating":5,
+            "reference":"ChIJg-APhOEz3YARvmi0v_XR47g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"3401 East 69th Street, Long Beach",
+            "CBG":60375702031,
+            "Radius":425.0400029089
+      }
+]

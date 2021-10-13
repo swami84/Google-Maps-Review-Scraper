@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.666452,
+                        "lng":-122.300817
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6677137303,
+                              "lng":-122.2994693197
+                        },
+                        "southwest":{
+                              "lat":47.6650157697,
+                              "lng":-122.3021672803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mamma Melina Ristorante & Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":438,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102326351384521643505\">Mamma Melina Ristorante &amp; Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJHLO3eTAHJOwqmPmBCE1jv6DdLPcAxSscAq7hepKHvTXRlN-ggTZ2DACSZBkT-esvzR6qOtJnecpU8ReTfW3bq4lYvEaxPULY-JFUnowlJsg7S4bxhRt0rAtDVKibZ0_F0t_gMrKWksNbymVkKNageqef3N22tAeGk6hNCyjWupRC",
+                        "width":700
+                  }
+            ],
+            "place_id":"ChIJ_VxjXmAUkFQRrWTepnXcx34",
+            "plus_code":{
+                  "compound_code":"MM8X+HM Seattle, WA, USA",
+                  "global_code":"84VVMM8X+HM"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ_VxjXmAUkFQRrWTepnXcx34",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":761,
+            "vicinity":"5101 25th Avenue Northeast suit 2\/3, Seattle",
+            "CBG":530330043022,
+            "Radius":241.4283187997
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6655843,
+                        "lng":-122.3013213
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6668704803,
+                              "lng":-122.2999219697
+                        },
+                        "southwest":{
+                              "lat":47.6641725197,
+                              "lng":-122.3026199303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nasai Teriyaki",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1181,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116489659339752818525\">Sebasti\u00e1n Godoy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECiF032MRDIk4RMymcH3EJ4EYhLzEpq9RTMGGLSCAh4TXJOADSBKXuKfR_kpWCA37un-Cz7uKGFWeN8rFGAtg92oKvWWKqB_3705Zh5mWSNiVhk0fIOtlW5NOFZVNhZrERdSh572RnCdsIxKyhqfUyN-6udyuyYlNTD_QQhGh-3NaJT",
+                        "width":1079
+                  }
+            ],
+            "place_id":"ChIJlTjy2ocUkFQRWtk_eO3gpsI",
+            "plus_code":{
+                  "compound_code":"MM8X+6F Seattle, WA, USA",
+                  "global_code":"84VVMM8X+6F"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJlTjy2ocUkFQRWtk_eO3gpsI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"5025 25th Avenue Northeast, Seattle",
+            "CBG":530330043022,
+            "Radius":241.4283187997
+      }
+]

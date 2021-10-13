@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1144724,
+                        "lng":-118.1806741
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1158213803,
+                              "lng":-118.1793251197
+                        },
+                        "southwest":{
+                              "lat":34.1131234197,
+                              "lng":-118.1820230803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104663028687520166270\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDWI4-1bCPTD-ccicacRYIDWWV674L9rXIxizgyQxcs1T7fbjK81sM6myDHnjFUHe1nUutDQPVLSp6VBlnxn3qDUK5Czv4-ejFhkNikoLSBYpUo8q1qH-ik1PNeoWRvahiZXbVCUhEDN729DlHu3-I295eCGzye9g6RvV5Ywp2Ywh7e",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJW2sG3zjFwoAR32zpDhEZUqc",
+            "plus_code":{
+                  "compound_code":"4R79+QP Los Angeles, CA, USA",
+                  "global_code":"85634R79+QP"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJW2sG3zjFwoAR32zpDhEZUqc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"6421 York Boulevard, Los Angeles",
+            "CBG":60371831031,
+            "Radius":319.0914835013
+      }
+]

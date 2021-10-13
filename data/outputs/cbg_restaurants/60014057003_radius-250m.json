@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7986088,
+                        "lng":-122.2316641
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8001935803,
+                              "lng":-122.2302473197
+                        },
+                        "southwest":{
+                              "lat":37.7974956197,
+                              "lng":-122.2329452803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Highland Hospital Cafeteria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107605314953975542378\">Thomas Poelman<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAst5fjdQObgqtGmJ2-vks-KyoEuuo0Q3nnKgjkZyw1o9ApgjUrqxQsi2REsUzz45u05jN1XUs_qJuB0H3DDbqPb2-uca5I9celjxuzq3XmdeT_t4P4GdVg2wMunOX5wSnQct3mAHoEhujb3njEMvou3jJ8b6Y3xy2dQMcF00FFzvD7",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJrXqvkdmHj4AR1rWQy6fNc7k",
+            "plus_code":{
+                  "compound_code":"QQX9+C8 Oakland, CA, USA",
+                  "global_code":"849VQQX9+C8"
+            },
+            "rating":5,
+            "reference":"ChIJrXqvkdmHj4AR1rWQy6fNc7k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1411 East 31st Street, Oakland",
+            "CBG":60014057003,
+            "Radius":250.0652190141
+      }
+]

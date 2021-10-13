@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7896778,
+                        "lng":-118.1968
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7909968803,
+                              "lng":-118.1953570197
+                        },
+                        "southwest":{
+                              "lat":33.7882989197,
+                              "lng":-118.1980549803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mariscos Brite Spot",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101576434681104960970\">Leonard Tatum<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBOXx7vxlxO4e8c17hCs8mG7YpceaMoE6s3Rw7SStLtDJrOv7lmJhe4WjUCOUcwQIWCHhBwMFoHxze_2sifycfv-6wTZE8zTQFSv5IpEwSpDzV4xv4xfk_MWH9sa1XBk0xFOy2vFOia47nVyqFFRghd0nWd3xsmhSTQjwMN7e3qM_L1",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJBRcfqlcx3YARuRLtqriiSS0",
+            "plus_code":{
+                  "compound_code":"QRQ3+V7 Long Beach, CA, USA",
+                  "global_code":"8553QRQ3+V7"
+            },
+            "price_level":2,
+            "rating":4.0,
+            "reference":"ChIJBRcfqlcx3YARuRLtqriiSS0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":230,
+            "vicinity":"412 West Pacific Coast Highway, Long Beach",
+            "CBG":60375730042,
+            "Radius":180.6675647947
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.789553,
+                        "lng":-118.1961589
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7909529803,
+                              "lng":-118.1947818197
+                        },
+                        "southwest":{
+                              "lat":33.7882550197,
+                              "lng":-118.1974797803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hong Kong Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101773048864428339110\">La Nancy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwMuh-WhMFLAdci24DA2ub7uYOAYUGZw09Ra7Ilb1WmJJ0lSMNRbEDNDa8Upfo2zBxQt_hzg78nWbCH-t8dFiFxbfDZ_RvaU0KvlgSVrICtcGPgwTN8BiLLTYdd6oz2-tEAkcP9ypR_PkIqDsjcTdWQcvNSPJD1nd2YJGS94yGpa94",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJi6HeClcx3YARoj_I5QyF2gw",
+            "plus_code":{
+                  "compound_code":"QRQ3+RG Long Beach, CA, USA",
+                  "global_code":"8553QRQ3+RG"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJi6HeClcx3YARoj_I5QyF2gw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"350 West Pacific Coast Highway, Long Beach",
+            "CBG":60375730042,
+            "Radius":180.6675647947
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":18.4213574,
+                        "lng":-66.0819557
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":18.4221416303,
+                              "lng":-66.0807476197
+                        },
+                        "southwest":{
+                              "lat":18.4194436697,
+                              "lng":-66.0834455803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Moraleja Bar & Rest.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJGcJRTO9pA4wRC-wFRUoOvJ8",
+            "plus_code":{
+                  "compound_code":"CWC9+G6 San Juan, Puerto Rico",
+                  "global_code":"77CMCWC9+G6"
+            },
+            "rating":5,
+            "reference":"ChIJGcJRTO9pA4wRC-wFRUoOvJ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"PR 156 KM 41.6 Barrio",
+            "CBG":721270043062,
+            "Radius":151.6022658868
+      }
+]

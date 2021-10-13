@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0535757,
+                        "lng":-77.1246332
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0545979803,
+                              "lng":-77.1232919197
+                        },
+                        "southwest":{
+                              "lat":39.0519000197,
+                              "lng":-77.1259898803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"2 Beans In A Cup",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108113814291952217914\">Elkana Bar-Eitan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBusy2YapVBmkyD3OcyyLzGxLosLTkazWrL_C8SNlfB9AL92RL-nbKprUH5n9OZOsk5Hoc7XNwciX7tvJadpgPj_yL6RHHOHLxvOO-JELRfC0EIrgZtLWKQ5AYELG9WrsaXj3bCsqg5EvMnGUdPV4TQzo_BNLxlaNHChXnMjql7lmhN",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJG5HC0NPNt4kRyHP5nAG-vhM",
+            "plus_code":{
+                  "compound_code":"3V3G+C4 Rockville, MD, USA",
+                  "global_code":"87F43V3G+C4"
+            },
+            "rating":5,
+            "reference":"ChIJG5HC0NPNt4kRyHP5nAG-vhM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6125 Montrose Road, Rockville",
+            "CBG":240317012181,
+            "Radius":281.9796736099
+      }
+]

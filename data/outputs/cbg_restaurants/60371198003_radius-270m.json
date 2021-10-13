@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2313837,
+                        "lng":-118.4301765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2327851803,
+                              "lng":-118.4287537697
+                        },
+                        "southwest":{
+                              "lat":34.2300872197,
+                              "lng":-118.4314517303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barbacoa Estilo Chihuahua",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107382987241165330193\">Xing<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYFFmmqL-FhoxAoexpjIzJI-XLl-rUYNOjzgVJM6GPOW3kMUfql21mQM678w-YyPs3iI63tco113kE8BfSSn7o-A9WlT6rK86xXbRlCc119pGz8Fv_Cs33Jf9WgLHI7HZPZDJ7gRN0zTeB7LUZ3-B8xJQsa6W_vthUGKsCET3VB_7w",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq6WPT1GRwoARz7iNUg6skNw",
+            "plus_code":{
+                  "compound_code":"6HJ9+HW Arleta, Los Angeles, CA, USA",
+                  "global_code":"85636HJ9+HW"
+            },
+            "rating":5,
+            "reference":"ChIJq6WPT1GRwoARz7iNUg6skNw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"8905 Gullo Avenue, Arleta",
+            "CBG":60371198003,
+            "Radius":269.9899173775
+      }
+]

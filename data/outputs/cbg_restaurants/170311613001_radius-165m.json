@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9447055,
+                        "lng":-87.7274947
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9461016803,
+                              "lng":-87.7261751197
+                        },
+                        "southwest":{
+                              "lat":41.9434037197,
+                              "lng":-87.7288730803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Humita",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1354,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104583127799479271224\">Jim Spoolstra<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAKxkIv-3yNHt8R9K2qdgqDVhaOnMoI9mZkwayT616xsBCOultRHvUdlCiLQ9gIW5j1kw9H46ThMUn7qBJUZ5uQ85Rd7uyKVbEfjgKEEUkAJ9ZZ5DMUoS_E9JqvE3OXOQXHloXvUZrtDkpvU5GwqfJJcNtsFNoys2Qi1iKbjxe0DLDs",
+                        "width":976
+                  }
+            ],
+            "place_id":"ChIJCwhdhK_ND4gRoIz_PWdgot4",
+            "plus_code":{
+                  "compound_code":"W7VF+V2 Chicago, IL, USA",
+                  "global_code":"86HJW7VF+V2"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJCwhdhK_ND4gRoIz_PWdgot4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":244,
+            "vicinity":"3466 North Pulaski Road, Chicago",
+            "CBG":170311613001,
+            "Radius":164.9866304489
+      }
+]

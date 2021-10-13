@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5256397,
+                        "lng":-112.1162232
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5268950803,
+                              "lng":-112.1148425197
+                        },
+                        "southwest":{
+                              "lat":33.5241971197,
+                              "lng":-112.1175404803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Andes Peruvian Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2184,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111739512533702881196\">D\u0169ng Minh<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA4g-LOkE3SkP_v4qikWPk5k-tIyjeIW8i3QpnlmYmBikDTL-IeH5m-ARMqbPSZEC2yk1l0_5DQKoCVBMbLYok6gxgmBTNd5Fytdp_iuei7qXniZrUbzDtj9f_68uDhYit_3E_DKtYMAnA-DG391he5zJRB7barcujXe4Ks7fi6I6Vf",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJrT91SkRtK4cRTYxlk2j0Uj0",
+            "plus_code":{
+                  "compound_code":"GVGM+7G Phoenix, AZ, USA",
+                  "global_code":"8559GVGM+7G"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJrT91SkRtK4cRTYxlk2j0Uj0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":207,
+            "vicinity":"6025 North 27th Avenue # 24, Phoenix",
+            "CBG":40131068013,
+            "Radius":235.4469329347
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5244048,
+                        "lng":-112.1160639
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5257010803,
+                              "lng":-112.1146144697
+                        },
+                        "southwest":{
+                              "lat":33.5230031197,
+                              "lng":-112.1173124303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108192036027706929596\">Miguel Villagran<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBa595Jn2XUgfE72KEjd8LCdLzs81MI5z1_Kjbcb9O--NAzV5hmicj2ErRaukDRjYTJ5dy2PNc8_zmo0_Mixq-VbAr0NKf9byGD4RDdHZ7T3QCjls3tvF9Yi_uVXdHR-Mu-wZJbBMkpllVicoAHzfUaUkQXG2QqQpCDx48ZfQO2dF4u",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJHXWdrMtsK4cRz6EhODaurfE",
+            "plus_code":{
+                  "compound_code":"GVFM+QH Phoenix, AZ, USA",
+                  "global_code":"8559GVFM+QH"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJHXWdrMtsK4cRz6EhODaurfE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":852,
+            "vicinity":"2640 West Bethany Home Road, Phoenix",
+            "CBG":40131068013,
+            "Radius":235.4469329347
+      }
+]

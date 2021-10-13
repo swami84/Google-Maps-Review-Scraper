@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.2508766,
+                        "lng":-110.9079246
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.2522225303,
+                              "lng":-110.9066835697
+                        },
+                        "southwest":{
+                              "lat":32.2495245697,
+                              "lng":-110.9093815303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway 1841",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102883754991449941196\">Liz Brown<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDD8h4LIJy75q69yohIAGBxU2Xp8gQ0g4tz-Hz9FdQGr9HN7Swz_WR_yeoEIK9_h8-HbtRAMkOUK4z-HwsQlSZ0RnYKoku_npCw-m8Il9L8WJDlY6KqR-BoGOT-tyaiJ5ZXsqX6npO5a2dYQY5gUOBFwkWGJzcALDobg3ym0iOPZGu5",
+                        "width":1932
+                  }
+            ],
+            "place_id":"ChIJHVzwtt5x1oYRdpiFfTk1hsE",
+            "plus_code":{
+                  "compound_code":"732R+9R Tucson, AZ, USA",
+                  "global_code":"854F732R+9R"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJHVzwtt5x1oYRdpiFfTk1hsE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":246,
+            "vicinity":"3999 East Grant Road, Tucson",
+            "CBG":40190029014,
+            "Radius":320.4234262635
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.2509414,
+                        "lng":-110.9074199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.2522322303,
+                              "lng":-110.9060363697
+                        },
+                        "southwest":{
+                              "lat":32.2495342697,
+                              "lng":-110.9087343303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Filiberto\u2019s Mexican Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102994775193441746115\">Filiberto\u2019s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDSXGPFK6zKbqfdaTSSkqQdl_-zj2FXvDfFCwlLHax1VxzoEUByhKL9EK92BWQWWoh1tdE34waV2Jnw3Y6RM-NSWubBb2ciHx3C0P0UufsukIPpKX9qabeo3T8qq4o1ZifA7t7a5TDZ92eM_L3v7bIUWTVKoavXWWrC4V8h6YaYTxgI",
+                        "width":1334
+                  }
+            ],
+            "place_id":"ChIJyYHzx95x1oYRhC4uQYa1DrA",
+            "plus_code":{
+                  "compound_code":"732V+92 Tucson, AZ, USA",
+                  "global_code":"854F732V+92"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJyYHzx95x1oYRhC4uQYa1DrA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1144,
+            "vicinity":"Northgate,4011, East Grant Road, Tucson",
+            "CBG":40190029014,
+            "Radius":320.4234262635
+      }
+]

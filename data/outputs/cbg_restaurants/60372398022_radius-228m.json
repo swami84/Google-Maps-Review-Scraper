@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9601173,
+                        "lng":-118.2676239
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9614535803,
+                              "lng":-118.2662750697
+                        },
+                        "southwest":{
+                              "lat":33.9587556197,
+                              "lng":-118.2689730303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Oscarin",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106884318576822421179\">Jannet Delgado<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDuC1-r1iLUZM3H-4mmtl0Yuxeh8hnV6LM5RK1HojSR_kB3jeMQiRmX0JGZ4_pnRr2eI4vM9ZNzYhHBDiMNNfHPO0kSxPuN5-Qd7pCCv89gOTNxackRKHOO_uII4aL1y2q9m6Sce1q_n33qfjjRCoXJPFK9ICHDcoJ0HVU7aDR-qhxL",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJTUMzFgTJwoARlBV-y8VO27U",
+            "plus_code":{
+                  "compound_code":"XP6J+2X Los Angeles, CA, USA",
+                  "global_code":"8553XP6J+2X"
+            },
+            "rating":4.6,
+            "reference":"ChIJTUMzFgTJwoARlBV-y8VO27U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"6041018002, Los Angeles",
+            "CBG":60372398022,
+            "Radius":227.643330872
+      }
+]

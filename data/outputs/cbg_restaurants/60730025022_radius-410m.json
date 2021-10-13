@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7337706,
+                        "lng":-117.1005759
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7351214303,
+                              "lng":-117.0994497697
+                        },
+                        "southwest":{
+                              "lat":32.7324234697,
+                              "lng":-117.1021477303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Anthony Smith",
+            "place_id":"ChIJ40DKqn5V2YAR3lxRl1zn86c",
+            "plus_code":{
+                  "compound_code":"PVMX+GQ San Diego, CA, USA",
+                  "global_code":"8544PVMX+GQ"
+            },
+            "reference":"ChIJ40DKqn5V2YAR3lxRl1zn86c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2615 Fairmount Avenue #3, San Diego",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60730025022,
+            "Radius":410.0272786114
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7343219,
+                        "lng":-117.1062755
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7355780303,
+                              "lng":-117.1048119197
+                        },
+                        "southwest":{
+                              "lat":32.7328800697,
+                              "lng":-117.1075098803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cali Craft Tacos",
+            "place_id":"ChIJgbQ-Jn1V2YAReBrRIdIYC0M",
+            "plus_code":{
+                  "compound_code":"PVMV+PF San Diego, CA, USA",
+                  "global_code":"8544PVMV+PF"
+            },
+            "reference":"ChIJgbQ-Jn1V2YAReBrRIdIYC0M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4134 Poplar Street, San Diego",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111314251010045287721\">Cali Craft Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAMltx1jNGVw8mQBrm3tVXJPkjdFkC5cWm4DK05jU5WoUdVSCSEoFq-XsFmBKtH6BKzZD6NiDYJIn8sU2Fu8UcpTzPeiOWZNxe-qDRSS7GeO17l7NIwDfExm1N53u6kzJPwIgIUOEXI8Akbljn5u_M1pJmHPRWTAFfE2qr0HemhYQ17",
+                        "width":3024
+                  }
+            ],
+            "rating":5.0,
+            "user_ratings_total":4.0,
+            "CBG":60730025022,
+            "Radius":410.0272786114
+      }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0497993,
+                        "lng":-117.171342
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0510788303,
+                              "lng":-117.1699011697
+                        },
+                        "southwest":{
+                              "lat":34.0483808697,
+                              "lng":-117.1725991303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Panera Bread",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104274941572994896277\">Amanda Di Napoli<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECDnUTAC29b7wlqA_HVzFpUQyuiezqJMLqzwP9ETLXVSjsiW6ncyJ4vE6VfjKAHk7A5-MGzQpB_yMD53hDVjkRAEpEEua5F1W3MHc_YCxamzCjRXUI_flzMmk4zVWN3EcOOl2Gw2BYrREPKiS0OZkSj90FFskn7o0QFI8iLl1ML2F3U",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJt9eJQvhV24ARI9sZGSopEdg",
+            "plus_code":{
+                  "compound_code":"2RXH+WF Redlands, CA, USA",
+                  "global_code":"85642RXH+WF"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJt9eJQvhV24ARI9sZGSopEdg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":779,
+            "vicinity":"470 East Cypress Avenue, Redlands",
+            "CBG":60710084034,
+            "Radius":472.9258398286
+      }
+]

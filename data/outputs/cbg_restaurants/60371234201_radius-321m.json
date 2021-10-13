@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.198719,
+                        "lng":-118.4173371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2000682803,
+                              "lng":-118.4158384697
+                        },
+                        "southwest":{
+                              "lat":34.1973703197,
+                              "lng":-118.4185364303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"armenianlunchtruck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ_7KWYFaXwoARJKGngK4UpnY",
+            "plus_code":{
+                  "compound_code":"5HXM+F3 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635HXM+F3"
+            },
+            "reference":"ChIJ_7KWYFaXwoARJKGngK4UpnY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7039 Wortser Avenue, North Hollywood",
+            "CBG":60371234201,
+            "Radius":321.0863343501
+      }
+]

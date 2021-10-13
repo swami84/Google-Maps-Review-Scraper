@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":43.074515,
+                        "lng":-87.921705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":43.0758632803,
+                              "lng":-87.9201716197
+                        },
+                        "southwest":{
+                              "lat":43.0731653197,
+                              "lng":-87.9228695803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Freddy's Tacos",
+            "place_id":"ChIJg77L0D0ZBYgR12E-NkVafto",
+            "plus_code":{
+                  "compound_code":"33FH+R8 Milwaukee, WI, USA",
+                  "global_code":"86MJ33FH+R8"
+            },
+            "reference":"ChIJg77L0D0ZBYgR12E-NkVafto",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3065 North 8th Street, Milwaukee",
+            "CBG":550790067002,
+            "Radius":272.5210897059
+      }
+]

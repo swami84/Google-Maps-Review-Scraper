@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8348882,
+                        "lng":-122.2677371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8361955803,
+                              "lng":-122.2660999197
+                        },
+                        "southwest":{
+                              "lat":37.8334976197,
+                              "lng":-122.2687978803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lovely Day",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105191906829729119747\">Lovely Day<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB43NRq6JXVR9RBZ2NeUVknl_xoEY-Rp--IBWjg5NBgyeelMY_gVb--f0Jaf8VjKuUWAVXIr07C8CenKWjSppJcfNjnhVmibj_LSecnczp56pFVjxNgg_1PR2EQ_Q-LGISl8Z1nBKNyaKoyBTf0b1VFmBqFIB4FRm3la5N9oaxiMQs",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJn4vIqRV_hYARrLnemEuqggk",
+            "plus_code":{
+                  "compound_code":"RPMJ+XW Oakland, CA, USA",
+                  "global_code":"849VRPMJ+XW"
+            },
+            "rating":4.9,
+            "reference":"ChIJn4vIqRV_hYARrLnemEuqggk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"4629 Martin Luther King Junior Way, Oakland",
+            "CBG":60014010001,
+            "Radius":255.2401407999
+      }
+]

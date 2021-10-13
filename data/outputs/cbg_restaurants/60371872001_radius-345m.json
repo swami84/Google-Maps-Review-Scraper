@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0990547,
+                        "lng":-118.2432971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1003738803,
+                              "lng":-118.2421760697
+                        },
+                        "southwest":{
+                              "lat":34.0976759197,
+                              "lng":-118.2448740303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dessert goal",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106460951401521291559\">American Girl<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzG7MJ07MgYwh79TedkEi-Io8DbHAOSyMa0zkupfzIoqzZCUkYQY-mZZs02bOuLV73tlGwJ3v6p8U2cVndgWoNRziI2WimRJsTEjRf_Lj3t4vpfOVZRsCD0zzAcEwaklfxRfmnqx_WO22hngTNOZ_xFIU2RN9EHgvM-INmR5fypBHg",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9Y1srnXHwoARK4CIWc-p3hY",
+            "plus_code":{
+                  "compound_code":"3QX4+JM Los Angeles, CA, USA",
+                  "global_code":"85633QX4+JM"
+            },
+            "rating":4.0,
+            "reference":"ChIJ9Y1srnXHwoARK4CIWc-p3hY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2.0,
+            "vicinity":"1921 Blake Avenue, Los Angeles",
+            "CBG":60371872001,
+            "Radius":345.2416161202
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1019307,
+                        "lng":-118.2432299
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1033174303,
+                              "lng":-118.2419150197
+                        },
+                        "southwest":{
+                              "lat":34.1006194697,
+                              "lng":-118.2446129803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La grove",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJNwDPmF7HwoAR5oC92vhO4rI",
+            "plus_code":{
+                  "compound_code":"4Q24+QP Los Angeles, CA, USA",
+                  "global_code":"85634Q24+QP"
+            },
+            "rating":null,
+            "reference":"ChIJNwDPmF7HwoAR5oC92vhO4rI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2824 Newell Street, Los Angeles",
+            "CBG":60371872001,
+            "Radius":345.2416161202
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9225002,
+                        "lng":-87.7024242
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9237871303,
+                              "lng":-87.7010466197
+                        },
+                        "southwest":{
+                              "lat":41.9210891697,
+                              "lng":-87.7037445803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tropicuba",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":528,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105363805585987697491\">Tropicuba<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA6O6uYIFRDxsFWJGOBHjBjar7TazK4uVmmItRKzEQMFEtvwob2OhSBR5ViBYoc9QTiriYnc9X-KMQQJB0A7fuDIhw2yWlsKMmpuAqFjB28X1_KTymmg7lmPucgp_PV1dNIkgkznQM_rL5T4O5nat4UUTcWqESBuQUMBPojUstuChTM",
+                        "width":1552
+                  }
+            ],
+            "place_id":"ChIJ0XOi9WPND4gRMPJVgNkLhAY",
+            "plus_code":{
+                  "compound_code":"W7FX+22 Chicago, IL, USA",
+                  "global_code":"86HJW7FX+22"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ0XOi9WPND4gRMPJVgNkLhAY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":424,
+            "vicinity":"3000 West Lyndale Street, Chicago",
+            "CBG":170312212002,
+            "Radius":216.5914919982
+      }
+]

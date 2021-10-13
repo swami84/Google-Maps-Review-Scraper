@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5404313,
+                        "lng":-86.7235275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5418297803,
+                              "lng":-86.7221732697
+                        },
+                        "southwest":{
+                              "lat":33.5391318197,
+                              "lng":-86.7248712303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Georgia Road Fish & Wings",
+            "place_id":"ChIJ8VvJ0GcQiYgRIF-9PflNlis",
+            "plus_code":{
+                  "compound_code":"G7RG+5H Birmingham, AL, USA",
+                  "global_code":"865MG7RG+5H"
+            },
+            "reference":"ChIJ8VvJ0GcQiYgRIF-9PflNlis",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7555 Georgia Road, Birmingham",
+            "CBG":10730023033,
+            "Radius":497.7328981871
+      }
+]

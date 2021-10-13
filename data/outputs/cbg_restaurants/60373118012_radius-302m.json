@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1667417,
+                        "lng":-118.308546
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1682505803,
+                              "lng":-118.3070791197
+                        },
+                        "southwest":{
+                              "lat":34.1655526197,
+                              "lng":-118.3097770803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Willie's Grill & Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3898,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102541233734676253950\">S H<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED1ckyGo9a_O5lDTKMLpxYK_lZMfFqcJ8N-JFJ0cIT6QjWtQvn5wKTzNFgdcygIlpydm_1CdKt-WhpoeNRyKUQXgKhaFE1UKdOqH8ykINzTheTlt8XmuagIB7UL9nzl5wfP7PphwuBoxByBO_p_Rbpza7yRMKnXEF-yLF3iQoxxzfdq",
+                        "width":5332
+                  }
+            ],
+            "place_id":"ChIJCdkQ3XC_woARzuajJNxIVZc",
+            "plus_code":{
+                  "compound_code":"5M8R+MH Burbank, CA, USA",
+                  "global_code":"85635M8R+MH"
+            },
+            "rating":4.6,
+            "reference":"ChIJCdkQ3XC_woARzuajJNxIVZc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"929 South Victory Boulevard, Burbank",
+            "CBG":60373118012,
+            "Radius":302.4877078549
+      }
+]

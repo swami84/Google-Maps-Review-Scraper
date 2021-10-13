@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9744589,
+                        "lng":-118.2904357
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9758104803,
+                              "lng":-118.2891768697
+                        },
+                        "southwest":{
+                              "lat":33.9731125197,
+                              "lng":-118.2918748303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Winchell's Donut House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117711285086402237730\">Aleodor Dan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-4uCS9iSIQs_0hhZuY3npDx-PyVh4Ztx3Vv8ShZfdvKq-fQd19lOZQveYLAfDfgi36Zv0wBLJJGaAcCKn9iy-5mV9k4e-vFYcVFGtejUAkeN6JZD9Eyzhi4MAuoYvkaQBeU8FTwvXVe-2383g8M4PfqV4_XRSw1BisfERDaB4Mtge",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJncM4LC3IwoAR0i5QRYPnRPo",
+            "plus_code":{
+                  "compound_code":"XPF5+QR Los Angeles, CA, USA",
+                  "global_code":"8553XPF5+QR"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJncM4LC3IwoAR0i5QRYPnRPo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":407,
+            "vicinity":"928 West Florence Avenue, Los Angeles",
+            "CBG":60372377101,
+            "Radius":238.2530593991
+      }
+]

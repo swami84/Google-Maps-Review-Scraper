@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.007886,
+                        "lng":-77.040418
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0092412803,
+                              "lng":-77.0389500197
+                        },
+                        "southwest":{
+                              "lat":39.0065433197,
+                              "lng":-77.0416479803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Goldberg's New York Bagels",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":924,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104644793955163330466\">Steve Galloway<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDrHBZMftMlR9VqmjHCStkOst2KdeVILEU5MHIHLLitESnw583QQ6vimOlOPlvf_KWuyNzOEiYLZAvifBA2eyOP-7wmioUYDZuNBHf3PheR42-hrsfMpDVPClN5NSr2Ozd6dNna0yuxBWUGF0cSvyJjWuPPL6WK9BhclGrEpwWBNtUW",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJyxAZlMzIt4kRc8m92XBmccI",
+            "plus_code":{
+                  "compound_code":"2X55+5R Silver Spring, MD, USA",
+                  "global_code":"87F42X55+5R"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJyxAZlMzIt4kRc8m92XBmccI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":396,
+            "vicinity":"9328 Georgia Avenue, Silver Spring",
+            "CBG":240317028003,
+            "Radius":403.0178023403
+      }
+]

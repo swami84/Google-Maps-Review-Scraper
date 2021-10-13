@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1848767,
+                        "lng":-118.3392429
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1861777303,
+                              "lng":-118.3378325197
+                        },
+                        "southwest":{
+                              "lat":34.1834797697,
+                              "lng":-118.3405304803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Eat'n Park Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105154940808652451882\">JAYPE<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEACafgwcjzIIIm1C0rcoxCOVympF7oIWzqUdbBWwm12YQQ_JnQFNAWoORKvvEDlGj4KqFNox6SnAxHSpGqSvZXf_UO9KbAiVpYl-G_f1lLdmkV42JGYyFPzhgyfkXUbe0gwNv40XK703BEslSG30fG9LQgz9gIobu-sznZhRVBxV58",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJFeLedXOVwoARc_fEVDfCiqw",
+            "plus_code":{
+                  "compound_code":"5MM6+X8 Burbank, CA, USA",
+                  "global_code":"85635MM6+X8"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJFeLedXOVwoARc_fEVDfCiqw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":932,
+            "vicinity":"2517 West Victory Boulevard, Burbank",
+            "CBG":60373110004,
+            "Radius":250.6710256135
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1651003,
+                        "lng":-118.3633726
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1663621803,
+                              "lng":-118.3620232697
+                        },
+                        "southwest":{
+                              "lat":34.1636642197,
+                              "lng":-118.3647212303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Zest Grill House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":734,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110447468537695427725\">Zest Grill House<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDV70nFxvGyL8o_mCoz_Ex47vtyEWYBzSa2RWUUJkrU2A6Ud1_YNufvdtRB3o6GhkOhZzsv-r1JzmwoIzdks9-bzBk55JXLriG-9xSK4YTa1bDnQqq3g73a8qQCdnw3ODZGP2J-_3PqT3XDuzb7khUC6K5Lidez4asburD061jbEK8O",
+                        "width":1199
+                  }
+            ],
+            "place_id":"ChIJo2s4YqCVwoAR96ets70dffc",
+            "plus_code":{
+                  "compound_code":"5J8P+2M Los Angeles, CA, USA",
+                  "global_code":"85635J8P+2M"
+            },
+            "rating":4.1,
+            "reference":"ChIJo2s4YqCVwoAR96ets70dffc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"10651 West Magnolia Boulevard, Los Angeles",
+            "CBG":60371253202,
+            "Radius":287.2766713135
+      }
+]

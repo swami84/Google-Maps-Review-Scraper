@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1520026,
+                        "lng":-118.35349
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1534573803,
+                              "lng":-118.3521489697
+                        },
+                        "southwest":{
+                              "lat":34.1507594197,
+                              "lng":-118.3548469303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sweetsalt Food Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101917136451408783134\">Roberto James<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAygObH188hJ3bbtn6axXDxYHVosiY4M7hcl7-snmByF7-hsdKciZQGOXPVKAHuDp9uohTZfPvN2-AyHOoV8WfCpQWn5MxU1FhVyHSi0uGzNGF3--TTWUiAmePWhpn-HWqWJyIBAWKNdnk6MF1FBslCclm36dyIO-U_vnkscMmwBo1p",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJHwSf6jG-woARj0kTRuUboXk",
+            "plus_code":{
+                  "compound_code":"5J2W+RJ Toluca Lake, Los Angeles, CA, USA",
+                  "global_code":"85635J2W+RJ"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJHwSf6jG-woARj0kTRuUboXk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":200,
+            "vicinity":"10218 Riverside Drive, Toluca Lake",
+            "CBG":60371431002,
+            "Radius":371.7118873879
+      }
+]

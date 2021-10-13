@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7496935,
+                        "lng":-117.0882114
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7509612803,
+                              "lng":-117.0868629697
+                        },
+                        "southwest":{
+                              "lat":32.7482633197,
+                              "lng":-117.0895609303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Fiesta",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2425,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107750786500760858373\">Sotelo dnt<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBvzbc7zFLuy9lRERS4xEp-nQsyZQ67p-RuTksfXGsYxjaouxodEORUIqi0UnX9w2LqXr_KhVa2OwX478QbTgYS4qbPpLvSNJWEbz_ALYhmCcNR8ApjvQuMI4wTt7tktWuM-GY-LndrmSLTMnWFrMzJ9MnTIcWVUlumArfBBLyHWPGF",
+                        "width":3650
+                  }
+            ],
+            "place_id":"ChIJvU0dqhlU2YARnr4kTVYhcXc",
+            "plus_code":{
+                  "compound_code":"PWX6+VP San Diego, CA, USA",
+                  "global_code":"8544PWX6+VP"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJvU0dqhlU2YARnr4kTVYhcXc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":96,
+            "vicinity":"4920 University Avenue, San Diego",
+            "CBG":60730027073,
+            "Radius":193.3434157494
+      }
+]

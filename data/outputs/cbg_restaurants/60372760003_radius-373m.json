@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.959639,
+                        "lng":-118.3907296
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9610373803,
+                              "lng":-118.3894672197
+                        },
+                        "southwest":{
+                              "lat":33.9583394197,
+                              "lng":-118.3921651803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Guillen\u2019s Mariscos El Guero Taco Truck And Seafood",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107185381175811496622\">Roy Chen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECm-Wl5GT3J34_uajG85MbcjLE2imFsO7VPDTQymcOJoFkFFZHoI4Zf7Rf9ynEmnIVUnV-Aowk1ij0E6R5PDpkYApIdg_SVj-AAkkQoB7zMwoyhV5QxqqCRloBW3LA0KQ5KnAuL2KpctdNIB7_3Ma_OoXWaAkeH7Rbpkg1yeMyiZWuh",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJVVVVVcywwoARvmiE63RpKnw",
+            "plus_code":{
+                  "compound_code":"XJ55+VP Los Angeles, CA, USA",
+                  "global_code":"8553XJ55+VP"
+            },
+            "rating":4.8,
+            "reference":"ChIJVVVVVcywwoARvmiE63RpKnw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"6060 West Manchester Avenue, Los Angeles",
+            "CBG":60372760003,
+            "Radius":373.1895534603
+      }
+]

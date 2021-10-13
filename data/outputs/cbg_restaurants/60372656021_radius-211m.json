@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0620127,
+                        "lng":-118.4325112
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0634659803,
+                              "lng":-118.4314343197
+                        },
+                        "southwest":{
+                              "lat":34.0607680197,
+                              "lng":-118.4341322803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Swallow Organic Nest",
+            "place_id":"ChIJ__8voni8woAR0SJjkjegYO0",
+            "plus_code":{
+                  "compound_code":"3H68+RX Los Angeles, CA, USA",
+                  "global_code":"85633H68+RX"
+            },
+            "reference":"ChIJ__8voni8woAR0SJjkjegYO0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10560 Wilshire Boulevard, Los Angeles",
+            "CBG":60372656021,
+            "Radius":210.7676668892
+      }
+]

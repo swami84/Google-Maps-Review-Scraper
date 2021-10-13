@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0457652,
+                        "lng":-118.2797416
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0471709803,
+                              "lng":-118.2783570197
+                        },
+                        "southwest":{
+                              "lat":34.0444730197,
+                              "lng":-118.2810549803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La 27 Restaurante",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1860,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105331332241073396111\">Angel Gutierr3z<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDqbVzsjqnD5OQR5PDUcnnrl6b9G0LPHvpEWmL_uSc3jlbiH6f0oZFvfcyHDzx5yenmwKFL3KVA7W8aw5slrOJKgghNO8mu2OwK_jxSUOokzRXO08xNOAzZeBHPQTVji483RmMekBprACDx2PLXIN47nv_dL1G7swS9RyiWDnGPw2hX",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJUYm75EnHwoARwxzNc2-GNc0",
+            "plus_code":{
+                  "compound_code":"2PWC+84 Los Angeles, CA, USA",
+                  "global_code":"85632PWC+84"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJUYm75EnHwoARwxzNc2-GNc0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":225,
+            "vicinity":"1830 West Pico Boulevard, Los Angeles",
+            "CBG":60372098202,
+            "Radius":168.1852839158
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0463755,
+                        "lng":-118.280381
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0476710303,
+                              "lng":-118.2791023697
+                        },
+                        "southwest":{
+                              "lat":34.0449730697,
+                              "lng":-118.2818003303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Panaderia El Salvador",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110695100638297560103\">Luis Rivera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5ydDDHhh41VStpZgbyJYuFur_XcpvatNDdpB5DuQQy4U1UfsTCq0IMQtvs5S9_-N7puQ7ODteHaCxhqe1YJaNUhihD2Gemk_fldkQOFuwE2tJj4trMmjzk0ZbW2SgsFIlW7Y16SP5xGlwKauzqIIOir7KmeUY3cpIuB4LEwbryPmr",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ3e-8GJfHwoARYx50utCvDAY",
+            "plus_code":{
+                  "compound_code":"2PW9+HR Los Angeles, CA, USA",
+                  "global_code":"85632PW9+HR"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJ3e-8GJfHwoARYx50utCvDAY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"1901 West Pico Boulevard, Los Angeles",
+            "CBG":60372098202,
+            "Radius":168.1852839158
+      }
+]

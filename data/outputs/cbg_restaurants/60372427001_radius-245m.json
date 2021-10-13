@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.940398,
+                        "lng":-118.238815
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9417476303,
+                              "lng":-118.2375787197
+                        },
+                        "southwest":{
+                              "lat":33.9390496697,
+                              "lng":-118.2402766803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Giovanni\u2019s Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ3TRQJdrLwoARn1nKgVUHIrA",
+            "plus_code":{
+                  "compound_code":"WQR6+5F Los Angeles, CA, USA",
+                  "global_code":"8553WQR6+5F"
+            },
+            "rating":4.5,
+            "reference":"ChIJ3TRQJdrLwoARn1nKgVUHIrA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"11206 Wilmington Avenue, Los Angeles",
+            "photos":null,
+            "price_level":null,
+            "CBG":60372427001,
+            "Radius":244.5317675869
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9414587,
+                        "lng":-118.2424729
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9428674303,
+                              "lng":-118.2411308197
+                        },
+                        "southwest":{
+                              "lat":33.9401694697,
+                              "lng":-118.2438287803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TACOS WATTS",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJT_158LHLwoARkE9tU7sczSQ",
+            "plus_code":{
+                  "compound_code":"WQR5+H2 Los Angeles, CA, USA",
+                  "global_code":"8553WQR5+H2"
+            },
+            "rating":4.3,
+            "reference":"ChIJT_158LHLwoARkE9tU7sczSQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"10400 Graham Avenue, Los Angeles",
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109661292602502466114\">TACOS WATTS<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7aUwvSVHm_Tu7VtXxm4d1PGdN_fNdboIPfBe6uxL9TjCARP6014HfbhOXHy0XY9HRGa4zhRz0-KVEo_n9kV-D3dD7HbRDEpljjTH9fLOasEnhFzRXVCFJOhWEkWM8xGI1qHW_1cnBfYqcItKmv_OsHSR8XnF-WbuUoepo2d8qrAzv",
+                        "width":1080
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":60372427001,
+            "Radius":244.5317675869
+      }
+]

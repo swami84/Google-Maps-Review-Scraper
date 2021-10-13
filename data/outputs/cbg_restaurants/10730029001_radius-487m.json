@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5143051,
+                        "lng":-86.8275146
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5157711803,
+                              "lng":-86.8262349697
+                        },
+                        "southwest":{
+                              "lat":33.5130732197,
+                              "lng":-86.8289329303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carter's Seafood",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110902333408006533708\">Carter&#39;s Seafood<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZjRAfNvopA-BJYXftV7uhUpM5jR2SOCkaqX8G3X9BpAWAqTchoGZNy94pesNa6j0O4H-Lanb6tijAWmcYNwCqFr4iZbgrWvIn2QykOEeUxaWd2DoZEMneQcjSY1JHu_DNDU6DzDL_5HPmQlj7M3G7idj7RFAYIQHdbUeCXkiecasS",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJv3iQxHMdiYgR5otnPLwq5PQ",
+            "plus_code":{
+                  "compound_code":"G57C+PX Birmingham, AL, USA",
+                  "global_code":"865MG57C+PX"
+            },
+            "rating":4.5,
+            "reference":"ChIJv3iQxHMdiYgR5otnPLwq5PQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":69,
+            "vicinity":"512 Reverend Abraham Woods Junior Boulevard, Birmingham",
+            "CBG":10730029001,
+            "Radius":486.7913256926
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9349597,
+                        "lng":-118.0988943
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9362612303,
+                              "lng":-118.0974664697
+                        },
+                        "southwest":{
+                              "lat":33.9335632697,
+                              "lng":-118.1001644303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nelly's Mexican Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106377503082057957730\">Enrique Peralta<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC9O-5qMdgSvvH5U9VF_JZ5cMzTjvawerVJB6Q49adk9LB1uhHWaOqr-_7cpxN42hp7hRqD6AebGeMogvlNTfKMp8h7W98Q9B1eZO2bsHo4p16bUHY6lClTCF6BfiK-KQhu8swl9enFYqRZ07XODcIEbRqxxSi7Or1_djKFWotfTemM",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJqePm0IjSwoAROYgRxOFNh30",
+            "plus_code":{
+                  "compound_code":"WWM2+XC Downey, CA, USA",
+                  "global_code":"8553WWM2+XC"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJqePm0IjSwoAROYgRxOFNh30",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"10811 Studebaker Road, Downey",
+            "CBG":60375504001,
+            "Radius":509.4157073359
+      }
+]

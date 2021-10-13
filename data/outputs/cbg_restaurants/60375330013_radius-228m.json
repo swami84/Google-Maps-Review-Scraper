@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.977982,
+                        "lng":-118.2478998
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9793299803,
+                              "lng":-118.2464530697
+                        },
+                        "southwest":{
+                              "lat":33.9766320197,
+                              "lng":-118.2491510303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jorge kichen catracho",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103906912770757567775\">Jorge Zuniga<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECTP1ffA1thR8sYpd51nyo3VmLtvDAmQykOK8rydYGieMAlGMU8Dk1bX1q45GHxsPZoHC3QJfrDiJcMDIg2jSLqgFGgaVD_Re68ryGFolHw0nkE6RAwu4w94W3RIE-MdtCvtijIwrFg2L5gm_ExuycnA8mw2l2LXo1jvub6V04tYoM5",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJRT_Q0ZvJwoAR-1m83ZVktrE",
+            "plus_code":{
+                  "compound_code":"XQH2+5R Los Angeles, CA, USA",
+                  "global_code":"8553XQH2+5R"
+            },
+            "rating":4,
+            "reference":"ChIJRT_Q0ZvJwoAR-1m83ZVktrE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"6811 Compton Avenue, Los Angeles",
+            "CBG":60375330013,
+            "Radius":228.2305516463
+      }
+]

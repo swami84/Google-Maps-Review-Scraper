@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7587734,
+                        "lng":-118.1447373
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7601223803,
+                              "lng":-118.1433883197
+                        },
+                        "southwest":{
+                              "lat":33.7574244197,
+                              "lng":-118.1460862803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Chuck's Coffee Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2760,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104028813867380735269\">sydney wen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC0m4x_a6Qp41u57hLH-uR7rqXgNKcwaPlAGjr3UgPR5FovrZxr5C8I3asc1-PMMGo0NZhrDNfaLbrAugHoG1BSUmM8_tP1spwcZMs5kQEGzSUH1khoxoNzXyKxErb082wikgTXUTabCWk1ScqIfoTvLY0sNdDuoVpHQhzox6cYktoP",
+                        "width":3934
+                  }
+            ],
+            "place_id":"ChIJRQRmf04w3YARaCHWy4j1EnM",
+            "plus_code":{
+                  "compound_code":"QV54+G4 Long Beach, CA, USA",
+                  "global_code":"8553QV54+G4"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJRQRmf04w3YARaCHWy4j1EnM",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":551,
+            "vicinity":"4120 East Ocean Boulevard, Long Beach",
+            "CBG":60375773003,
+            "Radius":174.7986440874
+      }
+]

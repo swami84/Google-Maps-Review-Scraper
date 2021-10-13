@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1363916,
+                        "lng":-117.3231915
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1377405803,
+                              "lng":-117.3218425197
+                        },
+                        "southwest":{
+                              "lat":34.1350426197,
+                              "lng":-117.3245404803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tam's Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3006,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108661248002126781961\">Cody LeRoy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPSD0AzT8dBLlCoiUW_uhg8zkSckke9kxklCTsm9mFGM8ey76hFhYxeWOyIt1l3TNoLtRHQpbPjcqZh5Zo0Yb8BaOfSYV2ErdvmH78rVYXjXgqh-bjaekcV3BTOX7yYLby9sgy4SNLeaykaNxXUNwqpbyd4Maf7VxNDf71uqvEsctx",
+                        "width":5344
+                  }
+            ],
+            "place_id":"ChIJYaibAVFSw4ARqAx0QY7lPDY",
+            "plus_code":{
+                  "compound_code":"4MPG+HP San Bernardino, CA, USA",
+                  "global_code":"85644MPG+HP"
+            },
+            "rating":4.4,
+            "reference":"ChIJYaibAVFSw4ARqAx0QY7lPDY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":271,
+            "vicinity":"Westside Shopping Center, 1616 West Highland Avenue, San Bernardino",
+            "CBG":60710041032,
+            "Radius":567.384008632
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9039392,
+                        "lng":-118.291482
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9053813303,
+                              "lng":-118.2899324697
+                        },
+                        "southwest":{
+                              "lat":33.9026833697,
+                              "lng":-118.2926304303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kick'n Cajun",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102250027180985706276\">Jackpot Jane<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBu9783Tq6l5oF36BaUCLCffAYdzLs719fg7I7M3gXqf9PTI-TjtMuRDGaZM-4BSW0JsmkYeiI18YRXw2LL_lVldXgmSSslUbkDQqt7oeOx5HuEbQ3e7z8YFJa1OqfkaG4_jd2_4lxkNkJlIKC0nPX-JivuKOptsemUGhEhXAe6dGeN",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJw3fD0KnLwoAR0_j1X7HHUIk",
+            "plus_code":{
+                  "compound_code":"WP35+HC Gardena, CA, USA",
+                  "global_code":"8553WP35+HC"
+            },
+            "reference":"ChIJw3fD0KnLwoAR0_j1X7HHUIk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"14032 South Vermont Avenue, Gardena",
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372911302,
+            "Radius":325.2370671175
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9033408,
+                        "lng":-118.291241
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9047015803,
+                              "lng":-118.2899827697
+                        },
+                        "southwest":{
+                              "lat":33.9020036197,
+                              "lng":-118.2926807303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SALVIMEX110 RESTAURANT & BAR",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117318403804615988294\">Jess<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED6SqVZ_BCmVbAFafSTZuLtCD8QadMjI2fbG1zDPqDtVQsO0a2VJ1Un91XfKImJd-lt7u_FdON4z3KBJYOpd1qXtA1rZ7hdLWQJBGNYJ5vDwyjry-3l_xTzagDk52rflpn2inX4wxRhSp4qHiO05hrsAQbQupF2A-ajFte_OxbmmdLU",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAdKHjXDKwoAREFDacB6I6rw",
+            "plus_code":{
+                  "compound_code":"WP35+8G Gardena, CA, USA",
+                  "global_code":"8553WP35+8G"
+            },
+            "reference":"ChIJAdKHjXDKwoAREFDacB6I6rw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"14118 South Vermont Avenue, Gardena",
+            "price_level":1.0,
+            "rating":4.3,
+            "user_ratings_total":179.0,
+            "CBG":60372911302,
+            "Radius":325.2370671175
+      }
+]

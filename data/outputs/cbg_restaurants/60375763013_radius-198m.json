@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7782533,
+                        "lng":-118.1873903
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7796116303,
+                              "lng":-118.1861741697
+                        },
+                        "southwest":{
+                              "lat":33.7769136697,
+                              "lng":-118.1888721303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"PRETTYYOUNGBUDZ",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJeSKrUOUx3YARpYPmzU89fBM",
+            "plus_code":{
+                  "compound_code":"QRH7+82 Long Beach, CA, USA",
+                  "global_code":"8553QRH7+82"
+            },
+            "reference":"ChIJeSKrUOUx3YARpYPmzU89fBM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"926 Elm Avenue, Long Beach",
+            "CBG":60375763013,
+            "Radius":197.6315121234
+      }
+]

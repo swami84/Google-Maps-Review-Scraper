@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.537995,
+                        "lng":-77.450357
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5393072803,
+                              "lng":-77.4490702197
+                        },
+                        "southwest":{
+                              "lat":37.5366093197,
+                              "lng":-77.4517681803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"L'Opossum",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100110504542424283430\">Grant Loomis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECeG5Y3OYaTppaXPTgAJ6n_CQf7VNFARMdrmSqNhwyQEDuQfvxWoFU-45UTjv0AJrku9zj2KxgzKwR611_r6CP7wjA1Z7bLLAJ8Xkmtg1lUEqwk5L7cgyU3CiwrAq6O4UEe-CufxHmlxBIjPWDsjq06z5YuFfpiZQUgaol02P7Ln2e2",
+                        "width":2992
+                  }
+            ],
+            "place_id":"ChIJgdI0WWoRsYkRHSRtyKfVD94",
+            "plus_code":{
+                  "compound_code":"GGQX+5V Richmond, VA, USA",
+                  "global_code":"8794GGQX+5V"
+            },
+            "price_level":3,
+            "rating":4.7,
+            "reference":"ChIJgdI0WWoRsYkRHSRtyKfVD94",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":568,
+            "vicinity":"626 China Street, Richmond",
+            "CBG":517600412001,
+            "Radius":318.4639058294
+      }
+]

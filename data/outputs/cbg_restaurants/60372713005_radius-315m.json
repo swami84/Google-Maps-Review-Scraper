@@ -1,0 +1,62 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0204989,
+                        "lng":-118.4445299
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0218097303,
+                              "lng":-118.4432304197
+                        },
+                        "southwest":{
+                              "lat":34.0191117697,
+                              "lng":-118.4459283803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Circle K",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114133822885637614351\">Tyler Ann Sands aka Sister Gramps<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED9M37FAYV6seCvJzywKuUPXl7QWtCDQtgcZ49BY-6boiOW7aVNTV_Co4lsnvl4OwuGApkZRje3TFH6ZWB1l_jhqW-2UaSLkA5vShXhjWfMWYYR4fuR3dJ9QowOh9Ccr_YqZHd-aCrOhy-x1mfaQj4u_l6HFnxDKpV69NLPdw1WJRXK",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ2c7XdgG7woARmGuEHxneYFI",
+            "plus_code":{
+                  "compound_code":"2HC4+55 Los Angeles, CA, USA",
+                  "global_code":"85632HC4+55"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ2c7XdgG7woARmGuEHxneYFI",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"2876 South Bundy Drive, Los Angeles",
+            "CBG":60372713005,
+            "Radius":314.5578295326
+      }
+]

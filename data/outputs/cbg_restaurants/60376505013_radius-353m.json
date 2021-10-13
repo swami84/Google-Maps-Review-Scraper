@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8584769,
+                        "lng":-118.3612094
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8598955303,
+                              "lng":-118.3597750697
+                        },
+                        "southwest":{
+                              "lat":33.8571975697,
+                              "lng":-118.3624730303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Schooner Bar & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100855346477171659151\">Trevor Henson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECrQC3aMEqs7byyfT6zEbW0hDRGSS6aYgf6vz3RSDTw-E81vqXxd2aU9xguLqIa9RfbLskoKGwlxx_yU2oAsTOQKcIGGhl8KBV1lwtS4WjiFK-q-QO5iGo71PCso9dus-5HM5vgR0pVUnIWPIIZE4BZSnB-r93ABScqDZCzFMS5Vd0m",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJQ2rdJem0woARfLITOb42NQw",
+            "plus_code":{
+                  "compound_code":"VJ5Q+9G Redondo Beach, CA, USA",
+                  "global_code":"8553VJ5Q+9G"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJQ2rdJem0woARfLITOb42NQw",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":248.0,
+            "vicinity":"2701 190th Street #100, Redondo Beach",
+            "CBG":60376505013,
+            "Radius":353.4912265251
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8577984,
+                        "lng":-118.3623742
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8592091303,
+                              "lng":-118.3610641697
+                        },
+                        "southwest":{
+                              "lat":33.8565111697,
+                              "lng":-118.3637621303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Market Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113301666419596661460\">Jefferey Tejero<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA-9x-He-lYQZAr5nKY_XerP8gMs1tqlKfkgUR686HTliuVSK_YSFgpEI1JpAachTd_i68m6oCWdebkfr1zR3V8t7D9z6p7MpBU6drk63ZiLbT6Qcb9_KjYjg-myA92mffU3YebM-QB2HWaM_xYmvEbGWg6A77d77keQfGruSgM4pCO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJDTJqBQi1woARWxhTeggLftA",
+            "plus_code":{
+                  "compound_code":"VJ5Q+43 Torrance, CA, USA",
+                  "global_code":"8553VJ5Q+43"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJDTJqBQi1woARWxhTeggLftA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"4848 West 190th Street, Torrance",
+            "CBG":60376505013,
+            "Radius":353.4912265251
+      }
+]

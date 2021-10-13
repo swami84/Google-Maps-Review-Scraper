@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0710255,
+                        "lng":-118.3000515
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0724621803,
+                              "lng":-118.2987031197
+                        },
+                        "southwest":{
+                              "lat":34.0697642197,
+                              "lng":-118.3014010803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chuck e Cheese's Channel",
+            "place_id":"ChIJtZViAOm5woAR-pmJGuJtu_U",
+            "plus_code":{
+                  "compound_code":"3MCX+CX Los Angeles, CA, USA",
+                  "global_code":"85633MCX+CX"
+            },
+            "rating":2,
+            "reference":"ChIJtZViAOm5woAR-pmJGuJtu_U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3918 West 2nd Street, Los Angeles",
+            "CBG":60372114201,
+            "Radius":245.4937927945
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.074775,
+                        "lng":-118.301376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0761232803,
+                              "lng":-118.3001935197
+                        },
+                        "southwest":{
+                              "lat":34.0734253197,
+                              "lng":-118.3028914803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dominican barbershop",
+            "place_id":"ChIJ4Zlctry5woARNHu6k2jiVxE",
+            "plus_code":{
+                  "compound_code":"3MFX+WC Los Angeles, CA, USA",
+                  "global_code":"85633MFX+WC"
+            },
+            "rating":5,
+            "reference":"ChIJ4Zlctry5woARNHu6k2jiVxE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"134 North Ardmore Avenue, Los Angeles",
+            "CBG":60372114201,
+            "Radius":245.4937927945
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.002855,
+                        "lng":-118.2476143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0042030303,
+                              "lng":-118.2463564697
+                        },
+                        "southwest":{
+                              "lat":34.0015050697,
+                              "lng":-118.2490544303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Juanito's Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3468,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109695788268327102545\">Juanito&#39;s Tacos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBEoH86TCw4zISdNxp3fr0aErBYA2K6JhHqO-bBUPVp1MfQYU9Mywnub91P5oLQVkde2ixEmWxuA7lxueTBayLlODEx5c11SCKCwlH29aE39JhvSfVAUrWMabEXV8nZfnCdcAjXhgTf9GxVt7zpfb2tLNM7wT3v0-uZHnkcxGq0FAxP",
+                        "width":4624
+                  }
+            ],
+            "place_id":"ChIJQ5U67xDJwoARcZk_XiGZJbE",
+            "plus_code":{
+                  "compound_code":"2Q32+4X Los Angeles, CA, USA",
+                  "global_code":"85632Q32+4X"
+            },
+            "rating":5,
+            "reference":"ChIJQ5U67xDJwoARcZk_XiGZJbE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"4438 Compton Avenue, Los Angeles",
+            "CBG":60372288004,
+            "Radius":264.460519742
+      }
+]

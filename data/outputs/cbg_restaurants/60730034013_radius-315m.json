@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7211059,
+                        "lng":-117.0863535
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7224585303,
+                              "lng":-117.0848858697
+                        },
+                        "southwest":{
+                              "lat":32.7197605697,
+                              "lng":-117.0875838303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Morena Taco Shop",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115166338814421907057\">Jake Huron<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDjI1Xg8E_SmOSvVT95GrFCHJzskofE7dDSzoEAR8HyN_ZIidJqngwm9K73QiCh6_mHoLD_GWHnZYVaw1-HNoG3Ywxoj2fr30IcnjGZiFYcx6UAivsqtUqj5NFTLtNLTEOEklJyQL1Z4vHpyzk9JorIIzN-MuG0wCFZaKgmP64L3SBd",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJa5-j1P1T2YARAinbUJNzXTU",
+            "plus_code":{
+                  "compound_code":"PWC7+CF San Diego, CA, USA",
+                  "global_code":"8544PWC7+CF"
+            },
+            "rating":4.2,
+            "reference":"ChIJa5-j1P1T2YARAinbUJNzXTU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"5059 Federal Boulevard, San Diego",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":60730034013,
+            "Radius":314.810709893
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7207985,
+                        "lng":-117.0861059
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7222388303,
+                              "lng":-117.0847213697
+                        },
+                        "southwest":{
+                              "lat":32.7195408697,
+                              "lng":-117.0874193303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109313961176997160128\">Jesus San Miguel<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC10FAYsPuLBRPlxedi04BLTNSwdzPIXQTJtHPYVawy3tPJEQm0wmuHGRGO0GHHk52d7dXPEYFINehPeGWm7WqFhIGLxpF4bED-ZD-1GximiE9bXs_FNX9AwwXG91TP3ayWfVBbl3WTGrj4hvKBDCQxm00BvxJuAbtMUif5efakVWj8",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJrXHsdHtT2YARzvvyQSyczW8",
+            "plus_code":{
+                  "compound_code":"PWC7+8H San Diego, CA, USA",
+                  "global_code":"8544PWC7+8H"
+            },
+            "rating":3.4,
+            "reference":"ChIJrXHsdHtT2YARzvvyQSyczW8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":98,
+            "vicinity":"5075 Federal Boulevard, San Diego",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":1.0,
+            "CBG":60730034013,
+            "Radius":314.810709893
+      }
+]

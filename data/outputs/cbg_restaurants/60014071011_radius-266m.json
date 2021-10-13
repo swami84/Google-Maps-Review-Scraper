@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7819259,
+                        "lng":-122.2188006
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7832581803,
+                              "lng":-122.2175582697
+                        },
+                        "southwest":{
+                              "lat":37.7805602197,
+                              "lng":-122.2202562303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Guys",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":450,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117478788432308711291\">Pizza Guys<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDgyA9ISgfrROvV1zvgtr8zrko68nXuqk9qc7j6prq6yM8eNowcNGVfQciPunwb_V_Sw24i4_Vgsz-4nPtgPeSqIoXT4J_1l2J6XBt8UL_2WkGB0l6eo67wYA3LnwNYrPEUicuWlwU88icye7t_fBz09ulMmHjwZvAhwtbR8UwcHrjY",
+                        "width":600
+                  }
+            ],
+            "place_id":"ChIJ4ZhzuViGj4AR79J8FFiepMw",
+            "plus_code":{
+                  "compound_code":"QQJJ+QF Oakland, CA, USA",
+                  "global_code":"849VQQJJ+QF"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ4ZhzuViGj4AR79J8FFiepMw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":113,
+            "vicinity":"3522 Foothill Boulevard, Oakland",
+            "CBG":60014071011,
+            "Radius":266.1276943046
+      }
+]

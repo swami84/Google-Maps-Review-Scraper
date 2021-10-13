@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8992573,
+                        "lng":-87.7259803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9006170803,
+                              "lng":-87.7247475697
+                        },
+                        "southwest":{
+                              "lat":41.8979191197,
+                              "lng":-87.7274455303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"La Esmeralda Corp FRESH MARKET, Ecuadorian \ud83c\udfec",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101170959151373601831\">La Tropicana fresh market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA8Txz0BGCdc_2bZCFjKyEwGVjPV0zwz3yPagbP3N4NtMK66Nic8HUvLyp3CcbbZU_m_VXO1w3nb0OwsVBaUQU4KiIVU7IULqcgJfynV__BZh5VjVfLQeH7Y3W7PG-z_N5F0DdqXJ3hAPPHExbZ__ODEgA9hG77dJDRYaoDaPH1AE6E",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ4yP-86PND4gRSMRkModXRVI",
+            "plus_code":{
+                  "compound_code":"V7XF+PJ Chicago, IL, USA",
+                  "global_code":"86HJV7XF+PJ"
+            },
+            "rating":4.8,
+            "reference":"ChIJ4yP-86PND4gRSMRkModXRVI",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"1005 North Pulaski Road, Chicago",
+            "CBG":170312312005,
+            "Radius":228.7682668923
+      }
+]

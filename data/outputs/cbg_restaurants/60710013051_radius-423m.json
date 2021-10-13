@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0784199,
+                        "lng":-117.6257947
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0797674303,
+                              "lng":-117.6245068697
+                        },
+                        "southwest":{
+                              "lat":34.0770694697,
+                              "lng":-117.6272048303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Denny's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102697870955475802948\">Timothy Casey<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAx-fQJx1oPqEJQjFklPWAy_m4xE6cYby8mqbuDcEUundmSTHDvpU-Ogah6pxuoYfVsMaAarsE7Jy-5Z_440s_1yGjyfXAlSgEFpzUp-3twjON3WdaCDwyPZB8Z1hCVwkZp5MZqFQKYgB40FHNBibWM_mXAumrXIzCe-heRIbShYyMV",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJQUAIohQ0w4ARyK7hsc937zw",
+            "plus_code":{
+                  "compound_code":"39HF+9M Ontario, CA, USA",
+                  "global_code":"856439HF+9M"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJQUAIohQ0w4ARyK7hsc937zw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":807,
+            "vicinity":"1409 East 4th Street, Ontario",
+            "CBG":60710013051,
+            "Radius":422.6721447299
+      }
+]

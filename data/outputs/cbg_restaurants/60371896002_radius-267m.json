@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1097374,
+                        "lng":-118.3299221
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1110921803,
+                              "lng":-118.3285732197
+                        },
+                        "southwest":{
+                              "lat":34.1083942197,
+                              "lng":-118.3312711803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Sweet Greek Personal Chef Services",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109072883021178582075\">Sweet Greek Personal Chef Services<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdA-9_NRK8fhga0R9g2FlTG6jOCTV98_-QrLwgqYRGjPOVDaKUV8ix4KroBwb73PVjC78a9mgWHMpuntkeYEB0R1yYkBlb8Bn07iqnc8B1CcyHoANJn1LRW37t-1QytFve1Zq4uW_hSFFbNgQiW0y7H7_lXYjfQFLnxBkTq0OoA8Zr",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJZQwZFha_woARjsJglG35mKU",
+            "plus_code":{
+                  "compound_code":"4M5C+V2 Los Angeles, CA, USA",
+                  "global_code":"85634M5C+V2"
+            },
+            "rating":5,
+            "reference":"ChIJZQwZFha_woARjsJglG35mKU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"Holly Drive and, Primrose Avenue, Los Angeles",
+            "CBG":60371896002,
+            "Radius":267.468709011
+      }
+]

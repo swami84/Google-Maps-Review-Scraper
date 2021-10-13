@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9888862,
+                        "lng":-118.318284
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9903348803,
+                              "lng":-118.3169284197
+                        },
+                        "southwest":{
+                              "lat":33.9876369197,
+                              "lng":-118.3196263803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5248,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117878175032374651800\">Jerrod Douglas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECwT9DjLQZ0OM_ZrHwcaAM1lbYQXuMpkkok2FrqZsHTVphdAF9uOphkAsObiGIpqdVjhu1ul37CIdQFy3HLEsEFRo3rQSeZcMJ-ekhSkxBFWKelYXfxMCSFyRY7FS48Mp6ro5yazVZjcI6YBpT05i6ULgST6I5geecc-P9hYIg7bEHX",
+                        "width":2952
+                  }
+            ],
+            "place_id":"ChIJTfWzFeq3woARo0mtZASMhlY",
+            "plus_code":{
+                  "compound_code":"XMQJ+HM Los Angeles, CA, USA",
+                  "global_code":"8553XMQJ+HM"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJTfWzFeq3woARo0mtZASMhlY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":817,
+            "vicinity":"2220 West Slauson Avenue, Los Angeles",
+            "CBG":60372347001,
+            "Radius":214.3155655725
+      }
+]

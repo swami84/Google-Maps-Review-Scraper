@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9972492,
+                        "lng":-118.4591338
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9985618803,
+                              "lng":-118.4578104197
+                        },
+                        "southwest":{
+                              "lat":33.9958639197,
+                              "lng":-118.4605083803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lupita\u2019s Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3399,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104965715500047355627\">Grace L<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDmsjzscOoJs9lFhXTDpz2xfgEXcav8RL86vd4mn7U-3sXTofGbg0PqzYYPemvTyKNYdeTOuTvmU-3LqijlXb4jU5097fTE2G8BBFwZ6WNT8JjKkm31FZ2gfY5Kk8zW6XCv6j3OqHmZoaQxe_KF3U5KDYvsheAFNMLKDd2SeUeJQg6_",
+                        "width":2549
+                  }
+            ],
+            "place_id":"ChIJT1PXmfe7woARVOrFdCn0I74",
+            "plus_code":{
+                  "compound_code":"XGWR+V8 Venice, Los Angeles, CA, USA",
+                  "global_code":"8553XGWR+V8"
+            },
+            "rating":5,
+            "reference":"ChIJT1PXmfe7woARVOrFdCn0I74",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"1550 California 1, Venice",
+            "CBG":60372736004,
+            "Radius":246.4733727369
+      }
+]

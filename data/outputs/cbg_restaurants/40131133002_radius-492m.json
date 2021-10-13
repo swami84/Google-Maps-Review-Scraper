@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4549699,
+                        "lng":-112.0387761
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4562027803,
+                              "lng":-112.0375213197
+                        },
+                        "southwest":{
+                              "lat":33.4535048197,
+                              "lng":-112.0402192803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Baiz Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107488732882103607604\">Life in USA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBjceM6R-DVEzkRCkHYMZjcipOc6pOwBjPEC-ktq3zoP0gE07xMB6zRUcKOe-fSqEJGauEz5xZ7BExc4g5e4w1nXsniOnQL_k5gWGXhqnnbkjx8vPig8aTF0f9NuMRGEeIZBmTveKEsXjLyKzCrbKtLacs1ZJmZvpGB28dWiRbyvJhM",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJN1E9ffwNK4cRQ9NyV4IWfc0",
+            "plus_code":{
+                  "compound_code":"FX36+XF Phoenix, AZ, USA",
+                  "global_code":"8559FX36+XF"
+            },
+            "rating":4.1,
+            "reference":"ChIJN1E9ffwNK4cRQ9NyV4IWfc0",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":651,
+            "vicinity":"523 North 20th Street, Phoenix",
+            "CBG":40131133002,
+            "Radius":492.3274254207
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0752465,
+                        "lng":-117.5763023
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0766007303,
+                              "lng":-117.5750713697
+                        },
+                        "southwest":{
+                              "lat":34.0739027697,
+                              "lng":-117.5777693303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"5 Star Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106966014668943532176\">5 Star Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDjtx1xb97CWZcq9EPwx64vw3DfsyTLy37YmjoGaMKvPqM0V-WLsL4ljZ3PQolxUI2spqfLyanA7DzyHUdQDHCpzbC_zoylxvP-bqYsMUO4glHI_DR7vxpZfxHlObVabCtf-M8kCWcBtUDRCIxAsJPRd4cdoLbSF53AS7uY3rb9N8c",
+                        "width":1944
+                  }
+            ],
+            "place_id":"ChIJ6b_Hq6M1w4AR9frnwkHBeU4",
+            "plus_code":{
+                  "compound_code":"3CGF+3F Ontario, CA, USA",
+                  "global_code":"85643CGF+3F"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ6b_Hq6M1w4AR9frnwkHBeU4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":499,
+            "vicinity":"951 North Haven Avenue, Ontario",
+            "CBG":60710021092,
+            "Radius":281.2115808317
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0749559,
+                        "lng":-117.5765982
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0763917803,
+                              "lng":-117.5752616697
+                        },
+                        "southwest":{
+                              "lat":34.0736938197,
+                              "lng":-117.5779596303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jikan Japanese Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104270766803655192422\">Jikan Japanese Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECvlMtHP-CzxzxJSt9GtXgV8UCGo0_fZOTEGdaCpthWiRhJY3YdqFmx0JcGqQl4M8hAvVxWCYyBbIDGj1ilLZwXe4uiM8oR_Ee0lL9PwLppQsApGrTPlLviC0OiCNUldaMRB7naaNMYoIGW1igxRzPM3VP4ieitPzf4hZv4Nd1bKUrt",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ81IZr6M1w4ARC6NgMHqiofk",
+            "plus_code":{
+                  "compound_code":"3CFF+X9 Ontario, CA, USA",
+                  "global_code":"85643CFF+X9"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ81IZr6M1w4ARC6NgMHqiofk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":276,
+            "vicinity":"3495 Concours Street suite e, Ontario",
+            "CBG":60710021092,
+            "Radius":281.2115808317
+      }
+]

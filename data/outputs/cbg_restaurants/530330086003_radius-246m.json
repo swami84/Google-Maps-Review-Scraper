@@ -1,0 +1,62 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6014635,
+                        "lng":-122.3171719
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6027602803,
+                              "lng":-122.3159407197
+                        },
+                        "southwest":{
+                              "lat":47.6000623197,
+                              "lng":-122.3186386803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Jucivana Coffee & Smoothies",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111488831251573542750\">Benjamin Allen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBgruD32c_GsclwHvZan0CuG3J1yecVqADbeGEKE-zlHcEpnxJ0K2kkM49KUf9VFi6yEshjzzvw6cNItW3QplfwzDtH_mLRLn04-T2arKj-snK0gRMGcM3_S-y5tcp3nxYExfVB4AssojuOo9H-V84gyfNFdBm0BgT2rC7jBcQe9O6t",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJefRiTr9qkFQR8j212jRzcaY",
+            "plus_code":{
+                  "compound_code":"JM2M+H4 Seattle, WA, USA",
+                  "global_code":"84VVJM2M+H4"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJefRiTr9qkFQR8j212jRzcaY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "bakery",
+                  "parking",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"110 Boren Avenue South, Seattle",
+            "CBG":530330086003,
+            "Radius":245.6726599139
+      }
+]

@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0151759,
+                        "lng":-118.3085514
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0165250303,
+                              "lng":-118.3073892697
+                        },
+                        "southwest":{
+                              "lat":34.0138270697,
+                              "lng":-118.3100872303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"W&W Recycling Center",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJeY8tNMa5woARltt0aV5VUQM",
+            "plus_code":{
+                  "compound_code":"2M8R+3H Los Angeles, CA, USA",
+                  "global_code":"85632M8R+3H"
+            },
+            "rating":3.2,
+            "reference":"ChIJeY8tNMa5woARltt0aV5VUQM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"3870 South Western Avenue, Los Angeles",
+            "photos":null,
+            "price_level":null,
+            "CBG":60372313003,
+            "Radius":241.3116082342
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0151322,
+                        "lng":-118.308697
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0164027303,
+                              "lng":-118.3073808697
+                        },
+                        "southwest":{
+                              "lat":34.0137047697,
+                              "lng":-118.3100788303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Paseo San Miguel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJsc1mcAO4woARCr-w5yRkncA",
+            "plus_code":{
+                  "compound_code":"2M8R+3G Los Angeles, CA, USA",
+                  "global_code":"85632M8R+3G"
+            },
+            "rating":4.3,
+            "reference":"ChIJsc1mcAO4woARCr-w5yRkncA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":831,
+            "vicinity":"3874 South Western Avenue, Los Angeles",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116553612918175877046\">Lily Bonilla<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5Cegr7TO4Cmb_4wV_-1FC6xeGbzJMrfze5JzW6neMFOkbq2b-UmByX6mtVHNzqdo0ct_77gpqdzfy1v4fwfay9XShPdoXsozDBdG8IYWqUJ0V8Aq0xAmGao0BJCThxn7DXa3OYbGwTqft3g7KvM8h3Y4PBjXHz7SxNppS_eWrZ-np",
+                        "width":3024
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":60372313003,
+            "Radius":241.3116082342
+      }
+]

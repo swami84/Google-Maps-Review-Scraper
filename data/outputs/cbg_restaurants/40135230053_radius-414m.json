@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.332295,
+                        "lng":-111.8602663
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3336491303,
+                              "lng":-111.8588175197
+                        },
+                        "southwest":{
+                              "lat":33.3309511697,
+                              "lng":-111.8615154803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bella Gusto Urban Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117411104873957891039\">William Schultz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECd9eRG2809y-XzT76Q3lflDcP9M94C8t2dGjQL5_bM2sVWQg-KQ9tfqB3qIQHmxmWf3VsJ8cSHJFEFhoGL5Uua6-jl5ZfSwC_DCOSOH6B0RQSLhgfsICVPL61tIuVITcUws5-CBJ_pGYNzxKq9E_lHhkzHSHLQQnYaMzwaHYgd6ZaJ",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJV6isJl4HK4cRKPw1T7zjAgE",
+            "plus_code":{
+                  "compound_code":"84JQ+WV Chandler, AZ, USA",
+                  "global_code":"855C84JQ+WV"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJV6isJl4HK4cRKPw1T7zjAgE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":466,
+            "vicinity":"Warner Plaza, 1964 North Alma School Road #1, Chandler",
+            "CBG":40135230053,
+            "Radius":413.7856564314
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3325253,
+                        "lng":-111.8603024
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3340253803,
+                              "lng":-111.8588432197
+                        },
+                        "southwest":{
+                              "lat":33.3313274197,
+                              "lng":-111.8615411803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Zorba's Greek Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100425218903939704530\">Sooraj Kumar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALmelGbca_scyB9wsHbm_jVvSlyzblJ7xstgIP06vpYwaoemhwifVeThKFn_sw9t_Ba-Yk_LFYJFhRwkElp4PVZ8Jht5a5w8XHT3xrV8nYM11QIzGvQiar0W-_b73SGRwodiN0cupGBPRmFaKA8NEgeLGXToxnfRlQyTfByQTsVbiv",
+                        "width":2112
+                  }
+            ],
+            "place_id":"ChIJHd-HZWAHK4cRuXJWw9di-A4",
+            "plus_code":{
+                  "compound_code":"84MQ+2V Chandler, AZ, USA",
+                  "global_code":"855C84MQ+2V"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJHd-HZWAHK4cRuXJWw9di-A4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":379,
+            "vicinity":"1964 North Alma School Road #10, Chandler",
+            "CBG":40135230053,
+            "Radius":413.7856564314
+      }
+]

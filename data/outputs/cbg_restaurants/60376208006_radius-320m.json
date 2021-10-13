@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8752159,
+                        "lng":-118.3957182
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8765639803,
+                              "lng":-118.3944671197
+                        },
+                        "southwest":{
+                              "lat":33.8738660197,
+                              "lng":-118.3971650803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brooklyn Brick Oven Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":360,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106001364458192442940\">Brooklyn Brick Oven Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA1I0gKxWokWrg72c8OlKDqqNf3YrLdAWKpBfZfkymeNKOipLcRigFmlV1JzivjIpWKv3avC1voFlsfbzxvN5H67G3czLngxQmR8JEC7hH-ZQZKakwf8RfVtRc2XA4OILq9os5JBteQ5yDJUdkwR_RNKFuKbtV_bW_TDIwCS8yb8v60",
+                        "width":480
+                  }
+            ],
+            "place_id":"ChIJgXFLyIezwoAR5NE_1zYW-xg",
+            "plus_code":{
+                  "compound_code":"VJG3+3P Manhattan Beach, CA, USA",
+                  "global_code":"8553VJG3+3P"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJgXFLyIezwoAR5NE_1zYW-xg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":124,
+            "vicinity":"500 South Sepulveda Boulevard, Manhattan Beach",
+            "CBG":60376208006,
+            "Radius":319.6849729304
+      }
+]

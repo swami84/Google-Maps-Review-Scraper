@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9296513,
+                        "lng":-87.7663409
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9309973803,
+                              "lng":-87.7649186697
+                        },
+                        "southwest":{
+                              "lat":41.9282994197,
+                              "lng":-87.7676166303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Taconazo La Fiesta",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109468519610484679927\">John Saenz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECp6I-DgbTTMRRtnv6-R66-w9bEhR01rn7iqXgnCTDQCuQgdM1gHSej94EUeuX8AkkSlD8n20XeuKdLzGG4kcegD5bn4hDexKzhA9ihaLVtWg9WM9CXzYLFib-KKQDNHNFtEXL_5T6mLRXn4qPNr8ToW4QgkU_GuK8MQB26dMVwrft5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJSanlh4_MD4gRXlAQ6Lsefjs",
+            "plus_code":{
+                  "compound_code":"W6HM+VF Chicago, IL, USA",
+                  "global_code":"86HJW6HM+VF"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJSanlh4_MD4gRXlAQ6Lsefjs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1773,
+            "vicinity":"2700 North Central Avenue, Chicago",
+            "CBG":170311906022,
+            "Radius":322.7046054271
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.925673,
+                        "lng":-87.765698
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9270868303,
+                              "lng":-87.7644541197
+                        },
+                        "southwest":{
+                              "lat":41.9243888697,
+                              "lng":-87.7671520803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Club Rosita",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102108519360994089516\">bella Maciel<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBKwqiqVl3IpeshWY4ZQWvcLDXgtf28R75_fbOoDOnpkzw-XwW5xay9d7ARgRR6HYjw2ErbKI7A_7Q4-PpiyrI0z9CNqaj3i2_gNa46-Pyk2O3r-ox-pk56k_WFJeO6oET_iV1uRJCSdRf0yf69peRluOUPIsFuwSVzr0rkU3q2CXdh",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ-4VbZJDMD4gR4Ikv65Oy8fY",
+            "plus_code":{
+                  "compound_code":"W6GM+7P Chicago, IL, USA",
+                  "global_code":"86HJW6GM+7P"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJ-4VbZJDMD4gR4Ikv65Oy8fY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"2457 North Central Avenue, Chicago",
+            "CBG":170311906022,
+            "Radius":322.7046054271
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7749627,
+                        "lng":-118.1451648
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7763900303,
+                              "lng":-118.1437625197
+                        },
+                        "southwest":{
+                              "lat":33.7736920697,
+                              "lng":-118.1464604803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102980130473680043751\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBlPgxi0UAPtGE7Gq0fdfeonPEsUtuh9M4Gd5Ey_LOg-11wvY5xtxoh3Xx72YHWpP1UFvmRBGt5vpcVmfx7wTQfEZjBtuYGkBZRxIfbofhMz1i74UVIJVNO6Y7B36B6Y-AtgEyPmtntWAfRuL1OE3xIcNMqPGTFepiPRntK3MxF-RgN",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJD4mtj7ox3YARFbmiwU1Hy54",
+            "plus_code":{
+                  "compound_code":"QVF3+XW Long Beach, CA, USA",
+                  "global_code":"8553QVF3+XW"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJD4mtj7ox3YARFbmiwU1Hy54",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"4020 East 7th Street, Long Beach",
+            "CBG":60375770004,
+            "Radius":309.979948904
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7749316,
+                        "lng":-118.1454517
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7763090803,
+                              "lng":-118.1442256197
+                        },
+                        "southwest":{
+                              "lat":33.7736111197,
+                              "lng":-118.1469235803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"China Wok Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114171716447393336752\">Jose Luis Cabrera<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECP5zzZAGBccl_TIajP90G5IuK2xWhSoIBxkr1iHhUpC7xM70_Cijp1X2OnAdL8BYF0lvLEnfQDSXxBNbLWk2LzI3EmSJ0FMOYtb5PJBO5tn4T_9gZAnGPHkVWP-H4Po9-H75hZecY22Jans28XK-ML3Znrq8KcvpLD1O8thn09V9mK",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJMxdik7ox3YARkJXu8ZXghcI",
+            "plus_code":{
+                  "compound_code":"QVF3+XR Long Beach, CA, USA",
+                  "global_code":"8553QVF3+XR"
+            },
+            "price_level":null,
+            "rating":3.9,
+            "reference":"ChIJMxdik7ox3YARkJXu8ZXghcI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":93,
+            "vicinity":"4008 East 7th Street, Long Beach",
+            "CBG":60375770004,
+            "Radius":309.979948904
+      }
+]

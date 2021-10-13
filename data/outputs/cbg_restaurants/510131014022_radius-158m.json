@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8832823,
+                        "lng":-77.1152837
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8845659803,
+                              "lng":-77.1142451697
+                        },
+                        "southwest":{
+                              "lat":38.8818680197,
+                              "lng":-77.1169431303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gallery Cafe at Ballston",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101153334852028272531\">Gallery Cafe at Ballston<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDzPd3FKq0vl8a4MC5ZY7pk61fbEGNBnKv_tpXWsSSTCHt_j28q7hIzF-wptwdgIOeN__eOcFHfVqShbOHNveZuncbH8qZ_FTNPr6m-5DVDlfizkJ3SnDjDbSZpO6KFzaRiPr-jWhHwvNu0D1qAYyzHyN5O_y-V5LWZKCgm54tOT0mm",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJy0Y_kzq0t4kRLoWKNErvP38",
+            "plus_code":{
+                  "compound_code":"VVMM+8V Arlington, VA, USA",
+                  "global_code":"87C4VVMM+8V"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJy0Y_kzq0t4kRLoWKNErvP38",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"1005 North Glebe Road #150, Arlington",
+            "CBG":510131014022,
+            "Radius":158.3695335977
+      }
+]

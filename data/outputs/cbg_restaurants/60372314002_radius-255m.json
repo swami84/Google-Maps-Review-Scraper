@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0110489,
+                        "lng":-118.3130353
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0123012303,
+                              "lng":-118.3116861697
+                        },
+                        "southwest":{
+                              "lat":34.0096032697,
+                              "lng":-118.3143841303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lola Mahor",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJQ_1sEx24woAR8tifefaud64",
+            "plus_code":{
+                  "compound_code":"2M6P+CQ Los Angeles, CA, USA",
+                  "global_code":"85632M6P+CQ"
+            },
+            "rating":4,
+            "reference":"ChIJQ_1sEx24woAR8tifefaud64",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1861 West Martin Luther King Junior Boulevard, Los Angeles",
+            "CBG":60372314002,
+            "Radius":255.137858136
+      }
+]

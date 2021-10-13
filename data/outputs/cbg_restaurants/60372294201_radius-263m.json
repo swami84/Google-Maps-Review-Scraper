@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9960329,
+                        "lng":-118.2611132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9973818303,
+                              "lng":-118.2596342697
+                        },
+                        "southwest":{
+                              "lat":33.9946838697,
+                              "lng":-118.2623322303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Pollos Asados La Bendici\u00f3n",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":595,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110401847881904326395\">Pollos Asados La Bendici\u00f3n<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB4tf7kKR2ma-ERal1txlPiRQPMHV18c0BsdCZqhcL3YGnFFXFfKvh796IlRGmbzQZeGxy4xCb3iiyqodvJBxk1-gAVZAeFUkob4MGusUGFJdM8ZqCY2ZDPCXECxR6DfwrtRJbzGcyfTDAVbDpn1SdeIu9MSpj4C43Ff-dd6UnkOGvY",
+                        "width":794
+                  }
+            ],
+            "place_id":"ChIJYR4z_6rJwoAREMQfIFdvZFo",
+            "plus_code":{
+                  "compound_code":"XPWQ+CH Los Angeles, CA, USA",
+                  "global_code":"8553XPWQ+CH"
+            },
+            "rating":4.9,
+            "reference":"ChIJYR4z_6rJwoAREMQfIFdvZFo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"5119 McKinley Avenue, Los Angeles",
+            "CBG":60372294201,
+            "Radius":262.73491745
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8956027,
+                        "lng":-87.722168
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8968491803,
+                              "lng":-87.7207821197
+                        },
+                        "southwest":{
+                              "lat":41.8941512197,
+                              "lng":-87.7234800803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bro-N-Laws Bar-B-Q",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115413475291686264640\">Candy Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECxAWtk5R-INcB2oUpruLsdp0uGdtz6yLFMSvhdqeSEnwHaw1qcEMBjI19EJWEi4FtQKd8pE2O_BBbXjhHPd4pVGgijp8xo63i5MC4sJpeDzfbGxNr2GcwzJEgyWPHZCMKIlPLvpahUHolLPMZc0PaOYdKgmXCYc3Yhmpi4Jmjd1sKv",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJH0UKJJwzDogR5_oRl0aEXcM",
+            "plus_code":{
+                  "compound_code":"V7WH+64 Chicago, IL, USA",
+                  "global_code":"86HJV7WH+64"
+            },
+            "rating":2.6,
+            "reference":"ChIJH0UKJJwzDogR5_oRl0aEXcM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5.0,
+            "vicinity":"3820 West Chicago Avenue, Chicago",
+            "opening_hours":null,
+            "CBG":170312312003,
+            "Radius":198.0273290437
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8965875,
+                        "lng":-87.7196309
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8979331303,
+                              "lng":-87.7184674197
+                        },
+                        "southwest":{
+                              "lat":41.8952351697,
+                              "lng":-87.7211653803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ms.Ann's taco's and Nocha's",
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104812072150008531079\">erikiea langham<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAssBpCr3sidT8DWG1xVjcIJZJk1vPV_FSpkOqj7Vyn3poi8wwJuepvHL-Us4isdtjxsMQavDzcjullrwJPBQ1A1L4Wt-0zScJ5a980LFqePzss4xWTF1h9RvjtqPtB0t_MUmy58i16RnABW4P8dpo9gt4_Pr1r04vcUcPzW33USt2f",
+                        "width":1366
+                  }
+            ],
+            "place_id":"ChIJfXzTV1UzDogRBqd9hICW1wM",
+            "plus_code":{
+                  "compound_code":"V7WJ+J4 Chicago, IL, USA",
+                  "global_code":"86HJV7WJ+J4"
+            },
+            "rating":null,
+            "reference":"ChIJfXzTV1UzDogRBqd9hICW1wM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"837 North Ridgeway Avenue, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":170312312003,
+            "Radius":198.0273290437
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9227654,
+                        "lng":-118.4043718
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9241117803,
+                              "lng":-118.4030994197
+                        },
+                        "southwest":{
+                              "lat":33.9214138197,
+                              "lng":-118.4057973803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Paz Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106479758128646192091\">Thomas Mitchell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDlOu7YfH383HrjdKw-O5aH_583zOo7JRvDhdq_A_SiKQI8cRX6CD9Le-U6mrETXKfBYomvSh-Uh2UZLN_VFOMw-ASkcsHUsh5r0D-MBrusds7TAp_llyi87_T4ypP9tEvU4ui5GmCoDncIydAIYVr5vccgPMBw6RPK9SDjMjsyfC3M",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJd3p2KUaxwoAR5WHGCn9IkJY",
+            "plus_code":{
+                  "compound_code":"WHFW+47 El Segundo, CA, USA",
+                  "global_code":"8553WHFW+47"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJd3p2KUaxwoAR5WHGCn9IkJY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":522,
+            "vicinity":"514 Center Street, El Segundo",
+            "CBG":60376200012,
+            "Radius":327.0562781585
+      }
+]

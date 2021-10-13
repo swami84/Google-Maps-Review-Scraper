@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7558422,
+                        "lng":-117.0918138
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7573114803,
+                              "lng":-117.0905780197
+                        },
+                        "southwest":{
+                              "lat":32.7546135197,
+                              "lng":-117.0932759803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112617767525836954587\">Karla Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJQHflWL1U77a0TNsB_BKk0OieTKyIRs1GUqWtTF-M0-2UACSLqlldE1vmGhW9Y-hUz_37lqQOP5i1E_VpkXzo1v8fBKk3HBBBxHHJUH-ZTvG70-oFXmALtXCt6HYCf19mLJEDDHG_GZ2V1JCMVeztShv2y7pWZgQT1ffrYKeM7a2F",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ70q76kFU2YARkRV2M8XdJj0",
+            "plus_code":{
+                  "compound_code":"QW45+87 San Diego, CA, USA",
+                  "global_code":"8544QW45+87"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJ70q76kFU2YARkRV2M8XdJj0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":898,
+            "vicinity":"4751 El Cajon Boulevard, San Diego",
+            "CBG":60730027071,
+            "Radius":184.1039741576
+      }
+]

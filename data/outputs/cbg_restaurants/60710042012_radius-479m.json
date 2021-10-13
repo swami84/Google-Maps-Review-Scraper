@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1368844,
+                        "lng":-117.3354489
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1382332803,
+                              "lng":-117.3340746697
+                        },
+                        "southwest":{
+                              "lat":34.1355353197,
+                              "lng":-117.3367726303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacolandia Muscoy, CA",
+            "place_id":"ChIJ1xu8slpTw4ARQUsgEwsN6wE",
+            "plus_code":{
+                  "compound_code":"4MP7+QR Muscoy, CA, USA",
+                  "global_code":"85644MP7+QR"
+            },
+            "rating":5,
+            "reference":"ChIJ1xu8slpTw4ARQUsgEwsN6wE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"State @ Highland Sb, Ns, Muscoy",
+            "CBG":60710042012,
+            "Radius":478.8799841205
+      }
+]

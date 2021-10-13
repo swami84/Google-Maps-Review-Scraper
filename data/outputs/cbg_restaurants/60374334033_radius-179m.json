@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0614422,
+                        "lng":-118.0236132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0626983803,
+                              "lng":-118.0221930197
+                        },
+                        "southwest":{
+                              "lat":34.0600004197,
+                              "lng":-118.0248909803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Taco Man",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2184,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110679872104070198955\">uriel adame<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECpmDJgxSGsUF5WhpN7Xz4_K5EOTbkTTyoHeMtunaPyp1VC2klxaW-IQanZUFf1VBtdLbJf-SpZ_QKheKi5k5NPWrl4zcwiu6mfx71x-z0DTa9Q897NdOuh7qEriVoMkwUbbPNKFRvJ8lv11eechBm4htuEQhDuFH5muzqa-txSK52c",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJrcaT8LXQwoARm-L8kfWHH_Y",
+            "plus_code":{
+                  "compound_code":"3X6G+HH El Monte, CA, USA",
+                  "global_code":"85633X6G+HH"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJrcaT8LXQwoARm-L8kfWHH_Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":252,
+            "vicinity":"11741 Magnolia Street, El Monte",
+            "CBG":60374334033,
+            "Radius":179.2623065781
+      }
+]

@@ -1,0 +1,105 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9362444,
+                        "lng":-87.7193
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9375811303,
+                              "lng":-87.7178896197
+                        },
+                        "southwest":{
+                              "lat":41.9348831697,
+                              "lng":-87.7205875803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Staropolska Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111544928979033387530\">Staropolska Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBROpnlgGWdGtZjZEOuYQsty-w4iEt7jB-ODbKf4k2tSU7NqcYwAzPpSNRI6QiqioExqL-F5GkRpKggVG0UQNJx41vJZv4vwZxM2SGt7C6cZkVlIhFwF4fEWneCnKA1c31ehnZlCqH2X3-GGNOen9be5EXS0z_729rvQ2B2Xvw6kSwc",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJueKihQrND4gRI441ETVkVc0",
+            "plus_code":{
+                  "compound_code":"W7PJ+F7 Chicago, IL, USA",
+                  "global_code":"86HJW7PJ+F7"
+            },
+            "price_level":2.0,
+            "rating":4.7,
+            "reference":"ChIJueKihQrND4gRI441ETVkVc0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":870.0,
+            "vicinity":"3030 North Milwaukee Avenue, Chicago",
+            "CBG":170312105011,
+            "Radius":180.7168899756
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9367787,
+                        "lng":-87.7197437
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9380892803,
+                              "lng":-87.7184598697
+                        },
+                        "southwest":{
+                              "lat":41.9353913197,
+                              "lng":-87.7211578303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"ZaZa's Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJlffLqKLND4gR1GoGlUJBSWU",
+            "plus_code":{
+                  "compound_code":"W7PJ+P4 Chicago, IL, USA",
+                  "global_code":"86HJW7PJ+P4"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJlffLqKLND4gR1GoGlUJBSWU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"3055 North Milwaukee Avenue, Chicago",
+            "CBG":170312105011,
+            "Radius":180.7168899756
+      }
+]

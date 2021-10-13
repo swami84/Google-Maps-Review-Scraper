@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2291041,
+                        "lng":-118.3886784
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2304532803,
+                              "lng":-118.3874623697
+                        },
+                        "southwest":{
+                              "lat":34.2277553197,
+                              "lng":-118.3901603303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Septiembre 12",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJKclUvQOUwoAR4Ydl2DJVMQw",
+            "plus_code":{
+                  "compound_code":"6JH6+JG Sun Valley, Los Angeles, CA, USA",
+                  "global_code":"85636JH6+JG"
+            },
+            "reference":"ChIJKclUvQOUwoAR4Ydl2DJVMQw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8800 North Ilex Avenue, Sun Valley",
+            "CBG":60371212222,
+            "Radius":390.1945112251
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9396108,
+                        "lng":-87.7661117
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9410136303,
+                              "lng":-87.7648744197
+                        },
+                        "southwest":{
+                              "lat":41.9383156697,
+                              "lng":-87.7675723803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mather Care Plus Portage Park",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118249211831819416634\">W A Strnad<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJkWHCoIoT5uLJwFr-VYTlTqvDxDqBAM162WStyIRTao8PVyFk2LxIlJSQTDlNUXc8lIe0lxrFMIOs-8egG4M2SCNuMipA__giqhnwr4BzHiNVqQtB27PmOBmmYFzK5RzV4QJRHeXeMDscYICI3e6MDfUHLVlul6rT1mf_4rKIGj3n",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJaVouLX3MD4gRt8VcKDNWZQI",
+            "plus_code":{
+                  "compound_code":"W6QM+RH Chicago, IL, USA",
+                  "global_code":"86HJW6QM+RH"
+            },
+            "rating":4.0,
+            "reference":"ChIJaVouLX3MD4gRt8VcKDNWZQI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"3235 North Central Avenue, Chicago",
+            "price_level":null,
+            "CBG":170311511003,
+            "Radius":229.2720973088
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9399778,
+                        "lng":-87.7667278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9413267803,
+                              "lng":-87.7653788197
+                        },
+                        "southwest":{
+                              "lat":41.9386288197,
+                              "lng":-87.7680767803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Retro Cafe and Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108684323323360784444\">iceidek<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDYQPNoLeAX-e_u0ZXO8_95Iv71NWXwxEOfjkJNjJIoi7oAw23n5IdaoAbZFrbVoVNzr5FvNfBbeuelbiWa9qlHyemXujxBPO0fpPRTW24VTsBXk8GnC954r4VU5eZzZeYsfmueJLThmLHHxqNwIOpfaGkbf8aY3s39KEEvDI77BIGX",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ3eW1K33MD4gRv-60j3Kj1cQ",
+            "plus_code":{
+                  "compound_code":"W6QM+X8 Chicago, IL, USA",
+                  "global_code":"86HJW6QM+X8"
+            },
+            "rating":4.2,
+            "reference":"ChIJ3eW1K33MD4gRv-60j3Kj1cQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":214,
+            "vicinity":"3246 North Central Avenue, Chicago",
+            "price_level":2.0,
+            "CBG":170311511003,
+            "Radius":229.2720973088
+      }
+]

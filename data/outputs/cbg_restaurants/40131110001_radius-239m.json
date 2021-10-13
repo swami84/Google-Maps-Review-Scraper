@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4944067,
+                        "lng":-111.9950064
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4957614303,
+                              "lng":-111.9937478697
+                        },
+                        "southwest":{
+                              "lat":33.4930634697,
+                              "lng":-111.9964458303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Vig Arcadia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108771889678173696368\">Nguyet Pham<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDAwSxgrDsKm3OPU_fp4PmEnN8YIvIY2-xHyboXb4NctqdzQ_QTIXaR8qdaz9bgkXd92M4s2-7YMiU29K1ENU8hmIegmIQfDFTDrfr576o-Xu6WtEQWgz_8fhbPQqRGGS0rZQ6E450dUti7Ck8vK6ndJBuqgi4ay-DqO4RjVpoaNJlI",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAZMB6lMMK4cRj23OzJOusW4",
+            "plus_code":{
+                  "compound_code":"F2V3+QX Phoenix, AZ, USA",
+                  "global_code":"855CF2V3+QX"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJAZMB6lMMK4cRj23OzJOusW4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1203,
+            "vicinity":"4041 North 40th Street, Phoenix",
+            "CBG":40131110001,
+            "Radius":239.4085830869
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4952433,
+                        "lng":-111.9921447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4966918303,
+                              "lng":-111.9907648197
+                        },
+                        "southwest":{
+                              "lat":33.4939938697,
+                              "lng":-111.9934627803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kneaders Bakery & Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":853,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101876466369150505761\">Kneaders Bakery &amp; Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECva4pF-c54ipz7sw6_gZkgdxVB3g0i91E43qmgb0OrDIMwlU0MnibVSa5zLngCUb4A0PqT54HEDovFjFo3E5-6_VfVl4NOzwm3FL6yr919lEIR27jrXBUgQHSidgLopyhiY-dtuvpOdw2DM6VGcE0WsIKyC677aYSHU95gcIhfJMwp",
+                        "width":857
+                  }
+            ],
+            "place_id":"ChIJ0bwyOlEMK4cRAgGRQGk36f8",
+            "plus_code":{
+                  "compound_code":"F2W5+34 Phoenix, AZ, USA",
+                  "global_code":"855CF2W5+34"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ0bwyOlEMK4cRAgGRQGk36f8",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":404,
+            "vicinity":"4126 East Indian School Road, Phoenix",
+            "CBG":40131110001,
+            "Radius":239.4085830869
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1792631,
+                        "lng":-118.4545503
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1806805803,
+                              "lng":-118.4532065697
+                        },
+                        "southwest":{
+                              "lat":34.1779826197,
+                              "lng":-118.4559045303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bill's Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110401389518134487066\">PUMPA DOUR<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDBo8bJWmUBUmlTmNGxVK0-ql63Um0n-8Zjc-LCqIn0IyJZ0G2QMNU3rX4hTaoD8-YDWw1PU_u-EtcGpUBCtkyou9zhuPzNXmDpIkqnclR_y9cOK0E-6NkD2A3-KIhmurCoo8tws5Y5DckIgUaDZNwCqeOLQvJekINOKKwqj_UX8zjO",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ_xvdLAiXwoARqQ77v8kjSQU",
+            "plus_code":{
+                  "compound_code":"5GHW+P5 Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635GHW+P5"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ_xvdLAiXwoARqQ77v8kjSQU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":608,
+            "vicinity":"14742 Oxnard Street, Van Nuys",
+            "CBG":60371284002,
+            "Radius":344.7853898063
+      }
+]

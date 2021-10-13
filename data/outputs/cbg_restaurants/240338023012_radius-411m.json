@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8576128,
+                        "lng":-76.8894171
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8589895803,
+                              "lng":-76.8880678197
+                        },
+                        "southwest":{
+                              "lat":38.8562916197,
+                              "lng":-76.8907657803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sharks fish and chicken",
+            "place_id":"ChIJW83K-ky_t4kR5toEgKAFgqQ",
+            "plus_code":{
+                  "compound_code":"V456+26 District Heights, MD, USA",
+                  "global_code":"87C5V456+26"
+            },
+            "rating":5,
+            "reference":"ChIJW83K-ky_t4kR5toEgKAFgqQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"District Heights",
+            "CBG":240338023012,
+            "Radius":411.2322879366
+      }
+]

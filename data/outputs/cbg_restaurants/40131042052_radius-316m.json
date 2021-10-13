@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5813315,
+                        "lng":-112.1316819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5828457803,
+                              "lng":-112.1304551697
+                        },
+                        "southwest":{
+                              "lat":33.5801478197,
+                              "lng":-112.1331531303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Garcia's Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102942422656093033817\">Tim Stanley<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYy0pvBZzJv0AF_m1OYYnMFxkWq9v4-JZ7y2kg_3h3OKQJk1DJEkx52TXSxTxnPJFPz_uikfrjefmJ9b3YA3jXGeDQLMKeIUxCSNBi5Rp7eVILgF7Cx8LGKLco7ZrXjNgHm7IQ3KSCW3e6OXAPMEPuU7Up4VikIzQ_r_xacaAdLFvr",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJa-6i7wpsK4cRgaKzwPdvfVs",
+            "plus_code":{
+                  "compound_code":"HVJ9+G8 Phoenix, AZ, USA",
+                  "global_code":"8559HVJ9+G8"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJa-6i7wpsK4cRgaKzwPdvfVs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1573,
+            "vicinity":"3301 West Peoria Avenue, Phoenix",
+            "CBG":40131042052,
+            "Radius":316.4434712153
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5806193,
+                        "lng":-112.1327994
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5821468303,
+                              "lng":-112.1314496697
+                        },
+                        "southwest":{
+                              "lat":33.5794488697,
+                              "lng":-112.1341476303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salad and Go",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2251,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112902430615926505635\">Sassan Davis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVMKp1ZedGdNz7PSE4vqqoheFg-LLvMBfwvO2GbgOAQ9q1KAFJoZaGjN5MJY1ygjp8gQCDtDf0kGuFwpPLrJNV0rEPCobiDaebro57S9CLaIKM8zcyy5wZr4Ig5ls-BKrDw50GHuiSY_WOSj4vrRtf4SjfJG-ONTbmWM0ser5M3_WA",
+                        "width":3907
+                  }
+            ],
+            "place_id":"ChIJm2mYV9ltK4cRj1WPKTayRsI",
+            "plus_code":{
+                  "compound_code":"HVJ8+6V Phoenix, AZ, USA",
+                  "global_code":"8559HVJ8+6V"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJm2mYV9ltK4cRj1WPKTayRsI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":57,
+            "vicinity":"3337 West Peoria Avenue, Phoenix",
+            "CBG":40131042052,
+            "Radius":316.4434712153
+      }
+]

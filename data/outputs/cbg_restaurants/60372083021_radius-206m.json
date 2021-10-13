@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0633139,
+                        "lng":-118.2633759
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0646333803,
+                              "lng":-118.2619270197
+                        },
+                        "southwest":{
+                              "lat":34.0619354197,
+                              "lng":-118.2646249803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pupuser\u00eda Menchita",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105104490801384783340\">Maggie Sanchez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAljaoY4yCLxVYwO-eKJhyPz0y6QbZv8UFMpssI8z62xF_cUrWNzeEJbfQfd4G0-wRHfYvzEX2D111_97YEYwpSLlqE0axxHNCoWeo8yETf34XWkJEi24vOUAKFmjwpIjmUohVeIv-0WwHgw4ZdQdDnSaNXQ6lwcit0MFpUf802mhaj",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ_7Dl8AfHwoAR8NI0jXox9DQ",
+            "plus_code":{
+                  "compound_code":"3P7P+8J Los Angeles, CA, USA",
+                  "global_code":"85633P7P+8J"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ_7Dl8AfHwoAR8NI0jXox9DQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":431,
+            "vicinity":"1606 Beverly Boulevard, Los Angeles",
+            "CBG":60372083021,
+            "Radius":206.3569195927
+      }
+]

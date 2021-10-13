@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.015287,
+                        "lng":-118.1336411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0166359803,
+                              "lng":-118.1322921197
+                        },
+                        "southwest":{
+                              "lat":34.0139380197,
+                              "lng":-118.1349900803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mariscos Linda 4",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109578921364793888776\">Paul Garcia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECVspHI_kclXQuGGo9RQm4Mm4mMVAEx67dhdMxfUuTkDfsNRHNJumtKr24AjDf1oeWETPm581UXX9kL5ZsvYgYxhEbf8qeQG5_PunEwbYFTX7PfNo-x90tLN7q_PM2pdfjzBHZ8dBQWmTIuBHMqtmnLriRaKtRJlqtzHVMGbhsXORwh",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ1QjW78rPwoARa20I06cvv7E",
+            "plus_code":{
+                  "compound_code":"2V88+4G East Los Angeles, CA, USA",
+                  "global_code":"85632V88+4G"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJ1QjW78rPwoARa20I06cvv7E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":148,
+            "vicinity":"6426 Whittier Boulevard, East Los Angeles",
+            "CBG":60375318003,
+            "Radius":255.5965624387
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0150859,
+                        "lng":-118.1332748
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0165591803,
+                              "lng":-118.1318975697
+                        },
+                        "southwest":{
+                              "lat":34.0138612197,
+                              "lng":-118.1345955303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Teddy's Red Tacos East LA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104901297001113401377\">Teddy&#39;s Red Tacos East LA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDp7CuZFLzgH1VBjzNsvKp2Ct6enEjEhW9_ZXqosH07fxYacvGfcnQIIqLzXOd1CH8le-CrFZdTbv_2qd9afjKt3Okhv_r98PGGwGaTtwcRYXFU9-3AOJmVagsmPWPBi8iwjF_ehDW2dWR2mpjRIxP-CwMmirAepkeED0IyPPr-bnuL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJkQAEIVLPwoARPrvejRQCTWo",
+            "plus_code":{
+                  "compound_code":"2V88+2M East Los Angeles, CA, USA",
+                  "global_code":"85632V88+2M"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJkQAEIVLPwoARPrvejRQCTWo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":189,
+            "vicinity":"6438 Whittier Boulevard, East Los Angeles",
+            "CBG":60375318003,
+            "Radius":255.5965624387
+      }
+]

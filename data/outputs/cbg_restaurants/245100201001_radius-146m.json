@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.290378,
+                        "lng":-76.590497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2917568803,
+                              "lng":-76.5890880697
+                        },
+                        "southwest":{
+                              "lat":39.2890589197,
+                              "lng":-76.5917860303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Water For Chocolate Catering LLC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":989,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113905494920678523472\">Carolyn Bowman Brown<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED715N9JSEOPrywk2WdC4DY75DwwCRhQHnXAroeVc98BJJDKJzX6Pgul2xeQne6aDROStES6ZMephdSD9raL0N_Rrp83a5PADoio3Pi0D_dQzWiOnP4pf0sFo4CDIXIULueFWKzGoMwzoUnlS_H4pqZTtJruvznbPBML8pyKxOBoHvN",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJZ2rkHnwEyIkRCbeiCboH2vs",
+            "plus_code":{
+                  "compound_code":"7CR5+5R Baltimore, MD, USA",
+                  "global_code":"87F57CR5+5R"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJZ2rkHnwEyIkRCbeiCboH2vs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_takeaway",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":560,
+            "vicinity":"1841 East Lombard Street, Baltimore",
+            "CBG":245100201001,
+            "Radius":146.1958809875
+      }
+]

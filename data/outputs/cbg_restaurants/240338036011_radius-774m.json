@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9384787,
+                        "lng":-76.849686
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9397275303,
+                              "lng":-76.8483756197
+                        },
+                        "southwest":{
+                              "lat":38.9370295697,
+                              "lng":-76.8510735803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Foomday",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJn0tEaOPBt4kR5UuEFQSX43A",
+            "plus_code":{
+                  "compound_code":"W5Q2+94 Springdale, MD, USA",
+                  "global_code":"87C5W5Q2+94"
+            },
+            "reference":"ChIJn0tEaOPBt4kR5UuEFQSX43A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"9104 Taylor Street, Springdale",
+            "CBG":240338036011,
+            "Radius":773.5209968042
+      }
+]

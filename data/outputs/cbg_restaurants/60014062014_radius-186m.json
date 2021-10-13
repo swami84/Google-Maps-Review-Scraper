@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.78214,
+                        "lng":-122.23339
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7834800303,
+                              "lng":-122.2319645197
+                        },
+                        "southwest":{
+                              "lat":37.7807820697,
+                              "lng":-122.2346624803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Pollo Loco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1228,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113924266169201229253\">El Pollo Loco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDgLgcSpQpAQr_E3GI4TtsN9OIrb7esbdG6z_PPxm0j8InvNRjuRb8tDTZj-FOOVWLTcwCZAVBlsinRRPbipu-xC6daj1thEx9HsqkP5KQPP26DBHvEJySBgzg9WmY2Zwjbku0F8Wi4J58lr7FLxAr1p2RHdYVNWs5N5kk47YqVH0Oo",
+                        "width":1840
+                  }
+            ],
+            "place_id":"ChIJqXnab-WGj4ARFFoYYTaBDbw",
+            "plus_code":{
+                  "compound_code":"QQJ8+VJ Oakland, CA, USA",
+                  "global_code":"849VQQJ8+VJ"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJqXnab-WGj4ARFFoYYTaBDbw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1058,
+            "vicinity":"2506 International Boulevard, Oakland",
+            "CBG":60014062014,
+            "Radius":186.2056416233
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7825339,
+                        "lng":-122.2340249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7838241303,
+                              "lng":-122.2324867197
+                        },
+                        "southwest":{
+                              "lat":37.7811261697,
+                              "lng":-122.2351846803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1791,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107721404123505875377\">Trap Speed 1320<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOfG7HI5SCZRpUtwj8uC9hO4v-u7V7n-NcZHA0svAOhMJwxlLB5zCsY4bnQn2PN8OLZ7waE0zt1njDV22dOKZNzR6grc8n3eZRvrGNtZbJuxvTtDuy4VzxpWfdXAjUV4qgoyY4ljEfnxvDRcUosK09iQxnuXIMvppmMgLPP1Q9IB-E",
+                        "width":2800
+                  }
+            ],
+            "place_id":"ChIJ91vQCuWGj4ARDORvBvCZS9c",
+            "plus_code":{
+                  "compound_code":"QQM8+29 Oakland, CA, USA",
+                  "global_code":"849VQQM8+29"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ91vQCuWGj4ARDORvBvCZS9c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1053,
+            "vicinity":"2424 International Boulevard, Oakland",
+            "CBG":60014062014,
+            "Radius":186.2056416233
+      }
+]

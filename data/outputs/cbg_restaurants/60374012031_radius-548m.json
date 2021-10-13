@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1077778,
+                        "lng":-117.8569444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1090306803,
+                              "lng":-117.8556223697
+                        },
+                        "southwest":{
+                              "lat":34.1063327197,
+                              "lng":-117.8583203303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sushi UMI",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1813,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114427819217996132247\">Sushi UMI<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED4-5Wq6lCpUsga2XRtr8sMWpBba_fXp-Dif5xTnwiW6JvU4U77Rk8a7vBUKp-EfHCR66L8jNWiTKU-GGwJQ3BfpA5rM_KkaUaWRg6-bgamBdXm94MjQnIKy6VDcdwWYiQYbLzZ7jl46coRcBawrqlNSBs8mkCfgPP4hoSwgi2Acoqo",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJn9wV25Uow4ARaryFEwNWd3g",
+            "plus_code":{
+                  "compound_code":"445V+46 Glendora, CA, USA",
+                  "global_code":"8564445V+46"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJn9wV25Uow4ARaryFEwNWd3g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":133,
+            "vicinity":"423 East Arrow Highway, Glendora",
+            "CBG":60374012031,
+            "Radius":547.6967549026
+      }
+]

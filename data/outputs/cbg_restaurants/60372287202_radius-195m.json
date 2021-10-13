@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9985438,
+                        "lng":-118.2491409
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9998312803,
+                              "lng":-118.2477921197
+                        },
+                        "southwest":{
+                              "lat":33.9971333197,
+                              "lng":-118.2504900803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La cena estilo michoacan",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117743430919644336765\">La cena estilo michoacan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBQc2nG6kchMHeAK7T0aY0knCaq7z7xvX2X9g2TN9TEdrSolQKzUnx5Q_VSsYO0CnB5Kd630xUxRNsL0IBm8cOgLZp5SvNJwyrk9eSFbWuWrc96hIQJk7rBoLkieT4f8L332HwexkJ3CsqnoDiZOCTGju3jr0TWTG1h7KwOG_PbmL7T",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJC7vExWnJwoARgQ9Z-0soReM",
+            "plus_code":{
+                  "compound_code":"XQX2+C8 Los Angeles, CA, USA",
+                  "global_code":"8553XQX2+C8"
+            },
+            "rating":5,
+            "reference":"ChIJC7vExWnJwoARgQ9Z-0soReM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"1433 East 49th Street, Los Angeles",
+            "CBG":60372287202,
+            "Radius":195.2927390938
+      }
+]

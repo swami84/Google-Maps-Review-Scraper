@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9476224,
+                        "lng":-118.3521243
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9489031803,
+                              "lng":-118.3508356697
+                        },
+                        "southwest":{
+                              "lat":33.9462052197,
+                              "lng":-118.3535336303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sumptuous African Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104841575869370158726\">Kenneth Magnone<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECld1xs6hPxM4-ns-JdRUeHHjKex373SBnLk5xQxKu6edA6I7_JtKAfuAn7bZSmVQvlvPomNsIcetysbYD4O4dOypzj5DELvdj-xqQK32SwzaG9Jv7GYpv7bxZW3aQx350cSylDB4cBK_mLXQvsbkvKQUZ45NrspRCxDV3p0peWk5xl",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJW3O-tPC2woAR-DLWzj3Wcrw",
+            "plus_code":{
+                  "compound_code":"WJXX+25 Inglewood, CA, USA",
+                  "global_code":"8553WJXX+25"
+            },
+            "rating":4.0,
+            "reference":"ChIJW3O-tPC2woAR-DLWzj3Wcrw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":240.0,
+            "vicinity":"1170 South La Brea Avenue, Inglewood",
+            "CBG":60376011002,
+            "Radius":283.3759778932
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9475519,
+                        "lng":-118.3524176
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9489002803,
+                              "lng":-118.3511304697
+                        },
+                        "southwest":{
+                              "lat":33.9462023197,
+                              "lng":-118.3538284303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"African Soul Food Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJcdGmtvC2woARZDv0IXhzdgU",
+            "plus_code":{
+                  "compound_code":"WJXX+22 Inglewood, CA, USA",
+                  "global_code":"8553WJXX+22"
+            },
+            "rating":null,
+            "reference":"ChIJcdGmtvC2woARZDv0IXhzdgU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1176 South La Brea Avenue, Inglewood",
+            "CBG":60376011002,
+            "Radius":283.3759778932
+      }
+]

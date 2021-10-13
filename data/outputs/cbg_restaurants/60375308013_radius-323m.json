@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0512652,
+                        "lng":-118.1890787
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0525913803,
+                              "lng":-118.1875996197
+                        },
+                        "southwest":{
+                              "lat":34.0498934197,
+                              "lng":-118.1902975803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Amigos Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111256039797212224999\">Amigos Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDXo5ltQ8gp3rhgIV-Rjl9yXxkqzVxG6XLoqj4Fi9FJHc6RtWfHDZjbPHB_FG-YaPiyGCradKzx9Z7SkHxSzZHIKVNn3Fn4ZE6Zh5Az46T8HEJB24RoEAVni7w-hJRPAQFUP0sosF-MOZ5Aa6vdo3wS8GyF0R3QZy6T2x77ppRnsVoX",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJ65MpG-7FwoARszyO5Km3wt0",
+            "plus_code":{
+                  "compound_code":"3R26+G9 Los Angeles, CA, USA",
+                  "global_code":"85633R26+G9"
+            },
+            "rating":4.4,
+            "reference":"ChIJ65MpG-7FwoARszyO5Km3wt0",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "meal_takeaway",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"3405 City Terrace Drive, Los Angeles",
+            "CBG":60375308013,
+            "Radius":322.6764923269
+      }
+]

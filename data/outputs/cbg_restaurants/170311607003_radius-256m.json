@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9464452,
+                        "lng":-87.7019153
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9477008303,
+                              "lng":-87.7005910697
+                        },
+                        "southwest":{
+                              "lat":41.9450028697,
+                              "lng":-87.7032890303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Panda Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1774,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115086702165812540261\">Analicia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEANyn7YYq2TVBqo0Ldm9wYMwo8um4dUpqxZej392hrLhYLh6f93JX5byxzQ14acicV329GagE-hC7rIFnxiJu5ppxVb6rNSig9IBmXsYFvjq-Vch26MgKsE_IFtjG9EgLuho8pE16zgK4H4a52iQ8FeQCcUowDa4OqaMgHTqFx9kLoy",
+                        "width":3461
+                  }
+            ],
+            "place_id":"ChIJ8aheqIjND4gRMPvtqlfFI3U",
+            "plus_code":{
+                  "compound_code":"W7WX+H6 Chicago, IL, USA",
+                  "global_code":"86HJW7WX+H6"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ8aheqIjND4gRMPvtqlfFI3U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":638,
+            "vicinity":"2949 West Addison Street, Chicago",
+            "CBG":170311607003,
+            "Radius":255.9027377628
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.946445,
+                        "lng":-87.700721
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9476224303,
+                              "lng":-87.6994993197
+                        },
+                        "southwest":{
+                              "lat":41.9449244697,
+                              "lng":-87.7021972803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dappers East",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116334871291573459801\">Dappers East<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALTtG2MEe9rQNCcqZZZYLmvjhB6h1R3ZCzvmO2NzSMqeLc79aLdr0J8mzWQFcorCJHVj5wiZc_SnxTPWxBiKkx0iMEVFBOGcytpyWhQKqOATJ98BziGwQlkIqT6InqmA7ik4hicsaMyZP4IGSn1X95A5npNUO32J6rMjwtYqNpeFkr",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJA9VmnIjND4gRr-cIUmFlOrg",
+            "plus_code":{
+                  "compound_code":"W7WX+HP Chicago, IL, USA",
+                  "global_code":"86HJW7WX+HP"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJA9VmnIjND4gRr-cIUmFlOrg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":691,
+            "vicinity":"2901 West Addison Street, Chicago",
+            "CBG":170311607003,
+            "Radius":255.9027377628
+      }
+]

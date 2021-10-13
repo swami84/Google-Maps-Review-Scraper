@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0763655,
+                        "lng":-118.3548174
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0776000303,
+                              "lng":-118.3535002197
+                        },
+                        "southwest":{
+                              "lat":34.0749020697,
+                              "lng":-118.3561981803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Charcoal Grill & Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2359,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108121565754724121963\">Charcoal Grill &amp; Bar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGF0nOjXnPPOGeiPkwPrvMlI6PGTPbWbcIuBjQ5GwpdmQrWMrL_Kg1VNIDE5moXBoLbju4QEmPXV4Pkqy1vBUO4FIuzrTvJ8CCEmeFAot5plh8WHcjlxKmb9H3fDXvDP_phLHA6DAQN0g8pVDR6pJmohZzfKRrVaf9azIuKZ8SNr2s",
+                        "width":4192
+                  }
+            ],
+            "place_id":"ChIJVR_e8625woARzoWwgcz5gpI",
+            "plus_code":{
+                  "compound_code":"3JGW+G3 Los Angeles, CA, USA",
+                  "global_code":"85633JGW+G3"
+            },
+            "rating":4.6,
+            "reference":"ChIJVR_e8625woARzoWwgcz5gpI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":327,
+            "vicinity":"7563 Beverly Boulevard, Los Angeles",
+            "CBG":60372144001,
+            "Radius":203.887999171
+      }
+]

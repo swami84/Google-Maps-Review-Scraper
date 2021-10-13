@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9794558,
+                        "lng":-118.198942
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9808204803,
+                              "lng":-118.1975236697
+                        },
+                        "southwest":{
+                              "lat":33.9781225197,
+                              "lng":-118.2002216303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Super Bionicos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3168,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113543828342526001972\">Nilo Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEApn6pAz2McvuAn1SyqQe5QqxMMU8a8iyaIdP1lgjRxUp-Ta8GHJh40r0bmGInwWU8jn3_MLGFJPgY3IFUhEsAw3-wC-dTvAD0uJ8sGvuv2z1nZCC6xi9nqL6hDhISpTnCozCi6feqiZjHEkYuiR0aLKAySayQ1HKSmqqodpKDWlULm",
+                        "width":5384
+                  }
+            ],
+            "place_id":"ChIJe9vQc8nOwoARiVVPzyZ6N2c",
+            "plus_code":{
+                  "compound_code":"XRH2+QC Bell, CA, USA",
+                  "global_code":"8553XRH2+QC"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJe9vQc8nOwoARiVVPzyZ6N2c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"3709 Gage Avenue, Bell",
+            "CBG":60375336011,
+            "Radius":231.1807695293
+      }
+]

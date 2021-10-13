@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.8530167,
+                        "lng":-122.2660639
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8544062303,
+                              "lng":-122.2647849197
+                        },
+                        "southwest":{
+                              "lat":37.8517082697,
+                              "lng":-122.2674828803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"The Starry Plough Pub",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1899,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107721404123505875377\">Trap Speed 1320<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECkTJX0YHepyrrkyZXv2G8KL7gl2ft74mkD6qeOxptUVdgAHtcVjjw5y4E7Q9rbvrlAKQCy574ZX8GyCdTc3uJj1FFkUfyxTTfMa_dcUO-Zz69td-HrCzEbprAGgnHPovHuGh19SXYVktMAgxv-Wv3CdJUeNqrZlpSOlKjAh68bgaQ_",
+                        "width":2806
+                  }
+            ],
+            "place_id":"ChIJWYBpOYJ-hYARHM-pU3PMre4",
+            "plus_code":{
+                  "compound_code":"VP3M+6H Berkeley, CA, USA",
+                  "global_code":"849VVP3M+6H"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJWYBpOYJ-hYARHM-pU3PMre4",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":554,
+            "vicinity":"3101 Shattuck Avenue, Berkeley",
+            "opening_hours":null,
+            "CBG":60014239011,
+            "Radius":208.2195909315
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8546878,
+                        "lng":-122.2662705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8560297303,
+                              "lng":-122.2649989197
+                        },
+                        "southwest":{
+                              "lat":37.8533317697,
+                              "lng":-122.2676968803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Munch India",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":486,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112359401127037931874\">Munch India<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOnG4CWRyp9VUMJ3DNc455I__mycLkDiX4skVlCljSk_WjCPM4ECyfBiV4yw_8aXInpCOiFn_kwerr8UfBHH0QU7OdRnuBLNYORKaSbUv437n2DaurciJDfN2aL5pW6qqNeFy--NzmY1tMqtBda0mxrAJBdT70C_cPnaNTa0T1mq9g",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJKcyZ7Kl_hYARSolfrx3u234",
+            "plus_code":{
+                  "compound_code":"VP3M+VF Berkeley, CA, USA",
+                  "global_code":"849VVP3M+VF"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJKcyZ7Kl_hYARSolfrx3u234",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"3015 Shattuck Avenue, Berkeley",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60014239011,
+            "Radius":208.2195909315
+      }
+]

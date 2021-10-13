@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9167921,
+                        "lng":-118.1336696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9182231803,
+                              "lng":-118.1323047197
+                        },
+                        "southwest":{
+                              "lat":33.9155252197,
+                              "lng":-118.1350026803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carl's Jr.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":694,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107907742224459701960\">Carl&#39;s Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDhv2J0CdFz0pSzPa2l6zN6dLYzbcIxw9I4vtsCfKUtzawwJkCCVYkNEmfj1vbbr38un32P1QVDp-AK2h46XEwdREVo2uIV9eTB1qtOcU-h371DlI9Q-diy6Hc5uG6WTsO5MCxVOT-hHHfbkBxV8jWDJC7KFKNDow-mlwFOfBz0i5CC",
+                        "width":1234
+                  }
+            ],
+            "place_id":"ChIJgXpCkWzNwoARjMz0w1WBtNk",
+            "plus_code":{
+                  "compound_code":"WV88+PG Downey, CA, USA",
+                  "global_code":"8553WV88+PG"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJgXpCkWzNwoARjMz0w1WBtNk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":394,
+            "vicinity":"9110 Imperial Highway, Downey",
+            "CBG":60375518002,
+            "Radius":517.8756392253
+      }
+]

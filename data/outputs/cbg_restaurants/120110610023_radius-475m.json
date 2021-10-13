@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.100791,
+                        "lng":-80.260197
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1022108803,
+                              "lng":-80.2588337697
+                        },
+                        "southwest":{
+                              "lat":26.0995129197,
+                              "lng":-80.2615317303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kanton Kanton Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107198705817543388310\">Jenna Slade<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECNPKJNnqtPtdVqKj_PKo6Hox9K4z3Xg-p0cUYgxj5VDuTBEE1OSgGXfW7KpGUx15Q82Hey-BLMNvArTmLUssdnoj8bCadk4kVDM500SJ-wdG4hQ_jFJplWG-S0y5djaIzL1C2vf8b2JabR14Jw8wchtuxrQsS_CfhoqHpYaoz-00z9",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJqwQYgeQH2YgR8qBJ0FBfSWQ",
+            "plus_code":{
+                  "compound_code":"4P2Q+8W Davie, FL, USA",
+                  "global_code":"76RX4P2Q+8W"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJqwQYgeQH2YgR8qBJ0FBfSWQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":143,
+            "vicinity":"8260 West State Road 84, Davie",
+            "CBG":120110610023,
+            "Radius":475.4351003941
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.1060056,
+                        "lng":-80.2614908
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1074558303,
+                              "lng":-80.2599999697
+                        },
+                        "southwest":{
+                              "lat":26.1047578697,
+                              "lng":-80.2626979303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"8 O'clock cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113411526955114447853\">Silvana Muradi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdH19RhJPQqo9AZoXZo-hRKs6e22LDzGfNjS0cp3r3CLlVshkVw1zOTaKFFeHdhUrWxG1G49H-YHPxZ0A6HTDmVrXPBOsvY7tD79dKNajdg5mN8FZnDeTGGlC8b1prY8qbSkrLJUq21pIcL_cySKJexIr7wA5uIVvPxxayLs3DIdLi",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJca35mjYH2YgRk04W1fY0QBY",
+            "plus_code":{
+                  "compound_code":"4P4Q+CC Plantation, FL, USA",
+                  "global_code":"76RX4P4Q+CC"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJca35mjYH2YgRk04W1fY0QBY",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"1200 South Pine Island Road #148, Plantation",
+            "CBG":120110610023,
+            "Radius":475.4351003941
+      }
+]

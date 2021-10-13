@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9538927,
+                        "lng":-76.9597248
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9553419803,
+                              "lng":-76.9580993697
+                        },
+                        "southwest":{
+                              "lat":38.9526440197,
+                              "lng":-76.9607973303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tortas Hula Hula",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":901,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111094922190887320463\">Tortas Hula Hula<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECd1CsvWH6APpUvCZQtztjVxT5yACBX3yfFlzZdcMo8hv7117NtBeAvrJV8vFW91Jl99UvQoqT7MBG2EGDmiNJMpT51EBsQfmYU4mlA0NBatzR8-qi4OWUaW6klonrR54JWKLrbGQGv6Esy_Uzs7OgFY9sQeQqjuGYY77bJ-GSuBvtJ",
+                        "width":900
+                  }
+            ],
+            "place_id":"ChIJl7szPYnHt4kRuxiwI_oIS4E",
+            "plus_code":{
+                  "compound_code":"X23R+H4 Hyattsville, MD, USA",
+                  "global_code":"87C5X23R+H4"
+            },
+            "rating":4.1,
+            "reference":"ChIJl7szPYnHt4kRuxiwI_oIS4E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"3511 Hamilton Street, Hyattsville",
+            "CBG":240338061003,
+            "Radius":320.7356996296
+      }
+]

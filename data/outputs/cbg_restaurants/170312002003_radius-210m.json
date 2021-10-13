@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.924541,
+                        "lng":-87.738228
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9258127803,
+                              "lng":-87.7368655697
+                        },
+                        "southwest":{
+                              "lat":41.9231148197,
+                              "lng":-87.7395635303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mr Gee's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108652917611695713041\">Mr Gee&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDVg_Fze3gWoRBpuwbM3t8H1pkQqPwKB4drvhl5LbQ8YIL897_jMPZYqcX8xedeuzoqqK5_zZX1NdbjEtqXlR2f7RFDGrB_1DUb7ESUKdKQMRUEdb61ohC2gjH14_qscU0IWwpbfhHPIMcJq8ZM68EJmk38HbIXC2gCx02b4xWtvND8",
+                        "width":3872
+                  }
+            ],
+            "place_id":"ChIJUV6cZOLMD4gRXA1_SDTohG0",
+            "plus_code":{
+                  "compound_code":"W7F6+RP Chicago, IL, USA",
+                  "global_code":"86HJW7F6+RP"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJUV6cZOLMD4gRXA1_SDTohG0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":644,
+            "vicinity":"4436 West Fullerton Avenue #1932, Chicago",
+            "CBG":170312002003,
+            "Radius":209.9793573295
+      }
+]

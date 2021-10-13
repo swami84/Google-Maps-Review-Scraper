@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0319487,
+                        "lng":-118.1980526
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0332442803,
+                              "lng":-118.1967846197
+                        },
+                        "southwest":{
+                              "lat":34.0305463197,
+                              "lng":-118.1994825803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cemitero Poblano",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106191655476213083455\">Erik Ramirez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEApxBmeYsk7kHuKlT-8usdBXNAxZbuU0Yv_lRkTUMUGAOUwqzQKPO7kEcMqPc30PWd9Y2bf7zOyhjm0Gcee9i6DJmFtw6cHC7DQ_7cGhSXSd7BbtRkSetaDO3ubFM_BCn8I9osUYw7VWRjtE10IPRj0zwD1F0SHcLwtxSrlbyA-dnbn",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJixPFPVHPwoAR85Esrpb0JHU",
+            "plus_code":{
+                  "compound_code":"2RJ2+QQ Los Angeles, CA, USA",
+                  "global_code":"85632RJ2+QQ"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJixPFPVHPwoAR85Esrpb0JHU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":320,
+            "vicinity":"510 South Lorena Street, Los Angeles",
+            "CBG":60372041202,
+            "Radius":207.8485452267
+      }
+]

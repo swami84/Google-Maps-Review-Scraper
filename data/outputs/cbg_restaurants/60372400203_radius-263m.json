@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9537202,
+                        "lng":-118.2566608
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9550686803,
+                              "lng":-118.2552047697
+                        },
+                        "southwest":{
+                              "lat":33.9523707197,
+                              "lng":-118.2579027303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Louisiana Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3025,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102648581196174272540\">Louisiana Fried Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBj6ca8bwy8V9kBqS4jcKmqFTmZ2lck-0qg4MK4A7E9YelmtF4RxWeDzXgXywAGdA5JdUBlgBA4KLCLg5unbQDAkdUVno9xJey-kxAo3eK-c64zbohusYz209jK2jBJcM1JXqNvC9BdCjfdxJ9FC577y-7stziP7P2OLalinR0NuRfx",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkVts7JzJwoARmP1YpW-W3hg",
+            "plus_code":{
+                  "compound_code":"XP3V+F8 Los Angeles, CA, USA",
+                  "global_code":"8553XP3V+F8"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJkVts7JzJwoARmP1YpW-W3hg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":437,
+            "vicinity":"9101 South Central Avenue, Los Angeles",
+            "CBG":60372400203,
+            "Radius":262.6252515621
+      }
+]

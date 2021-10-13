@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9673215,
+                        "lng":-118.2474438
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9686707803,
+                              "lng":-118.2462110197
+                        },
+                        "southwest":{
+                              "lat":33.9659728197,
+                              "lng":-118.2489089803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carniceria Cielito Lindo\/ Cielito Lindo Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106753648324542694062\">Luis Larios<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAUY_kdmIjxRbCpFVpwExpSyktpoSlznkAH-7_OQXRE0QzbA39tUTa8wAnkNFuCgpRG_-CP16Sk7cLmMrrZauu-oELHl2uNq7rCuy1PdkR9bdoSispD5W81hFVEM6TdsQzk9cScVREKKrbK-ttNaLmHsPDEeFLBX8gcEOpBEA0oHRrq",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJcx7_ggvJwoAR5zG56VTc4kk",
+            "plus_code":{
+                  "compound_code":"XQ83+W2 Los Angeles, CA, USA",
+                  "global_code":"8553XQ83+W2"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJcx7_ggvJwoAR5zG56VTc4kk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "grocery_or_supermarket",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"7900 Compton Avenue, Los Angeles",
+            "CBG":60375351013,
+            "Radius":206.6906056029
+      }
+]

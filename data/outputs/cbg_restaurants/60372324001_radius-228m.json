@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0017932,
+                        "lng":-118.3087289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0031985803,
+                              "lng":-118.3073842697
+                        },
+                        "southwest":{
+                              "lat":34.0005006197,
+                              "lng":-118.3100822303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Flor Blanca",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108065653946273507843\">Jose&#39; Mendoza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDlH9MT4hI3tbFT8g918T5QgItfVOeiAn2NSOaUDEfsFcynSMQAqFe8kVrgGZbJ8koHM_BXBvwxzA4mf7tjXr9q4sBrv8Re18s7vk71XEA3ANMeo5jxm8nL5p11W5eTqlbyTofuCY12VKIlsP6lbGhRv4SUBw_TghHqImCuaWq1m8K0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJsUqI5_q3woARFSElPenYHb0",
+            "plus_code":{
+                  "compound_code":"2M2R+PG Los Angeles, CA, USA",
+                  "global_code":"85632M2R+PG"
+            },
+            "rating":4.2,
+            "reference":"ChIJsUqI5_q3woARFSElPenYHb0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":151,
+            "vicinity":"4600 South Western Avenue, Los Angeles",
+            "CBG":60372324001,
+            "Radius":227.6510213007
+      }
+]

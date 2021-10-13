@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.003074,
+                        "lng":-118.30038
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0044906303,
+                              "lng":-118.2990308697
+                        },
+                        "southwest":{
+                              "lat":34.0017926697,
+                              "lng":-118.3017288303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tam's Burgers #20",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117237412382790718550\">Edward Jenkins<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuevqEvPl9Uv_zcqmOWJQVgeCwIxNoO-AqDvQcIcszyEQPIU4GKwu89DF26zpDqEJw7Cw6YsO0VAnAY6sdC-fCdEG6zgGe4XMVVTEwJBktGG_w3f007PNcsOMh579YQvXksJZncX__nnvF9W_hwP-0F2v3JJY4bX8KNPc36KmkD4yn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJua8kTv23woARjANZeBGHxto",
+            "plus_code":{
+                  "compound_code":"2M3X+6R Los Angeles, CA, USA",
+                  "global_code":"85632M3X+6R"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJua8kTv23woARjANZeBGHxto",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":354,
+            "vicinity":"4419 Normandie Avenue #20, Los Angeles",
+            "CBG":60372322003,
+            "Radius":227.1954395742
+      }
+]

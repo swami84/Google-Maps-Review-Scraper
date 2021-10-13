@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.611026,
+                        "lng":-122.3314621
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6123736303,
+                              "lng":-122.3300233197
+                        },
+                        "southwest":{
+                              "lat":47.6096756697,
+                              "lng":-122.3327212803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Juicy Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102123348018784505651\">Tammie Knight<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAFX1t8fFaRCaj2fi_NGKHKzr71LXFWznEt8YzQaDLKc-nqnDf5ZMDcReZhmoIyWGQ2RVQ_5YUNR2CM_sY-CT0-xbSUQYrsyPp_4FLbHmQMIPZjypYD69qcrdUbFSQDDMGv9Zp8ZdmPvaAW12ljwYNyGoDFB0olMmxQYzhU9nXuExZm",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYwweHbVqkFQR7SxAmKhxIgk",
+            "plus_code":{
+                  "compound_code":"JM69+CC Seattle, WA, USA",
+                  "global_code":"84VVJM69+CC"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJYwweHbVqkFQR7SxAmKhxIgk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":127,
+            "vicinity":"725 Pike Street, Seattle",
+            "CBG":530330082003,
+            "Radius":133.9115594265
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.6096702,
+                        "lng":-122.3294727
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.6109577803,
+                              "lng":-122.3280615697
+                        },
+                        "southwest":{
+                              "lat":47.6082598197,
+                              "lng":-122.3307595303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"A Pizza Mart",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110949284607338877733\">Michael Cady<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAotUR98UFHZU9ajLyP1sCE5yjFsrCT87o7eReL1v63JZmjPMUOHgxJhhFiAV-ptN8myON4zDnAeetA5t70hAN7hUmTkz6J-minz26uNKK9nzCGQRYnKhKva0Z3wUsQkLT4oOr8DRFvDiSufxN75MKcpKvwV2Pqzqpf7jIMnap96_fx",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJvYnx2bVqkFQRnfstcB_i5tw",
+            "plus_code":{
+                  "compound_code":"JM5C+V6 Seattle, WA, USA",
+                  "global_code":"84VVJM5C+V6"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJvYnx2bVqkFQRnfstcB_i5tw",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":309,
+            "vicinity":"800 Seneca Street, Seattle",
+            "CBG":530330082003,
+            "Radius":133.9115594265
+      }
+]

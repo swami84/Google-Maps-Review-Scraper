@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2208533,
+                        "lng":-118.4140765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2222414803,
+                              "lng":-118.4127749697
+                        },
+                        "southwest":{
+                              "lat":34.2195435197,
+                              "lng":-118.4154729303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Vo Noodle & Thai Curry Pizza 2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113549209575107016258\">meesh elle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAcE9pGtjtcwBlvEPpl64TLbJ_DZaSOugAZyoqJ4dsiwJKIcStuqqcI-r_c2gvxCAjnQfBn2Qo62o79yimu0NbusyAqI27zXnoLv8DlqEKWBLgqwyRZgwNfbYniypVvcjY0_kOyYuEum9QL10MrE5-ZiCdJwNuQ3NbxBMxMwl1XHbfr",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJIfSzouyXwoARBA9fhyY4joo",
+            "plus_code":{
+                  "compound_code":"6HCP+89 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85636HCP+89"
+            },
+            "rating":4.7,
+            "reference":"ChIJIfSzouyXwoARBA9fhyY4joo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"8236 Coldwater Canyon Avenue, North Hollywood",
+            "CBG":60371220003,
+            "Radius":482.4098077133
+      }
+]

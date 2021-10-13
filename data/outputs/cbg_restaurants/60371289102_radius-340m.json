@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1632452,
+                        "lng":-118.4491424
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1645397803,
+                              "lng":-118.4475814697
+                        },
+                        "southwest":{
+                              "lat":34.1618418197,
+                              "lng":-118.4502794303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112354963243314733950\">David Koenig<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECtOLtHELc2VtqHDglbyID9L7U-uD1jMBWfJXlzb2_2mmei-2Zni0pPScpDg2VJcJ29LAUK3pkv5hUg2ighCecoxhCpzgp_M5K-71uIW3_LSFQgfC1ieGw8sQzRIc-poL4i_-KodZTkBh-W-gsfvmwmza_pF1D0g66ATn4f9xGQ0LLH",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJvTc8G7eXwoAR4WPSJoa052Y",
+            "plus_code":{
+                  "compound_code":"5H72+78 Sherman Oaks, Los Angeles, CA, USA",
+                  "global_code":"85635H72+78"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJvTc8G7eXwoAR4WPSJoa052Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":777,
+            "vicinity":"5109 Van Nuys Boulevard, Sherman Oaks",
+            "CBG":60371289102,
+            "Radius":339.7648792661
+      }
+]

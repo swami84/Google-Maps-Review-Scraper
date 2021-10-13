@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8258767,
+                        "lng":-122.2784328
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8272409303,
+                              "lng":-122.2770079197
+                        },
+                        "southwest":{
+                              "lat":37.8245429697,
+                              "lng":-122.2797058803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Magnolia Street Wine Lounge & Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104198478601964258819\">Anne Gross Ayankoya<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAHQQqA0SfNKvOqqJ4oqsAnpwfjWotkaJShu15MKq4Y0N1hlpg86ApBW291j7Qn7crPgyNwqDQBGTu5aM5vM5se3rfxFjSqaPGekVWd8f9xiq68nPflLqGRaTQvPy3SBqJppGFuv0WzEvgMayZ5dm6qLHyiUxfHg6uWuluruU_zxJF6",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ85Q0HIR_hYARMbD2GhtGs8A",
+            "plus_code":{
+                  "compound_code":"RPGC+9J Oakland, CA, USA",
+                  "global_code":"849VRPGC+9J"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ85Q0HIR_hYARMbD2GhtGs8A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"3443 San Pablo Avenue, Oakland",
+            "CBG":60014015001,
+            "Radius":228.5490151428
+      }
+]

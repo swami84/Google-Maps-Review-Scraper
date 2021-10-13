@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0647558,
+                        "lng":-118.2491986
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0660556303,
+                              "lng":-118.2479263697
+                        },
+                        "southwest":{
+                              "lat":34.0633576697,
+                              "lng":-118.2506243303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100099093206169132135\">Khalid Lawa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdu2GEURzdL9RzT_aVFfCb7gYRwJLqfhNs2_4xHRr4pYYOmapny7Z5Jc5_7Psk7b-xPDdjJ6xz_Uqrbq-xB7wCP5MaYXyHFel6r0mHw1jkRGw1HjET7sFrtSzvtKJaN9JqKc3L9oioJsEQKCS04CRCgaNgkK7jH8oMSnRnv2AuonEu",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJX56GpVXGwoARBpt3b5BzIVo",
+            "plus_code":{
+                  "compound_code":"3Q72+W8 Los Angeles, CA, USA",
+                  "global_code":"85633Q72+W8"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJX56GpVXGwoARBpt3b5BzIVo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1194,
+            "vicinity":"516 North Beaudry Avenue, Los Angeles",
+            "CBG":60371976001,
+            "Radius":232.0232663347
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.066468,
+                        "lng":-118.2498312
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0678343803,
+                              "lng":-118.2484012197
+                        },
+                        "southwest":{
+                              "lat":34.0651364197,
+                              "lng":-118.2510991803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Teddys Red Tacos Truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115529363136415025797\">Tin Arm<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECG4qmof8czmgc_n_IMqdkgs3DeyJKnCAt4EIaUL2n3eXNGABvg0MHMhddDtr7a29NEce_ewxdE2ilNm50-ZZKpVLg2nIAwrxifQ2kSO0FDsoCPZyrSfAkv6wRhV3_c5FqjqLFqJozbS6lydg3kbGzUQFvLpiSbHQQSjEjg648_pDlk",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5yKUuWXHwoARmknxIXIClKI",
+            "plus_code":{
+                  "compound_code":"3Q82+H3 Los Angeles, CA, USA",
+                  "global_code":"85633Q82+H3"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJ5yKUuWXHwoARmknxIXIClKI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":133,
+            "vicinity":"1140 Sunset Boulevard, Los Angeles",
+            "CBG":60371976001,
+            "Radius":232.0232663347
+      }
+]

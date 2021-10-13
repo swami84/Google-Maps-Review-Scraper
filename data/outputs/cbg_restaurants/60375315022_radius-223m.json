@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0229709,
+                        "lng":-118.1709776
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0244746303,
+                              "lng":-118.1695794197
+                        },
+                        "southwest":{
+                              "lat":34.0217766697,
+                              "lng":-118.1722773803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ozz's Sopes",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116246122976671585454\">Aantonio Juarezb<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHdGE6VMgh3KMSaw6LpURApR9-HBwbFEEBX9hBjn_UUmuQZdfPYS_ONofQ3g60ikHdmI3IUS2DTPiBwCzLv-8dZHuuNrlAvg-wZk5gldIUoFNZSLuIbdSWdhzobtjur4p1V0rdjJk2AbG0z40wJKItlMXjnzNmEPFx0qXRguH2HcL-",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJU2l9nhLPwoARzk1b5j-inbs",
+            "plus_code":{
+                  "compound_code":"2RFH+5J Los Angeles, CA, USA",
+                  "global_code":"85632RFH+5J"
+            },
+            "rating":3.5,
+            "reference":"ChIJU2l9nhLPwoARzk1b5j-inbs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4500 Whittier Boulevard, Los Angeles",
+            "CBG":60375315022,
+            "Radius":223.0005273729
+      }
+]

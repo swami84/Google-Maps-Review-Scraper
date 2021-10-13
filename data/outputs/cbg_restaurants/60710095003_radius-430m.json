@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.8851531,
+                        "lng":-117.0137999
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.8865020803,
+                              "lng":-117.0124509197
+                        },
+                        "southwest":{
+                              "lat":34.8838041197,
+                              "lng":-117.0151488803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Red Baron Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2322,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105673454090882838796\">Nader Sanaei<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDnxWDRTFQ3Qo6tS-OCc2Qrwk-dndou_mJWzR3Vc8Ekb9hrzz3A2WER1ToEU9yd3l1ZwS_YjjyrDN5CUfAs2O6cXZzZoM9M5Z9jOqxuR1DbLYIevFCLWudZbL8PXdOcFzuFcQB8G0tWmBH4GnA5kT9bgM9v2U6FLkF0DMGm_0wfgb5m",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJE6u7bJR8xIARf0rpbSYCmhc",
+            "plus_code":{
+                  "compound_code":"VXPP+3F Barstow, CA, USA",
+                  "global_code":"8564VXPP+3F"
+            },
+            "rating":3.8,
+            "reference":"ChIJE6u7bJR8xIARf0rpbSYCmhc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":251,
+            "vicinity":"951 Armory Road, Barstow",
+            "price_level":null,
+            "CBG":60710095003,
+            "Radius":429.6765785516
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.8849114,
+                        "lng":-117.0126794
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.8862490803,
+                              "lng":-117.0114209197
+                        },
+                        "southwest":{
+                              "lat":34.8835511197,
+                              "lng":-117.0141188803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Panda Palace",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2450,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114512195007807715201\">TheBlak CircleGirl<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC2gzpx1zEX69kMTPhxfG_XMoFuD0Z3Nrzu9cJadcjExGcn5k53Z1Vbl6udfC80CgZxECejo91ivhAzGKJqHqXrYYN9VtF4Q-nxMWllmlb3Yum38k-q8OrTxuDR3W6Ym8ANyaTNwgJSBs29rME0ZhOZZp-TId58c8s0lLthds5WfeAO",
+                        "width":3480
+                  }
+            ],
+            "place_id":"ChIJ646HRpR8xIARNIPSgGm-SdY",
+            "plus_code":{
+                  "compound_code":"VXMP+XW Barstow, CA, USA",
+                  "global_code":"8564VXMP+XW"
+            },
+            "rating":4.4,
+            "reference":"ChIJ646HRpR8xIARNIPSgGm-SdY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":471,
+            "vicinity":"975 Armory Road, Barstow",
+            "price_level":1.0,
+            "CBG":60710095003,
+            "Radius":429.6765785516
+      }
+]

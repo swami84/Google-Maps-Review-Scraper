@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9349143,
+                        "lng":-118.2266669
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9362741303,
+                              "lng":-118.2252094197
+                        },
+                        "southwest":{
+                              "lat":33.9335761697,
+                              "lng":-118.2279073803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Oscarin",
+            "place_id":"ChIJu4-TQBTLwoAReuqB4s9czm8",
+            "plus_code":{
+                  "compound_code":"WQMF+X8 Los Angeles, CA, USA",
+                  "global_code":"8553WQMF+X8"
+            },
+            "rating":3,
+            "reference":"ChIJu4-TQBTLwoAReuqB4s9czm8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"11019 Alameda Street, Los Angeles",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60375404001,
+            "Radius":211.3468036156
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9350196,
+                        "lng":-118.2266314
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9363769303,
+                              "lng":-118.2251989697
+                        },
+                        "southwest":{
+                              "lat":33.9336789697,
+                              "lng":-118.2278969303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Arias kitchen",
+            "place_id":"ChIJvVXmcxHLwoARFvHbjqD15Oo",
+            "plus_code":{
+                  "compound_code":"WQPF+28 Los Angeles, CA, USA",
+                  "global_code":"8553WQPF+28"
+            },
+            "rating":5,
+            "reference":"ChIJvVXmcxHLwoARFvHbjqD15Oo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"11017 Alameda Street, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103586791033119092061\">PABLO VELEZ<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7LCtHaZGGKOb_VYnjN3r8NfAKWN03XswGPtKxOtZ6X7Vgl9-x3WEf9o9G2wUZLLXn_S6BJ6aBRGbajwY7vcmc6vbQcdcwRKN9pdT9k34b8klePSjpnBuqsX9H6i0Ee5ri_bHEbQjZlj7PJoPgiLjild_gipCPOuUiiTy_vPxmHwom",
+                        "width":1920
+                  }
+            ],
+            "CBG":60375404001,
+            "Radius":211.3468036156
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.497336,
+                        "lng":-86.793077
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4987083303,
+                              "lng":-86.7917539697
+                        },
+                        "southwest":{
+                              "lat":33.4960103697,
+                              "lng":-86.7944519303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lola's Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJd3F0yNobiYgR1zNcx-OJVjw",
+            "plus_code":{
+                  "compound_code":"F6W4+WQ Birmingham, AL, USA",
+                  "global_code":"865MF6W4+WQ"
+            },
+            "reference":"ChIJd3F0yNobiYgR1zNcx-OJVjw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2001 15th Avenue South, Birmingham",
+            "CBG":10730049011,
+            "Radius":435.1401545552
+      }
+]

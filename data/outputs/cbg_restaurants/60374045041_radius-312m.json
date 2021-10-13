@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1074289,
+                        "lng":-117.9043954
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1087305803,
+                              "lng":-117.9028032197
+                        },
+                        "southwest":{
+                              "lat":34.1060326197,
+                              "lng":-117.9055011803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Santa Maria\u2019s Mexican Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114926028129508278199\">Inking Allay<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1Y9-U8w2AmZvWsXmko6byxcnGFfy5fzf3qFQyL499yK2AcYxJuzNViv234u7AvgdhlhkbP3i0bd_qToAB4tl3ajBWm4j4kxlcyYzpdaXgBY_tnP5YBSirwYnahcBVVD7UjW5MhdTUPC1Y1yUBqwuHHtecdv3jpipoVuGSpjJaUlf1",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJQ6KGrMopw4ARhH8zVDWM0pk",
+            "plus_code":{
+                  "compound_code":"434W+X6 Azusa, CA, USA",
+                  "global_code":"8564434W+X6"
+            },
+            "rating":4.7,
+            "reference":"ChIJQ6KGrMopw4ARhH8zVDWM0pk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"453 East Arrow Highway suite e, Azusa",
+            "price_level":null,
+            "CBG":60374045041,
+            "Radius":311.6885766478
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1064838,
+                        "lng":-117.905155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1077496803,
+                              "lng":-117.9038033197
+                        },
+                        "southwest":{
+                              "lat":34.1050517197,
+                              "lng":-117.9065012803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111540569834179254119\">Angel Franco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBouGz17njeFbyma2FUQ9l-pgeeJwL00iioiEHgNZvngIe6NXdwyVQG_VBvCA4eOq_jQhm95TJ6Kr01kIV_5hB-IQcu0fi1XjoDO7PfMWFytRLL10O9-7_fafTRG7oZ5P5U3AgUuz9goy7pIc0yWklWF8tmYwVrEH63K62VmykCSej9",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJt5J-mgsow4ARGre39fvtURI",
+            "plus_code":{
+                  "compound_code":"434V+HW Covina, CA, USA",
+                  "global_code":"8564434V+HW"
+            },
+            "rating":3.9,
+            "reference":"ChIJt5J-mgsow4ARGre39fvtURI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":666,
+            "vicinity":"768 Arrow Highway, Covina",
+            "price_level":1.0,
+            "CBG":60374045041,
+            "Radius":311.6885766478
+      }
+]

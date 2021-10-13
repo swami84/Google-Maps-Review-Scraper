@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9262433,
+                        "lng":-118.2614675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9277065303,
+                              "lng":-118.2601183697
+                        },
+                        "southwest":{
+                              "lat":33.9250085697,
+                              "lng":-118.2628163303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Huerta Hernandez",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2320,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109545156799517547236\">Huerta Hernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYDd0tCyDncKhhUHfgnbMwS3tWwxn4gumaytFk5UQNto09GoUPyGMsk6tcv-ISy2MWdjYxDJTiyGSWhddnmzKDWy0Pcob6e83Av2_bI8lrfhIsFvMWSSFrXTnrMP4Uz5L2CGiVJ3RqJudA0J7KdPZd7mRmT2J47NuOgQO8N29OsOhi",
+                        "width":4640
+                  }
+            ],
+            "place_id":"ChIJoeht-NLLwoARJjoGaeEoi5o",
+            "plus_code":{
+                  "compound_code":"WPGQ+FC Los Angeles, CA, USA",
+                  "global_code":"8553WPGQ+FC"
+            },
+            "rating":5,
+            "reference":"ChIJoeht-NLLwoARJjoGaeEoi5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"718 East 118th Street, Los Angeles",
+            "CBG":60372410023,
+            "Radius":256.9739559917
+      }
+]

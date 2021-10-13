@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.185308,
+                        "lng":-80.118109
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1867778803,
+                              "lng":-80.1168033197
+                        },
+                        "southwest":{
+                              "lat":26.1840799197,
+                              "lng":-80.1195012803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Griego",
+            "place_id":"ChIJK_ceX7ED2YgR8U0l9VMzjhU",
+            "plus_code":{
+                  "compound_code":"5VPJ+4Q Fort Lauderdale, FL, USA",
+                  "global_code":"76RX5VPJ+4Q"
+            },
+            "reference":"ChIJK_ceX7ED2YgR8U0l9VMzjhU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4701 North Federal Highway # A15, Fort Lauderdale",
+            "CBG":120110403002,
+            "Radius":349.1371806527
+      }
+]

@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5351649,
+                        "lng":-86.7976143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5365138803,
+                              "lng":-86.7962653197
+                        },
+                        "southwest":{
+                              "lat":33.5338159197,
+                              "lng":-86.7989632803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"12th avenue. Bar & Grill",
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100339561525188928549\">Melissa Macon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBkvOkWFrTnrD1MHqLV0-9mKXzoE7LLwKSe-JuUOtbY7Yv3IoOsulHNdFQeku0tJayN_wVesVBbbjJ_1SOZ-Zs3N_0uN7tOLfdtNk7_8gmBw4ujXq4-YSCso9y5DWAYoTKypN4LDg2isHbzpNSWBNl9301znMAMcHgLeCPrDmmusvw",
+                        "width":1908
+                  }
+            ],
+            "place_id":"ChIJzXrgb3gbiYgRbYBBsCY5aKY",
+            "plus_code":{
+                  "compound_code":"G6P2+3X Birmingham, AL, USA",
+                  "global_code":"865MG6P2+3X"
+            },
+            "rating":4.4,
+            "reference":"ChIJzXrgb3gbiYgRbYBBsCY5aKY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"3200 12th Avenue North, Birmingham",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":10730016002,
+            "Radius":484.2705769968
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5340876,
+                        "lng":-86.800309
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5353747303,
+                              "lng":-86.7989133197
+                        },
+                        "southwest":{
+                              "lat":33.5326767697,
+                              "lng":-86.8016112803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sol's Hot Dogs",
+            "photos":[
+                  {
+                        "height":3492,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112688604702783679747\">Audrey King Davis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBvUy1JPC7DSay9lsodZ0SXAp0CDandBw2cXsWrmfdlKcsZtyDWax91HcgkWKmEDd11KB7lIYK2HLmXyXm8tcBRcK0oUQQ98IyWOGUIc5snoSz9QoQD30-nNKnSC9I1r_qH0qhIkEEvZPKDdZ-OpMsAYihhoaPTWHhLAqLPd7HbH8IO",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJOw7C6AobiYgRw9F_Xy8nr4w",
+            "plus_code":{
+                  "compound_code":"G5MX+JV Birmingham, AL, USA",
+                  "global_code":"865MG5MX+JV"
+            },
+            "rating":4.4,
+            "reference":"ChIJOw7C6AobiYgRw9F_Xy8nr4w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":119,
+            "vicinity":"3002 12th Avenue North, Birmingham",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":10730016002,
+            "Radius":484.2705769968
+      }
+]

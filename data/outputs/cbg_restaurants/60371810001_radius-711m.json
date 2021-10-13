@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1426647,
+                        "lng":-118.1891838
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1440289803,
+                              "lng":-118.1878722197
+                        },
+                        "southwest":{
+                              "lat":34.1413310197,
+                              "lng":-118.1905701803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Eagle Rock Recreation Center",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112304263628082683205\">Mark Yutan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBoCOmIsObHRnKZbAbKPUxukc0w0VEF4jaOKRNGQKjZQJbVLO0Me8UxcDxbTdRGSGoW96fALxkvr45hPtWTGurlDVpHgeC6Y9ue96yWbO9o-lyWckQSAcSlBlIJ8vrB0r8mPX9suguzqt3y_Ur0oVrKUMBqVdVYYAsXCFa7ZluO__1P",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJF8BoJOrDwoARMS2YPdy78ak",
+            "plus_code":{
+                  "compound_code":"4RV6+38 Los Angeles, CA, USA",
+                  "global_code":"85634RV6+38"
+            },
+            "rating":4.4,
+            "reference":"ChIJF8BoJOrDwoARMS2YPdy78ak",
+            "scope":"GOOGLE",
+            "types":[
+                  "park",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":422,
+            "vicinity":"1100 Eagle Vista Drive, Los Angeles",
+            "CBG":60371810001,
+            "Radius":710.7333352808
+      }
+]

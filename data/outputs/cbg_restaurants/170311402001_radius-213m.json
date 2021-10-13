@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9719699,
+                        "lng":-87.7083599
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9733188803,
+                              "lng":-87.7070109197
+                        },
+                        "southwest":{
+                              "lat":41.9706209197,
+                              "lng":-87.7097088803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Padre Nuestro Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105239505745790423542\">Chiquitico<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZeSi8n-NImWC92f0VCb3gpz9bxVZcGMcyeUDboKjE4lEgpZUSPHvoxq2qu5SGdBnZSf8WTFpFyhw68g8LavKOZr-KpvALMiNUT9ZdCNL0jt0uigTrWmVG34xykyxxyU3iA0GR05sJHSVNwdV7FRYzmmcvKMUORAcCwuWpuIL72llN",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-TcwXePND4gRwZcxe46QB7o",
+            "plus_code":{
+                  "compound_code":"X7CR+QM Chicago, IL, USA",
+                  "global_code":"86HJX7CR+QM"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJ-TcwXePND4gRwZcxe46QB7o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":144,
+            "vicinity":"4959 North Kedzie Avenue, Chicago",
+            "CBG":170311402001,
+            "Radius":213.127049124
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9719678,
+                        "lng":-87.7084275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9733159303,
+                              "lng":-87.7071459197
+                        },
+                        "southwest":{
+                              "lat":41.9706179697,
+                              "lng":-87.7098438803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Xecul Restaurante",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110030871420188694073\">osmar carreto<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED5bWvVY7vIgdRP0LXYDoO1C938QedP6TJo6P8g3cS2kQpSgIM_1qbmart-GQZ88fCNtVSGPB93JNJMVpsQXJ0NP6SFgvmi4V3tIpNEd8eC7oQ50aCrkqtgP9hFtpBb0rr11ui3hKZgITWCNMoDw2tLCnPwTLgwUFzMNZAerzG9gWSO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJDxkPx8PND4gRiur60vcuA_E",
+            "plus_code":{
+                  "compound_code":"X7CR+QJ Chicago, IL, USA",
+                  "global_code":"86HJX7CR+QJ"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJDxkPx8PND4gRiur60vcuA_E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4959 North Kedzie Avenue, Chicago",
+            "CBG":170311402001,
+            "Radius":213.127049124
+      }
+]

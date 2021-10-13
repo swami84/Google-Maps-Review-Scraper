@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.1494644,
+                        "lng":-122.5032744
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.1509447303,
+                              "lng":-122.5021544697
+                        },
+                        "southwest":{
+                              "lat":47.1482467697,
+                              "lng":-122.5048524303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Denny's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101816038229971485061\">Channing Wortman<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC08WGRtjkeBey14V1IeUiy_mGJiHqlJwBaKWuPLUY8j19AVyulWKtPGDTpgZXIGdSmDZUaEBeGzWrXCQYbSmL7s2qCzjNWksNN0MXOBgDs4ucXdz1eYi1uhtWLhhoZWuh4uW9MG8tfCywSMZHFg_2rGE0ZGrzeZhAUQa6qqAD_B0wv",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ-9FAgz4BkVQRRuJbjUDS3HI",
+            "plus_code":{
+                  "compound_code":"4FXW+QM Tacoma, WA, USA",
+                  "global_code":"84VV4FXW+QM"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ-9FAgz4BkVQRRuJbjUDS3HI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1658,
+            "vicinity":"11755 Pacific Highway Southwest, Tacoma",
+            "CBG":530530718062,
+            "Radius":514.812406663
+      }
+]

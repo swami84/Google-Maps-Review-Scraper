@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.79133,
+                        "lng":-118.290465
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7926299303,
+                              "lng":-118.2891213197
+                        },
+                        "southwest":{
+                              "lat":33.7899319697,
+                              "lng":-118.2918192803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Super Gallito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115693686833393416175\">Carlos P.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAHKXfuIOwXr7BP7ZsSg5xub1kzgDZWmIb0fSkie6i65fgqUi3AHhF-W0Of8FJAqNGs0FsuvNi4C0TBWz450bem34sUi8MicwSI9Wxz3wJ4npaQmvH0fzMpeBQmBlJfPS-NkIyvqgIqwR4xjv0WiolVxl_uNN13c9566nFGWxAuD1t_",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5UV8G4013YARnTTd6aBoVlA",
+            "plus_code":{
+                  "compound_code":"QPR5+GR Harbor City, Los Angeles, CA, USA",
+                  "global_code":"8553QPR5+GR"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ5UV8G4013YARnTTd6aBoVlA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1699,
+            "vicinity":"843 West Pacific Coast Highway, Harbor City",
+            "CBG":60372944102,
+            "Radius":394.0540131733
+      }
+]

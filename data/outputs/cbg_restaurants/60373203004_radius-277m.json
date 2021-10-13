@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2805544,
+                        "lng":-118.4396984
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2818492803,
+                              "lng":-118.4383141197
+                        },
+                        "southwest":{
+                              "lat":34.2791513197,
+                              "lng":-118.4410120803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Asumare Peruvian",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107868369789283389887\">Jose Valencia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFj4KMgAoAA2UEr0jwqzj0p5ym9Mmh-lUqK11FlI9qyItCOk4C66VsjNddqnBx0SbMU3h9ZPIJh04-Nwqkav14irS7RBWKm1tFAQDq-Nes1olyXHsGMH9J-JFB-RloBGWBSbUgoY6xslSS_9opSHcVW360DqoA5fDWUqxJDa8COzIV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqWS3TEuQwoAR_j0QsjavQNE",
+            "plus_code":{
+                  "compound_code":"7HJ6+64 San Fernando, CA, USA",
+                  "global_code":"85637HJ6+64"
+            },
+            "rating":4.4,
+            "reference":"ChIJqWS3TEuQwoAR_j0QsjavQNE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":229,
+            "vicinity":"209 Chatsworth Drive, San Fernando",
+            "CBG":60373203004,
+            "Radius":277.0659163654
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.280822,
+                        "lng":-118.439744
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2822416803,
+                              "lng":-118.4382954697
+                        },
+                        "southwest":{
+                              "lat":34.2795437197,
+                              "lng":-118.4409934303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"El Ray",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104854959787882808385\">Arturo Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDCvgCmRPb_vQ7cKHMvSOYsMMd3DHztX5Ia4N9E0_dxVn-cbBZnxoWwCwQsbEgldvHBpija3sVU-IAzHYJ4OSz3v0EQQ5T7DH6yacxJLJsCE_JaV-ciuYHjoEGPXJiglXjesV7B5pL3i_c748n2QoW1KUnB6LPeAkU9NACQhLwmquwM",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJ3WyTSkuQwoARtmoq5GYl0yA",
+            "plus_code":{
+                  "compound_code":"7HJ6+84 San Fernando, CA, USA",
+                  "global_code":"85637HJ6+84"
+            },
+            "rating":4.1,
+            "reference":"ChIJ3WyTSkuQwoARtmoq5GYl0yA",
+            "scope":"GOOGLE",
+            "types":[
+                  "locksmith",
+                  "meal_takeaway",
+                  "finance",
+                  "electronics_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"808 San Fernando Road, San Fernando",
+            "CBG":60373203004,
+            "Radius":277.0659163654
+      }
+]

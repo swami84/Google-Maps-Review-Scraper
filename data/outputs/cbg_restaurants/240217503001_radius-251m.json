@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.413534,
+                        "lng":-77.415013
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.4148927803,
+                              "lng":-77.4136102697
+                        },
+                        "southwest":{
+                              "lat":39.4121948197,
+                              "lng":-77.4163082303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Glory Doughnuts",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109243072670487536512\">matt R<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCUWN1my_4heqQw2mnUo2aAo25ZHNrU7zVS-16lzTJ66N8F28R5wB75V2zIHI3CtH6pbVEPsVJvRgT7RnW1IOSL5dHuZUbJGRxtFcEm-mXaV78aSao9fzzcLiKbhuj1BecN3ZJi-NSkwH_hUqhfSyKkFdvLEgu8XPcQ4JuRv69as63",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJtZcy6F7ayYkR3q5YE-r_ngg",
+            "plus_code":{
+                  "compound_code":"CH7M+CX Frederick, MD, USA",
+                  "global_code":"87F4CH7M+CX"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJtZcy6F7ayYkR3q5YE-r_ngg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":711,
+            "vicinity":"162 West Patrick Street, Frederick",
+            "CBG":240217503001,
+            "Radius":250.9679902076
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.4133342,
+                        "lng":-77.4152022
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.4147146303,
+                              "lng":-77.4136809197
+                        },
+                        "southwest":{
+                              "lat":39.4120166697,
+                              "lng":-77.4163788803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gambrill Mt. Food Co.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":348,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102500320887730694959\">Gambrill Mt. Food Co.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBAJ5t8ucMrBf7XpdLoPGHf7mPkOOF-rtBYUsJsy5S_P_MRPlxfUoLeBed7crFSdvr7Vsedx0vYwB-KJtS1F-g-xnqzw006a82WEYFK6FoiiuvvREfugl-KOe9Rr7vIxuCr-6ozQDlNpCzarWqyK3oN0Y5T9Jc3V5u_VduEC11akHxm",
+                        "width":348
+                  }
+            ],
+            "place_id":"ChIJVxgU4LPbyYkRQ42hagnSAmw",
+            "plus_code":{
+                  "compound_code":"CH7M+8W Frederick, MD, USA",
+                  "global_code":"87F4CH7M+8W"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJVxgU4LPbyYkRQ42hagnSAmw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"6 South Bentz Street, Frederick",
+            "CBG":240217503001,
+            "Radius":250.9679902076
+      }
+]

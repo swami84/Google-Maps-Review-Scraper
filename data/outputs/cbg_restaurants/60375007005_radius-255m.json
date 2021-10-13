@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9867278,
+                        "lng":-118.1026528
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9880488303,
+                              "lng":-118.1012578697
+                        },
+                        "southwest":{
+                              "lat":33.9853508697,
+                              "lng":-118.1039558303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Molinito Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1680,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117809420229992288964\">Marcos Santos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBzKzuraJP7dn5d4OIO0ziM3lZWZnVQSs1zWABWejfQD_2czJD5WanZhjUA-F7PXqd0jMnwRZm6KJceccNgb9Y_E2HVQsj2PVS3gwKQfwGIZuPzN0QMuHIwnVhY-9svb03YXhnjaNoRtFYrMhneoColum6hIN9XCi3hS-HnOwiT7O5O",
+                        "width":2976
+                  }
+            ],
+            "place_id":"ChIJzyJ6SPrRwoARamrZig4PvCw",
+            "plus_code":{
+                  "compound_code":"XVPW+MW Pico Rivera, CA, USA",
+                  "global_code":"8553XVPW+MW"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJzyJ6SPrRwoARamrZig4PvCw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":355,
+            "vicinity":"8535 Washington Boulevard, Pico Rivera",
+            "CBG":60375007005,
+            "Radius":255.3267995134
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9864699,
+                        "lng":-118.102655
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9877571303,
+                              "lng":-118.1013432697
+                        },
+                        "southwest":{
+                              "lat":33.9850591697,
+                              "lng":-118.1040412303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"G Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":723,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115243922456227570653\">G Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDsa6UmCzs5QyrPJsT02xDmFAy3TZ7TVHpUs3JokUjqQXfD_DKKeHLjWJceZO0VYD1cTx66tbtmm19HUNi9c1z0NqgUaY5yNt9ELljxEsMghMZT3PsVNr1JP7Ms-nQq9gOdDj3459nWgVt4WOC8LQVAhzwCMiLjZ1JkY4L531g6Dwb1",
+                        "width":919
+                  }
+            ],
+            "place_id":"ChIJuakup2fRwoARIM6fk1REz4k",
+            "plus_code":{
+                  "compound_code":"XVPW+HW Pico Rivera, CA, USA",
+                  "global_code":"8553XVPW+HW"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJuakup2fRwoARIM6fk1REz4k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"8535 Washington Boulevard, Pico Rivera",
+            "CBG":60375007005,
+            "Radius":255.3267995134
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":45.6492794,
+                        "lng":-122.6674626
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":45.6505639803,
+                              "lng":-122.6659742697
+                        },
+                        "southwest":{
+                              "lat":45.6478660197,
+                              "lng":-122.6686722303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa Murphy's | Take 'N' Bake Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106274819900606289294\">Willis Anderson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNP62OUsFzxGt_HQxpiOznOMmriigFydTj9eIOOz_UMvtZO4j0iC3efNZ8Jkq8r0o1DN-BP4s2SPW2CA2ZaovnGRXzGVPMO9i3o8EDrqyXwNjfnqCQTQH3M9dTSUC7RLIO1dpG9eyR11FvOG6LGE5ZG_VQUEVDG57hXL1-HYpBGVOt",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5WvwgSWvlVQR9eNFZqNACQg",
+            "plus_code":{
+                  "compound_code":"J8XM+P2 Vancouver, WA, USA",
+                  "global_code":"84QVJ8XM+P2"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJ5WvwgSWvlVQR9eNFZqNACQg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"3801 Main Street, Vancouver",
+            "CBG":530110419001,
+            "Radius":467.6270651808
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":45.6501299,
+                        "lng":-122.6667976
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":45.6513570803,
+                              "lng":-122.6654505197
+                        },
+                        "southwest":{
+                              "lat":45.6486591197,
+                              "lng":-122.6681484803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Don Jose",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116987297436291345484\">Pete Goodhue<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzJZ1boD4YdZkdyXYueRX_WYFVaOrAPEoJq9gaUacMRjM3x9OxM9ZFCABsfw2RKJOjEA_RDjFtEYK5Rd3pKJ9-iZOqwmCYYYAjt1344NbbIchP6PXZsOJzWhM5jV0blf0oO3CRgAiJln2fXXng0UY6NYHBJsWvtUYCX2ag1H4YuF8S",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJR1i2IpGvlVQRxihg8pGsVG8",
+            "plus_code":{
+                  "compound_code":"M82M+37 Vancouver, WA, USA",
+                  "global_code":"84QVM82M+37"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJR1i2IpGvlVQRxihg8pGsVG8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"514 East 39th Street, Vancouver",
+            "CBG":530110419001,
+            "Radius":467.6270651808
+      }
+]

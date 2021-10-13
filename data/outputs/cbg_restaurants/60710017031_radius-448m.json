@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0268615,
+                        "lng":-117.6514623
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0283126303,
+                              "lng":-117.6500974697
+                        },
+                        "southwest":{
+                              "lat":34.0256146697,
+                              "lng":-117.6527954303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carl's Jr.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":694,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116133109189016695023\">Carl&#39;s Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBr86v4HruCAXhjttPbCHzXnoFxkCa63XWxA-jnEwXuAB0vHGpryGmsIo5HpN5BkwJpiLd-LdqM7DODOrcfiODutQihKP4KB7oI6mbCBsvzA0G85jVDX2fCrKD89lt2owNqV88-CXJLphFn_7dND8Xq3Rucajx-jOk8Z6mUwYp0RNSv",
+                        "width":1234
+                  }
+            ],
+            "place_id":"ChIJO9d5sF0zw4AR12jOxYTciBc",
+            "plus_code":{
+                  "compound_code":"28GX+PC Ontario, CA, USA",
+                  "global_code":"856428GX+PC"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJO9d5sF0zw4AR12jOxYTciBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":737,
+            "vicinity":"2556 South Euclid Avenue, Ontario",
+            "CBG":60710017031,
+            "Radius":447.6459492599
+      }
+]

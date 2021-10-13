@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.838402,
+                        "lng":-118.345619
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8396807303,
+                              "lng":-118.3442707197
+                        },
+                        "southwest":{
+                              "lat":33.8369827697,
+                              "lng":-118.3469686803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thai Food To Go",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114307116181079110450\">Mimi Scalise<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDtVdbfAcuA4SQ1tGbFu1WtHVuXZKKAaFwMQjgpwTIQPD71uOSjaeqTCoCUXmxTYun_Pv4ukThhKrVVBesTfG_Vzmth3B76nDS9yjjNLuAZ3IfA_81QWbyQNqy2LbyH1PEQoRWQAWf9WSQH39MlkqvJgTSTDyHlVQZHrXO8BhbGt7z4",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJ6bUArSq1woARPU3UJhOI1yc",
+            "plus_code":{
+                  "compound_code":"RMQ3+9Q Torrance, CA, USA",
+                  "global_code":"8553RMQ3+9Q"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJ6bUArSq1woARPU3UJhOI1yc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":100.0,
+            "vicinity":"3417 Torrance Boulevard #5801, Torrance",
+            "CBG":60376506042,
+            "Radius":292.4989735339
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8383575,
+                        "lng":-118.3454627
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8396579303,
+                              "lng":-118.3442711697
+                        },
+                        "southwest":{
+                              "lat":33.8369599697,
+                              "lng":-118.3469691303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mexican Grill",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJTUk1uyq1woARMNcAPy2g-Rc",
+            "plus_code":{
+                  "compound_code":"RMQ3+8R Torrance, CA, USA",
+                  "global_code":"8553RMQ3+8R"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJTUk1uyq1woARMNcAPy2g-Rc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"United States",
+            "CBG":60376506042,
+            "Radius":292.4989735339
+      }
+]

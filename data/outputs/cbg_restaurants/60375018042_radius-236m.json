@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":33.9744365,
+                        "lng":-118.0368768
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9759019803,
+                              "lng":-118.0357752197
+                        },
+                        "southwest":{
+                              "lat":33.9732040197,
+                              "lng":-118.0384731803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sophia's Restaurant",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1367,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108600106315838254927\">Sophia&#39;s Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEARV3VgTRiYbO7b0Avf3EhsPBwxoPpvz_CkmhQqhfGS5LM0tLfIBpVTX9rYz_F8iF4RAVESXuQNUszl87liSkpd-CnXf1hJtyhtL02H131BA1wvnzQDXsrRqJJe0m3Z2oAQQuDzBTjuUe281dXiGaDENuiw_eoDtlYBt20nFNXsH-ma",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJg501u5TTwoARmCFoKHsNAhw",
+            "plus_code":{
+                  "compound_code":"XXF7+Q6 Whittier, CA, USA",
+                  "global_code":"8553XXF7+Q6"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJg501u5TTwoARmCFoKHsNAhw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"7320 Greenleaf Avenue, Whittier",
+            "CBG":60375018042,
+            "Radius":235.5570901921
+      }
+]
