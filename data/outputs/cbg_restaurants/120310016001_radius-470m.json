@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3466867,
+                        "lng":-81.6673216
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3480881303,
+                              "lng":-81.6659910197
+                        },
+                        "southwest":{
+                              "lat":30.3453901697,
+                              "lng":-81.6686889803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116424161675693774727\">She foreal<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB04pfsNpPLPQbLmBSoNHVdU_pqCuN9N6mmr4-ASll3oX_ZuZFNiT1vbSmqcqlshHKuGsj2ay6s9YLhKWudJMJwV6tyMxlY6LkdZiFMrBBvR6BVU3LhjADytTD_ZzIRUPQElHkb9hfOK_hEqOHjuztE-0pQLwwWLR_MM7LoPOoN2p3y",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJH0ZgRDa35YgRhPx9xU07MXE",
+            "plus_code":{
+                  "compound_code":"88WM+M3 Urban Core, Jacksonville, FL, USA",
+                  "global_code":"862W88WM+M3"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJH0ZgRDa35YgRhPx9xU07MXE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2977,
+            "vicinity":"1768 North Davis Street, Jacksonville",
+            "CBG":120310016001,
+            "Radius":469.7666896263
+      }
+]

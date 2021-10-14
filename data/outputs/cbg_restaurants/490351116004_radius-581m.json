@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.698585,
+                        "lng":-111.906406
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6999400803,
+                              "lng":-111.9045908697
+                        },
+                        "southwest":{
+                              "lat":40.6972421197,
+                              "lng":-111.9072888303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Maverik Adventure's First Stop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108990504475329502701\">Yunjun Jung<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDSOv-u5G5u_eGmFY-2mD6bzgya8EziNYhQJzFIXdr1VS4SvRoKD4iAGuDk39dEPHxsQGVmPlVrcp8EzgX9bajUG2SwQUX4eZGQMInBNec90Yqvg7TeohBawHm_K4TJ21OtkqlPG6p3SllAWJGJMAXhvPaP1KwH-m2G2l3xKZ8aRAuR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJs4yTq7eLUocRFQfFTOOW6V4",
+            "plus_code":{
+                  "compound_code":"M3XV+CC South Salt Lake, UT, USA",
+                  "global_code":"85GCM3XV+CC"
+            },
+            "rating":3.4,
+            "reference":"ChIJs4yTq7eLUocRFQfFTOOW6V4",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "convenience_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"3330 South 500 West, South Salt Lake",
+            "CBG":490351116004,
+            "Radius":581.0440582968
+      }
+]

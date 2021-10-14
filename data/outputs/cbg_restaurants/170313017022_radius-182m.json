@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8393753,
+                        "lng":-87.724257
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8407229803,
+                              "lng":-87.7229851197
+                        },
+                        "southwest":{
+                              "lat":41.8380250197,
+                              "lng":-87.7256830803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria La Roca \" La Casa de Los Tacos & Burritos \"",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":360,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104629389714202191850\">Taqueria La Roca &quot; La Casa de Los Tacos &amp; Burritos &quot;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA42TrGFkKs5ybzNv03zHNmSF-dZTtf9ibRhn1ejZaVSssoCXa5zfZt766hSi6IUlsJT11nBAZngxHi1fnz8K9VCrFzS4Y8pbBUCeoN90u2kH26qgpTgb5a6xNOw_EBNcYg3kmljs8VAKzv2jVqocHlqpMou6QVwHCJhNN8d9MrG1vQ",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJdwhCD-4zDogRxDU44uSmCwA",
+            "plus_code":{
+                  "compound_code":"R7QG+Q7 Chicago, IL, USA",
+                  "global_code":"86HJR7QG+Q7"
+            },
+            "rating":4,
+            "reference":"ChIJdwhCD-4zDogRxDU44uSmCwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"2839 South Pulaski Road, Chicago",
+            "CBG":170313017022,
+            "Radius":181.6611610942
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.838539,
+                        "lng":-87.7245616
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8398889803,
+                              "lng":-87.7231257697
+                        },
+                        "southwest":{
+                              "lat":41.8371910197,
+                              "lng":-87.7258237303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Casa del Borrego",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115254736836286308744\">La Casa Del Borrego<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECcfuddouXQ7xAoO6zcTS5uEDKsT7PN3tmxghMUZX8OGCNu7kEnKqpRLfgPjCzPWjawKxtJX6SVcDr89qCB7oxmFet4IsrXAolYT8zyZLYBOMuzeT0Jhyjx0UARwwZ8qyt34q8T8HHYoRh6Ff_hqvS5V8e0LKOeHoGNnYVHC3Z59Tf4",
+                        "width":540
+                  }
+            ],
+            "place_id":"ChIJLe9JKrQzDogRzEQuIkzrLYI",
+            "plus_code":{
+                  "compound_code":"R7QG+C5 Chicago, IL, USA",
+                  "global_code":"86HJR7QG+C5"
+            },
+            "rating":4,
+            "reference":"ChIJLe9JKrQzDogRzEQuIkzrLYI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"3002 South Pulaski Road, Chicago",
+            "CBG":170313017022,
+            "Radius":181.6611610942
+      }
+]

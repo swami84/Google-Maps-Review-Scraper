@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8539346,
+                        "lng":-87.6683495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8553272303,
+                              "lng":-87.6670867697
+                        },
+                        "southwest":{
+                              "lat":41.8526292697,
+                              "lng":-87.6697847303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bob\u2019s Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111885687276046062283\">Kristin Talbert<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDc9Hc24h2rH1x0ypZMTr0j59GLJ7Elp-9-vJ7kJn4-JFh6JNih5ejm2yTHNr9eN5sPVG8dfacRvvwIIVNntELVOjA7UAgRfWs6ElKmKWw78KNMrWUsRU_CpQsMPuF8a58-pW__qNcDo9J5kwgbLTc14tVBnLUTric1_r-jtYICxzQ0",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJi7Qb6XItDogR6Kat6BGu8cI",
+            "plus_code":{
+                  "compound_code":"V83J+HM Chicago, IL, USA",
+                  "global_code":"86HJV83J+HM"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJi7Qb6XItDogR6Kat6BGu8cI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":273,
+            "vicinity":"1659 West 21st Street, Chicago",
+            "CBG":170313108003,
+            "Radius":230.0780063414
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8543205,
+                        "lng":-87.6682721
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8555723803,
+                              "lng":-87.6669215697
+                        },
+                        "southwest":{
+                              "lat":41.8528744197,
+                              "lng":-87.6696195303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Trailita Original",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102665529417786743409\">Susana Franco-Cruz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC6BJp1FBscufmRmJr0iJDtXSzfw3k8u3moSqWr6uj-BRpXLcNDSzA0OevhKk_4_r7wFPwdOz8FsjQLRPcif8XM138BeeJmy_kPyKcAExWdf3CpF7RN7VRKzkuZKvzeqG7v-LkaoQZ1An01cteUhIBDs25eBOC-gRcXjPXFalnIkuJ8",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ5WjU1qctDogRCLJlsV7V3r4",
+            "plus_code":{
+                  "compound_code":"V83J+PM Chicago, IL, USA",
+                  "global_code":"86HJV83J+PM"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ5WjU1qctDogRCLJlsV7V3r4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"1656 West 21st Street, Chicago",
+            "CBG":170313108003,
+            "Radius":230.0780063414
+      }
+]

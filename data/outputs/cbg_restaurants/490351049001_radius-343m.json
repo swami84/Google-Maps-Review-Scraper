@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7236578,
+                        "lng":-111.8716237
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7248378303,
+                              "lng":-111.8702662197
+                        },
+                        "southwest":{
+                              "lat":40.7221398697,
+                              "lng":-111.8729641803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Robintino's To-Go Sugarhouse",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1292,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102992778272500396839\">Robintino&#39;s To-Go Sugarhouse<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED3JTkA6AugITwK8fShnOxvb9215mL1rgSXFwJuQ2Gq4I8u3gDzSAuEhFx9DOICZgvSfJ_CKkQHjr0CJvwkkmQcfM8wzScnhQWV_qlF38KWhv5uoxewPGMVBp2QcM5cZlX2gTy7uEXnP4Akg-wgU6wHK5YKXx2AlYJ4rvpq2MCzuVZv",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJGViUdHiLUocRikzfxwyTIN0",
+            "plus_code":{
+                  "compound_code":"P4FH+F9 Salt Lake City, UT, USA",
+                  "global_code":"85GCP4FH+F9"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJGViUdHiLUocRikzfxwyTIN0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"2180 South 700 East, Salt Lake City",
+            "CBG":490351049001,
+            "Radius":342.9251778323
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7236762,
+                        "lng":-111.870858
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7248641803,
+                              "lng":-111.8696377197
+                        },
+                        "southwest":{
+                              "lat":40.7221662197,
+                              "lng":-111.8723356803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Olympian Greek & American",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1244,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101190863273733392632\">Lucy Beattie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjkk7RddtciNPDymrv62Ixr4uZqweq1X7UfWeQO8M4iW94KjZxvoiuJlQAmFXA3UjxV0QZv497G3nffLn0rUYWyJfBmGSa48NNoCUZNylME_cGS0smG4MrF8XbTQmssWDG7SqYy_mbpUSoEmRdDSK4XYxlRohrhOqA_lv6wYAUsX3c",
+                        "width":1858
+                  }
+            ],
+            "place_id":"ChIJX9L6Y7uKUocRycU4_f2hRfM",
+            "plus_code":{
+                  "compound_code":"P4FH+FM Salt Lake City, UT, USA",
+                  "global_code":"85GCP4FH+FM"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJX9L6Y7uKUocRycU4_f2hRfM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":681,
+            "vicinity":"2181 South 700 East, Salt Lake City",
+            "CBG":490351049001,
+            "Radius":342.9251778323
+      }
+]

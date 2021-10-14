@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7522756,
+                        "lng":-117.2488496
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7536675803,
+                              "lng":-117.2475720197
+                        },
+                        "southwest":{
+                              "lat":32.7509696197,
+                              "lng":-117.2502699803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wild Things Pizza & Beer",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":762,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102509585197111985735\">Wild Things Pizza &amp; Beer<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECXiy7JFlP8Lr0DA5dKzF_Rzwq4LamSsYZqRkayVJzCz4zFaM4tO8R5A57-sV1E15S-kIy2hEcaptXPsF9mBxYeNVNueMD4elM4xkp6xkDlanzBm7EE_8PLQ7q0kGPkoOwV-2qxgw0gZLiSQHyMVGFnNp8lNJafMeiclqtIoNcOmFs7",
+                        "width":1353
+                  }
+            ],
+            "place_id":"ChIJ3_ATDQer3oARBSKh-utzfRU",
+            "plus_code":{
+                  "compound_code":"QQ22+WF San Diego, CA, USA",
+                  "global_code":"8544QQ22+WF"
+            },
+            "rating":4.6,
+            "reference":"ChIJ3_ATDQer3oARBSKh-utzfRU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"2163 Abbott Street, San Diego",
+            "CBG":60730075015,
+            "Radius":143.4373654365
+      }
+]

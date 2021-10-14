@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7532863,
+                        "lng":-117.2309107
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7546110803,
+                              "lng":-117.2294344197
+                        },
+                        "southwest":{
+                              "lat":32.7519131197,
+                              "lng":-117.2321323803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gringas Tacos & Catering",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103975085210913548346\">Alex Witek<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAi6iPZJ-pQ4Fe2OT8QYN5KAFTiJfixpHA3Liv0aSdbPOnu6_8xtc5KClzemSCzM5JgZuJy06PArYC7KLfRArstSg3N6dQFYXTHB7t6pmYAF-dk_5iNiSQflm1Z2uQMlR7rjBY7YuCFx8M_gRlPT33ura3Lqm1SKjLToUwL4RXIna9S",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-ywGIFuq3oARb3rYuuDu0L4",
+            "plus_code":{
+                  "compound_code":"QQ39+8J San Diego, CA, USA",
+                  "global_code":"8544QQ39+8J"
+            },
+            "rating":4.3,
+            "reference":"ChIJ-ywGIFuq3oARb3rYuuDu0L4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"4312 West Point Loma Boulevard, San Diego",
+            "CBG":60730068011,
+            "Radius":462.7248945544
+      }
+]

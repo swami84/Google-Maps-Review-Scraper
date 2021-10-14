@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.272956,
+                        "lng":-76.609693
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2743049803,
+                              "lng":-76.6083440197
+                        },
+                        "southwest":{
+                              "lat":39.2716070197,
+                              "lng":-76.6110419803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mikie`s Pizza & Subs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112895054418987887673\">Mikie`s Pizza &amp; Subs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPh_2NGgQii1k1t2DqYVLDOYcoT7WDlg02_dHrFt_SRRAuhIQa0MQXxZbD3-rNcrOBR8sFIWfF8LpecBYpA_El1moABNWFfRedFxW3Dzh7pRnvGJRsv8voZeUX2OXwBKoTlDwtWBEqi4rWry-8XX4vsjmjhOVveA6V9EXCljlujxMa",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJM2gGiW4DyIkROH0uqdvyBh0",
+            "plus_code":{
+                  "compound_code":"79FR+54 Baltimore, MD, USA",
+                  "global_code":"87F579FR+54"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJM2gGiW4DyIkROH0uqdvyBh0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":90,
+            "vicinity":"210 East Fort Avenue, Baltimore",
+            "CBG":245102403003,
+            "Radius":133.2658312912
+      }
+]

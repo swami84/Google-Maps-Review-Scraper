@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3200942,
+                        "lng":-81.7051062
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3214604303,
+                              "lng":-81.7039199197
+                        },
+                        "southwest":{
+                              "lat":30.3187624697,
+                              "lng":-81.7066178803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104882048888283873753\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDcd-n-zcJEbPNUVQ9Idm0sgZPZdyXyiXChsMEN5TnMM7k-RysP5AylRREq2CPmc9k_w3sMWXVosFDds7fDeraKG9-KpyXgJhvIb59D9Wmoc7V0-xL6dmuLvqewB40lHrXBiqQU2bUpR4rcdcRnmT7qPjwE0PeXDQE3yYqIfsu8750z",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJU5yfCM-55YgRIg2UPzlRh8o",
+            "plus_code":{
+                  "compound_code":"87CV+2X Northwest, Jacksonville, FL, USA",
+                  "global_code":"862W87CV+2X"
+            },
+            "price_level":1.0,
+            "rating":3.2,
+            "reference":"ChIJU5yfCM-55YgRIg2UPzlRh8o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":768.0,
+            "vicinity":"649 McDuff Avenue South, Jacksonville",
+            "CBG":120310026003,
+            "Radius":482.4807345413
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3202765,
+                        "lng":-81.7049363
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3217040803,
+                              "lng":-81.7035890697
+                        },
+                        "southwest":{
+                              "lat":30.3190061197,
+                              "lng":-81.7062870303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Krispy Golden Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJ_Sa-Cc-55YgRIs1DG9CnVZY",
+            "plus_code":{
+                  "compound_code":"87CW+42 Northwest, Jacksonville, FL, USA",
+                  "global_code":"862W87CW+42"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJ_Sa-Cc-55YgRIs1DG9CnVZY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"United States",
+            "CBG":120310026003,
+            "Radius":482.4807345413
+      }
+]

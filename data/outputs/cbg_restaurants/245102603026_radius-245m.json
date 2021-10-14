@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.314085,
+                        "lng":-76.5704551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3155209803,
+                              "lng":-76.5691806697
+                        },
+                        "southwest":{
+                              "lat":39.3128230197,
+                              "lng":-76.5718786303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Erdman Seafood & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116552091020290066556\">Emma Richers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALz19K8wmsYZRlv3pA48_zpL_IPKbrvKA0BZ9I0SMaPK9WKemTIHuSz9d5-NXz6H5uwuKyKVaY_hIS-PJWK9BDpSEEsV8KbbI5143aQIb8eB0Gr2YPHrUg5Qj_BLTYZV4x3iL0Mee2bJMOrMC78dP8TJr3ZckfOsA-PNinwb5fWqY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK4dRDzcEyIkRP3PfY-eFdec",
+            "plus_code":{
+                  "compound_code":"8C7H+JR Baltimore, MD, USA",
+                  "global_code":"87F58C7H+JR"
+            },
+            "rating":4.3,
+            "reference":"ChIJK4dRDzcEyIkRP3PfY-eFdec",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":306,
+            "vicinity":"3913 Erdman Avenue, Baltimore",
+            "CBG":245102603026,
+            "Radius":244.8524292978
+      }
+]

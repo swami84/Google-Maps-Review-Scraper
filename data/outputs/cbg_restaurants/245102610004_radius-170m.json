@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.288468,
+                        "lng":-76.5689887
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2898140303,
+                              "lng":-76.5677152197
+                        },
+                        "southwest":{
+                              "lat":39.2871160697,
+                              "lng":-76.5704131803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Vargas And Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103931685792382868197\">La Morenita Aviles<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECloY4Jgd0gl4qSHT2taVw7TumMgGzPVw8TECRrBgPzQngD-6icqMZ3WqsqSRMoG2Hu2rKaK5trjxYWB-r-xlVF4EsNrSaahk0pHilP6FoYEoIYmxym0m8nGWQHVh2dU57i5X4lvlYjJ9K1OddYEUvcL3hoP2SF9dbXpnTi3H_BcEO0",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJT1KOuLQFyIkRx07vXtNxkTA",
+            "plus_code":{
+                  "compound_code":"7CQJ+9C Baltimore, MD, USA",
+                  "global_code":"87F57CQJ+9C"
+            },
+            "rating":4.4,
+            "reference":"ChIJT1KOuLQFyIkRx07vXtNxkTA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":98,
+            "vicinity":"301 South Highland Avenue, Baltimore",
+            "CBG":245102610004,
+            "Radius":170.1665370928
+      }
+]

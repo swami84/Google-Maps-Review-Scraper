@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3652488,
+                        "lng":-81.671019
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3664476803,
+                              "lng":-81.6696318197
+                        },
+                        "southwest":{
+                              "lat":30.3637497197,
+                              "lng":-81.6723297803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barons Crab Stop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":466,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109133419551246136467\">Barons Crab Stop<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDT6CLA8tf0emx8xnhGXY8YZy0GIjgqXs01swB5PCwKDXogMd1pfDqT7bpjlXN8bvKOdhOmI33ox_MZPWRM4_VmHn5vwBgQhftaiJvjC_NqfOxntzpbTrS86guXwIBXt23Ub5BBiQfJpjfN-EfVlct5uo0wjSXB_CxL1EU7lfpQpAfu",
+                        "width":828
+                  }
+            ],
+            "place_id":"ChIJ4cUTjrew5YgRv9kjztLxJBA",
+            "plus_code":{
+                  "compound_code":"988H+3H Northside, Jacksonville, FL, USA",
+                  "global_code":"862W988H+3H"
+            },
+            "rating":4.2,
+            "reference":"ChIJ4cUTjrew5YgRv9kjztLxJBA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":161,
+            "vicinity":"1069 Golfair Boulevard, Jacksonville",
+            "price_level":null,
+            "CBG":120310015002,
+            "Radius":416.5855312863
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3603191,
+                        "lng":-81.6764608
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3615986803,
+                              "lng":-81.6751072197
+                        },
+                        "southwest":{
+                              "lat":30.3589007197,
+                              "lng":-81.6778051803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Holley's Bar B Q",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113317033395881748887\">Nick_Picky<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAMVPUEvHfvHWlMvpYRIHdZJV8HC1xtlcwsPSCldnaR-9eichPziigBEGy9hKfLzKrn07v3Lv4aP8zgV2Fkn_rRF4NBGt12uEkCb9Z-XYRAhFw0j-qsXes5z4mkY1nQpP_MDjOmrmQx4mh-W1ifP-QD3OTgSTN8-oxIkEQM8DaRLE_b",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJS0bm2LOw5YgRbyECTCJ6bmQ",
+            "plus_code":{
+                  "compound_code":"986F+4C Northside, Jacksonville, FL, USA",
+                  "global_code":"862W986F+4C"
+            },
+            "rating":4.4,
+            "reference":"ChIJS0bm2LOw5YgRbyECTCJ6bmQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":549,
+            "vicinity":"3604 Moncrief Road, Jacksonville",
+            "price_level":1.0,
+            "CBG":120310015002,
+            "Radius":416.5855312863
+      }
+]

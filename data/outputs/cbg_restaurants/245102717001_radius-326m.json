@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3527346,
+                        "lng":-76.6615914
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3542119303,
+                              "lng":-76.6605963197
+                        },
+                        "southwest":{
+                              "lat":39.3515139697,
+                              "lng":-76.6632942803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102942918729384084892\">Tarsha Williams<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED8ixNqHZUyOisgweavJa4ZSTCoPWdevtQHgIxpDTQaz54vL66WRABb83BzRBiFth7T2r0QMWUQ2Dm9HQrp9dMczYDLRk7nVQtCImfqjJuG-gozqvBq64qHWvr2gAjwtEAzbHdm8onLL0pO_qOXGgCVdZMJc_QAaLNAKXQ6qF3BaiRd",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJVYysWcAayIkREArGFoTr95I",
+            "plus_code":{
+                  "compound_code":"983Q+39 Baltimore, MD, USA",
+                  "global_code":"87F5983Q+39"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJVYysWcAayIkREArGFoTr95I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":105,
+            "vicinity":"2401 West Belvedere Avenue, Baltimore",
+            "CBG":245102717001,
+            "Radius":325.5031649696
+      }
+]

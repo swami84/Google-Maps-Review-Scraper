@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1400478,
+                        "lng":-112.0310067
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1413610303,
+                              "lng":-112.0295751697
+                        },
+                        "southwest":{
+                              "lat":41.1386630697,
+                              "lng":-112.0322731303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ally's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102116754042917060026\">Dane L<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALx7WWvU0dFe8DQsciDx6cDCpkPslCfCuAdvA78rdCJIPvRis8baum6HkZLxbKLnlUp9bze2udORB0oG1egqCi6b6c6EsKqVlB_TJ8eHd7CAYprMr_qKiv56kExBhqH3YRkkTpPzVz3FH1y_aA-OAkkIXupbs4SP59FpGTGoIJ7rBT",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJX2BIQTsFU4cRerpU2YSHk0U",
+            "plus_code":{
+                  "compound_code":"4XR9+2H Sunset, UT, USA",
+                  "global_code":"85H94XR9+2H"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJX2BIQTsFU4cRerpU2YSHk0U",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":323,
+            "vicinity":"258 West 1800 North, Sunset",
+            "CBG":490111253013,
+            "Radius":494.4564076541
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.758129,
+                        "lng":-111.860075
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7594398803,
+                              "lng":-111.8584841197
+                        },
+                        "southwest":{
+                              "lat":40.7567419197,
+                              "lng":-111.8611820803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Little Caesars Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105123547876839382517\">Waqas Javed<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDUA4DuFhHJqHXfOb8GqBSdk40IJLNGo6MfciKbPUiE2BdW6DIaqfhX6k1Oo75X-H_Jb7LQ3gaF4R7hVyWbL7X8RCsS4UrYAxyTA1vs3TTXJoHQZfw4AeT0oRmspSdu2eJag8L9eJfor83rv0mkzKSMjfp0tNFGgTgGherRYCNtNP_x",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJTQVLNF71UocRZSPrutP5eyU",
+            "plus_code":{
+                  "compound_code":"Q45Q+7X Salt Lake City, UT, USA",
+                  "global_code":"85GCQ45Q+7X"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJTQVLNF71UocRZSPrutP5eyU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":439,
+            "vicinity":"1080 East 500 South, Salt Lake City",
+            "CBG":490351016002,
+            "Radius":274.3226447675
+      }
+]

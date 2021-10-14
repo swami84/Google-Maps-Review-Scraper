@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3450253,
+                        "lng":-76.6811969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3464651303,
+                              "lng":-76.6799145697
+                        },
+                        "southwest":{
+                              "lat":39.3437671697,
+                              "lng":-76.6826125303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"K.C. Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103459245212139184973\">Sammy W.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED535gtqjKjCJ83DF9HLqy55asKe-6WmxRC_kITGEaGXULUS6rtbiO_YOr84OIkVmoiSesi35vd4-ZwN4GPkwl8Dr8ke37GQXzlC_Im0pX280II6iGYiP2aytlyEli4KMs1egestvJqVLreYdlc0RBUj1CmY6cWKJIBNzQrlDCaF_Y7",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ25v6I_oayIkRwxJbP-LpLkw",
+            "plus_code":{
+                  "compound_code":"88W9+2G Baltimore, MD, USA",
+                  "global_code":"87F588W9+2G"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ25v6I_oayIkRwxJbP-LpLkw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"3801 West Belvedere Avenue, Baltimore",
+            "CBG":245102718024,
+            "Radius":245.7503876203
+      }
+]

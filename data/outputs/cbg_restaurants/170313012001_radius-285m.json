@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8507291,
+                        "lng":-87.6890492
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8521394803,
+                              "lng":-87.6878245197
+                        },
+                        "southwest":{
+                              "lat":41.8494415197,
+                              "lng":-87.6905224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Great Buffet",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109230448830118444481\">Virgil Chavez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECwXsh1-T8hqSg7ZSXiAO_eEWT-ERErRhm6xoqK1DWGDY79u1fpmWoQv-SeQaEhTcrH3yNwrpohM_r71vVfcSKLVcQxfMjLoO9C5kwO5wgiWQfiLfNL2CHBbL7DoKpJYzLknZYWqlhq4bMLzaoExbH9fWYwWXLRKljygqFNx8LkHzQa",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJcdGoWYMtDogR__zn7Q0lojE",
+            "plus_code":{
+                  "compound_code":"V826+79 Chicago, IL, USA",
+                  "global_code":"86HJV826+79"
+            },
+            "price_level":1.0,
+            "rating":3.4,
+            "reference":"ChIJcdGoWYMtDogR__zn7Q0lojE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":457,
+            "vicinity":"2531 West Cermak Road, Chicago",
+            "CBG":170313012001,
+            "Radius":284.9788549018
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8499673,
+                        "lng":-87.6931266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8513919303,
+                              "lng":-87.6917794697
+                        },
+                        "southwest":{
+                              "lat":41.8486939697,
+                              "lng":-87.6944774303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nigiris sushi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106448806336875510441\">Ney Garbez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB02mAbROMTu09a_l1sCHbWWY1TE4GBMojNT-HOoaU31EjzE5kqLsXm_Jn7CspRr29IoM4worJUpBuV95dBbqEy8PT61J9otio3yAI_G9bzqBI7veT99jFHTa12AIFbKBRyDtbboWnYx9t7zFtj-rpcBJUezQi-whbVUkwiyyykKSbs",
+                        "width":1405
+                  }
+            ],
+            "place_id":"ChIJ-0tvWVwtDogRtfbNIx5DBT4",
+            "plus_code":{
+                  "compound_code":"R8X4+XP Chicago, IL, USA",
+                  "global_code":"86HJR8X4+XP"
+            },
+            "price_level":null,
+            "rating":4.4,
+            "reference":"ChIJ-0tvWVwtDogRtfbNIx5DBT4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2701 West 23rd Street, Chicago",
+            "CBG":170313012001,
+            "Radius":284.9788549018
+      }
+]

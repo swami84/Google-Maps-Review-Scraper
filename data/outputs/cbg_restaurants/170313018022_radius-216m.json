@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8475982,
+                        "lng":-87.7271123
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8488547303,
+                              "lng":-87.7257613197
+                        },
+                        "southwest":{
+                              "lat":41.8461567697,
+                              "lng":-87.7284592803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Doughlicious Wraps",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJR720VSozDogRpCePg_kJ9ec",
+            "plus_code":{
+                  "compound_code":"R7XF+25 Chicago, IL, USA",
+                  "global_code":"86HJR7XF+25"
+            },
+            "rating":5,
+            "reference":"ChIJR720VSozDogRpCePg_kJ9ec",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4060, Chicago",
+            "CBG":170313018022,
+            "Radius":216.1751859266
+      }
+]

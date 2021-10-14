@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3317649,
+                        "lng":-81.6529478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3331893303,
+                              "lng":-81.6515588697
+                        },
+                        "southwest":{
+                              "lat":30.3304913697,
+                              "lng":-81.6542568303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111020122612435528180\">Lance Beaudoin<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAvTcKsQHKtK_MLGwLk8kDYxeVradbhk9GXEqjBbjHfh187dgtTcs2a9O7fBl86wPHcpr_EFuSTczSUwRk397yqzIjg21iFduwtmJJT_Uf4MEHz3KahKlLYQBCxIcuceoCyqBSX3g-os9N6azVY3XgiwbQRth1vtYwIHDT5JGKwX9O2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJXfg4JSK35YgRt2TWO37oRls",
+            "plus_code":{
+                  "compound_code":"88JW+PR Springfield, Jacksonville, FL, USA",
+                  "global_code":"862W88JW+PR"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJXfg4JSK35YgRt2TWO37oRls",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1488,
+            "vicinity":"210 East State Street, Jacksonville",
+            "CBG":120310010003,
+            "Radius":146.4308388049
+      }
+]

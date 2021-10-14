@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8564765,
+                        "lng":-87.6560896
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8578230803,
+                              "lng":-87.6548873197
+                        },
+                        "southwest":{
+                              "lat":41.8551251197,
+                              "lng":-87.6575852803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chato's Pasta House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2250,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107968078969933563499\">Chato&#39;s Pasta House<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHX5imGwSpj0i5Fl8zk-3r5alEiQZcVpQ8u8QiLn55Mr0riJ3V8USpX9N7capGuOlznUuBmqoOC_jcg-5xsdPFRpvGbjWTnxQCvgIwNmktjlr5guwyy9df4qdDfFOtCHTC4b0l1ABSO91ALZaZ-oYo12ZEpE1hDst-C9o7iWCc8kxE",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJhfEMp_8sDogR6Soj9GYAnD4",
+            "plus_code":{
+                  "compound_code":"V84V+HH Chicago, IL, USA",
+                  "global_code":"86HJV84V+HH"
+            },
+            "rating":4.6,
+            "reference":"ChIJhfEMp_8sDogR6Soj9GYAnD4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63.0,
+            "vicinity":"1901 South Racine Avenue, Chicago",
+            "CBG":170313105001,
+            "Radius":227.0384688744
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8564765,
+                        "lng":-87.6560896
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8578230803,
+                              "lng":-87.6548873197
+                        },
+                        "southwest":{
+                              "lat":41.8551251197,
+                              "lng":-87.6575852803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"bowl of rice",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJzcYmBY8tDogRn9Oq5iCstfQ",
+            "plus_code":{
+                  "compound_code":"V84V+HH Chicago, IL, USA",
+                  "global_code":"86HJV84V+HH"
+            },
+            "rating":null,
+            "reference":"ChIJzcYmBY8tDogRn9Oq5iCstfQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1901 South Racine Avenue, Chicago",
+            "CBG":170313105001,
+            "Radius":227.0384688744
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.5113592,
+                        "lng":-97.6668028
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.5129823303,
+                              "lng":-97.6656074197
+                        },
+                        "southwest":{
+                              "lat":30.5102843697,
+                              "lng":-97.6683053803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sifatku Elaine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJF5QXObjRRIYRwO22YLYr6w0",
+            "plus_code":{
+                  "compound_code":"G86M+G7 Round Rock, TX, USA",
+                  "global_code":"8624G86M+G7"
+            },
+            "reference":"ChIJF5QXObjRRIYRwO22YLYr6w0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1201 East Main Street, Round Rock",
+            "CBG":484910207012,
+            "Radius":514.5139891334
+      }
+]

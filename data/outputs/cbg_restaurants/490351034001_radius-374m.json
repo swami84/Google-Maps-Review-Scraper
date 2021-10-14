@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7386969,
+                        "lng":-111.8593574
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7401921303,
+                              "lng":-111.8580382697
+                        },
+                        "southwest":{
+                              "lat":40.7374941697,
+                              "lng":-111.8607362303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thai Archer Restaurant Utah",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116642372034674133813\">Matthew Montgomery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBzyfNzM_X-wMN5Wo3TCxG1ZVMw_5wEUpBXrVBfUUw95IY9Oa51OuLZnJsdMnwT-8-SiwvtdluxtOr1NhAfVXowBLyFfLV3ADvw_ClON9dM9TolvSKxXw8dy-4uumDr-9pV0i8U4IRHh05XdE1kIfBwX7U0JxaVsBnFi7VGPfm8ODj5",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJHVQc56qKUocR8B625aYirbA",
+            "plus_code":{
+                  "compound_code":"P4QR+F7 Salt Lake City, UT, USA",
+                  "global_code":"85GCP4QR+F7"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJHVQc56qKUocR8B625aYirbA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":229,
+            "vicinity":"1429 1100 East, Salt Lake City",
+            "CBG":490351034001,
+            "Radius":374.022802713
+      }
+]

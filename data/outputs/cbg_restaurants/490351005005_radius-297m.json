@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7889878,
+                        "lng":-111.9162708
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7903188803,
+                              "lng":-111.9152107697
+                        },
+                        "southwest":{
+                              "lat":40.7876209197,
+                              "lng":-111.9179087303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Santo Taco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103095532099677685551\">Santo Taco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBDyzY99pH2dhB9JCXpduP34bDeGdQpsFg41JLueGt5bOvlOT0DFkNL0shEDTiJP1DXJCWwCIFVTvp6xY4qrHfegpHKYqjTMWUbaFqZhEN5fLaZVo3DetCcli1FOYMkWPJ61noHi99Mw5k8POtN0BSaMyvTli0POlFTAMK0s5IwmgUS",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ7zzO_9P1UocRDWEEnG7HfIw",
+            "plus_code":{
+                  "compound_code":"Q3QM+HF Salt Lake City, UT, USA",
+                  "global_code":"85GCQ3QM+HF"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ7zzO_9P1UocRDWEEnG7HfIw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":924,
+            "vicinity":"910 900 West, Salt Lake City",
+            "CBG":490351005005,
+            "Radius":297.2251181879
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2754012,
+                        "lng":-76.61566
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2767146303,
+                              "lng":-76.6142005697
+                        },
+                        "southwest":{
+                              "lat":39.2740166697,
+                              "lng":-76.6168985303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101581751632814835381\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNQ08a5ygwi0N8FAaGWujhQrrPB_T6KPwyeOQ80ojhcDJVtckCCTixu07lrMP0od2UsSDU7Pyid5CiJ6BI559lVSPRE_6weP_XN4dIQlg2D41rRTeVq_oRif27jhjIioYV05SlK-E-9vqgy8LlOJlJwDN50GgA-MSziEKBqsRIAF3J",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ--cNVGgDyIkRbpPKk0CfW8M",
+            "plus_code":{
+                  "compound_code":"79GM+5P Baltimore, MD, USA",
+                  "global_code":"87F579GM+5P"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJ--cNVGgDyIkRbpPKk0CfW8M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":156,
+            "vicinity":"1200 South Hanover Street Ste 103, Baltimore",
+            "CBG":245102301001,
+            "Radius":234.6343673994
+      }
+]

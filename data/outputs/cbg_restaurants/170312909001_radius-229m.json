@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8635691,
+                        "lng":-87.7261434
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8649180803,
+                              "lng":-87.7247944197
+                        },
+                        "southwest":{
+                              "lat":41.8622201197,
+                              "lng":-87.7274923803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dawgs",
+            "place_id":"ChIJ8w-IvvAyDogR5rl_vnHRv-s",
+            "plus_code":{
+                  "compound_code":"V77F+CG Chicago, IL, USA",
+                  "global_code":"86HJV77F+CG"
+            },
+            "reference":"ChIJ8w-IvvAyDogR5rl_vnHRv-s",
+            "scope":"GOOGLE",
+            "types":[
+                  "point_of_interest",
+                  "restaurant",
+                  "food",
+                  "establishment"
+            ],
+            "vicinity":"1325 South Komensky Avenue, Chicago",
+            "CBG":170312909001,
+            "Radius":228.978273036
+      }
+]

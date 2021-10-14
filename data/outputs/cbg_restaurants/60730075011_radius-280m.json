@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7507854,
+                        "lng":-117.2421749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7521989303,
+                              "lng":-117.2407881697
+                        },
+                        "southwest":{
+                              "lat":32.7495009697,
+                              "lng":-117.2434861303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Chris' Liquor & Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104257493024008771427\">Chris&#39; Liquor &amp; Deli<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPQp_UFjEaPG8XWGQVUrd-grjPU-BDTyu8XNN4CYFmYRQF6vV_uMPQCNY3zF7f-JB55ihuublowaNxHP8HyJi8ZLz4-3OxQUuJOIbeUodFDBZKRPV4xiucqqiqfjEoIAPxFsl2_Mz2nck_MBB9CXKs55YNibjW9upIjo9bgSvw9h4M",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJmRfLCUeq3oARIHIWo81MqYI",
+            "plus_code":{
+                  "compound_code":"QQ25+84 San Diego, CA, USA",
+                  "global_code":"8544QQ25+84"
+            },
+            "rating":4.7,
+            "reference":"ChIJmRfLCUeq3oARIHIWo81MqYI",
+            "scope":"GOOGLE",
+            "types":[
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":411,
+            "vicinity":"2275 Sunset Cliffs Boulevard, San Diego",
+            "CBG":60730075011,
+            "Radius":279.9528952456
+      }
+]

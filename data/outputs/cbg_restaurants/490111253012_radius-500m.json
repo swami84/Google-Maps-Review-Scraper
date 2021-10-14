@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1464999,
+                        "lng":-112.0262877
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1479151803,
+                              "lng":-112.0249240197
+                        },
+                        "southwest":{
+                              "lat":41.1452172197,
+                              "lng":-112.0276219803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100929905794854344824\">Joe Romero<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECniuN9KvfRkkFfrzdDY79ilzxovxRugF0oTZ-Gu-qpMJkCumZOJrg_Pil5hhbEqbNtz9ZcFlkClnqUNf-Oyb7P-rmnWxi2uRtyYP1FfHGenHSjbzH7Kwv7wauDxDANEx5_IpSisDze1x1QlqlQf4bPzWUb0--e0tTOeSzavtvMK__v",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJc49uWz4FU4cRvki_NNYGRZk",
+            "plus_code":{
+                  "compound_code":"4XWF+HF Clearfield, UT, USA",
+                  "global_code":"85H94XWF+HF"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJc49uWz4FU4cRvki_NNYGRZk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"2247 Main Street, Clearfield",
+            "CBG":490111253012,
+            "Radius":499.9582476506
+      }
+]

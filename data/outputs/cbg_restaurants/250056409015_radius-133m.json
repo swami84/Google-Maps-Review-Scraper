@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.696987,
+                        "lng":-71.168042
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6983359803,
+                              "lng":-71.1666930197
+                        },
+                        "southwest":{
+                              "lat":41.6956380197,
+                              "lng":-71.1693909803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Millennium Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104696167526500491815\">Millennium Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAAwbThFPAqIcfXREiylhX1U9n5t4l2epuvFEhRxhqa-ZbDAmdzfGWTB0gS5e5MjEhok5XpawzFuQ6nm5IqndRfsK-LSpYBNv992MBge_yx5i1cRl_KNjvtC0K-oxl84pMzxrkqf-R48qE7_UOKu5x4NNAZP2UZv4fGa0cmOhJNoRu9",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJCwZVrMD45IkRQKnPV9McmwA",
+            "plus_code":{
+                  "compound_code":"MRWJ+QQ Fall River, MA, USA",
+                  "global_code":"87HCMRWJ+QQ"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJCwZVrMD45IkRQKnPV9McmwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":235,
+            "vicinity":"287 Broadway, Fall River",
+            "CBG":250056409015,
+            "Radius":133.3959428443
+      }
+]

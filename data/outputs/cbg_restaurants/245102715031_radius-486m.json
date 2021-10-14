@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.3552842,
+                        "lng":-76.6465802
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3566840803,
+                              "lng":-76.6446265197
+                        },
+                        "southwest":{
+                              "lat":39.3539861197,
+                              "lng":-76.6473244803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Scoozi",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1671,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118191600658051034676\">Scoozi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC6Ce45PBRGsp9cBOObhaQnDiEITm8hG6jPtvldatsQ3FZ9cuwfk9qvIiW2v5v7afX20yVGPcI-Hd6TVeJW6oOqzIn3sICxYuhWnYtdVqdG46U4bkjRfAQ2v0zxAD2h9MM0g_nKsM_QcSZ2KpQro8RYmEF3fj7-y3VfPUwviG0C_WGc",
+                        "width":2508
+                  }
+            ],
+            "place_id":"ChIJP5VHMbQayIkR7WLfrmzxOCQ",
+            "plus_code":{
+                  "compound_code":"9943+49 Baltimore, MD, USA",
+                  "global_code":"87F59943+49"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJP5VHMbQayIkR7WLfrmzxOCQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":55,
+            "vicinity":"5100 Falls Road, Baltimore",
+            "CBG":245102715031,
+            "Radius":486.2391260292
+      }
+]

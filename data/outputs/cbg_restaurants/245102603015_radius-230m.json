@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.320555,
+                        "lng":-76.572579
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3219800803,
+                              "lng":-76.5711451697
+                        },
+                        "southwest":{
+                              "lat":39.3192821197,
+                              "lng":-76.5738431303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lin's Chinese Food Carry-Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116513637984460949853\">Bryan Washington<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED_nuV7uWHct6gVFprK99pRbr1Z3tpjOGveFynAQ_MKWDOtJ9LBtsENJqNVOccBPjnIIyucec35ef-o7W9YiWKq-RuUCH8pP1OLcBHZ077HFLF8U7h55QTVD8id2BryghFJlN4Bx1jyzrnHihcA1gmaGNazbSEB31NxkGDTo47xKZXt",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJx7eoekoEyIkRrSCtZoKKFIk",
+            "plus_code":{
+                  "compound_code":"8CCG+6X Baltimore, MD, USA",
+                  "global_code":"87F58CCG+6X"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJx7eoekoEyIkRrSCtZoKKFIk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"3225 Erdman Avenue, Baltimore",
+            "CBG":245102603015,
+            "Radius":229.6508040531
+      }
+]

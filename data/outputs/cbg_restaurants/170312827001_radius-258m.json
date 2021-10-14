@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8688017,
+                        "lng":-87.6863424
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8700490303,
+                              "lng":-87.6850254697
+                        },
+                        "southwest":{
+                              "lat":41.8673510697,
+                              "lng":-87.6877234303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104902229272307756226\">Kushal Sreekanth<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDR5_t9IbALRaShNPfY8Mf9pSlopLvYAs3UjDpsJUTF9fmUVZRpMgThbL93TOL-IETOVCgMfsFMwQKeO8Fsv0IYGJ5Jyu16AY3Hm4Ad7AWtseYD51jTGeFRFHSwbE660CRhTVYxAHcZwSosDEcubtkLoJF0qQvJBe_wfX5mRimKl-zE",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJmdanmG8tDogR46jsLSsaTXo",
+            "plus_code":{
+                  "compound_code":"V897+GF Chicago, IL, USA",
+                  "global_code":"86HJV897+GF"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJmdanmG8tDogR46jsLSsaTXo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"1014 South Western Avenue Unit G, Chicago",
+            "CBG":170312827001,
+            "Radius":257.656803078
+      }
+]

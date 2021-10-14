@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.348695,
+                        "lng":-76.674704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3500439803,
+                              "lng":-76.6733550197
+                        },
+                        "southwest":{
+                              "lat":39.3473460197,
+                              "lng":-76.6760529803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chicken Koop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109064497276136486740\">Kenneth Massey<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJl1643WaqaO3zoZ8rKKWTdzFtzdeWgvoqY7ezcWmA7YfFfM759sHOI59iJrb_jGvyePmeGholTV3fphVACH3S3Ma3Uoq-QllnKWAUP1GR7QF2L52cdVgYeLVq8ZhzaNHfA8ek70RzRhAAfavlFUVXh6lDb0_8Qakm8vP5a56Envtz",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJmROYNO4ayIkRzkQopECgCz8",
+            "plus_code":{
+                  "compound_code":"88XG+F4 Baltimore, MD, USA",
+                  "global_code":"87F588XG+F4"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJmROYNO4ayIkRzkQopECgCz8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":125,
+            "vicinity":"5117 Park Heights Avenue, Baltimore",
+            "CBG":245102717006,
+            "Radius":187.0311870843
+      }
+]

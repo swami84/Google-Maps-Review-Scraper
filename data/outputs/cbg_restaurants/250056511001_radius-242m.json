@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.649797,
+                        "lng":-70.931166
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6511459803,
+                              "lng":-70.9298170197
+                        },
+                        "southwest":{
+                              "lat":41.6484480197,
+                              "lng":-70.9325149803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Linden Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103422908092150195116\">Liana Vazquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBDQ5FNCPSS_FVJe5w42sbVUl7qF6YYVuvtKjvg5CRoM1__dXmMhoSV1IMnlA0vedNMxeur6A6-FnMRxh8Uqb88gw2zoO5_J93ytspHBUQbhtR8pch7IlT2Oy_lgm_rBTYXgvmfIdORDLygWriYraooYTkCSVDR5JsZoux1JPn9ZqI",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ7c0A0nLk5IkRHLgixFfFI0E",
+            "plus_code":{
+                  "compound_code":"J3X9+WG New Bedford, MA, USA",
+                  "global_code":"87HFJ3X9+WG"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ7c0A0nLk5IkRHLgixFfFI0E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"58 Linden Street, New Bedford",
+            "CBG":250056511001,
+            "Radius":242.0465370576
+      }
+]

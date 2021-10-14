@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.345081,
+                        "lng":-76.609251
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3464280803,
+                              "lng":-76.6080675197
+                        },
+                        "southwest":{
+                              "lat":39.3437301197,
+                              "lng":-76.6107654803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ma Wongs Carryout",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108742279495102124211\">Autumn Buynum<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDCfm9bVSqgmbDbcHS6qZfmcxYOTTu5lGB52sblwr6vBUbPpxtPme_YuQGfkOkVuzEIYttDH8kLxuO7wKdXjig_NlYV4GlnQ8log-Q2ydSPDlssz8m29FwTMNaWI5ALpJcb4Vy4p99ixZu9KgtUtiAXuGpkZIFtC51QLww09DHECT39",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJza5GTBIFyIkRFcjLjv2PK-4",
+            "plus_code":{
+                  "compound_code":"89WR+27 Baltimore, MD, USA",
+                  "global_code":"87F589WR+27"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJza5GTBIFyIkRFcjLjv2PK-4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"4627 York Road, Baltimore",
+            "CBG":245102710011,
+            "Radius":236.2984665729
+      }
+]

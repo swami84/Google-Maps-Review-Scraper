@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8499673,
+                        "lng":-87.6931266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8513919303,
+                              "lng":-87.6917794697
+                        },
+                        "southwest":{
+                              "lat":41.8486939697,
+                              "lng":-87.6944774303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nigiris sushi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106448806336875510441\">Ney Garbez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECETkPTieXfaZNVACj_7-nYyRgpd2si4gBxmjvWW4TDfmFEXWu3xswEJxUjcukyut3Zt0C563XjbZ8-XdlwL6YPA-yJ4JkizoN2l25xyWGOTM1XyKW11AwlOXmkVGvbZk4q-M5uGxY81ApDbzKFbqYuIhu69GhVrKC1UhkRpKPpn8Hn",
+                        "width":1405
+                  }
+            ],
+            "place_id":"ChIJ-0tvWVwtDogRtfbNIx5DBT4",
+            "plus_code":{
+                  "compound_code":"R8X4+XP Chicago, IL, USA",
+                  "global_code":"86HJR8X4+XP"
+            },
+            "rating":4.4,
+            "reference":"ChIJ-0tvWVwtDogRtfbNIx5DBT4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2701 West 23rd Street, Chicago",
+            "CBG":170313012003,
+            "Radius":201.0463279132
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7539054,
+                        "lng":-111.8714029
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7552584803,
+                              "lng":-111.8699284197
+                        },
+                        "southwest":{
+                              "lat":40.7525605197,
+                              "lng":-111.8726263803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2992,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103744214942797411356\">Allan Hunter<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEASZ4njSMcK3nPPM680jOdNoOAxZPV1_zS_IxdNB0E5tyDxAXWS75jEv-Ymlt1535ynKNrKwCZmAOZDj7eI-1t0AleF2Tfvxs6xNGAdDcDMKaOWWxsEWBayInQDhc-aAbrtpwoEf7PyR7-DQFUNn79gwVB0f6S_n1FKy0XJXbM84pJm",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ__ywCEP1UocRxTsFOiNb24s",
+            "plus_code":{
+                  "compound_code":"Q43H+HC Salt Lake City, UT, USA",
+                  "global_code":"85GCQ43H+HC"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJ__ywCEP1UocRxTsFOiNb24s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":512,
+            "vicinity":"702 South 700 East, Salt Lake City",
+            "CBG":490351018002,
+            "Radius":298.6604586248
+      }
+]

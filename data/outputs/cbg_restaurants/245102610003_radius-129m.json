@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2925927,
+                        "lng":-76.5695862
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2939531803,
+                              "lng":-76.5681541197
+                        },
+                        "southwest":{
+                              "lat":39.2912552197,
+                              "lng":-76.5708520803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"New York Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110395928777606863301\">Jujuan An Jerry Allen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAEY_x1a9yS2L8c3res_IlwVEcPObqBWdyEmviCMHJDlFGIxLQseIscTUcqI18tie9OgDXFHGwpUVqIVhh52pslvfllIc5UEY8YrG6LQkN4gGr6d5F7dicxlhrc4lPIha-LJxxi3xzWgY3cLqfIHLSSSAzxD5vXkEDq5eTfeudPL6S1",
+                        "width":1840
+                  }
+            ],
+            "place_id":"ChIJU6fvfA0EyIkR9WUozbQ7P2g",
+            "plus_code":{
+                  "compound_code":"7CVJ+25 Baltimore, MD, USA",
+                  "global_code":"87F57CVJ+25"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJU6fvfA0EyIkR9WUozbQ7P2g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"3344 East Baltimore Street, Baltimore",
+            "CBG":245102610003,
+            "Radius":128.8355049082
+      }
+]

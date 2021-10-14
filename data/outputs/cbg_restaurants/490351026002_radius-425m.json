@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7628858,
+                        "lng":-111.915543
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7642347803,
+                              "lng":-111.9141940197
+                        },
+                        "southwest":{
+                              "lat":40.7615368197,
+                              "lng":-111.9168919803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos El Morro Food Truck",
+            "place_id":"ChIJYwRiDRf1UocRZXwdkompiAk",
+            "plus_code":{
+                  "compound_code":"Q37M+5Q Salt Lake City, UT, USA",
+                  "global_code":"85GCQ37M+5Q"
+            },
+            "rating":5.0,
+            "reference":"ChIJYwRiDRf1UocRZXwdkompiAk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2959 west California avenue, Salt Lake City",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":490351026002,
+            "Radius":424.544695413
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7586258,
+                        "lng":-111.9171604
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7599753303,
+                              "lng":-111.9156423697
+                        },
+                        "southwest":{
+                              "lat":40.7572773697,
+                              "lng":-111.9183403303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Delicias el paraiso tropical",
+            "place_id":"ChIJ8yNuDfD0UocRwhUPKGopVww",
+            "plus_code":{
+                  "compound_code":"Q35M+F4 Salt Lake City, UT, USA",
+                  "global_code":"85GCQ35M+F4"
+            },
+            "rating":4.3,
+            "reference":"ChIJ8yNuDfD0UocRwhUPKGopVww",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"484 South 900 West, Salt Lake City",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100898322649137373981\">Luis Sosa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBkFoILGbT1xSyhiJzeKjLbh3a58x-kLMsFUAc7f5auiWuP7LTwyKwHxe_HAU_CNH2n1VV70tgOh3mKWLPKSv92DyGDVmji-MlhrIaZFHdvri1xYMni5y4HTTV9KbOGAb5jS9RX6VaTJx495syBuu3Hl4Xm_Oii1FE4VocKxhncvk8",
+                        "width":4128
+                  }
+            ],
+            "CBG":490351026002,
+            "Radius":424.544695413
+      }
+]

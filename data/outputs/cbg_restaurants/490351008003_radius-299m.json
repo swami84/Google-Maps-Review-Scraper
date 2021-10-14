@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7721167,
+                        "lng":-111.8992444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7734454803,
+                              "lng":-111.8977594697
+                        },
+                        "southwest":{
+                              "lat":40.7707475197,
+                              "lng":-111.9004574303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Crown Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109834612983802698813\">Henk de Swardt<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBHX4nkW3H05aep1pPcazvqb0CvkYfBA66SfHeTkUHuUmIuN4ffY7ktKhOLu37HozMBzLbaUDI6nSn3vCa4pJ9YXJtb2M0eCTZIbm-yQaumSQCmjY7ZGNkZOonRdMJY4z5EERp3inrgOh1CzeRcYcEZr71S-9CUVukZfO-vvr_9poF5",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJD-IrIqr1UocRq-dq7XEYNyE",
+            "plus_code":{
+                  "compound_code":"Q4C2+R8 Salt Lake City, UT, USA",
+                  "global_code":"85GCQ4C2+R8"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJD-IrIqr1UocRq-dq7XEYNyE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3774,
+            "vicinity":"118 North 300 West, Salt Lake City",
+            "CBG":490351008003,
+            "Radius":299.429503108
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7719832,
+                        "lng":-111.8972473
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7731284803,
+                              "lng":-111.8957245197
+                        },
+                        "southwest":{
+                              "lat":40.7704305197,
+                              "lng":-111.8984224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Maverik Adventure's First Stop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105231816349184980357\">Roger Hendrix<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBS5vMUb8S3tjSeW32HbBpuWGDPflWsB-8-Ano1ylh0fOV1tAdFsXD5kBhpQCETt0PuLSPUebb5DFNyVdADziFaYkV2UUIfuwiRUhW9jXQHD6UGzBTuTTxE76fvIZ00J0kLfAp_UeDMY8qvwNTqmODyZas0BTzt76m8z9fj4v5xCqyG",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJm8u86an1UocRKYF9w3vQP8s",
+            "plus_code":{
+                  "compound_code":"Q4C3+Q4 Salt Lake City, UT, USA",
+                  "global_code":"85GCQ4C3+Q4"
+            },
+            "price_level":null,
+            "rating":2.5,
+            "reference":"ChIJm8u86an1UocRKYF9w3vQP8s",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "convenience_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"206 West North Temple, Salt Lake City",
+            "CBG":490351008003,
+            "Radius":299.429503108
+      }
+]

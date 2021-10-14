@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.34975,
+                        "lng":-81.6691512
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3511415303,
+                              "lng":-81.6677178197
+                        },
+                        "southwest":{
+                              "lat":30.3484435697,
+                              "lng":-81.6704157803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Holly bbq",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJKXSRAL-35YgRQStNTaTgqpg",
+            "plus_code":{
+                  "compound_code":"88XJ+W8 Mid-Westside, Jacksonville, FL, USA",
+                  "global_code":"862W88XJ+W8"
+            },
+            "reference":"ChIJKXSRAL-35YgRQStNTaTgqpg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1304 Moncrief Road, Jacksonville",
+            "CBG":120310015004,
+            "Radius":309.1522113875
+      }
+]

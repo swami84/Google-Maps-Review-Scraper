@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.263263,
+                        "lng":-76.634161
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2645649303,
+                              "lng":-76.6326813697
+                        },
+                        "southwest":{
+                              "lat":39.2618669697,
+                              "lng":-76.6353793303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Four Seas Chinese Food Carry",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJyWIeazEDyIkRgAt6iPpLFFE",
+            "plus_code":{
+                  "compound_code":"7978+88 Baltimore, MD, USA",
+                  "global_code":"87F57978+88"
+            },
+            "rating":4.2,
+            "reference":"ChIJyWIeazEDyIkRgAt6iPpLFFE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"2256 Annapolis Road, Baltimore",
+            "photos":null,
+            "price_level":null,
+            "CBG":245102503011,
+            "Radius":600.6001502574
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.264462,
+                        "lng":-76.632757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2658610803,
+                              "lng":-76.6315490197
+                        },
+                        "southwest":{
+                              "lat":39.2631631197,
+                              "lng":-76.6342469803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jack's Carryout",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJY2XnKjEDyIkRc-UKvtAN0EE",
+            "plus_code":{
+                  "compound_code":"7978+QV Baltimore, MD, USA",
+                  "global_code":"87F57978+QV"
+            },
+            "rating":4.3,
+            "reference":"ChIJY2XnKjEDyIkRc-UKvtAN0EE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":113,
+            "vicinity":"2135 Annapolis Road, Baltimore",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112971622849791537050\">Kristen Genter<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED8VvmVAaDbapOigI4yv4qqZVbUBzE2j9TEaQvi65X2HyaMb1EZKBtz7rAvchlEELl28t19Ym_W5XkgEbUyj5wSdu3WU9XdVtsrlaE6iTuNs5EAkjnHCtQmhVkKMla-WWAFE_mBrH-bWOGODKgXWjoAYK7Ti4k7WYjuAi0EhXeF-C_6",
+                        "width":4032
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":245102503011,
+            "Radius":600.6001502574
+      }
+]

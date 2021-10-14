@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3495401,
+                        "lng":-76.6923304
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3507824303,
+                              "lng":-76.6911168697
+                        },
+                        "southwest":{
+                              "lat":39.3480844697,
+                              "lng":-76.6938148303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Klassic Kitchen Llc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106498390690528301797\">VIBEZ VIDEO TV NETWORK<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBr4ifGErmkU8YESuy8fqj-9jk8zzv6KCug4rlhVwovWbNG-tbhLEj6wSFm4NkGYYw412m69Fy40nMJLVt5AfScVegfZUBaBUBGD5PfTMwoUTiapRGO8QS1LOU0-MPvDHE0S8b89UU6R_yfM0Icf8tNaoXAdsDM5tNrHKwz_4TKLLOQ",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJN63Tk1kayIkR554jJR0MzZI",
+            "plus_code":{
+                  "compound_code":"88X5+R3 Baltimore, MD, USA",
+                  "global_code":"87F588X5+R3"
+            },
+            "rating":4.2,
+            "reference":"ChIJN63Tk1kayIkR554jJR0MzZI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"5625 Reisterstown Road, Baltimore",
+            "price_level":null,
+            "CBG":245102719005,
+            "Radius":264.6355884591
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3492601,
+                        "lng":-76.6918906
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3507296803,
+                              "lng":-76.6906277697
+                        },
+                        "southwest":{
+                              "lat":39.3480317197,
+                              "lng":-76.6933257303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Champs Pizza & Wings",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":819,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117239153275452796936\">Champs Pizza &amp; Wings<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPsQ4z9ntAxvGdRH0x0IhMQ8VF-KqiWGCgHZIQqNV5i0z8r0CaEeesRlV5ZIABnFMpiGQWf8qRF98GXMkmNoShfD66w8Uunc0RjVp_8jCV7XUHq_IZ1lJO6Mm4dwIT97DUWhSvPAOxfg0ZjCZrWp4PLJroy2lolT5U8jVCdV3FogSi",
+                        "width":1222
+                  }
+            ],
+            "place_id":"ChIJmeq-vpobyIkRlCsRCVJVI_0",
+            "plus_code":{
+                  "compound_code":"88X5+P6 Baltimore, MD, USA",
+                  "global_code":"87F588X5+P6"
+            },
+            "rating":3.5,
+            "reference":"ChIJmeq-vpobyIkRlCsRCVJVI_0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"5621 Reisterstown Road, Baltimore",
+            "price_level":1.0,
+            "CBG":245102719005,
+            "Radius":264.6355884591
+      }
+]

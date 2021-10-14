@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7149107,
+                        "lng":-111.8879996
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7162596803,
+                              "lng":-111.8866506197
+                        },
+                        "southwest":{
+                              "lat":40.7135617197,
+                              "lng":-111.8893485803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Long Life Vegi House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111369414265084461582\">Chandler Whipple<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAUitEZDLeC9GdoF3aBeCJB4WUhSO7BWr7jiU144bC5JGAdJpkzUFUD9JJBtdzxg8tJDCqDiqqDLoBxXr6ga_5W_Awyc7irnDIXRB9gsOrLviqWSQPnD6xhhen85vcS9lV78QD_OHHETAltZEhxYxV2Q6Tp7MaUxPys7RpLv8m2tkOC",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJyQ2F9dRhUocR4LjF_stasLA",
+            "plus_code":{
+                  "compound_code":"P476+XR South Salt Lake, UT, USA",
+                  "global_code":"85GCP476+XR"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJyQ2F9dRhUocR4LjF_stasLA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":227,
+            "vicinity":"2561 South State Street, South Salt Lake",
+            "CBG":490351114005,
+            "Radius":310.0256413628
+      }
+]

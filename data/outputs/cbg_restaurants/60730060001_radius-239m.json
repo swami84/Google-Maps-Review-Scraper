@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7385694,
+                        "lng":-117.1605417
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7399880803,
+                              "lng":-117.1591979197
+                        },
+                        "southwest":{
+                              "lat":32.7372901197,
+                              "lng":-117.1618958803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jimmy Carter's Mexican Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100144703784008721623\">Jimmy Carter&#39;s Mexican Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChkveR6FXg1YgjnU0ga4MvlpIQfRwRmmLJqim1A6F99nW3DZy3ggJZH_lrNRKlLzw_c_JagJMGXr6ZnNEUd_aiibaIXvB3g92qRWmu1RtLzPovlV0qPaPI7T9uw3A3XIqKgY8lO_ZTyBGYFCSLMA-nJmp4M_uad_65jtGCCl325Pz6",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ0SgCNcZU2YARkEQRsGl1-xs",
+            "plus_code":{
+                  "compound_code":"PRQQ+CQ San Diego, CA, USA",
+                  "global_code":"8544PRQQ+CQ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ0SgCNcZU2YARkEQRsGl1-xs",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1037,
+            "vicinity":"3172 Fifth Avenue, San Diego",
+            "CBG":60730060001,
+            "Radius":238.5848283661
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7384,
+                        "lng":-117.16049
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7397493803,
+                              "lng":-117.1590705197
+                        },
+                        "southwest":{
+                              "lat":32.7370514197,
+                              "lng":-117.1617684803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Juice Alchemy",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103537813047502940920\">Juice Alchemy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECuoXCVicJaZhWafZm4Op24L8d1cmMrQ2iS9X9lmvxtnJcJpCMkCuDjGlCn4y2p1I-wVhBeJYwBowR2_uJbihObJjeBCFBC-AWkoZgLd63OQ1shh0SLEtTLkIXmdZ5F2ewQPTlWmFhglcmPLY6AmhR_ghdWPD8uBfZJ-gFRtgprzAKq",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJAaTUNMZU2YAR21YhjqpCx6s",
+            "plus_code":{
+                  "compound_code":"PRQQ+9R San Diego, CA, USA",
+                  "global_code":"8544PRQQ+9R"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJAaTUNMZU2YAR21YhjqpCx6s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":77,
+            "vicinity":"3156 Fifth Avenue, San Diego",
+            "CBG":60730060001,
+            "Radius":238.5848283661
+      }
+]

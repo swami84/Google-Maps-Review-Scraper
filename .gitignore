@@ -3,7 +3,7 @@
 data/inputs/safegraph_open_census_data/
 config/
 catboost_info/
-data/inputs/
+data/inputs/safegraph_open_census_data/
 geckodriver.log
 !notebooks
 notebooks/*

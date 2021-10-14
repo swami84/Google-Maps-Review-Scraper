@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.5167966,
+                        "lng":-70.8891324
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.5181592303,
+                              "lng":-70.8878907697
+                        },
+                        "southwest":{
+                              "lat":42.5154612697,
+                              "lng":-70.8905887303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Delicia Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108480035814170262856\">Jose Jordan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECGU3m1m424CovpkPFBkPRlsM8XDEfu4coRmVKgz50rdgR63iMk_wQc2vy4gGSoH-yLBZzRAFZOJBQnnz8To7Xoj0amNZF2hXKgy4fKz81aaokWqkmscqqRgX-GJvR4soEN-x-N81KPUkj6mmdMnnoYXSWfhfL9fItyAVa8Fd7cA5A",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJhRs02WMU44kRi5V1HLi2VoE",
+            "plus_code":{
+                  "compound_code":"G486+P8 Salem, MA, USA",
+                  "global_code":"87JFG486+P8"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJhRs02WMU44kRi5V1HLi2VoE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":230,
+            "vicinity":"75 Congress Street, Salem",
+            "CBG":250092043002,
+            "Radius":159.3014041561
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.5163127,
+                        "lng":-70.8896369
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.5176720803,
+                              "lng":-70.8881455197
+                        },
+                        "southwest":{
+                              "lat":42.5149741197,
+                              "lng":-70.8908434803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salem Tipico Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104532933902142812472\">Salem Tipico Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED1sXSLSKw6V91FF4TenGpQSfAIuUCp6codCFRzYgz1OnoWopbgwcTBWwDBrqFdJ1totA2DG9OMlqEnlQ_sdkvdgb3ReLIdXPQQQfKAVtlqlNu2mkxXjUkC28uZ5NkA_h4BeRw9vpy2_e9FPuHpw8G6xZ5Kj4B6C56FN1XpaqoXlzki",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJezxU2WMU44kR7p60_bkT8eE",
+            "plus_code":{
+                  "compound_code":"G486+G4 Salem, MA, USA",
+                  "global_code":"87JFG486+G4"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJezxU2WMU44kR7p60_bkT8eE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":164,
+            "vicinity":"88 Congress Street, Salem",
+            "CBG":250092043002,
+            "Radius":159.3014041561
+      }
+]

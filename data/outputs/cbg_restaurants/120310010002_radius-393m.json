@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3288563,
+                        "lng":-81.6501651
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3302366803,
+                              "lng":-81.6489520197
+                        },
+                        "southwest":{
+                              "lat":30.3275387197,
+                              "lng":-81.6516499803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Shiro Iwae & Associates LLC",
+            "place_id":"ChIJo2VIdB-35YgRFtSR48hzKy0",
+            "plus_code":{
+                  "compound_code":"88HX+GW Downtown, Jacksonville, FL, USA",
+                  "global_code":"862W88HX+GW"
+            },
+            "reference":"ChIJo2VIdB-35YgRFtSR48hzKy0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"511 North Washington Street, Jacksonville",
+            "CBG":120310010002,
+            "Radius":393.1385401047
+      }
+]

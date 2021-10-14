@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.2970288,
+                        "lng":-76.6032484
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2983141303,
+                              "lng":-76.6018205697
+                        },
+                        "southwest":{
+                              "lat":39.2956161697,
+                              "lng":-76.6045185303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Big Mama's Heart & Soul",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101946242023185748831\">Coach Shel<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED5V7FsP4Cj2wittNYIDixZKgg5s5FEFOGPcPs16MBfE2rUOr-8MKCLwUu1jp6abATTQ1cdZ4mfmRDBXOxCCkMk-JrqRI5JHDG6X4_c97IzX_N2Hr7aN5QtARoKm9Yt-3x0CUdieGDNdUjis3w8203qa8rDcAshE1mFHvLqlVY-oYkF",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJGYFIfY8EyIkRKsn0YADg6qw",
+            "plus_code":{
+                  "compound_code":"79WW+RP Baltimore, MD, USA",
+                  "global_code":"87F579WW+RP"
+            },
+            "rating":4.7,
+            "reference":"ChIJGYFIfY8EyIkRKsn0YADg6qw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"544 Old Town Mall, Baltimore",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":245102805003,
+            "Radius":227.7153310798
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2975847,
+                        "lng":-76.6023711
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2988947303,
+                              "lng":-76.6009738697
+                        },
+                        "southwest":{
+                              "lat":39.2961967697,
+                              "lng":-76.6036718303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cultural yard",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":1081,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112070855382670771108\">Cultural yard<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC3GC9J4A0DxrATtVIxZDkjgRJzl6KoybI4IYb4szrHUMv24v6GYmsoWqPmzpnPEj-7d2zKDUzOaHwvDKn5Q-C6Hvrx-LosY8ITxMbWB9rgNqEatAMrM140PGUYigP-cIPiwnBglMh3-CSTrqw8daqqKYsITsuhItemfo9sheVjTlAv",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJX8ETEAgFyIkRcoR25Ndc-k0",
+            "plus_code":{
+                  "compound_code":"79XX+23 Baltimore, MD, USA",
+                  "global_code":"87F579XX+23"
+            },
+            "rating":3.7,
+            "reference":"ChIJX8ETEAgFyIkRcoR25Ndc-k0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"582 Old Town Mall, Baltimore",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":2.0,
+            "CBG":245102805003,
+            "Radius":227.7153310798
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3531445,
+                        "lng":-76.6866456
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3543107803,
+                              "lng":-76.6853787697
+                        },
+                        "southwest":{
+                              "lat":39.3516128197,
+                              "lng":-76.6880767303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chef Dan\u2019s Cafe at the J",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117088619598954122501\">Chef Dan\u2019s Cafe at the J<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBiQS0kIJweElAlx9SH0xVV9iNwvV9KiOvbZCTkx7d--pZ9igfOC5PJnbhDi1WWJ64WVBdjxMdktOYWI_OEt442vCHsPDqpEnB-MwZKJzoZWISGusma-DMeNRgstr8neKJJl-v9Pd-UInhw2xDVodto5p4pzBgRMDDJPUmnI1RYxoqk",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJ9zkoB5kbyIkRwWsjFT9LvWI",
+            "plus_code":{
+                  "compound_code":"9837+78 Baltimore, MD, USA",
+                  "global_code":"87F59837+78"
+            },
+            "rating":4.6,
+            "reference":"ChIJ9zkoB5kbyIkRwWsjFT9LvWI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"5700 Park Heights Avenue, Baltimore",
+            "CBG":245102719004,
+            "Radius":274.2901530836
+      }
+]

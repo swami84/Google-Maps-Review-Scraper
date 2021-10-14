@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8483395,
+                        "lng":-87.701981
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8496884803,
+                              "lng":-87.7006320197
+                        },
+                        "southwest":{
+                              "lat":41.8469905197,
+                              "lng":-87.7033299803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D.A.W.G.S.",
+            "place_id":"ChIJN1bN8nkyDogR4LV0Fr-lJGI",
+            "plus_code":{
+                  "compound_code":"R7XX+86 Chicago, IL, USA",
+                  "global_code":"86HJR7XX+86"
+            },
+            "reference":"ChIJN1bN8nkyDogR4LV0Fr-lJGI",
+            "scope":"GOOGLE",
+            "types":[
+                  "point_of_interest",
+                  "restaurant",
+                  "food",
+                  "establishment"
+            ],
+            "vicinity":"Chicago",
+            "CBG":170313009003,
+            "Radius":136.5478666736
+      }
+]

@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6907839,
+                        "lng":-71.1348231
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6922081303,
+                              "lng":-71.1333572697
+                        },
+                        "southwest":{
+                              "lat":41.6895101697,
+                              "lng":-71.1360552303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hamburgao Sanduiche",
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113076944447765627755\">Marcia Reis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1beEH3kAq0ExYvrtiIen4VX0TU2YCK74K_HyxV1CIXKL9mT1MicgZp7RKWwgghLfcJ8Ym2UZhF-bYsBEC4yqDvInEpES_aq2A27ggliq6qERbJvhWQ6tlAUL0BOqRrG1IcXNKIJe0_IFxq8awEaG4_lYB0cGItK9reaVWnhhrSn1r",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJd75MnyT55IkRWAILuMMkP94",
+            "plus_code":{
+                  "compound_code":"MVR8+83 Fall River, MA, USA",
+                  "global_code":"87HCMVR8+83"
+            },
+            "rating":3.9,
+            "reference":"ChIJd75MnyT55IkRWAILuMMkP94",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43.0,
+            "vicinity":"1385 Pleasant Street, Fall River",
+            "CBG":250056413005,
+            "Radius":239.5189117727
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6912354,
+                        "lng":-71.1349624
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6925727803,
+                              "lng":-71.1336312197
+                        },
+                        "southwest":{
+                              "lat":41.6898748197,
+                              "lng":-71.1363291803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Seven Skys",
+            "photos":null,
+            "place_id":"ChIJydB5YiP55IkRGMTCtVnzrmM",
+            "plus_code":{
+                  "compound_code":"MVR8+F2 Fall River, MA, USA",
+                  "global_code":"87HCMVR8+F2"
+            },
+            "rating":null,
+            "reference":"ChIJydB5YiP55IkRGMTCtVnzrmM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1345 Pleasant Street, Fall River",
+            "CBG":250056413005,
+            "Radius":239.5189117727
+      }
+]

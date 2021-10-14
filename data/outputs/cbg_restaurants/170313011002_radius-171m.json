@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.845677,
+                        "lng":-87.6955992
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8470305303,
+                              "lng":-87.6940698697
+                        },
+                        "southwest":{
+                              "lat":41.8443325697,
+                              "lng":-87.6967678303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pollo Cris Cris",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":7500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109901062062693547722\">Pollo Cris Cris<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAkjBpaXyCLWHcW0iWjqlWOIW1_QBT-e9OjWw7knMQuHqJ0Dm2q_nI-9QuiNGYlv6wDXm5Nst_x1OnTeRBY0trOX5cblyLhBue5dXiL1Z11Y_zFQ6TY97Nw3hMKlSKbSMKNJHh3r81ltbVMXS9HPELNo3F1eCI1a6oR1JbkmIoQl5Ut",
+                        "width":7500
+                  }
+            ],
+            "place_id":"ChIJBfV_nRgtDogR9Ls92cZUb10",
+            "plus_code":{
+                  "compound_code":"R8W3+7Q Chicago, IL, USA",
+                  "global_code":"86HJR8W3+7Q"
+            },
+            "rating":3.5,
+            "reference":"ChIJBfV_nRgtDogR9Ls92cZUb10",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"2524 South California Avenue, Chicago",
+            "CBG":170313011002,
+            "Radius":171.2406007202
+      }
+]

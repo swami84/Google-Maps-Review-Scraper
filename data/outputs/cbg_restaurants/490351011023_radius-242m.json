@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7715589,
+                        "lng":-111.8793324
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7729106303,
+                              "lng":-111.8778390697
+                        },
+                        "southwest":{
+                              "lat":40.7702126697,
+                              "lng":-111.8805370303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Foodie and Sweetie D Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1824,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103982328113340494866\">Todd Wood<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBj9J42odsmBRqJhmaa8fPr70bQKxh8CdKSMxytiyOAErp5Kni4n6hbmAzY2lybM4mZKeKbqScU7K77aM0CjKkWN6IB-VnEXHAunJZtERqsE5vRYcW6S_QeAl8JcCkfXK1wOZrTxJxjuse_VS_DECLh9DkcGuNoF6Imc5DLPgT4PuDf",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJkebxsCH1UocRLIVgiia9N-g",
+            "plus_code":{
+                  "compound_code":"Q4CC+J7 Salt Lake City, UT, USA",
+                  "global_code":"85GCQ4CC+J7"
+            },
+            "rating":4.4,
+            "reference":"ChIJkebxsCH1UocRLIVgiia9N-g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":135,
+            "vicinity":"89 D Street East, Salt Lake City",
+            "CBG":490351011023,
+            "Radius":242.1983808477
+      }
+]

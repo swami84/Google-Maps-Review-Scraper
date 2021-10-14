@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.275269,
+                        "lng":-76.6116152
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2765693803,
+                              "lng":-76.6105146697
+                        },
+                        "southwest":{
+                              "lat":39.2738714197,
+                              "lng":-76.6132126303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112650510837957054784\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECTb3oYonXCffS1AffzQsq1sZw0OE4TpIvn6psn8j1VjYCSh8JJ_rPGlSZljybP5QaGaFfJIRrx1ac27x4kbT4-eMdy9ImBD1VaaNQLhvKVzEihta9QaTAdS6aElM0Ao87gzcSZgydita5l26N6m_8hO5rb2uh6MpVWwjaR3evFanTQ",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJ1YHXLm8DyIkRQvLfiGKG208",
+            "plus_code":{
+                  "compound_code":"79GQ+49 Baltimore, MD, USA",
+                  "global_code":"87F579GQ+49"
+            },
+            "price_level":1,
+            "rating":3.1,
+            "reference":"ChIJ1YHXLm8DyIkRQvLfiGKG208",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":451,
+            "vicinity":"1235 Light Street, Baltimore",
+            "CBG":245102403002,
+            "Radius":132.4452321441
+      }
+]

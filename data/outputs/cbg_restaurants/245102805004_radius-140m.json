@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2947067,
+                        "lng":-76.6003188
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2960423303,
+                              "lng":-76.5989021697
+                        },
+                        "southwest":{
+                              "lat":39.2933443697,
+                              "lng":-76.6016001303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100722243439262151125\">Lisa Blackwell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGvD6gFT38vf9zbgi62egKeQqoyvCLgKQ5HDtncQj28C9Nz44wV7BCA8pTYeRlMDo9gAlT3OZn_HKAcgn7GkzN_CofZ500ocu65-R7OR3UXu9JTnZFUb4di5dBw9ZUQZzKcapy-u7uafZQGbaPoqCCvqKZ0o5sbhRtWBGQ9IEp9Pl6",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8ZtBcIYEyIkRYUjoDve79QM",
+            "plus_code":{
+                  "compound_code":"79VX+VV Baltimore, MD, USA",
+                  "global_code":"87F579VX+VV"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ8ZtBcIYEyIkRYUjoDve79QM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":742,
+            "vicinity":"1241 Orleans Street, Baltimore",
+            "CBG":245102805004,
+            "Radius":139.7346236202
+      }
+]

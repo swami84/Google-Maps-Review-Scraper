@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.654822,
+                        "lng":-70.937321
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6561973803,
+                              "lng":-70.9358756697
+                        },
+                        "southwest":{
+                              "lat":41.6534994197,
+                              "lng":-70.9385736303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Pionono #1",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108940736945689657400\">The Pionono #1<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED3oxelDKdVCzVTG-fajJ8ifJekN4cttZ2OFMF0SGoVSEOZVWi_MdWJiImIgitMgE9TiVu-S6hQnHULWBUwJHaproOLzw9m7Tbu-2GIRrNDWbHAvzupG6baEUlXXWhfA3mUk290o4-XbifZ2meiD0ho2fkZYPvaKcho9Dk23FT3RaKw",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJFV8bE2Xk5IkRqkagFfal_jE",
+            "plus_code":{
+                  "compound_code":"M337+W3 New Bedford, MA, USA",
+                  "global_code":"87HFM337+W3"
+            },
+            "rating":5,
+            "reference":"ChIJFV8bE2Xk5IkRqkagFfal_jE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"597-599 Summer Street, New Bedford",
+            "CBG":250056509002,
+            "Radius":298.7435788234
+      }
+]

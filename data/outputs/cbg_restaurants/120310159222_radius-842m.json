@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2000684,
+                        "lng":-81.5502155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2013167303,
+                              "lng":-81.5490705697
+                        },
+                        "southwest":{
+                              "lat":30.1986187697,
+                              "lng":-81.5517685303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Soul Out Street Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJU5U0zNjL5YgROXAF4Nd0ABQ",
+            "plus_code":{
+                  "compound_code":"6C2X+2W Southside, Jacksonville, FL, USA",
+                  "global_code":"862W6C2X+2W"
+            },
+            "reference":"ChIJU5U0zNjL5YgROXAF4Nd0ABQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8801 Southside Boulevard, Jacksonville",
+            "CBG":120310159222,
+            "Radius":842.3601775387
+      }
+]

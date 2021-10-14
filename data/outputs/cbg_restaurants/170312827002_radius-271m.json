@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8743156,
+                        "lng":-87.6866091
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8756645803,
+                              "lng":-87.6852601197
+                        },
+                        "southwest":{
+                              "lat":41.8729666197,
+                              "lng":-87.6879580803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Johnna's Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116957894754788866888\">Johnna&#39;s Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBMoL4N-XvdGFOCUekR11lwOCSNfxBfbvTRLNVhyDel0ulyoE2bzl8xFqSt5NJ7NUzoWr_2UAmsn_BidaK2j09xMObpPkjKiFhqH_dSZmlmttSDYy4pa5CMc33e4hyS_Wjlq0aY-euF_DVKF0ac9eqSMN7k788fNJpCAMvTs5WMvMLO",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJY6fhYGgtDogRbddrvGYx31Y",
+            "plus_code":{
+                  "compound_code":"V8F7+P9 Chicago, IL, USA",
+                  "global_code":"86HJV8F7+P9"
+            },
+            "rating":4.2,
+            "reference":"ChIJY6fhYGgtDogRbddrvGYx31Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":85,
+            "vicinity":"520 South Western Avenue, Chicago",
+            "CBG":170312827002,
+            "Radius":271.0089817855
+      }
+]
