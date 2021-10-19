@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.792107,
+                        "lng":-87.6544766
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7934539803,
+                              "lng":-87.6532951197
+                        },
+                        "southwest":{
+                              "lat":41.7907560197,
+                              "lng":-87.6559930803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Quitas Soul Food Kitchen & Catering..LLC.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112637853729321821869\">Taquita Hayes<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFunJfnGOZYB54NhP6c9fkb29NBpLvqyiKLJbcSRxsJ_WEG0NLBIAowerj5aGwrC6n4FlLbS-uJSfNpW_0cxlcK0ecj2Kxf1GamW4foGkX1rAyLWWNlb9PfEL4AY_AdVdKK9WHfVsVwWmvIepen7p4S189svbuoOuF62zNwhC1_sBn",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJ-Ww64nYvDogRccbZvG_fmvU",
+            "plus_code":{
+                  "compound_code":"Q8RW+R6 Chicago, IL, USA",
+                  "global_code":"86HJQ8RW+R6"
+            },
+            "rating":4.8,
+            "reference":"ChIJ-Ww64nYvDogRccbZvG_fmvU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"5607 South Racine Avenue, Chicago",
+            "CBG":170316701001,
+            "Radius":228.0903426663
+      }
+]

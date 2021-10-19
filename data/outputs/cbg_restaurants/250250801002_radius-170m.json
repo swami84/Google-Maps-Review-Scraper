@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3248701,
+                        "lng":-71.0755091
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3261874303,
+                              "lng":-71.0740774197
+                        },
+                        "southwest":{
+                              "lat":42.3234894697,
+                              "lng":-71.0767753803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Villa Sombrero Caf\u00e9",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112470664701880773216\">Angela Perez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5Gqlv6DWuTUouCLlGI5ZznV29ccbLdxBrMx0ZQpRVjAC_RbHQbPP3-gRtvBNW2Ue0Uvn6X0NkXVUYbCD4LgC0sHlPntJtrVc07UaLioe8mW_zMZfD097VoIhlvMQuOU31x2YMIF-bv09H1ZPzlv8EoO2KXOvvau7-GMc_OcQI8q9P",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJtfkgIEp644kRbj9qeSMfFEs",
+            "plus_code":{
+                  "compound_code":"8WFF+WQ Boston, MA, USA",
+                  "global_code":"87JC8WFF+WQ"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJtfkgIEp644kRbj9qeSMfFEs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":37,
+            "vicinity":"11 Blue Hill Avenue, Boston",
+            "CBG":250250801002,
+            "Radius":169.6851173929
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.324826,
+                        "lng":-71.0754718
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3261777803,
+                              "lng":-71.0740583697
+                        },
+                        "southwest":{
+                              "lat":42.3234798197,
+                              "lng":-71.0767563303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Caribeno",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111174631240551873091\">Abad Pena<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECdDD6x72DeL6TV9LXsDoNtX0qAcRSY2mIq34Ykq5BTRM9RHI6tuA8l7wvj9EGdq3tUMBYXZbKgvHGtLZyLE_48lfaIXPJLNEnuMD2KuWApYXlCKrJuP1s63wsf9ApYzHMQxiiwjrzZk4INgnaEHDMgoPUqz1axYGZQa9QSMo6S4uWY",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJCdfYsDd644kRZ7hnCkkWptk",
+            "plus_code":{
+                  "compound_code":"8WFF+WR Boston, MA, USA",
+                  "global_code":"87JC8WFF+WR"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJCdfYsDd644kRZ7hnCkkWptk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"11 Blue Hill Avenue, Boston",
+            "CBG":250250801002,
+            "Radius":169.6851173929
+      }
+]

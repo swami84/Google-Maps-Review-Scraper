@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5071808,
+                        "lng":-88.9876561
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5085534803,
+                              "lng":-88.9860380197
+                        },
+                        "southwest":{
+                              "lat":40.5058555197,
+                              "lng":-88.9887359803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102976019556195416416\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYB38NRhl5KK0kkoV3H6UvzwbSghWw7T8x2hGGC9CtGlD2U8Z3Iaiz58JMkhKI-IWnx00heMuGCfkvAk2lj4g3IJFoYFyeZZ0peoEwvLN-KvYGoy2koYSGt9xJ5fwtJcxL-O6Mdb-OhZxwQ_X3w7BUbevqd_K-C7wx9ic7wbzvdszV",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJIezROahxC4gRYEDQ9Dix9Pc",
+            "plus_code":{
+                  "compound_code":"G246+VW Normal, IL, USA",
+                  "global_code":"86GHG246+VW"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJIezROahxC4gRYEDQ9Dix9Pc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":158,
+            "vicinity":"305 West Beaufort Street, Normal",
+            "CBG":171130004001,
+            "Radius":202.5872737489
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9251877,
+                        "lng":-77.0319478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9265296803,
+                              "lng":-77.0307670697
+                        },
+                        "southwest":{
+                              "lat":38.9238317197,
+                              "lng":-77.0334650303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109626979293097043760\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFVxDL7D9CacR_5Doq5AqBI1xtbIUfwdV7RKlscD3EkDAMgU_bnNS94NSaoIs9S2hb8H__OXcLf0XzU6jZYq8ot-dQkX7m6nq9eUR1TP2_cjomgFHSh1dmmKr3mk-Wc9FtsPwFQrH2RlVRGHivIEwJZgDbC5rnixcvFHUipKGFSqJ8",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJoxUp5-e3t4kR6LQ1sddDy6Q",
+            "plus_code":{
+                  "compound_code":"WXG9+36 Washington, DC, USA",
+                  "global_code":"87C4WXG9+36"
+            },
+            "price_level":1.0,
+            "rating":3.3,
+            "reference":"ChIJoxUp5-e3t4kR6LQ1sddDy6Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":273,
+            "vicinity":"2701 14th Street Northwest, Washington",
+            "CBG":110010036002,
+            "Radius":153.0067172024
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9252777,
+                        "lng":-77.0326532
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9267254303,
+                              "lng":-77.0313477197
+                        },
+                        "southwest":{
+                              "lat":38.9240274697,
+                              "lng":-77.0340456803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Khana Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105724942816917548979\">Khana Express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDbTkTBbJHUXzKIDfa5LL16BupTxLOncuK_1zozp4Tfb1Ml1_oplV4LCgNnd7J3_nLPJYf0FUZwTEOw4VxVpUDrwSVGca4i8GfS3csgsFD6i7_-6cEAOBQcHif7CLxOgIWzcsqPWt4PHcnecLdlad5egX58_-4f38EZ4TnLHteRRX4s",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJicRB2FW3t4kR2IdXCmJk4Hg",
+            "plus_code":{
+                  "compound_code":"WXG8+4W Washington, DC, USA",
+                  "global_code":"87C4WXG8+4W"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJicRB2FW3t4kR2IdXCmJk4Hg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"2750 14th Street Northwest, Washington",
+            "CBG":110010036002,
+            "Radius":153.0067172024
+      }
+]

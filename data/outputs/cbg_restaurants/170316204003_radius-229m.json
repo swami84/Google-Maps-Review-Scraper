@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7869554,
+                        "lng":-87.7229252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7883031803,
+                              "lng":-87.7216184197
+                        },
+                        "southwest":{
+                              "lat":41.7856052197,
+                              "lng":-87.7243163803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pollo Feliz Pulaski",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1828,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117496968055172510437\">Lolitha<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdMDNE7Akl36Zyv1c2quAjwUQ8ej_dEx7uZyMNr8rLbmY4rjJZUyzt7KrMRCb4XkG-KsK-2bUtc4XBhmzpQKDvJwF318JkDOHkaZFcf_Xar-HDynIWqCZZq1e18El-PUcTXnqjZddhg7jSktc35oO7RdRe4-MnwBRRUC0kiYuGPSgU",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJg2Urt7AxDogRhv5o8VMF0PU",
+            "plus_code":{
+                  "compound_code":"Q7PG+QR Chicago, IL, USA",
+                  "global_code":"86HJQ7PG+QR"
+            },
+            "rating":3.6,
+            "reference":"ChIJg2Urt7AxDogRhv5o8VMF0PU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"5825 South Pulaski Road, Chicago",
+            "CBG":170316204003,
+            "Radius":229.0269224667
+      }
+]

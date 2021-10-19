@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.184298,
+                        "lng":-97.775852
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.1858134803,
+                              "lng":-97.7743273197
+                        },
+                        "southwest":{
+                              "lat":30.1831155197,
+                              "lng":-97.7770252803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Corral Buffet & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":721,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102882128958446941836\">Golden Corral Buffet &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA5pDk4J-KmmQ2DrmARvSQ8I9Z7PpIKkfOtB3j95YTcX0pNCXWdmFU8tXT5TFQ0v9vWSbLHXL8vpBrH9SjRA321Drx7f6Pow-Xwtitzg7ph1fPbT-ekEmhkmhH8HZjCIg3nAztYMg-LF-_oNBbJWwHFYSd6JnPzk0XoglDFqClmT0mr",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJdUtihC1LW4YRrBdUIIllwK4",
+            "plus_code":{
+                  "compound_code":"56MF+PM Austin, TX, USA",
+                  "global_code":"862456MF+PM"
+            },
+            "price_level":2.0,
+            "rating":4.1,
+            "reference":"ChIJdUtihC1LW4YRrBdUIIllwK4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3707.0,
+            "vicinity":"7300 South Interstate 35 Frontage Road, Austin",
+            "CBG":484530024222,
+            "Radius":674.407175689
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.178886,
+                        "lng":-97.777291
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.1802349803,
+                              "lng":-97.7759420197
+                        },
+                        "southwest":{
+                              "lat":30.1775370197,
+                              "lng":-97.7786399803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fast Friends Brewery",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJLUJUyIKzRIYRYgn13yuxNjo",
+            "plus_code":{
+                  "compound_code":"56HF+H3 Austin, TX, USA",
+                  "global_code":"862456HF+H3"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJLUJUyIKzRIYRYgn13yuxNjo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"7351 IH 35 Svc Road, South Interstate 35 Frontage Road SB, Austin",
+            "CBG":484530024222,
+            "Radius":674.407175689
+      }
+]

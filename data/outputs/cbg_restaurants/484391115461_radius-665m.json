@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.677061,
+                        "lng":-97.167297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6784251803,
+                              "lng":-97.1656847697
+                        },
+                        "southwest":{
+                              "lat":32.6757272197,
+                              "lng":-97.1683827303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ppw",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJDXzgf1JjToYRo3k0HQEHUCQ",
+            "plus_code":{
+                  "compound_code":"MRGM+R3 Arlington, TX, USA",
+                  "global_code":"8644MRGM+R3"
+            },
+            "reference":"ChIJDXzgf1JjToYRo3k0HQEHUCQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4224 Park Springs Boulevard, Arlington",
+            "CBG":484391115461,
+            "Radius":664.8490103384
+      }
+]

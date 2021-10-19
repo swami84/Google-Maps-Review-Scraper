@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8272046,
+                        "lng":-73.9551541
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8284604303,
+                              "lng":-73.9538413697
+                        },
+                        "southwest":{
+                              "lat":40.8257624697,
+                              "lng":-73.9565393303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sofrito",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104002180862355750400\">Herkunftsnachweis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDmvNBIBhrQmh3AVK6gI4ImiswTe62fNi78cMN3H2Yg0gTX9KEionmHWrH-UP7yP_1tsgfmBFYdm5o19b2pDLGLVHPB8QDv1LHwukgLmkDNasZ-Vd4FFdwoHSWw3wWTd4cRtGlZLQo2flVCLylfT23mnApUxOsekAP0ul6xnGTVfFOX",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJL-dbDGH2wokRbtpptLNxlo0",
+            "plus_code":{
+                  "compound_code":"R2GV+VW New York, NY, USA",
+                  "global_code":"87G8R2GV+VW"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJL-dbDGH2wokRbtpptLNxlo0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1779,
+            "vicinity":"679 Riverside Drive, New York",
+            "CBG":360610229005,
+            "Radius":175.416694466
+      }
+]

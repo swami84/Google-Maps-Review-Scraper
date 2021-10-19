@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3116985,
+                        "lng":-71.081053
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3130474803,
+                              "lng":-71.0797040197
+                        },
+                        "southwest":{
+                              "lat":42.3103495197,
+                              "lng":-71.0824019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Cuchara Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100985430073839325327\">Craig Anthony Evans<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDBb7TcCm6BKbzTzMOgHLArOc_jsdiv3HKGz-zrCcqHa2n6lW2Z6ZitPI_xmcYfIMwtMHqamzGmK5nLo6kavNlgYlW9NpcI4O3-paU2Gk2cD7KqXi8wm5vnFPePKi6ts7cJCWHnpg2DBC0autQhGYWRz5Tc2xbLfBo6nAng0pDXma0s",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJF7oF6c5744kRoGhFbHaBwNM",
+            "plus_code":{
+                  "compound_code":"8W69+MH Boston, MA, USA",
+                  "global_code":"87JC8W69+MH"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJF7oF6c5744kRoGhFbHaBwNM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":123,
+            "vicinity":"381 Blue Hill Avenue, Boston",
+            "CBG":250250820001,
+            "Radius":228.6812873873
+      }
+]

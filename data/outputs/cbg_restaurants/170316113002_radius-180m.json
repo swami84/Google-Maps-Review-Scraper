@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.8014407,
+                        "lng":-87.6682696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8027109803,
+                              "lng":-87.6669196697
+                        },
+                        "southwest":{
+                              "lat":41.8000130197,
+                              "lng":-87.6696176303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"R U Hungry?",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110000530374603315297\">theraf8100<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJmMv76qrebYamEQkZFtaqA0VZYsQDnVZyYqncIjJ1FUXvFTHV_HQ3yF8d1hC39dCrSyTSmWMF2j6THz2n32y8EvyawdHwtYa5cC6duQ-Qr555I1TbXRnmeCdOLAr-GtJCJrh7yF2ZnQf9UqZArnDS8vTRGZ4WsuH4V-Q7HnykEs9W",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJL5w5qWguDogRiB9db8uD6YI",
+            "plus_code":{
+                  "compound_code":"R82J+HM Chicago, IL, USA",
+                  "global_code":"86HJR82J+HM"
+            },
+            "rating":4.6,
+            "reference":"ChIJL5w5qWguDogRiB9db8uD6YI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":181,
+            "vicinity":"1724 West 51st Street, Chicago",
+            "CBG":170316113002,
+            "Radius":180.4842389587
+      }
+]

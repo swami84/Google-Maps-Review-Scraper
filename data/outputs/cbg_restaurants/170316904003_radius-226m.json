@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7657026,
+                        "lng":-87.6222245
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7669814803,
+                              "lng":-87.6208753197
+                        },
+                        "southwest":{
+                              "lat":41.7642835197,
+                              "lng":-87.6235732803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fire & Ice",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJmYh2dDIvDogR6XiKTa-Pdec",
+            "plus_code":{
+                  "compound_code":"Q98H+74 Chicago, IL, USA",
+                  "global_code":"86HJQ98H+74"
+            },
+            "rating":5.0,
+            "reference":"ChIJmYh2dDIvDogR6XiKTa-Pdec",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"74 East 71st Street, Chicago",
+            "photos":null,
+            "CBG":170316904003,
+            "Radius":226.163330871
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.765707,
+                        "lng":-87.622174
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7669813803,
+                              "lng":-87.6208083697
+                        },
+                        "southwest":{
+                              "lat":41.7642834197,
+                              "lng":-87.6235063303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Front Yard Jerk Grille",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ4Y_fczIvDogR4zVFDSnP0Zc",
+            "plus_code":{
+                  "compound_code":"Q98H+74 Chicago, IL, USA",
+                  "global_code":"86HJQ98H+74"
+            },
+            "rating":4.2,
+            "reference":"ChIJ4Y_fczIvDogR4zVFDSnP0Zc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":166,
+            "vicinity":"74 East 71st Street, Chicago",
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106083982883416284448\">Th3y_Hat3_M3 Gaming<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBvaC6vYCAMdV6IVdhTavztGfKCVP9eBi0jD9vbqdTX2dapPLSAFlMvaBnovBOBrIbGdorGX0kFG9vve9W1tm6jnVtinfqFSHgFUbTuDf5dRsLMrGgPX7hbcOGMbnjKLq-xRYEeFvM8mkpFzhh2P5g4P5k54YZKZaLawDkuE8mStvwi",
+                        "width":1920
+                  }
+            ],
+            "CBG":170316904003,
+            "Radius":226.163330871
+      }
+]

@@ -1,0 +1,117 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7445058,
+                        "lng":-73.9746939
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7457707803,
+                              "lng":-73.9734094197
+                        },
+                        "southwest":{
+                              "lat":40.7430728197,
+                              "lng":-73.9761073803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Parador Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107332114497325203501\">El Parador Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAFRP-NAq3Rn5PWprIJtUMmvMh_k7eaMuw6tM1C2Xey1GPuRhaExXN3voP8KMjGUrmRkab1gt6F_NL4WswMQjodTNEtUkb9r0p0lql1C9F15CXASmJk28mLRnlT3vmK_fKHUoFXv81FH5PWAsygqVSB2bYgWwBw3JIOwlmIQZmr7hoN",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJszmlhQVZwokR8mgnTKrfsiw",
+            "plus_code":{
+                  "compound_code":"P2VG+R4 New York, NY, USA",
+                  "global_code":"87G8P2VG+R4"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJszmlhQVZwokR8mgnTKrfsiw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":393,
+            "vicinity":"325 East 34th Street, New York",
+            "CBG":360610070006,
+            "Radius":79.2118960539
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7438021,
+                        "lng":-73.9740401
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7451510803,
+                              "lng":-73.9726911197
+                        },
+                        "southwest":{
+                              "lat":40.7424531197,
+                              "lng":-73.9753890803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza & Pita Halal Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111813739936598498653\">Pizza &amp; Pita Halal Food<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA6r9r0wvolm-WJfM4mSw3orl6ARrBnPsQ0HPs_4wOJCmeRkYWJGYhHGiNpkGwpokMelkGGVEripikIlqKqcCBx4aIBAX8JTkadjbl26gosjjKWwnppI2OoYpsW6saVUWkirTqOtB1nuHo17Dyiy2WdM-y-vDFvWnvku_HqqZMS4Cz2",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJQ_D3gA9ZwokR3R15rk7hQQg",
+            "plus_code":{
+                  "compound_code":"P2VG+G9 New York, NY, USA",
+                  "global_code":"87G8P2VG+G9"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJQ_D3gA9ZwokR3R15rk7hQQg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":233,
+            "vicinity":"344 East 34th Street, New York",
+            "CBG":360610070006,
+            "Radius":79.2118960539
+      }
+]

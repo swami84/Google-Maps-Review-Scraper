@@ -1,0 +1,87 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.7193085,
+                        "lng":-71.1688412
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.7206514803,
+                              "lng":-71.1674844197
+                        },
+                        "southwest":{
+                              "lat":42.7179535197,
+                              "lng":-71.1701823803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Meet Raquel Super-Market",
+            "place_id":"ChIJ63VepygH44kRN5M-mpI6eyc",
+            "plus_code":{
+                  "compound_code":"PR9J+PF Lawrence, MA, USA",
+                  "global_code":"87JCPR9J+PF"
+            },
+            "reference":"ChIJ63VepygH44kRN5M-mpI6eyc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"198-130 Stearns Avenue, Lawrence",
+            "opening_hours":null,
+            "CBG":250092505001,
+            "Radius":167.2334443525
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.720217,
+                        "lng":-71.1700263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.7215873303,
+                              "lng":-71.1687767197
+                        },
+                        "southwest":{
+                              "lat":42.7188893697,
+                              "lng":-71.1714746803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Yancarlos Supermarket & Restaurant",
+            "place_id":"ChIJFTZhwnIH44kRRiQkovcauGw",
+            "plus_code":{
+                  "compound_code":"PRCH+3X Lawrence, MA, USA",
+                  "global_code":"87JCPRCH+3X"
+            },
+            "reference":"ChIJFTZhwnIH44kRRiQkovcauGw",
+            "scope":"GOOGLE",
+            "types":[
+                  "supermarket",
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"Arlington Street, Lawrence",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":250092505001,
+            "Radius":167.2334443525
+      }
+]

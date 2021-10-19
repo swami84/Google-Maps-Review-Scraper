@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":42.3831266,
+                        "lng":-71.1160019
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3844666803,
+                              "lng":-71.1147276197
+                        },
+                        "southwest":{
+                              "lat":42.3817687197,
+                              "lng":-71.1174255803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Little Crepe Cafe",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2987,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111540027819592240257\">The Little Crepe Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED8ntVkY64t1RcpA9jS2unqbjmnKy4d7oupUi0yxz9EkNjAiu6EH-IjJxjQhNolCh7wV1vCLtajlcK7t53N97zDAy-l2x9AnyC82gK07RJxVhjR2BYnoCAzhpsm7Hdo8Jo9_vIEz_yarFOOajJKetmyCTaOuLmBXeVhFmsBbFwqmze5",
+                        "width":4480
+                  }
+            ],
+            "place_id":"ChIJ5wLTKtx344kRrncYluvDIKk",
+            "plus_code":{
+                  "compound_code":"9VMM+7H Cambridge, MA, USA",
+                  "global_code":"87JC9VMM+7H"
+            },
+            "rating":4.4,
+            "reference":"ChIJ5wLTKtx344kRrncYluvDIKk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"102 Oxford Street, Cambridge",
+            "CBG":250173536002,
+            "Radius":173.7163456893
+      }
+]

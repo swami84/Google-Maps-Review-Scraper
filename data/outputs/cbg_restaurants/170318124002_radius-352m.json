@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8907427,
+                        "lng":-87.794848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8920688303,
+                              "lng":-87.7933557197
+                        },
+                        "southwest":{
+                              "lat":41.8893708697,
+                              "lng":-87.7960536803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hemmingway's Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117403097200926283065\">Scott Zimmerle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDtXdZfKAaxegSQUkMfQ1S312oynefWhbYXR6SjUTOWa0fMYkJfdWD6F2B-vdqsS_Iw74dIxZNw22hQhNhG8fIGr8iBGbtQdUQmGv4TpCTlLs0Mon4GIRjqHUy23BzCFhwPqUk2WROgA6-bVMaRrdoIgSS2vT6OvDj_fcIQ0qZq23tT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJF8Tfybc0DogRPs6IWOhs3dg",
+            "plus_code":{
+                  "compound_code":"V6R4+73 Oak Park, IL, USA",
+                  "global_code":"86HJV6R4+73"
+            },
+            "price_level":3,
+            "rating":4.5,
+            "reference":"ChIJF8Tfybc0DogRPs6IWOhs3dg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":437,
+            "vicinity":"211 North Oak Park Avenue, Oak Park",
+            "CBG":170318124002,
+            "Radius":352.4663513853
+      }
+]

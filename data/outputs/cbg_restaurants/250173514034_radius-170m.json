@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.386917,
+                        "lng":-71.086905
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3882893303,
+                              "lng":-71.0856193697
+                        },
+                        "southwest":{
+                              "lat":42.3855913697,
+                              "lng":-71.0883173303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Friends Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":402,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106620383378908190677\">Md Hoq<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECq9YtgY7Y9UA9rtynMmfrBeL4eRCDC_6vHQ3e67SAVpo0IHSvmVMiYEIETEk7wo1qfrAyqdG3jy_X82XDFA_Cb0li6dGL9EtqdJwLbv8BE-4qSWzCsiv_gqb176eTBbZX4o5wZWHd9A9fM-9HEd_KhUiE4aZpsxd6bPPetqXdYUHKx",
+                        "width":600
+                  }
+            ],
+            "place_id":"ChIJSwOsatBw44kRxu36VKC2rNc",
+            "plus_code":{
+                  "compound_code":"9WP7+Q6 Somerville, MA, USA",
+                  "global_code":"87JC9WP7+Q6"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJSwOsatBw44kRxu36VKC2rNc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":100,
+            "vicinity":"38 Cross Street, Somerville",
+            "CBG":250173514034,
+            "Radius":170.3095762391
+      }
+]

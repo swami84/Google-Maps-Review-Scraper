@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9811298,
+                        "lng":-82.4549321
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9824621803,
+                              "lng":-82.4536395697
+                        },
+                        "southwest":{
+                              "lat":27.9797642197,
+                              "lng":-82.4563375303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106278777318309466605\">DANILO ROJAS<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAO7dtM2wNZK85tDpTYplvsFK_WloM7fm_rZOAbOoV_w0KTyl6LLM53BLQH-ShnPmE7GChM7tLTduaobEm0I1vkL_TUDSh_xgK49alrvQ5wfmO2zpywJUL4qIHoxXh7rb9ZhsUl0LuFJFkOUj9pJ15K_iQsCknxn0c-iHOoKIybfdEQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkZxi4BXEwogRtCwllumRgRI",
+            "plus_code":{
+                  "compound_code":"XGJW+F2 Tampa, FL, USA",
+                  "global_code":"76VVXGJW+F2"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJkZxi4BXEwogRtCwllumRgRI",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2574,
+            "vicinity":"501 E Dr M L K Jr Dr, Tampa",
+            "CBG":120570022003,
+            "Radius":322.6587354225
+      }
+]

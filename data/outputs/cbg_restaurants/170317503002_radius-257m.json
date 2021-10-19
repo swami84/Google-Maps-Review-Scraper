@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6915603,
+                        "lng":-87.6855869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6929013303,
+                              "lng":-87.6841690697
+                        },
+                        "southwest":{
+                              "lat":41.6902033697,
+                              "lng":-87.6868670303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Gallo",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117218086234168427206\">teddylmami02<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB_n3VIcXYVg6UzfMZ6p2o13_K69J8lRXh1RaWfDaLFqcy7oawdq20CpyCWRKx-F69VMwGA5hcXg7r-e_8tXc5qbqnU0G-HESHJqieSbTyMypznYnl0MAbIyEcTTxJUOKVcC0WRwfq9Ub6DkeVzcxIhOqnv6YdT_yJPbBreeZdpkujq",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJS1WPNtokDogRYhW7_2zAfMY",
+            "plus_code":{
+                  "compound_code":"M8R7+JQ Chicago, IL, USA",
+                  "global_code":"86HJM8R7+JQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJS1WPNtokDogRYhW7_2zAfMY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":497,
+            "vicinity":"2547 West 111th Street, Chicago",
+            "CBG":170317503002,
+            "Radius":257.0414554807
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.694422,
+                        "lng":-87.68155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6957777803,
+                              "lng":-87.6800794197
+                        },
+                        "southwest":{
+                              "lat":41.6930798197,
+                              "lng":-87.6827773803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Open Outcry Brewing Company",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1050,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102455010328208435031\">Open Outcry Brewing Company<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjjxOu0PRg2NZEYVLt8gMf3w6l0s265Hl8oMpIH8LQ_x0Nej8yfdqZGxDFS2AhBY_Optv227SJJNZjbjtdvHurcuv4XNUc_2r-_V1Wjy7wCZC2U13OWcXxFt8PI5AnB_5eQ4p00IozbbSzJ045fNBqLHoS9pVJiNtxHP52pvDs4x3W",
+                        "width":1400
+                  }
+            ],
+            "place_id":"ChIJswWq6N4kDogRrHtoY9ktOMA",
+            "plus_code":{
+                  "compound_code":"M8V9+Q9 Chicago, IL, USA",
+                  "global_code":"86HJM8V9+Q9"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJswWq6N4kDogRrHtoY9ktOMA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":606,
+            "vicinity":"10934 South Western Avenue, Chicago",
+            "CBG":170317503002,
+            "Radius":257.0414554807
+      }
+]

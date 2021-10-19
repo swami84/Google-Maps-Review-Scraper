@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8883596,
+                        "lng":-87.8079784
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8897103803,
+                              "lng":-87.8065371197
+                        },
+                        "southwest":{
+                              "lat":41.8870124197,
+                              "lng":-87.8092350803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Panera Bread",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3472,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115491116958473560571\">gomami go<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDNLTajDSb5wzQKVRM-TOEGPBaiBL2o9UPmxJExD7FsBqXRYbgoTTPYCtlUlEsd2NQVDgXWbhW_lK09tWwSlbnE5MqkK2vZOKSTGlixFNt70n0F9hFdjFuyfvUZ17DBRrZ5fmsUCeB5Y8v95Z-a_T6x6qVQ952ex8-NMhQP9Og3Ij0d",
+                        "width":4640
+                  }
+            ],
+            "place_id":"ChIJYa1FfNo0DogR36mkex0z0Yk",
+            "plus_code":{
+                  "compound_code":"V5QR+8R River Forest, IL, USA",
+                  "global_code":"86HJV5QR+8R"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJYa1FfNo0DogR36mkex0z0Yk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":702,
+            "vicinity":"7349 Lake Street, River Forest",
+            "CBG":170318120002,
+            "Radius":328.1978630573
+      }
+]

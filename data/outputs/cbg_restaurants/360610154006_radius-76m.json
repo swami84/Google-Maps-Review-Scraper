@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7798147,
+                        "lng":-73.9496441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7810498803,
+                              "lng":-73.9483785197
+                        },
+                        "southwest":{
+                              "lat":40.7783519197,
+                              "lng":-73.9510764803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"lupo.ec",
+            "place_id":"ChIJJTP0QYRZwokRHl1KWIis9HU",
+            "plus_code":{
+                  "compound_code":"Q3H2+W4 New York, NY, USA",
+                  "global_code":"87G8Q3H2+W4"
+            },
+            "reference":"ChIJJTP0QYRZwokRHl1KWIis9HU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10001, 303 East 89th Street, New York",
+            "CBG":360610154006,
+            "Radius":76.2366067702
+      }
+]

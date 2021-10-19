@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.698923,
+                        "lng":-74.085281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7003455303,
+                              "lng":-74.0840160697
+                        },
+                        "southwest":{
+                              "lat":40.6976475697,
+                              "lng":-74.0867140303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Gallo De Oro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102642612617044013876\">lui- g<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDN8ge99cB7OiTeaYg72tvds6g5QSFjdTgiNfzEHStoqKA22wg-dC5VQ_jWaX3f8Z3jlT3nF_9w7plAQ6PYyNCoEA-NhXk-z2qiPD1_9vglmUkzLSBc1p5pqcwbGJwKUm8y4RCx6gkre0bFCTU6yd0xFQ8qqcyud8BNm_E-ItvyRtOc",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJGVX25gRRwokRWcn-ngJ-iF0",
+            "plus_code":{
+                  "compound_code":"MWX7+HV Jersey City, NJ, USA",
+                  "global_code":"87G7MWX7+HV"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJGVX25gRRwokRWcn-ngJ-iF0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":155,
+            "vicinity":"360 Ocean Avenue, Jersey City",
+            "CBG":340170060001,
+            "Radius":249.918791784
+      }
+]

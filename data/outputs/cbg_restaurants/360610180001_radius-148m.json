@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.796273,
+                        "lng":-73.9377441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7975546303,
+                              "lng":-73.9364509197
+                        },
+                        "southwest":{
+                              "lat":40.7948566697,
+                              "lng":-73.9391488803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Xing Dragon",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105735236067216801372\">Danny V.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED8VOtzSHBEXX_Qf-xLsmk09m9MdZpVKgCovIpG3DZU_WZ8azWbqGt-Ho3dOGjyZjjohacAbI_dV4b8wcml4FsM1_Dkl6QQd06DJWqrjcFtRw-ISKJXHVgKDe4bcTO8Rg-_5eu-oI-pQCHBoj3pdX11XFoupHOFo5gUvIzUj881HFo4",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJjfVXuwf2wokRwwegBPEu3ok",
+            "plus_code":{
+                  "compound_code":"Q3W6+GW New York, NY, USA",
+                  "global_code":"87G8Q3W6+GW"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJjfVXuwf2wokRwwegBPEu3ok",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54,
+            "vicinity":"305 East 115th Street, New York",
+            "CBG":360610180001,
+            "Radius":148.2369882412
+      }
+]

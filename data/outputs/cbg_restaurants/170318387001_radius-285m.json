@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8659828,
+                        "lng":-87.7184381
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8674631303,
+                              "lng":-87.7171156197
+                        },
+                        "southwest":{
+                              "lat":41.8647651697,
+                              "lng":-87.7198135803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dean's Chicken & Barbeque Kingdom",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ3bICgiQzDogRznFb8BzOC-E",
+            "plus_code":{
+                  "compound_code":"V78J+9J Chicago, IL, USA",
+                  "global_code":"86HJV78J+9J"
+            },
+            "rating":4.8,
+            "reference":"ChIJ3bICgiQzDogRznFb8BzOC-E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"3715 West Roosevelt Road, Chicago",
+            "CBG":170318387001,
+            "Radius":285.2189001315
+      }
+]

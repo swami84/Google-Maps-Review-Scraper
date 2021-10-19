@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.467088,
+                        "lng":-70.960433
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4683871303,
+                              "lng":-70.9590079697
+                        },
+                        "southwest":{
+                              "lat":42.4656891697,
+                              "lng":-70.9617059303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Nopal Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111032860595588705277\">El Nopal Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAV_hHSSvrg0yrtheRvBApvYbN2nuSdKU8i5kwBUZbzENHsDbMqF43e0RODFZXCvuSQrhrnqcSAY_i8FgguCULZzdLaTuxaV1axGKow56iz_O8h4YxnlagG1Tut73O_GtyZ9fSmYJdiJ9Po1t-2T6AV4YgIOzoipb0wzpEeEhim5t-T",
+                        "width":6720
+                  }
+            ],
+            "place_id":"ChIJQ6FFNB9t44kRTDhXvKxnVV4",
+            "plus_code":{
+                  "compound_code":"F28Q+RR Lynn, MA, USA",
+                  "global_code":"87JFF28Q+RR"
+            },
+            "rating":4.5,
+            "reference":"ChIJQ6FFNB9t44kRTDhXvKxnVV4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_delivery",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":147,
+            "vicinity":"577 Western Avenue, Lynn",
+            "CBG":250092060001,
+            "Radius":204.8901682108
+      }
+]

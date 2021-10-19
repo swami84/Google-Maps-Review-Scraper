@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.7282485,
+                        "lng":-71.1867523
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.7295207803,
+                              "lng":-71.1853885197
+                        },
+                        "southwest":{
+                              "lat":42.7268228197,
+                              "lng":-71.1880864803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mi Mexico Lindo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105176143335110245153\">Chris marble<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECgts5jOv8trR03-znJ8flURhkLSKbOeeqTOFhlVpIaIdf2HV7N-1U_CAcrO7Q4GgyTxY8ghd-9en05_zhuZJKnBt43vjAolGJyHt3VwaszeYkuzBHBoqB3V_nY_9ggFrvaXjow46JxXZBvZc6khB23UtlbntdyeRPHnm4bTKl7RHK9",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVfNOjWMH44kR8QwcunDhJHw",
+            "plus_code":{
+                  "compound_code":"PRH7+77 Methuen, MA, USA",
+                  "global_code":"87JCPRH7+77"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJVfNOjWMH44kR8QwcunDhJHw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":578,
+            "vicinity":"5 Pleasant Street, Methuen",
+            "CBG":250092523001,
+            "Radius":283.245085824
+      }
+]

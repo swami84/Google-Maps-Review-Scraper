@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0063495,
+                        "lng":-82.5619726
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0076074803,
+                              "lng":-82.5605996197
+                        },
+                        "southwest":{
+                              "lat":28.0049095197,
+                              "lng":-82.5632975803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tinky's beach treats LLC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115381068891783189321\">Tinky&#39;s beach treats LLC<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECY2lfPG1CVr5HYPx3-maSzeayxVHWbpGGWzh0B9U2IwhQIEZf1BeS44a-M4GgeCy8uYR3Qzyo3jtTSrPfBdi15qqtVxlzPOdDwRTNJnJ0DZc_wdQ8qxdGsb7N_ggHjwFeIu4rwUtZr3jaK_1wcjSaayj744lSwmWyT2CiphAWYhBl0",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJH5pV4U7rwogR6ZzifPRaYRg",
+            "plus_code":{
+                  "compound_code":"2C4Q+G6 Tampa, FL, USA",
+                  "global_code":"76WV2C4Q+G6"
+            },
+            "reference":"ChIJH5pV4U7rwogR6ZzifPRaYRg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7327 Solano Court, Tampa",
+            "CBG":120570116055,
+            "Radius":169.17128467
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8270632,
+                        "lng":-73.9209254
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8284079803,
+                              "lng":-73.9195109697
+                        },
+                        "southwest":{
+                              "lat":40.8257100197,
+                              "lng":-73.9222089303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chris",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113508399596606209597\">Jaime<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA11BW_bfacNu1VKFqzh9FWAd6GdJCH9KeqXBLF5N98V3-SWYcyx60vWhcj3jOYMSeUK9h7Xin16H_g-4e0_nWU63oc3ez6tJ3srpokpuJNG3kk0PbVIGnW145CT3b2LDwvlc0m1RdgHbCGBUpkUuHQi9od4ras4IC7Amph4cqINaEW",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJq0C6BTP0wokRV0gpwqvp62g",
+            "plus_code":{
+                  "compound_code":"R3GH+RJ New York, NY, USA",
+                  "global_code":"87G8R3GH+RJ"
+            },
+            "rating":4.9,
+            "reference":"ChIJq0C6BTP0wokRV0gpwqvp62g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"903 Sheridan Avenue, Bronx",
+            "CBG":360050183011,
+            "Radius":96.1227395898
+      }
+]

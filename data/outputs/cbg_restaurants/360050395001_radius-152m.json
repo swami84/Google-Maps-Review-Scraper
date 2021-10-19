@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8517453,
+                        "lng":-73.8955552
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8530730803,
+                              "lng":-73.8941479197
+                        },
+                        "southwest":{
+                              "lat":40.8503751197,
+                              "lng":-73.8968458803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Naia Deli & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2848,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107794118040407030467\">Naia Deli &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7SW5xt3-53IF-_pEBX6LpMWRgrB4E1x7G9H_7YGtKVCdOvRdMdagASg1FWNlDfph41HKJ3fILt-JYfgXKzVCv5CbUk9eUaf2bkING9mGH3YXXw3_f6rH4Qu6EuWGRB-2SXrpbVIju6xHX8RtgZOdoNP-25OBLjhmNvGkPhEcABaiW",
+                        "width":4272
+                  }
+            ],
+            "place_id":"ChIJFQpzT3v0wokRAwvSzn8xeJg",
+            "plus_code":{
+                  "compound_code":"V423+MQ Bronx, NY, USA",
+                  "global_code":"87G8V423+MQ"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJFQpzT3v0wokRAwvSzn8xeJg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"2115 Washington Avenue, Bronx",
+            "CBG":360050395001,
+            "Radius":151.8802131347
+      }
+]

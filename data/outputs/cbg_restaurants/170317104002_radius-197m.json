@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.751543,
+                        "lng":-87.6638248
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7528932303,
+                              "lng":-87.6623316697
+                        },
+                        "southwest":{
+                              "lat":41.7501952697,
+                              "lng":-87.6650296303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"South Side Taco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118007667292298401204\">Sandy Mays<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAefz273HzDueyITjEojLhGBP9-fwA9xmwN7DRgTKG3sK_gjpJTgUAPVjVeUY_0qAj_dk8oG8QUUl6XfIbrhNTcw4hId63Ps2ZnCuPVWV6S8DMJbkCYBdGOE1GCfFK-OH0HsWqjB8tm2zNKJngiUBgHDNdKnwvOZ09aU33SCunUqjI",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJq6mb_JsvDogR9lmuoD3RuT4",
+            "plus_code":{
+                  "compound_code":"Q82P+JF Chicago, IL, USA",
+                  "global_code":"86HJQ82P+JF"
+            },
+            "reference":"ChIJq6mb_JsvDogR9lmuoD3RuT4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7820 South Ashland Avenue, Chicago",
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":170317104002,
+            "Radius":197.4647422649
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7510849,
+                        "lng":-87.6638707
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7524716803,
+                              "lng":-87.6623516197
+                        },
+                        "southwest":{
+                              "lat":41.7497737197,
+                              "lng":-87.6650495803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fiesta Burger Heaven",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108225688543681414951\">James Redmond<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBM1iI6lao3CyHQVC4ZWki6ym7GfKI0dFT5QuYCXuxYoMxeDStO5-AeoRWPV1q6wpXPP1ksVkQZvZEw8i3yUrvILRXVG_gzwp6ZPAMw-nvnpvAgkenfs9f0mwaNaFCVbd-MJyotm5CYuXwvzDlg9IrCbBFrP3Puko3p2zR6zbeSqx-n",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJhwpj-5svDogRPxydWkpDz3Q",
+            "plus_code":{
+                  "compound_code":"Q82P+CF Chicago, IL, USA",
+                  "global_code":"86HJQ82P+CF"
+            },
+            "reference":"ChIJhwpj-5svDogRPxydWkpDz3Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7832 South Ashland Avenue, Chicago",
+            "price_level":1.0,
+            "rating":4.1,
+            "user_ratings_total":394.0,
+            "CBG":170317104002,
+            "Radius":197.4647422649
+      }
+]

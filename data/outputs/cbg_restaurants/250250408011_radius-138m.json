@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3775084,
+                        "lng":-71.0586183
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3789037803,
+                              "lng":-71.0572635197
+                        },
+                        "southwest":{
+                              "lat":42.3762058197,
+                              "lng":-71.0599614803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kipos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108414424073238052955\">E. B. Snodgrass<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEANrc0WlofvVrJ5QfLocKOwckh4nJP8JguaUTAyhLWscSpN3gl-u9m4wI4NB3oWihiM2WyQAXd8acE7EmK93RsfPQOycw6uA_tneorV1-dIgMpKZxtsTWSEs4Glr8TUZXC1DGYdCTxZPp9jB1FhlU49lwz1G5rg_WUMOi05D1wqv7T5",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJSxlnCvFw44kRO571sKyVspg",
+            "plus_code":{
+                  "compound_code":"9WHR+2H Charlestown, Boston, MA, USA",
+                  "global_code":"87JC9WHR+2H"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJSxlnCvFw44kRO571sKyVspg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"106 Bunker Hill Street, Charlestown",
+            "CBG":250250408011,
+            "Radius":137.5708940977
+      }
+]

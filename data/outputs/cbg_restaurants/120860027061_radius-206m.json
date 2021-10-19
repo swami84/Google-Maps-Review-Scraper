@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8027233,
+                        "lng":-80.188095
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8041528803,
+                              "lng":-80.1867486697
+                        },
+                        "southwest":{
+                              "lat":25.8014549197,
+                              "lng":-80.1894466303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Empanadas_home",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":811,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115183470545057321565\">Empanadas_home<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5XX_khHzTkkoUw3tdXfL4mJT2HHE6YH9fu8pFKMtaEMPoOQP-P2mUJjjhSY0O96ptLFxjWVb-Y4UXdN4_bpGn-ltgMXkiWbZlKO3VqyzezZP0wz8IS14vr9UL9Ok2XjB7L_fA5MpKmMTHDEX-riOWreeT__ClNTilU9lcA_DzIHI8",
+                        "width":828
+                  }
+            ],
+            "place_id":"ChIJAyv23Oe32YgR0YYSaUXPr4U",
+            "plus_code":{
+                  "compound_code":"RR36+3Q Miami, FL, USA",
+                  "global_code":"76QXRR36+3Q"
+            },
+            "reference":"ChIJAyv23Oe32YgR0YYSaUXPr4U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"404 Northeast 27th Street, Miami",
+            "CBG":120860027061,
+            "Radius":206.1377652351
+      }
+]

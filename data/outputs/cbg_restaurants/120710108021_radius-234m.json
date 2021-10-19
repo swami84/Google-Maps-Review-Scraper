@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.5630627,
+                        "lng":-81.959546
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.5644002303,
+                              "lng":-81.9582897197
+                        },
+                        "southwest":{
+                              "lat":26.5617022697,
+                              "lng":-81.9609876803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jet's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107384596181014881223\">michel alvarez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFr_UH9mOvFP5ZqmZahVpZyq9ZIAk3ECLrwT-FvyKCarnzdPtwrbjgUb7O-xyUxt9a6gaYf7UXu2fDFMWWyZGq4Zk_q0iiqyjfIkbsXPRgQdA0CTVx7N8fVEQ_w2SJOHld4lG_9bXqaz5B1netbrLQAssw2bqYXdpfVS4OG5gDE-Pp",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJKwp-uq4424gRu6LAnLR5bpA",
+            "plus_code":{
+                  "compound_code":"H27R+65 Cape Coral, FL, USA",
+                  "global_code":"76RWH27R+65"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJKwp-uq4424gRu6LAnLR5bpA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":345,
+            "vicinity":"643 Cape Coral Parkway East, Cape Coral",
+            "CBG":120710108021,
+            "Radius":233.6235424014
+      }
+]

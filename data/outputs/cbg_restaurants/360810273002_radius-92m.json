@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7535421,
+                        "lng":-73.8722172
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7549480803,
+                              "lng":-73.8707236697
+                        },
+                        "southwest":{
+                              "lat":40.7522501197,
+                              "lng":-73.8734216303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lucky Star",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110464242636840228295\">Dennis Urena<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7ds-0EmhhKtH2ppTpgEWWXURah3HTDtmtJIRlkDsK7Kkap7B0dVXJRbFPU1HYUinnqNkf3Hji_fpXfayIrzkyrqJW3OnTdawc1xFnBCQTt50VTjNWZ1gHC2IuHN-6ikXyxke7TgW0IlTuiUfmlaGBVRLcya6erJ1_98vefSI3ZoBE",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJX3Jx8LtfwokRDdjT2UJY86Y",
+            "plus_code":{
+                  "compound_code":"Q43H+C4 New York, NY, USA",
+                  "global_code":"87G8Q43H+C4"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJX3Jx8LtfwokRDdjT2UJY86Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"34-52 Junction Boulevard, Queens",
+            "CBG":360810273002,
+            "Radius":91.8659349944
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7534696,
+                        "lng":-73.8721827
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7548628303,
+                              "lng":-73.8706875197
+                        },
+                        "southwest":{
+                              "lat":40.7521648697,
+                              "lng":-73.8733854803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Junction Pizza & Pasta",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116253406057068244146\">Junction Pizza &amp; Pasta<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzrme3NpireSK9bRGyIHC8YhTF8kKDsNWWPZDWYTJTwtfVwtpXLk29JAaCGCfUEDSFeE0Unyso0UFXYj1gOaAVHNEYaG-wgBuNjeJY1tvQk1p1FAw5LF6EfsWLGOlP41esZ7ZeZaU3amuTEU9VdWexgFpMwIT-Sxf7RO1OuSPjLYoe",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ0fwWBctfwokRjj_7_ybWv2Y",
+            "plus_code":{
+                  "compound_code":"Q43H+94 New York, NY, USA",
+                  "global_code":"87G8Q43H+94"
+            },
+            "price_level":1,
+            "rating":4.9,
+            "reference":"ChIJ0fwWBctfwokRjj_7_ybWv2Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"34-60 Junction Boulevard, Queens",
+            "CBG":360810273002,
+            "Radius":91.8659349944
+      }
+]

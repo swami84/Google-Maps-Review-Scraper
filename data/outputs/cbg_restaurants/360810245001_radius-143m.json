@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7410572,
+                        "lng":-73.9033031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7424739303,
+                              "lng":-73.9019460197
+                        },
+                        "southwest":{
+                              "lat":40.7397759697,
+                              "lng":-73.9046439803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gina's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":799,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113766484209839063949\">Gina&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEClkpHdCBRM7Kz8NVgE6p7pmp5VbtS0nOo9tEOVjpecCWFSC9KDc-4g68KpAObVwqdejxMg0uEOK-TFtMbY0Ku2bxHh36TWm1b4dI5WS7g2ZlWtn5eJ4q6Oyr_KYpe6ndK_jhp6padnMRdohfALJN2z_qSDRuwuTt5c1MgJ2ZqmLOJ2",
+                        "width":1160
+                  }
+            ],
+            "place_id":"ChIJZZg3rONewokRU-OWA8shkJY",
+            "plus_code":{
+                  "compound_code":"P3RW+CM New York, NY, USA",
+                  "global_code":"87G8P3RW+CM"
+            },
+            "price_level":2.0,
+            "rating":3.8,
+            "reference":"ChIJZZg3rONewokRU-OWA8shkJY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"60-24 Queens Boulevard, Queens",
+            "CBG":360810245001,
+            "Radius":143.4351462634
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7411661,
+                        "lng":-73.9038851
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7425529303,
+                              "lng":-73.9024750197
+                        },
+                        "southwest":{
+                              "lat":40.7398549697,
+                              "lng":-73.9051729803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hunan K",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101214414976060054235\">Boris P.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAKEmvY_cAez4xkgys_vYXjjFuKEuxQizdAmWjW4JlVFl0CfLTZ2YoMI1Qd8mmRyVjAj7BKxSsWS-4WkTUD2S7O-Yk_qS3f26-tz9l95mzi6rx8UMTtl4IYE-agHHKkkQpmDHI2vAhAXwkADxTTuoWyhv5COu_Qjw3qq_edyvFkiTzX",
+                        "width":3804
+                  }
+            ],
+            "place_id":"ChIJxdVqAeNewokRvBMu1vZHaoU",
+            "plus_code":{
+                  "compound_code":"P3RW+FC Woodside, Queens, NY, USA",
+                  "global_code":"87G8P3RW+FC"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJxdVqAeNewokRvBMu1vZHaoU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"60-14 Queens Boulevard, Woodside",
+            "CBG":360810245001,
+            "Radius":143.4351462634
+      }
+]

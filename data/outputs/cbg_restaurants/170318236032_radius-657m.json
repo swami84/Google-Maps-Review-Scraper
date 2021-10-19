@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6470958,
+                        "lng":-87.7182267
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6484447803,
+                              "lng":-87.7168777197
+                        },
+                        "southwest":{
+                              "lat":41.6457468197,
+                              "lng":-87.7195756803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Original Maxwell Street South",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113704622890772530905\">Qupon Cassandra<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECLjGiO0s9srFkqyEUh5ldmOIAzNroHa9DCbep7IodpQDrSi72h1ufvb_M8Iy16yDfpOjWco2YaIYwaApbjyqtAyI985CncTNBPAlWdFVezrHGoaWDMq2UIxebzEgonHUfWX1unykLrIRMoKtp4oJpb7c1WPF3cr_dAsDuhHmZO1KuE",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJw76U4K49DogRSbQBGvUWQ78",
+            "plus_code":{
+                  "compound_code":"J7WJ+RP Robbins, IL, USA",
+                  "global_code":"86HJJ7WJ+RP"
+            },
+            "rating":4.1,
+            "reference":"ChIJw76U4K49DogRSbQBGvUWQ78",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":162,
+            "vicinity":"13501 Crawford Avenue, Robbins",
+            "CBG":170318236032,
+            "Radius":656.8060961188
+      }
+]

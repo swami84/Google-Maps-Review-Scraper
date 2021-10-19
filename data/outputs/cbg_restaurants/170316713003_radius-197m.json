@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.772322,
+                        "lng":-87.673302
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7735907303,
+                              "lng":-87.6721178697
+                        },
+                        "southwest":{
+                              "lat":41.7708927697,
+                              "lng":-87.6748158303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JJ fish and chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101614953900115809844\">JJ fish and chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECRkUqnFdhbO4XC4H9RoeP9FwQVWGZnHmvkHQymC_xNio4xrs_E43GPfzixJhC2Tm1eetEC01DGLsxiiBB76uT4AkbxTPMt3V6pD7zoCHfzTQqUpUrGzhwl96jd9QN0uspoPXiNJr0D8Vw6_RLfSq1nU_KO6Zi2TsPIRipASJJrna9S",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ9dyoG7QvDogROB2dH-ed5yI",
+            "plus_code":{
+                  "compound_code":"Q8CG+WM Chicago, IL, USA",
+                  "global_code":"86HJQ8CG+WM"
+            },
+            "rating":4,
+            "reference":"ChIJ9dyoG7QvDogROB2dH-ed5yI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":430,
+            "vicinity":"6659 South Damen Avenue, Chicago",
+            "CBG":170316713003,
+            "Radius":196.869830222
+      }
+]

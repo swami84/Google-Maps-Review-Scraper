@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8120024,
+                        "lng":-73.9246614
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8134525303,
+                              "lng":-73.9234965697
+                        },
+                        "southwest":{
+                              "lat":40.8107545697,
+                              "lng":-73.9261945303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Zianson Deli And Grocery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117480301847376615075\">Zianson Deli And Grocery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBIcDkUT-pTD7IMi6oQzSAs7ciXGPHlflsRqJgWWdJ2_hCYaI3XDrWMk6N_BjEdn9O9tnsgo_jQ83WLYe8b_EEYDCbcsJovI6PqNQEWv_oJtE4MJwRyDEBji9M_4svr0xIYRYbi7nbZJPNUQpNQo_ysExltyX3Y4PCkR8UkvbsxvRWA",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJ9_LVR9v1wokRAsX8n1iaxq8",
+            "plus_code":{
+                  "compound_code":"R36G+R4 New York, NY, USA",
+                  "global_code":"87G8R36G+R4"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ9_LVR9v1wokRAsX8n1iaxq8",
+            "scope":"GOOGLE",
+            "types":[
+                  "hardware_store",
+                  "home_goods_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"2614 3rd Avenue, Bronx",
+            "CBG":360050039003,
+            "Radius":107.9417207287
+      }
+]

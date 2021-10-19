@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4096767,
+                        "lng":-71.0795521
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4111518803,
+                              "lng":-71.0783031697
+                        },
+                        "southwest":{
+                              "lat":42.4084539197,
+                              "lng":-71.0810011303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Asian Taste Medford",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100612516100081392109\">Kevin Boston<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDbRf2lLyWyGfH4TjCOgLf0-sFzOlcbZcCHJwgFRZApQZOeX3iTJw_91zXMNbj_o38K5BIprOihtvsW7BVc7iVXNWRfK0CQ0aCsgnkoPBWWtRBZNUnvgnXnysRVlZEYQ3R2HijLi_jgf8FyRFs_Ja_oreel8_HNVIgiCv7rPwv3Mm-0",
+                        "width":5184
+                  }
+            ],
+            "place_id":"ChIJPUYFhxVx44kRM1OPo_nckOk",
+            "plus_code":{
+                  "compound_code":"CW5C+V5 Medford, MA, USA",
+                  "global_code":"87JCCW5C+V5"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJPUYFhxVx44kRM1OPo_nckOk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":102,
+            "vicinity":"207 Middlesex Avenue, Medford",
+            "CBG":250173398013,
+            "Radius":224.1395347245
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4098964,
+                        "lng":-71.0795667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4112635803,
+                              "lng":-71.0783097697
+                        },
+                        "southwest":{
+                              "lat":42.4085656197,
+                              "lng":-71.0810077303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Annie's Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1210,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108937361578152238656\">Annie&#39;s Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDm0DiQKmrfSdxdEX-2J3YiQnWbX41U87N_EZDSpwadRHelmWo5GyDzBebPkxHsNmSk1QEAsjIsb-iXLVDno66vqabzr2PnVputz1UhoQXDN9FG-H74fXCz7shbAnE5NgDej6YU8cUNE193T_wwjx9JQWkBZFIzrsneJyWYCg6h9Aro",
+                        "width":1353
+                  }
+            ],
+            "place_id":"ChIJJwzsMzlx44kRIEN2ZJoE_Nc",
+            "plus_code":{
+                  "compound_code":"CW5C+X5 Medford, MA, USA",
+                  "global_code":"87JCCW5C+X5"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJJwzsMzlx44kRIEN2ZJoE_Nc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"213 Middlesex Avenue, Medford",
+            "CBG":250173398013,
+            "Radius":224.1395347245
+      }
+]

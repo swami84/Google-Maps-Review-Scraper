@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.7663889,
+                        "lng":-87.5730556
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7676746303,
+                              "lng":-87.5716340197
+                        },
+                        "southwest":{
+                              "lat":41.7649766697,
+                              "lng":-87.5743319803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Royal Caribbean Jerk",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109617919114458646055\">Nicole J<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECy65v4JmXs4I3Ynex0ooeAZXM4ZIZsPcv3RLZCnAjARjOm6Gr4rOUTaXz7jHijBhYjhESqRkE7wpv_wU66O0jDRmpDvffl8icn4XCRGZHfYLGK43dkIW7QElxKxMx0XvD7zzmDV1MFnUw9F1aMdHWIGmbnEGaro_juL5VGMkSr3E3i",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJxX9i6lAoDogRHtqMcbn92oA",
+            "plus_code":{
+                  "compound_code":"QC8G+HQ Chicago, IL, USA",
+                  "global_code":"86HJQC8G+HQ"
+            },
+            "rating":3.8,
+            "reference":"ChIJxX9i6lAoDogRHtqMcbn92oA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":250,
+            "vicinity":"2134 East 71st Street, Chicago",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":170314301012,
+            "Radius":159.6576775338
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7663338,
+                        "lng":-87.5740526
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7676415803,
+                              "lng":-87.5727028197
+                        },
+                        "southwest":{
+                              "lat":41.7649436197,
+                              "lng":-87.5754007803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"24 Hr Gyros & Subs",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108077661106113538198\">Asirthebeast Amin<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA34R0H1Jv_KC2LYW-RHDN7kVCpPNpq91hgPUuc83bi0WSY-Op0XFdOjkiAFqMM4YAxhWIq9W1WFd0fAiyEZv1afSY0WwGPyccx3rQcpzugvhsecNTfwNph9pxOhgi6lMIXGi7f5f2PyhkkWqev1OvNRzdTLj7vyMd8R79H6F4fTYVn",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ06q9ylAoDogR5qGnmR9bj1A",
+            "plus_code":{
+                  "compound_code":"QC8G+G9 Chicago, IL, USA",
+                  "global_code":"86HJQC8G+G9"
+            },
+            "rating":3.9,
+            "reference":"ChIJ06q9ylAoDogR5qGnmR9bj1A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":120,
+            "vicinity":"2058 East 71st Street, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":170314301012,
+            "Radius":159.6576775338
+      }
+]

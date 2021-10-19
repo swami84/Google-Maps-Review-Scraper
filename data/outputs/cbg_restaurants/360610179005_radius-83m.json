@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7910489,
+                        "lng":-73.97474
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7924421303,
+                              "lng":-73.9733295197
+                        },
+                        "southwest":{
+                              "lat":40.7897441697,
+                              "lng":-73.9760274803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"City Diner",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109891541301030839264\">ZKOV<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGgEE933khOdNuJc5sjfZ5_UFsdPbWqfRWkxpFLZBe6HTtWqYdcI6WgjWVSeelnok0bWAEChXOBfajvIfPdEYLWf2a4oJcT4qbvfkcOTuz6aCUx_PnPF-WcRi9cavWt3VV2L2ZwGTf59fMb9BUlEWvYis_PKIFB-xl_d_PjXRJnf97",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJSYM_UoJYwokRjE2LiueXsNA",
+            "plus_code":{
+                  "compound_code":"Q2RG+C4 New York, NY, USA",
+                  "global_code":"87G8Q2RG+C4"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJSYM_UoJYwokRjE2LiueXsNA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":822,
+            "vicinity":"2441 Broadway, New York",
+            "CBG":360610179005,
+            "Radius":83.4314124959
+      }
+]

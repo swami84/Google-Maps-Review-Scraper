@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7755129,
+                        "lng":-80.1418848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7769221803,
+                              "lng":-80.1405069197
+                        },
+                        "southwest":{
+                              "lat":25.7742242197,
+                              "lng":-80.1432048803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"100 x 35 Cocina con Raices",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":606,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116267487944454423198\">100 x 35 Cocina con Raices<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJC5c7cccmZOk4BKKdK5ZPb3QLHO6xkchaWzwBj_aJGw2ClraXbLvwMx9xhBxgxgpgKgurVsx-rXv8Q6YRSeGeZfLsiGaGj9r7sNVgW6x94d3g8mHtdSAeSL0JTYp8azvmJHO5RzFAtjgD1uH5SBKlmV3uVDCJ_aipJZ1p0YX_RUp3",
+                        "width":1078
+                  }
+            ],
+            "place_id":"ChIJA4Pws2e12YgRMVqryyxhtwA",
+            "plus_code":{
+                  "compound_code":"QVG5+66 Miami Beach, FL, USA",
+                  "global_code":"76QXQVG5+66"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJA4Pws2e12YgRMVqryyxhtwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":325,
+            "vicinity":"520 West Avenue, Miami Beach",
+            "CBG":120860044061,
+            "Radius":144.7660339874
+      }
+]

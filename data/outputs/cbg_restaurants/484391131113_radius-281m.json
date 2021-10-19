@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.771737,
+                        "lng":-97.0977326
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7730884803,
+                              "lng":-97.0962775197
+                        },
+                        "southwest":{
+                              "lat":32.7703905197,
+                              "lng":-97.0989754803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D. Smith's Chicken & Fish",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109095635485413541125\">D. Smith&#39;s Chicken &amp; Fish<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDDAU8-Nxdk0pPzH-8Iy8INJHZOETBC8RwNTM2Zoxhn_D8minjaXTqHefSMRRLFOnEYFmtH_GYkCJIPc89lcP6udntfEeVD06-RlaiGh9Hd8LxLd09yr3bv2fth5PF6PJ8Xa6JKq2ZtyvHxeW36f2YfSHyFHkzXPbf61mWiNzZhMo9s",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ99dqDjp9ToYRdu2AmZBFYWk",
+            "plus_code":{
+                  "compound_code":"QWC2+MW Arlington, TX, USA",
+                  "global_code":"8644QWC2+MW"
+            },
+            "rating":4.2,
+            "reference":"ChIJ99dqDjp9ToYRdu2AmZBFYWk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":256,
+            "vicinity":"2280 North Collins Street Suite B, Arlington",
+            "CBG":484391131113,
+            "Radius":280.5588355496
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.693877,
+                        "lng":-97.127537
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6951728803,
+                              "lng":-97.1260678197
+                        },
+                        "southwest":{
+                              "lat":32.6924749197,
+                              "lng":-97.1287657803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Poblana Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116148399000342650528\">Paula Criss<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAk6p-gaCN8ZrHJG1eZAGpKjSo5oN2zTip90eAtUdHb4lv6JeqAR7gg1qfPpVLfgrJf90QkM0-TbDB7j0xVVk_M4XXGAssIWjTZ_iDNFCT1rkohEILwOKny2Z_luE1dC_oFmhmIZgHqK9FkKMeLuTwv1pfV6V3aHxZ5wGApAF1YQeMs",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJBbXT-NJiToYRdgW6yTdYSBc",
+            "plus_code":{
+                  "compound_code":"MVVC+HX Arlington, TX, USA",
+                  "global_code":"8644MVVC+HX"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJBbXT-NJiToYRdgW6yTdYSBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"3200 South Cooper Street #102, Arlington",
+            "CBG":484391115521,
+            "Radius":444.2214678861
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.693998,
+                        "lng":-97.1263252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6952872303,
+                              "lng":-97.1250351197
+                        },
+                        "southwest":{
+                              "lat":32.6925892697,
+                              "lng":-97.1277330803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kabab Corner Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":458,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116544213960704362379\">Kabab Corner Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECYg8FohfzBCsfjqBjKCQ4Epuz0a--1hHA-CxaFVBdTO3H3h7ZxeJeiSMIlVc5VbrOYqIpvk2Vp7Kghun662UaHEnPgMjivvsHMHnZlcVSdjQzeN2lAlCLYvUrwmjf8OTH6ZFRX1hdl5hfCdaTsEzam8--K88GTWRSmTQ93ij5B_wfD",
+                        "width":916
+                  }
+            ],
+            "place_id":"ChIJPTCKjNJiToYR8AM8qweDIBI",
+            "plus_code":{
+                  "compound_code":"MVVF+HF Arlington, TX, USA",
+                  "global_code":"8644MVVF+HF"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJPTCKjNJiToYR8AM8qweDIBI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":340,
+            "vicinity":"3115 South Cooper Street # 101, Arlington",
+            "CBG":484391115521,
+            "Radius":444.2214678861
+      }
+]

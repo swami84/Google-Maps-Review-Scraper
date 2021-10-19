@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7757026,
+                        "lng":-122.4262831
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7770849303,
+                              "lng":-122.4248655197
+                        },
+                        "southwest":{
+                              "lat":37.7743869697,
+                              "lng":-122.4275634803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Il Borgo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102229649332522479412\">Il Borgo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDLcxHxSfyROC0dvA2rfhdKqq3SsCUD6rOWbmoaARIeqw0vbGYjEn9warNqBPyK6UTEfGjDv8X-PGnmoP8rRPCX_D_s4IwPSLBJqKL_-QyoxR01_KAEwa8cZoP0KoTa3pXGR4-2SdfcaGvZU-81rAObQJQi6piPvFTAvsCSCp20Pa1N",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJj61NN6KAhYARMWDXrggZTH8",
+            "plus_code":{
+                  "compound_code":"QHGF+7F Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHGF+7F"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJj61NN6KAhYARMWDXrggZTH8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":240,
+            "vicinity":"500 Fell Street, San Francisco",
+            "CBG":60750163002,
+            "Radius":139.987248823
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7753536,
+                        "lng":-122.4262278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7767875803,
+                              "lng":-122.4248815197
+                        },
+                        "southwest":{
+                              "lat":37.7740896197,
+                              "lng":-122.4275794803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Falafel Boy",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117708773454184704899\">Falafel Boy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwOz0m4V5tn9mR2dU-gDR0_tR5QVVdDrvBwwxOeQMr_XA9WIUCY27lcixwn2zl8iG09LtyQ4MgM9OnsliT01-xZvP-BPllKJCJPOu169JiaIaZ8qWnc0Br0N1srwTDaqxhbGg9tAPdayqGGCh6ZrC95A_tdrVUf5Kp3PbQ9KI5d9hd",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJw4mXW0eBhYARcgsW-31FErg",
+            "plus_code":{
+                  "compound_code":"QHGF+4G Hayes Valley, San Francisco, CA, USA",
+                  "global_code":"849VQHGF+4G"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJw4mXW0eBhYARcgsW-31FErg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":50,
+            "vicinity":"501 Fell Street, San Francisco",
+            "CBG":60750163002,
+            "Radius":139.987248823
+      }
+]

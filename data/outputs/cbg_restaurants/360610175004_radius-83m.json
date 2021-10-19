@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7904714,
+                        "lng":-73.9751574
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7917936803,
+                              "lng":-73.9737480697
+                        },
+                        "southwest":{
+                              "lat":40.7890957197,
+                              "lng":-73.9764460303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"OLLIE'S TO GO - UWS",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111885784658701969988\">OLLIE&#39;S TO GO - UWS<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECa8p6xFbG68wnhDgHpeCivHHdL4K7riHrR81ji-f5Gq3UCrIL7dCh_Yr49GskCYdRb_YY0yXKZnVPlzCLoj42VcSIk8mc0mDT_noD6WxxTciEHe3WFb9T9Th-0khoIOaLNnGmXyxZsGRT9s_K9huQY3A3MiEhMWBIKQdtHuCTbqLmW",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJpw8VhYZYwokRAqf_-P2PXvU",
+            "plus_code":{
+                  "compound_code":"Q2RF+5W New York, NY, USA",
+                  "global_code":"87G8Q2RF+5W"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJpw8VhYZYwokRAqf_-P2PXvU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":146,
+            "vicinity":"2425 Broadway, New York",
+            "CBG":360610175004,
+            "Radius":83.4390426036
+      }
+]

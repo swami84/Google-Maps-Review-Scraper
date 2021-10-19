@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7426045,
+                        "lng":-97.2879356
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7439362303,
+                              "lng":-97.2864571697
+                        },
+                        "southwest":{
+                              "lat":32.7412382697,
+                              "lng":-97.2891551303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Mexican Inn Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":325,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101640554932481712946\">Mexican Inn Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAaMV6EABUI3CoxAMMQBA3DBb88eEyhZ6Ba8plTLybighFqqG_bfvn5dyVSuweE3vUtwyuPvtd1EPKV-1qqR5-H1CRx-y-nqCB3DYT0Lwl3bO6p9FLM39YQ0AqpMH0V8Bao5iIQvRsKqSHnU0klggydFbiy_PTSGwQKGjsjUA38bwfZ",
+                        "width":583
+                  }
+            ],
+            "place_id":"ChIJFcaRpPJwToYRAGPBXmE4gbk",
+            "plus_code":{
+                  "compound_code":"PPV6+2R Fort Worth, TX, USA",
+                  "global_code":"8644PPV6+2R"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJFcaRpPJwToYRAGPBXmE4gbk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1207.0,
+            "vicinity":"2700 East Lancaster Avenue, Fort Worth",
+            "CBG":484391015002,
+            "Radius":446.8534656599
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7425882,
+                        "lng":-97.287922
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7438917303,
+                              "lng":-97.2864773697
+                        },
+                        "southwest":{
+                              "lat":32.7411937697,
+                              "lng":-97.2891753303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mexican Inn Restaurant",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJI_yzOq1xToYRM4NLbJi-124",
+            "plus_code":{
+                  "compound_code":"PPV6+2R Fort Worth, TX, USA",
+                  "global_code":"8644PPV6+2R"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJI_yzOq1xToYRM4NLbJi-124",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2700 East Lancaster Avenue, Fort Worth",
+            "CBG":484391015002,
+            "Radius":446.8534656599
+      }
+]

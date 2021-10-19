@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2975155,
+                        "lng":-97.767337
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2987498803,
+                              "lng":-97.7660632197
+                        },
+                        "southwest":{
+                              "lat":30.2960519197,
+                              "lng":-97.7687611803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Rabbit Food Grocery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104105576020513289506\">Samantha Herndon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED0tKjTOT7wca1jzlIj9vhI13ecr6mvlPkqZJSBwxRfTgkIfpvmK71LDzVFSX2nUN0xs2vZpErMKAQndC1JDFIH7nWS7a8JAgD62fS7XTTH6vQY4RD7eWSxD2tKgro04HQ2M5DtUKrt4LYtHAwIcDVUGRdzu536-_i1i5ZtZZY_9qXS",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkY71j-a0RIYRyoJlcYX2weQ",
+            "plus_code":{
+                  "compound_code":"76XM+23 Austin, TX, USA",
+                  "global_code":"862476XM+23"
+            },
+            "rating":4.9,
+            "reference":"ChIJkY71j-a0RIYRyoJlcYX2weQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":71,
+            "vicinity":"2425 Exposition Boulevard ste a, Austin",
+            "CBG":484530016035,
+            "Radius":489.3947086972
+      }
+]

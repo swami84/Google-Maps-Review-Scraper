@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.260535,
+                        "lng":-71.80781
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2618054803,
+                              "lng":-71.8064836197
+                        },
+                        "southwest":{
+                              "lat":42.2591075197,
+                              "lng":-71.8091815803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Buen Sabor Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101021118800095916933\">El Buen Sabor Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDIl1bxUXMR1etd5RXZspjWVGBZ3O-Ey756a7t-XzfXo58c6L1Dfh3osxDRFmKHoGA72h7q4J8ejh2C3Kwr3iWccpr3jfavksbHycjiqwimrtHzfJsBUnLx_xy835j3ntbdu3l2VJr_ZdZVSv1jlTgpzslyGxoJaThnQJUFxwEHBjQ",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJD48K8mIG5IkRZMu7edHDrtE",
+            "plus_code":{
+                  "compound_code":"756R+6V Worcester, MA, USA",
+                  "global_code":"87JC756R+6V"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJD48K8mIG5IkRZMu7edHDrtE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":211,
+            "vicinity":"59 Chandler Street, Worcester",
+            "CBG":250277315001,
+            "Radius":173.4880675954
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.260442,
+                        "lng":-71.8074891
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2617285803,
+                              "lng":-71.8061629697
+                        },
+                        "southwest":{
+                              "lat":42.2590306197,
+                              "lng":-71.8088609303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ecua Colombia Bakery & Restaurant Inc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106274293696413044175\">luis perez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEClqcLhID4EGSsH6dW4XrR83_5sPzBPXUPcKVQI4JaMTezSTQCzoMWuBNMHpRzLBOmtv2ZFVBNjrjojbmc5zEVl_gcVGElwhD6WQ6Rxe_IpmmWK3LNfSjWcQlqXZRQ8aCvVQeDRxLWELjn_2uI5ojo2w6POqSr4do8eCJmM7tLw8r1J",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5-YB-mIG5IkRyuzPIgBUmuA",
+            "plus_code":{
+                  "compound_code":"756V+52 Worcester, MA, USA",
+                  "global_code":"87JC756V+52"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJ5-YB-mIG5IkRyuzPIgBUmuA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":97,
+            "vicinity":"53 Chandler Street, Worcester",
+            "CBG":250277315001,
+            "Radius":173.4880675954
+      }
+]

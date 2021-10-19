@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8101501,
+                        "lng":-87.6977233
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8114985303,
+                              "lng":-87.6964753697
+                        },
+                        "southwest":{
+                              "lat":41.8088005697,
+                              "lng":-87.6991733303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Chaparrita Taqueria #2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111045775763915121854\">Alejandra Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDm7x1wcZzq8bEtPSWXHr2y449QQPAvWNgae6Pk_EOgJajlIxpksGxAfvsrm-lgegD4aTMRnUjZ9pIGXC8oEC16AoUSNGXLKyWnyqK56-jeBld2Hhs_UQVxSnsEHEG2k06gn7ytZiAnNw7lvRt9Hf0DTKsfg8wU8zdPHaBmcLlkLRZO",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ2dqAZe0xDogRsMYG8SjrbTA",
+            "plus_code":{
+                  "compound_code":"R862+3W Chicago, IL, USA",
+                  "global_code":"86HJR862+3W"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ2dqAZe0xDogRsMYG8SjrbTA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"4559 South Richmond Street, Chicago",
+            "CBG":170318428005,
+            "Radius":180.7521140067
+      }
+]

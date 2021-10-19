@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8455878,
+                        "lng":-73.8840311
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8469367803,
+                              "lng":-73.8826821197
+                        },
+                        "southwest":{
+                              "lat":40.8442388197,
+                              "lng":-73.8853800803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Italia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109124286183290306306\">Doug Powell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAImojY_0yKRB3PUi3bD4Jjm3qj_W3Tm-TyGm3hGozYrYvABUdHAuJtMVN10BKXDJMGJMoL_gsaypAr4xTNFo38-Wx99TYtiM5557Lpit6ReVxC3UuHd73nw4u2rguUBgSJmBRXbNVSKkPIQQW5f3Ca5EeMWJ7yk5BLwYbOaCznYNbS",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJy-r0Ron0wokRbby6WX1CbcE",
+            "plus_code":{
+                  "compound_code":"R4W8+69 New York, NY, USA",
+                  "global_code":"87G8R4W8+69"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJy-r0Ron0wokRbby6WX1CbcE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":265,
+            "vicinity":"842 East 180th Street, Bronx",
+            "CBG":360050363005,
+            "Radius":98.6654511425
+      }
+]

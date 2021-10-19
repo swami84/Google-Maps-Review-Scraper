@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7971424,
+                        "lng":-87.5881796
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7985834803,
+                              "lng":-87.5867421197
+                        },
+                        "southwest":{
+                              "lat":41.7958855197,
+                              "lng":-87.5894400803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Potbelly Sandwich Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1891,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118148959697120300505\">Taimur Reza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBqShWeu_5bvBsyr6SAEr0LeAwRLYhZl65OME7apUkurBxtcCmwwUVy1k9W-HsdGpvO37jCD26pxzgodyQR6ZtFwrhq6lFOHePo_1coI6VQctfJ-lbOcC0ndSJtwBV4CCjrB3tVZL3l2Cf-UCP8r7U3yvhnXic_PekVVyBQKCi_bycR",
+                        "width":3220
+                  }
+            ],
+            "place_id":"ChIJZ0IklnIpDogR2dVTO3Z2Bp4",
+            "plus_code":{
+                  "compound_code":"QCW6+VP Chicago, IL, USA",
+                  "global_code":"86HJQCW6+VP"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJZ0IklnIpDogR2dVTO3Z2Bp4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1615,
+            "vicinity":"5428 South Lake Park Avenue, Chicago",
+            "CBG":170314109002,
+            "Radius":154.5045304007
+      }
+]

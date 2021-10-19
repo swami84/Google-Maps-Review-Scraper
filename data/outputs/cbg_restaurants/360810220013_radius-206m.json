@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7098675,
+                        "lng":-73.8194483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7112164803,
+                              "lng":-73.8180993197
+                        },
+                        "southwest":{
+                              "lat":40.7085185197,
+                              "lng":-73.8207972803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Shah's Halal Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102262902408117146728\">Andrew Wong<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB_XPBinBiT05Xey4HZCyJ3aDNNWz0aik7W8X-WHrVlNff6EQcvVWgpHXr0BazzgFGjnsUgvxMIrj8K55pIci9ojZYM36wmcHG-PwoPLIVKTvcEWtuctmdHOB5SOKJQvlAiEXHhWW7xjI9QIGOTDdwdvYmvQHa0KvZg1KjPQ_s5PeXY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ3XzYnb9gwokRAQCZqWBFPWo",
+            "plus_code":{
+                  "compound_code":"P55J+W6 Briarwood, Queens, NY, USA",
+                  "global_code":"87G8P55J+W6"
+            },
+            "rating":4.3,
+            "reference":"ChIJ3XzYnb9gwokRAQCZqWBFPWo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"Queens Blvd & Main St, Briarwood",
+            "CBG":360810220013,
+            "Radius":205.7498157794
+      }
+]

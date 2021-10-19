@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.637916,
+                        "lng":-73.994838
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6392586803,
+                              "lng":-73.9933533697
+                        },
+                        "southwest":{
+                              "lat":40.6365607197,
+                              "lng":-73.9960513303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Santos 2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101488024476581575566\">Chicanos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKb8u34Jc4EtEcs5urZ0iI9AF5eJHobowkpEZh891GJIwly8ROhR_xLoZDEnqNiug-26fFxn8MEgYd8CN9c5MQ8aFCzw7mmXQJkAx9aX_So6wfwKzK4DLjPUzUHnNueLdB8VRKTV9vKbH-u5PLXuoajl0iriJCbAH1DMtN7LGTZqKO",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJrx5nqjJFwokRzC11BxgY36Y",
+            "plus_code":{
+                  "compound_code":"J2Q4+53 Brooklyn, NY, USA",
+                  "global_code":"87G8J2Q4+53"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJrx5nqjJFwokRzC11BxgY36Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"4718 New Utrecht Avenue, Brooklyn",
+            "CBG":360470220004,
+            "Radius":134.9687240675
+      }
+]

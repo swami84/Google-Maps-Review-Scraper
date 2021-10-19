@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.841881,
+                        "lng":-80.2005808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8432269803,
+                              "lng":-80.1993279697
+                        },
+                        "southwest":{
+                              "lat":25.8405290197,
+                              "lng":-80.2020259303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Natural",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117264693542344289111\">La Natural<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDEp_vej9NS_5UXxOqLyu5DItI16yWokLVXiROJW1s_s4Yg5GIQc8imQdGAbqLM8L1Hr_GxQTIXwk70Ja2dOBoLudq-s3wyjR3AYLM85OCTwsrUE2pqcK_zRDoEQ2CYO8wfaJIsPEg3DuYwiXLrLff7PgY7NHwv0XnPSD3_MOfqppS3",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJaeBbjZmx2YgRI0Yb0-WQtPU",
+            "plus_code":{
+                  "compound_code":"RQRX+QQ Miami, FL, USA",
+                  "global_code":"76QXRQRX+QQ"
+            },
+            "rating":4.3,
+            "reference":"ChIJaeBbjZmx2YgRI0Yb0-WQtPU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"7289 Northwest 2nd Avenue, Miami",
+            "CBG":120860014012,
+            "Radius":355.9575770714
+      }
+]

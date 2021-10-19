@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6978155,
+                        "lng":-73.9456315
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6992696303,
+                              "lng":-73.9443038697
+                        },
+                        "southwest":{
+                              "lat":40.6965716697,
+                              "lng":-73.9470018303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jessica\u2019s Spanish & Soul Food Cusine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJW2oqNzhbwokRY32KxuM8bmQ",
+            "plus_code":{
+                  "compound_code":"M3X3+4P New York, NY, USA",
+                  "global_code":"87G8M3X3+4P"
+            },
+            "reference":"ChIJW2oqNzhbwokRY32KxuM8bmQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"744 Park Avenue, Brooklyn",
+            "CBG":360470257002,
+            "Radius":80.5685640244
+      }
+]

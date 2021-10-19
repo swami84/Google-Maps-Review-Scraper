@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0229341,
+                        "lng":-88.1833229
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0243604303,
+                              "lng":-88.1820010197
+                        },
+                        "southwest":{
+                              "lat":42.0216624697,
+                              "lng":-88.1846989803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Amy's Kebab",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101873677808130154346\">Amy&#39;s Kebab<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjVLQepbfc6HgWFppFcAOH50mKmXFfvEIRqaNHjAE0RSx3aa1ZXI6TKOqkeSHYSHlOqygNEXYrP_ug-5LYwXtBLBaFo_74FtxUQh7_-3QuFzUbMutGUkQbzA--BUNRbZzxfVg4lneELAHE1AhcdHon9IZmGALzcqiNfnYLAGVqzWdd",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJx5jnDzsHD4gRFotNMB1ohv4",
+            "plus_code":{
+                  "compound_code":"2RF8+5M Streamwood, IL, USA",
+                  "global_code":"86JH2RF8+5M"
+            },
+            "rating":4.9,
+            "reference":"ChIJx5jnDzsHD4gRFotNMB1ohv4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":100,
+            "vicinity":"520 South Bartlett Road, Streamwood",
+            "CBG":170318043061,
+            "Radius":599.1677439697
+      }
+]

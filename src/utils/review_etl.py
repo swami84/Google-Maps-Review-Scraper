@@ -30,6 +30,7 @@ class ReviewScraper():
             options.add_argument('--no-sandbox')
 
         options.add_argument("--disable-notifications")
+        options.add_argument('--disable-gpu')
         options.add_argument("--lang=en-US")
         driv_path = '../config/webdrivers/chromedriver.exe'
         input_driver = webdriver.Chrome(options=options, executable_path=driv_path)

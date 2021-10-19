@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8804776,
+                        "lng":-87.6670036
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8817598803,
+                              "lng":-87.6655592197
+                        },
+                        "southwest":{
+                              "lat":41.8790619197,
+                              "lng":-87.6682571803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SoJu BBQ",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109888936009374863705\">SoJu BBQ<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDsGPejgRtXBmimihdDejJbjFPJ_s79SJUZ8X2NVfdCy9sjtRLdSvfubT7Stsn5wHmmoGH7dumIWM-hPTmZALyjrNE5Ueu0CC866m30oR2xFaKpWGjft9Cp5Zaiv8uG-O7hDquHGlcZBzlf0_ifI4hOnLiqEj_F2jbiuV-QZIq6S-zl",
+                        "width":6240
+                  }
+            ],
+            "place_id":"ChIJiwECKsYtDogRv5NcbQIhYnc",
+            "plus_code":{
+                  "compound_code":"V8JM+55 Chicago, IL, USA",
+                  "global_code":"86HJV8JM+55"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJiwECKsYtDogRv5NcbQIhYnc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":230,
+            "vicinity":"36 South Ashland Avenue, Chicago",
+            "CBG":170318381001,
+            "Radius":177.1124012136
+      }
+]

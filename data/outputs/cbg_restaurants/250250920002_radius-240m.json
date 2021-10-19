@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2993239,
+                        "lng":-71.06476
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3007136303,
+                              "lng":-71.0633889697
+                        },
+                        "southwest":{
+                              "lat":42.2980156697,
+                              "lng":-71.0660869303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cape Verde Taste",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113881158871259886736\">Antwon Ward<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBsUPxlTJ0OwQZLa8Ln5tixolKOAlqw8Kvx7zfOiHREu9XqgM1eeEIl-HgYR0JZgwFSsH6go9VGv48Oq_H12TAMGs5-XSCGKsrkPYx-a-r6bMWaVZTzEsrw6YRQs1UbFlEkfGpZrEz4rvpJTIcfpjDyNltQsLcuP9V9Z53EJ5LE2x-n",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ_9WRV7x744kRXmKCBkJD5dU",
+            "plus_code":{
+                  "compound_code":"7WXP+P3 Boston, MA, USA",
+                  "global_code":"87JC7WXP+P3"
+            },
+            "rating":4.4,
+            "reference":"ChIJ_9WRV7x744kRXmKCBkJD5dU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"481 Geneva Avenue, Boston",
+            "price_level":null,
+            "CBG":250250920002,
+            "Radius":239.8150856515
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3005094,
+                        "lng":-71.0663167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3018260303,
+                              "lng":-71.0650280697
+                        },
+                        "southwest":{
+                              "lat":42.2991280697,
+                              "lng":-71.0677260303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Minina Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108480214034577940840\">Games king Games<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNNfDNP0HgdncIcHo3x9quD9pgnSYmZ9XM6XzlbDmoml0eRMF7tBvwbduoe7qR-ilo5JU6GvCmTCfCwAMl2s8qOuu927QqGxPhjrlAQHa3hIXdsShL-2HK4sN-GvQddJXescNSVIEbhBfXbb9X7dci5TZEOGpySXEDBiSklL9dgFtT",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJu69vFLx744kRFPSDzwhLaMc",
+            "plus_code":{
+                  "compound_code":"8W2M+6F Dorchester, Boston, MA, USA",
+                  "global_code":"87JC8W2M+6F"
+            },
+            "rating":4.2,
+            "reference":"ChIJu69vFLx744kRFPSDzwhLaMc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":234,
+            "vicinity":"432 Geneva Avenue, Dorchester",
+            "price_level":1.0,
+            "CBG":250250920002,
+            "Radius":239.8150856515
+      }
+]

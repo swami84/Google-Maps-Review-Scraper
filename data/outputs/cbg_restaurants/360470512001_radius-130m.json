@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6489609,
+                        "lng":-73.963808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6503824803,
+                              "lng":-73.9625289697
+                        },
+                        "southwest":{
+                              "lat":40.6476845197,
+                              "lng":-73.9652269303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112148154506262560181\">to do Barredo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA-EYAHZyJDBuoYQk9reOphCTsJmxtylgyT8gGqukPtelx7UTKJLmC7WSPD2HCtzDP4h-8wx599d_xnVHPlCZsaYnxqFB1x3cWwdC9w_BFqyQyChJc8D_QDPZbfogtmXVfRcY2L3_GpxHSNHRQAN0AiLz6ToPQ_zRsiDzkMJnbe9s25",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhR8pyD5bwokRxk5hnJ_YZFc",
+            "plus_code":{
+                  "compound_code":"J2XP+HF New York, NY, USA",
+                  "global_code":"87G8J2XP+HF"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJhR8pyD5bwokRxk5hnJ_YZFc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":275,
+            "vicinity":"1700 Church Avenue, Brooklyn",
+            "CBG":360470512001,
+            "Radius":129.7243503077
+      }
+]

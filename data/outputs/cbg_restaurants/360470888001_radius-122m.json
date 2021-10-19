@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6549456,
+                        "lng":-73.916885
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6562057803,
+                              "lng":-73.9157006197
+                        },
+                        "southwest":{
+                              "lat":40.6535078197,
+                              "lng":-73.9183985803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"WB Caribbean Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118160045541460252130\">E J<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBT4tvsDcqEczBxu9xUL8aCR_3yR4PHCTHwNrQ1UlV5zXr3beF1c9udM07wAqdc-r7osMIsEMvlBrCzzls9MHOUNYk2IoTtpmuYVg4j_akwgBXbR0bpAT0gpLeKNutNRBkPMtOJRgYxJYDsOHH1OgyQvqtOxxhnLVTf63Z5nzw1RrCL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJMwawR5JcwokRpOFnYpjEsVQ",
+            "plus_code":{
+                  "compound_code":"M33M+X6 New York, NY, USA",
+                  "global_code":"87G8M33M+X6"
+            },
+            "rating":4.3,
+            "reference":"ChIJMwawR5JcwokRpOFnYpjEsVQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"9407 Church Avenue, Brooklyn",
+            "permanently_closed":null,
+            "CBG":360470888001,
+            "Radius":121.9250109885
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6552786,
+                        "lng":-73.9175027
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6565862803,
+                              "lng":-73.9162176697
+                        },
+                        "southwest":{
+                              "lat":40.6538883197,
+                              "lng":-73.9189156303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"James Hollomon iii",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJIRzXaZJcwokR-skBCcS_LkI",
+            "plus_code":{
+                  "compound_code":"M34J+4X Brooklyn, NY, USA",
+                  "global_code":"87G8M34J+4X"
+            },
+            "rating":2.0,
+            "reference":"ChIJIRzXaZJcwokR-skBCcS_LkI",
+            "scope":"GOOGLE",
+            "types":[
+                  "shopping_mall",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"491 East 94th Street #4, Brooklyn",
+            "permanently_closed":true,
+            "CBG":360470888001,
+            "Radius":121.9250109885
+      }
+]

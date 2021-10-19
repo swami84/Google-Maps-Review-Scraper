@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0582236,
+                        "lng":-82.4506068
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0595714303,
+                              "lng":-82.4495232697
+                        },
+                        "southwest":{
+                              "lat":28.0568734697,
+                              "lng":-82.4522212303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"rhwshs",
+            "place_id":"ChIJ1ymNNM_HwogReb9jpl38ja0",
+            "plus_code":{
+                  "compound_code":"3G5X+7Q Tampa, FL, USA",
+                  "global_code":"76WV3G5X+7Q"
+            },
+            "reference":"ChIJ1ymNNM_HwogReb9jpl38ja0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"12101 North Nebraska Avenue, Tampa",
+            "CBG":120570108051,
+            "Radius":555.1751640624
+      }
+]

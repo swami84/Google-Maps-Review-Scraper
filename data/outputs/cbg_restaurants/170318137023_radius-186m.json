@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8570135,
+                        "lng":-87.7448565
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8583078303,
+                              "lng":-87.7434306197
+                        },
+                        "southwest":{
+                              "lat":41.8556098697,
+                              "lng":-87.7461285803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Acambaro Guanajuato",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102181850923038792105\">Taqueria Acambaro Guanajuato<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDjrclsKskWHlWHGDsrImkMs2uJ5T8EeUjS0QLIfqQ2_DG7URPnVU0GSKt2guj0eRnY4hJNUUqs4lbjneZy6YTg83Hc5IVWtynjhYCfOkW30VbXigNa7LrSKwMsYmtHlilZJWluf0hNy70HR3lTfs8yqXDMa9oFCrGQHafD9KvSCJbR",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJhaMnGfEzDogROERgRAEcoJs",
+            "plus_code":{
+                  "compound_code":"V744+R3 Cicero, IL, USA",
+                  "global_code":"86HJV744+R3"
+            },
+            "rating":4.3,
+            "reference":"ChIJhaMnGfEzDogROERgRAEcoJs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"1642 S, Cicero",
+            "CBG":170318137023,
+            "Radius":185.8985414768
+      }
+]

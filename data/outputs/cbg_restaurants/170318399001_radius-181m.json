@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8306642,
+                        "lng":-87.6434081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8320766303,
+                              "lng":-87.6420907697
+                        },
+                        "southwest":{
+                              "lat":41.8293786697,
+                              "lng":-87.6447887303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Morrie O'Malley's Hot Dogs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102336606633718688826\">Morrie O&#39;Malley&#39;s Hot Dogs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDgoYzhMqARZ9uBn92R8JJFlelR8qEW9HCIrB4Pvfm1Mx3ccD4G0U0IGfV6khxY6NxpqA3mgHzZ9pPhc8MMlhfxVrpWCp-pClPAbHL_WpA3rW9cjAYRgMeZE7IZWallBIf1ceU-24-winZARbr6Vs4otFPBDc9577yKWdsbykVbnq7O",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJk6hhBzwsDogRNVCWXqK6Hjo",
+            "plus_code":{
+                  "compound_code":"R9J4+7J Chicago, IL, USA",
+                  "global_code":"86HJR9J4+7J"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJk6hhBzwsDogRNVCWXqK6Hjo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":299,
+            "vicinity":"3501 South Union Avenue, Chicago",
+            "CBG":170318399001,
+            "Radius":180.7415475182
+      }
+]

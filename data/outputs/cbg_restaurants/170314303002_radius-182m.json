@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7689834,
+                        "lng":-87.5865919
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7703107303,
+                              "lng":-87.5850946197
+                        },
+                        "southwest":{
+                              "lat":41.7676127697,
+                              "lng":-87.5877925803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yup Chicken & Seafood",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117499949417884349922\">Cedric Walls<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDaD_6LohyhfqWkc_CG8kSZuvFjbA8Z2o_RqIlbcVnvNotZvqx8y_NAQnWBxQY1uyFeArcdzFOUqu03GXmFro5yiARwFD7RDPFid4cofTIV_VqkfsO17gNNm-Yh0SRb_7s-qcP9MrG7X0bRdVH22Wtc4X__Xhrk_ukml44bCEGyJEQ",
+                        "width":3096
+                  }
+            ],
+            "place_id":"ChIJn343C_soDogRU6KCBzn9STY",
+            "plus_code":{
+                  "compound_code":"QC97+H9 Chicago, IL, USA",
+                  "global_code":"86HJQC97+H9"
+            },
+            "rating":4.3,
+            "reference":"ChIJn343C_soDogRU6KCBzn9STY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"6922 South Stony Island Avenue, Chicago",
+            "CBG":170314303002,
+            "Radius":181.8485517285
+      }
+]

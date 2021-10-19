@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1660391,
+                        "lng":-73.8570008
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1673185803,
+                              "lng":-73.8556706197
+                        },
+                        "southwest":{
+                              "lat":41.1646206197,
+                              "lng":-73.8583685803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Las Americas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110730129072773358216\">Las Americas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB5wTW-73_Zk3yiforTFuqQCBtViMA9kxs44XA8S37VJ5o_dzkkYNHJw1XKlGWWq3xde0Dg7JM0S_xPy9GY_SoaHtMPErrkVu997S9Ih8thb81c31pNdjKjh1NkKWY_jRHT0Cv1GAOrCDhmGK88hCeQgLDNV-koPbwTY-WPsiCKWuu-",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJaw3NzbPAwokRZ3WL6PBNz8o",
+            "plus_code":{
+                  "compound_code":"548V+C5 Ossining, NY, USA",
+                  "global_code":"87H8548V+C5"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJaw3NzbPAwokRZ3WL6PBNz8o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":307,
+            "vicinity":"87-89 Croton Avenue, Ossining",
+            "CBG":361190136001,
+            "Radius":334.751324048
+      }
+]

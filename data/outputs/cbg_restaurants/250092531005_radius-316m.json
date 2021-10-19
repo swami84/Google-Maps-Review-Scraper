@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.7038462,
+                        "lng":-71.141071
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.7052377803,
+                              "lng":-71.1395797197
+                        },
+                        "southwest":{
+                              "lat":42.7025398197,
+                              "lng":-71.1422776803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"CHAMA Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":257,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110844011205925144115\">CHAMA Express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVts8oITN0SjQMjUGNM7SulaZhEUJS9MEvONsgDHOvHszZQ9tWUxXM6EolYQvNnW0zHYsjkAYrE6qZ2zX6Dx9RBKGBDcYolaGiur9pwkiV-BwNxKPQgqpr7kb0ZQZPfdYYmE32ZGvHDRF2Nnn9k4Lk955SLtMpFvfKyqpLMT_R4mSX",
+                        "width":363
+                  }
+            ],
+            "place_id":"ChIJN7df6ZUH44kRhNGIiPmtiaE",
+            "plus_code":{
+                  "compound_code":"PV35+GH Lawrence, MA, USA",
+                  "global_code":"87JCPV35+GH"
+            },
+            "rating":4.2,
+            "reference":"ChIJN7df6ZUH44kRhNGIiPmtiaE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"500 Merrimack Street, Lawrence",
+            "CBG":250092531005,
+            "Radius":315.9441518175
+      }
+]

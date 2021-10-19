@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8796446,
+                        "lng":-87.7779413
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8811572803,
+                              "lng":-87.7766768697
+                        },
+                        "southwest":{
+                              "lat":41.8784593197,
+                              "lng":-87.7793748303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115356592675329456437\">William Belmonte III<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECfhTvVo1uc7P5qaxy2VToWaYAUz6JZyadoSEtMm5e6XGqDr4V9aMzXkw3vNQJu_DJYr-Nip--YII2FEQplMxvJat3GU8LoIOhQmagJ0Y4j7aiw1ngHpzB-gL3S533ZkeaNwcAWqTW0easHooqRH2mqeia6xKGQDquFfsXjsizE7gwm",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJpRBAaaA0DogRsCnUxzsODjE",
+            "plus_code":{
+                  "compound_code":"V6HC+VR Oak Park, IL, USA",
+                  "global_code":"86HJV6HC+VR"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJpRBAaaA0DogRsCnUxzsODjE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1229,
+            "vicinity":"111 West Madison Street, Oak Park",
+            "CBG":170318130001,
+            "Radius":230.1900414952
+      }
+]

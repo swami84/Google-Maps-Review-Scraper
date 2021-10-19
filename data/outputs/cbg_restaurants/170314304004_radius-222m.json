@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7588692,
+                        "lng":-87.5909987
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7601398803,
+                              "lng":-87.5896482197
+                        },
+                        "southwest":{
+                              "lat":41.7574419197,
+                              "lng":-87.5923461803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brooklyn Chicken And Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104427832113433277630\">Brooklyn Chicken And Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAwInw0EjVXLWXjNIgmxlWvfNsSxiICsz3w_ZR8mERNar4lfpgHOBHjTjfW1qxlArrxwGOSq5TfU0MP_r5UGt-0NfvkXhWqMKWxerUmsjb2ZyJzSJ4iF_M1PknpOIRpUDpVLxjykx19_Qlzc7IJDG2krMlcZ3lQlMoDWHTcjfcQKdyt",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJaYUht-0oDogR7bIpIRR-F-E",
+            "plus_code":{
+                  "compound_code":"QC55+GJ Chicago, IL, USA",
+                  "global_code":"86HJQC55+GJ"
+            },
+            "rating":4.2,
+            "reference":"ChIJaYUht-0oDogR7bIpIRR-F-E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"1358 East 75th Street, Chicago",
+            "CBG":170314304004,
+            "Radius":221.95464887
+      }
+]

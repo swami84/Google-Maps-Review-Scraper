@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8025525,
+                        "lng":-117.2275733
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8039688803,
+                              "lng":-117.2261669697
+                        },
+                        "southwest":{
+                              "lat":32.8012709197,
+                              "lng":-117.2288649303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Santana's Mexican Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101551462618534968927\">Marcus L.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBItT0W59hVnhqLn9sGupRViOMcQYgN3sCMIxzRePnsrQNvbAPGFXZq5dDpRx3S8wN4cnRZ7C05x8tbAfDgHD8eO0IKkU6eGGK5ZVCBA0gOhKpIwKZS1qlkzGrRXRSgxoIoRu95awYnjj_K0zRaYuCoOkbd54jakKKWRnGP3i5cHw9Z",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJ-UTs68kB3IARYiH-YmCgAvk",
+            "plus_code":{
+                  "compound_code":"RQ3C+2X San Diego, CA, USA",
+                  "global_code":"8544RQ3C+2X"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJ-UTs68kB3IARYiH-YmCgAvk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":491.0,
+            "vicinity":"2303 Garnet Avenue, San Diego",
+            "CBG":60730078004,
+            "Radius":216.8221015262
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8028321,
+                        "lng":-117.2283454
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8040490803,
+                              "lng":-117.2269606697
+                        },
+                        "southwest":{
+                              "lat":32.8013511197,
+                              "lng":-117.2296586303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Canvas A Restaurant",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJG_XND6gB3IARkf-H1n1FPUo",
+            "plus_code":{
+                  "compound_code":"RQ3C+4M San Diego, CA, USA",
+                  "global_code":"8544RQ3C+4M"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJG_XND6gB3IARkf-H1n1FPUo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2280 Garnet Avenue UNIT 145, San Diego",
+            "CBG":60730078004,
+            "Radius":216.8221015262
+      }
+]

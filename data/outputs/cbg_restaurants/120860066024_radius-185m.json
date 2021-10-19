@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.76599,
+                        "lng":-80.20742
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7671530303,
+                              "lng":-80.2059593697
+                        },
+                        "southwest":{
+                              "lat":25.7644550697,
+                              "lng":-80.2086573303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Little Caesars Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117105232753767846027\">Mitchelle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDxkXWOEXLKKv7unN29fz4bb2Dp7wH_jRYAtdchxHDITB4vJggp2ZgsP_8lA4ALGHxoXggYA_cFK0VR59qztroEoSmxpFoVRmwGthWQfjz0AKNl15NFxUn6Ep6zRt8YcSyD_IlOaOMHcdNBWXR8CYXZURWha9zwZYQE5xpMHpqxKOic",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJD9WI84y22YgRmOkJgh6P8Eo",
+            "plus_code":{
+                  "compound_code":"QQ8V+92 Miami, FL, USA",
+                  "global_code":"76QXQQ8V+92"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJD9WI84y22YgRmOkJgh6P8Eo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":919,
+            "vicinity":"827 Southwest 8th Avenue, Miami",
+            "CBG":120860066024,
+            "Radius":184.8915634276
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7661711,
+                        "lng":-80.2066914
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7674501803,
+                              "lng":-80.2053459197
+                        },
+                        "southwest":{
+                              "lat":25.7647522197,
+                              "lng":-80.2080438803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Arahi's Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114227278272262662446\">JL Minaya<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDcE8t6Tnuhs2OA0PDGmNgNbE_0jlQGMzVPrLOvARdwZNRpF903HHlb5Coav3RtT7UdHBXBvbTpR1C-Y1Cf1V7dr0NW_ySKfrUTJxgxHKpKtgRRwHUQQ5EWJ5zW0v0T2PVtlD6bzcThOmWtuxrPhCWvn8tU8BEiUD17ffZN3nJw4BDb",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJaQZJV4y22YgRjmIrtjHLh7Q",
+            "plus_code":{
+                  "compound_code":"QQ8V+F8 Miami, FL, USA",
+                  "global_code":"76QXQQ8V+F8"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJaQZJV4y22YgRjmIrtjHLh7Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":540,
+            "vicinity":"745 Southwest 8th Street, Miami",
+            "CBG":120860066024,
+            "Radius":184.8915634276
+      }
+]

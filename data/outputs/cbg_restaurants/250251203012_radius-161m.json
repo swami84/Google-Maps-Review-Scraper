@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3135856,
+                        "lng":-71.1003222
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3149683303,
+                              "lng":-71.0990183197
+                        },
+                        "southwest":{
+                              "lat":42.3122703697,
+                              "lng":-71.1017162803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"PikaloX",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105265824677374130157\">Victor Fernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDVCioyVk_kPdLPzchQq8trt9n4LV5V_izofD668wme8Xd9sfPn0-Kyo-oQVKrmvQT6aqCBLd7asofp8l7pjdCOhzWRFnjfVKGeqzI8lH7D3Wgx4RjUDDgvvcPhExDWkll1yLnT-jsDJ8E1z1617g1jbSn_dlCEzqz1V4ltcH0nxcRE",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJu3JLC9l544kRDo87k-7IgEA",
+            "plus_code":{
+                  "compound_code":"8V7X+CV Boston, MA, USA",
+                  "global_code":"87JC8V7X+CV"
+            },
+            "rating":4.2,
+            "reference":"ChIJu3JLC9l544kRDo87k-7IgEA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"3160 Washington Street, Boston",
+            "CBG":250251203012,
+            "Radius":161.0136183682
+      }
+]

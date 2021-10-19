@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3313774,
+                        "lng":-71.0353881
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3327746303,
+                              "lng":-71.0340330697
+                        },
+                        "southwest":{
+                              "lat":42.3300766697,
+                              "lng":-71.0367310303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sal's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103891550698497916332\">Sal&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED-Dcs6YC6jp5VsSOhFV_JnlZDjaCdFemNp7k2GXk2y5CucxZInWGXi5yCxVtlhsS5YbPUjhr6Ood60v_-P5zTmvxp6a698qBViOJmUQL7MWkw1SDHu1FB5aGJpfITAT_JOY0A1fFK97qzNiK_08a2sHr-9DjOGFbYW0egp6wjszvIj",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJiSzR4JJ644kR4U_nRm-K4XI",
+            "plus_code":{
+                  "compound_code":"8XJ7+HR Boston, MA, USA",
+                  "global_code":"87JC8XJ7+HR"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJiSzR4JJ644kR4U_nRm-K4XI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":139,
+            "vicinity":"205 L Street, Boston",
+            "CBG":250250603012,
+            "Radius":130.4754740665
+      }
+]

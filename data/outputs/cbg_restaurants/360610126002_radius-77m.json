@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.769228,
+                        "lng":-73.960131
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7706997803,
+                              "lng":-73.9586899697
+                        },
+                        "southwest":{
+                              "lat":40.7680018197,
+                              "lng":-73.9613879303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LiberEat",
+            "place_id":"ChIJVT-_h-pYwokRHURxKV95x4Y",
+            "plus_code":{
+                  "compound_code":"Q29Q+MW New York, NY, USA",
+                  "global_code":"87G8Q29Q+MW"
+            },
+            "reference":"ChIJVT-_h-pYwokRHURxKV95x4Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"210-260 East 72nd Street, New York",
+            "CBG":360610126002,
+            "Radius":77.435919546
+      }
+]

@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9214627,
+                        "lng":-77.032069
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9223696803,
+                              "lng":-77.0307914697
+                        },
+                        "southwest":{
+                              "lat":38.9196717197,
+                              "lng":-77.0334894303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rooster & Owl",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114528412108974857346\">sdgainesdc<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqrWyBeF_EPxAOoxH5PMO6IpdsMS2Yu6SxUvf3Oed1SRxaaPMgHmR5_gPjYcO5XgH2MuzVIs8-kgo1fuRc6O7MFDSanbq1QB4QXti6MO-gDW9LdSTs0Wj6C-Ql4hT6VbqnFOg6-MnNXVfWuy_30oN0vajOxS0h0HfaMwcDKb5od1uE",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJFRi3Siq3t4kRoH7xEpeT7iI",
+            "plus_code":{
+                  "compound_code":"WXC9+H5 Washington, DC, USA",
+                  "global_code":"87C4WXC9+H5"
+            },
+            "rating":4.8,
+            "reference":"ChIJFRi3Siq3t4kRoH7xEpeT7iI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":271,
+            "vicinity":"2436 14th Street Northwest, Washington",
+            "CBG":110010036001,
+            "Radius":155.5926039171
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9211964,
+                        "lng":-77.0321494
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9222365303,
+                              "lng":-77.0308316697
+                        },
+                        "southwest":{
+                              "lat":38.9195385697,
+                              "lng":-77.0335296303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pho 54 Noodle Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116361340469675596663\">\u307c\u304f\u30b5\u30ce\u30b9<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC69GY4a4wt5-VSM6WnwtvrKNX5rkOx7QnE4EwblOgjr66ncQxxv3GfEK5Uj7u_yvfbo_KBKeYa-TuOD3r0dexuSWFHJFqDoQi1Wq6WkTQ-oFqQicRZHd3GTx0vhJWpCLxz19lJPG0So-thnl7bZ2hfoyj9BHmSgm8ojOMdAMUQg0Yn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPyAAlEq3t4kRmmMWc2xntbg",
+            "plus_code":{
+                  "compound_code":"WXC9+F4 Washington, DC, USA",
+                  "global_code":"87C4WXC9+F4"
+            },
+            "rating":4.6,
+            "reference":"ChIJPyAAlEq3t4kRmmMWc2xntbg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":114,
+            "vicinity":"2424 14th Street Northwest, Washington",
+            "CBG":110010036001,
+            "Radius":155.5926039171
+      }
+]

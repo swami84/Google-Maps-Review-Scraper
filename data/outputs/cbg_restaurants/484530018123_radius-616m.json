@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3311936,
+                        "lng":-97.7013972
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3325222803,
+                              "lng":-97.7001693197
+                        },
+                        "southwest":{
+                              "lat":30.3298243197,
+                              "lng":-97.7028672803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pollo Campero",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116128853827750117919\">Selvin M\u00e9ndez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBnKX0Fxx0a27ptnV-UINROVo4K93Uh8oFCoW1KMfdMENJR9dgZvmJY-gPcitRlrc-fMdkEey7dJh5u5qdfVwH9O6RLXkOZn-Pl6Mb2p_h8yz3J0iNVQnCsyMNSDgNsJlVYRCz5PxKsywAbD3OTOPSlXs3AKf-YNwEqFBTwMVHK4tIm",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJudn7zybKRIYRZ11kYAYGb_g",
+            "plus_code":{
+                  "compound_code":"87JX+FC Austin, TX, USA",
+                  "global_code":"862487JX+FC"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJudn7zybKRIYRZ11kYAYGb_g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":779,
+            "vicinity":"907 East Saint Johns Avenue, Austin",
+            "CBG":484530018123,
+            "Radius":616.3385809285
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3320498,
+                        "lng":-97.7035403
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3334781303,
+                              "lng":-97.7022150697
+                        },
+                        "southwest":{
+                              "lat":30.3307801697,
+                              "lng":-97.7049130303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112370980325797892812\">Burger King<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPGrbJJuX_ka9NVFM24fQpQGwAu_AsO95QwWn4p2DBiNi0Uhl2EcBwRROEzfQmzvdIgKAwalJXBhAJCVY4QlwEyxeQMG__19J_8-oTZsR-fYcyxRGrNveNjWfndJh69xBWGuQROh8RDo_1I4D_hNAn9vuhVz0glhk0xJLERJJmz2jQ",
+                        "width":1400
+                  }
+            ],
+            "place_id":"ChIJAQAAACTKRIYRC18DBaGySmc",
+            "plus_code":{
+                  "compound_code":"87JW+RH Austin, TX, USA",
+                  "global_code":"862487JW+RH"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJAQAAACTKRIYRC18DBaGySmc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":864,
+            "vicinity":"7105 North Interstate Highway 35 Apt 35, Austin",
+            "CBG":484530018123,
+            "Radius":616.3385809285
+      }
+]

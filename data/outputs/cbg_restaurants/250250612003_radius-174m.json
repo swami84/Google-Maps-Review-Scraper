@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.330016,
+                        "lng":-71.0565438
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3313221803,
+                              "lng":-71.0551660197
+                        },
+                        "southwest":{
+                              "lat":42.3286242197,
+                              "lng":-71.0578639803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Andrew Square House of Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117162369945016330336\">Andrew Square House of Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYcfjfCi4xacWBAw02C-JhFhhuQi69Y9MxcNuo0h9KdlY_FnikOmF8h8NzOwHcDGMW2pK_1GS82Ps6gVF7UYKDueGmcao-lIHriGdpbE3F7fK92Cf4xDiiqU2sFEewEfWjV7xSIkleOJpew6GU87G_LV_0eYRabPu9JqcX4uSHyap9",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJOcPfOlx644kReb0LVj5nnMI",
+            "plus_code":{
+                  "compound_code":"8WJV+29 Boston, MA, USA",
+                  "global_code":"87JC8WJV+29"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJOcPfOlx644kReb0LVj5nnMI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":267,
+            "vicinity":"395 Dorchester Street #2740, Boston",
+            "CBG":250250612003,
+            "Radius":173.862872234
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3299218,
+                        "lng":-71.056808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3312599803,
+                              "lng":-71.0555308697
+                        },
+                        "southwest":{
+                              "lat":42.3285620197,
+                              "lng":-71.0582288303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Red Line Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101983915647170810270\">chris hitchcock<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAHs4ol-OpoLFlONjaBN_GOv78vudZ7bJORYyrh_iTKV5uY5FEvpS0_YB8p_pG16pb_rYbBORQGLAhpyLbokqcjUhkxgrQ9QawMUTfHCFoCx8M3n70e64pYoVWvRZBe62_OvnVBqKZ7GOdP_Fdyu42NWo3nOTglrV54xgl56mfxOWFs",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJozzcO1x644kRthVJ__E1W_E",
+            "plus_code":{
+                  "compound_code":"8WHV+X7 Boston, MA, USA",
+                  "global_code":"87JC8WHV+X7"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJozzcO1x644kRthVJ__E1W_E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":266,
+            "vicinity":"582 Dorchester Avenue, Boston",
+            "CBG":250250612003,
+            "Radius":173.862872234
+      }
+]

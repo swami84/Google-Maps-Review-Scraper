@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":32.7526029,
+                        "lng":-97.2474327
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7539135803,
+                              "lng":-97.2457859697
+                        },
+                        "southwest":{
+                              "lat":32.7512156197,
+                              "lng":-97.2484839303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kevin Romero Restaurant",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111913927453135435421\">Demontre Brown<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBI84y67_i9aoBbFv9lXS92cYwk6XDZW4iZt9KG8zKdEXGBqA9Y5tBg-9j8IP5d_J0fSTp0iSh6wf8dAYQgZVa1ZJhfFQdPb5FEQ8xtCuK_2KLKS6ZeQl7_oQiPDzk6pBKV_EfQwi4xLo9ZgIRodj9yJ0M-WGe4bVAzowXLXf-dqAud",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJWbOrwGt6ToYRtJtuc0P8htM",
+            "plus_code":{
+                  "compound_code":"QQ33+22 Fort Worth, TX, USA",
+                  "global_code":"8644QQ33+22"
+            },
+            "rating":5,
+            "reference":"ChIJWbOrwGt6ToYRtJtuc0P8htM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"Fort Worth",
+            "CBG":484391014012,
+            "Radius":527.2577299072
+      }
+]

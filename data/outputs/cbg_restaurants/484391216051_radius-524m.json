@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.752786,
+                        "lng":-97.13211
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7540746803,
+                              "lng":-97.1307266697
+                        },
+                        "southwest":{
+                              "lat":32.7513767197,
+                              "lng":-97.1334246303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Al's Hamburgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1717,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107817787102659402167\">Mandy Homer<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJp6VYKlF1UBCxx4ryDbgocgUSk-Gn9YV4vvqCqz2gIVpvp3pHhNDO85b9gC_FlzQSzTAMTwRuGyR0Ky1d1GQI423uRCgjddVGKUejVOHP6FTDuLWrOzb9KdHvw9srgJpqCuNfjwkEdi_DSkRV6al-EMZyijoEoSI-7br76KrHMBYx",
+                        "width":2913
+                  }
+            ],
+            "place_id":"ChIJWTuzof99ToYReyljgMkSlt4",
+            "plus_code":{
+                  "compound_code":"QV39+45 Arlington, TX, USA",
+                  "global_code":"8644QV39+45"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJWTuzof99ToYReyljgMkSlt4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1001,
+            "vicinity":"1276 North Fielder Road, Arlington",
+            "CBG":484391216051,
+            "Radius":524.3716515813
+      }
+]

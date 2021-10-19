@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2800992,
+                        "lng":-71.7936487
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2814386803,
+                              "lng":-71.7921525697
+                        },
+                        "southwest":{
+                              "lat":42.2787407197,
+                              "lng":-71.7948505303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pomodoro's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118429552549492755476\">Ricardo rodrigues<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1tcxRWLbTOjBqTp1YsJT4t0aET9MjZVHb_s_h7BZnqabDrDzwCXj2ZTJ1BR0eD0OIL_UcUByyjfNk58e40ap-Fa7jYCOPjiegci5xL0xxVzyrj9nZ2Nid8bbD3yQhMolwQA78Cwqk7IKoDfmr92C7ctqxHhlCfAvNE1ZIcAuxXDXN",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJuU8-nk4G5IkRvRCtWtRR07g",
+            "plus_code":{
+                  "compound_code":"76J4+2G Worcester, MA, USA",
+                  "global_code":"87JC76J4+2G"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJuU8-nk4G5IkRvRCtWtRR07g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":176,
+            "vicinity":"168 Lincoln Street, Worcester",
+            "CBG":250277319001,
+            "Radius":374.5071586894
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2798784,
+                        "lng":-71.793265
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2812451303,
+                              "lng":-71.7919928697
+                        },
+                        "southwest":{
+                              "lat":42.2785471697,
+                              "lng":-71.7946908303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jamaica Thymes",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101610440809233354436\">Jamaica Thymes<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVKpqTBW6L6JnUL1DSmUtq6P0pTjJQkI1F6lMGfYCbPhAEby2Bbwl4AZ-_BCPUODwXODcC5WkHv-LVTSeUko7UHfarSaO8BfztrcBDmL_dwECkFpsOXorF8QRFpET1o4hl2C5l0LMJ4I_PVNF2TMlBjjeW6yvdqq8Cdi4JxzlcvdxG",
+                        "width":2589
+                  }
+            ],
+            "place_id":"ChIJLawNoU4G5IkRZ-DZWfXlUGw",
+            "plus_code":{
+                  "compound_code":"76H4+XM Worcester, MA, USA",
+                  "global_code":"87JC76H4+XM"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJLawNoU4G5IkRZ-DZWfXlUGw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"169 Lincoln Street, Worcester",
+            "CBG":250277319001,
+            "Radius":374.5071586894
+      }
+]

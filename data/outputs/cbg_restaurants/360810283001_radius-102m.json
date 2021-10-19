@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7552617,
+                        "lng":-73.8856655
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7567237803,
+                              "lng":-73.8843337697
+                        },
+                        "southwest":{
+                              "lat":40.7540258197,
+                              "lng":-73.8870317303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Black Thai",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114677675794761388136\">Adaildo Faustino<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECve_iXZ0f-QEk3IaSDiy36tkV4OvLtZYoPp_r4muFeAro6iEOOPFprWQrfZ2jj8sZIeqWlzxGMbqgNHg7xH66CnJl7jqHAIp2zajN6xHZ5mD5BKpyPlGIxpfIpwYTJz6uL3883rf5v8FSaPgpZP06bvWaByeKVc7uCV1HoEG_0JRj_",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJfURy3OVfwokRx1zpR2g6t3o",
+            "plus_code":{
+                  "compound_code":"Q447+4P Jackson Heights, Queens, NY, USA",
+                  "global_code":"87G8Q447+4P"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJfURy3OVfwokRx1zpR2g6t3o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"81-16 Northern Boulevard, Jackson Heights",
+            "CBG":360810283001,
+            "Radius":101.6340204683
+      }
+]

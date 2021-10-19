@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3495923,
+                        "lng":-71.0952588
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3508672803,
+                              "lng":-71.0937890697
+                        },
+                        "southwest":{
+                              "lat":42.3481693197,
+                              "lng":-71.0964870303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nagomi Izakaya",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3979,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107331974685946090010\">menusifu008 menu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZQuigvStHbX6HlZodphXXLmD92hR1hAFkMVooWOpoExX1FnnCyJubjBQ-YKyXQ1lb69lQKXCetnK2dV2c1mS_DdpHVw-1PlFlptrJKBMCCl_HU-LdS5Rrs8dPgxgYYhR7Ggl6AEmsw_hDM51_F2hfbXlr8W97ZR1GfIgibgxnzfOL",
+                        "width":5980
+                  }
+            ],
+            "place_id":"ChIJwxFkX6B744kRpu_dt4IubrM",
+            "plus_code":{
+                  "compound_code":"8WX3+RV Boston, MA, USA",
+                  "global_code":"87JC8WX3+RV"
+            },
+            "rating":5.0,
+            "reference":"ChIJwxFkX6B744kRpu_dt4IubrM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"636 Beacon Street Ste A, Boston",
+            "price_level":null,
+            "CBG":250250101042,
+            "Radius":162.3954814033
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3494619,
+                        "lng":-71.095308
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3507283303,
+                              "lng":-71.0938811197
+                        },
+                        "southwest":{
+                              "lat":42.3480303697,
+                              "lng":-71.0965790803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kaju Korean Cuisine \u2014 Kenmore",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110755732303132915603\">Ryan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECZyNaMw78FfuSyctxCYzescMF_pQlyUU_2GTo2W1aSZaqebACxyW6JLSbVaWWSFvIHkjLb989Ucj0v-Z70_ZLkPX6gbspM4epkLTMJtODWqNfb4yQ0K2zPRems1zbNfxgpmuQcBzjow3mahiKH_doLSW_O0SAhg6nc71BgYq41CYbL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJA6MOzQJ644kRVnxF8Ocodfo",
+            "plus_code":{
+                  "compound_code":"8WX3+QV Boston, MA, USA",
+                  "global_code":"87JC8WX3+QV"
+            },
+            "rating":4.4,
+            "reference":"ChIJA6MOzQJ644kRVnxF8Ocodfo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"636 Beacon Street, Boston",
+            "price_level":2.0,
+            "CBG":250250101042,
+            "Radius":162.3954814033
+      }
+]

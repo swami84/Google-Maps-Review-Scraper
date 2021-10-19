@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8089711,
+                        "lng":-87.7038445
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8103416303,
+                              "lng":-87.7025795697
+                        },
+                        "southwest":{
+                              "lat":41.8076436697,
+                              "lng":-87.7052775303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cafe El Meson",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103851040665854024101\">Cafe El Meson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBBlsj7M8lNqwn8pIKGONNlB3PWCLt4CP69cHt6DRyKuVwtKGmitVgTsQkBskwYliXAfI-iqRbBh8yedHC-tDjIktXDzdf8vCtlyiLd8HWEl1adKFfCZmZhNfWueKetcQU9xcvUu7f1OSEVxbQel_lPTX6bjtVCCl8Tz8U1SyTYVyZy",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJby4TE_sxDogRpNV8Qa0jr9w",
+            "plus_code":{
+                  "compound_code":"R75W+HF Chicago, IL, USA",
+                  "global_code":"86HJR75W+HF"
+            },
+            "price_level":1.0,
+            "rating":4.7,
+            "reference":"ChIJby4TE_sxDogRpNV8Qa0jr9w",
+            "scope":"GOOGLE",
+            "types":[
+                  "book_store",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":358,
+            "vicinity":"4631 South Kedzie Avenue, Chicago",
+            "CBG":170318428003,
+            "Radius":180.9940936512
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8093742,
+                        "lng":-87.703675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8107203303,
+                              "lng":-87.7025009197
+                        },
+                        "southwest":{
+                              "lat":41.8080223697,
+                              "lng":-87.7051988803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rosa\u2019s Tamales #4",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112812150806510606050\">Rosa\u2019s Tamales #4<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECkpDkBHzTOdC2qjoBCVS_l46-312M1pGMSDPHn96CJI8QeQbLxVnp5BEPX6xO0l5NjWBUJFubsAOFuosmBkRTXq-MakOmWF6AEtbGNmN7czReQpSGb1EI__jb3DMd121XeaM03Uc5wy-xskRtP-h_D2G8woYRBhpnSCrnHlqvSHHv-",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJrcwzN8YxDogRK4Kfvl0unZA",
+            "plus_code":{
+                  "compound_code":"R75W+PG Chicago, IL, USA",
+                  "global_code":"86HJR75W+PG"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJrcwzN8YxDogRK4Kfvl0unZA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":158,
+            "vicinity":"4619 South Kedzie Avenue, Chicago",
+            "CBG":170318428003,
+            "Radius":180.9940936512
+      }
+]

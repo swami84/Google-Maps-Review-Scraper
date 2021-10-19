@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7243326,
+                        "lng":-87.6630338
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7256763303,
+                              "lng":-87.6615726697
+                        },
+                        "southwest":{
+                              "lat":41.7229783697,
+                              "lng":-87.6642706303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dan's Hot Dogs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105836385184723545726\">Donna Shelley<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuPYon4T5Dw1skrno9zNdaWRQEInlM1YEH9btRwpmeqTSF1GRtXY57TFDR7JV1HIpwrDV23Gq2jHL1cblySvxFafms7avHsfhk-07Urs2adsZT37ppC4Plocs6WYBSum1tvHfsXVG5WU_hE4poTp8b8ufCnDb23Xn99YixS0WqUyD7",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJGU0UK3ElDogRvW4F32wkH30",
+            "plus_code":{
+                  "compound_code":"P8FP+PQ Chicago, IL, USA",
+                  "global_code":"86HJP8FP+PQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJGU0UK3ElDogRvW4F32wkH30",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":244,
+            "vicinity":"9314 South Ashland Avenue, Chicago",
+            "CBG":170317302011,
+            "Radius":241.3300746807
+      }
+]

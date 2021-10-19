@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":30.2229967,
+                        "lng":-97.7458601
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2243378303,
+                              "lng":-97.7446288197
+                        },
+                        "southwest":{
+                              "lat":30.2216398697,
+                              "lng":-97.7473267803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"ReVive!",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112745580637357716469\">Cinthia Salinas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDZbS1irzL793i6tS2R6b4nrUPT0VswQYjEpddU1WBnY3lMPSsLHHU_Ej3GgLHAwLiLnTJilk2PEGNHuWlKuB7nGlN_VfBeG_pyWbAEMNrzRBgJ4a5U-JDGewR-hkGEHE5QzoZcH3HVS0TxEfTy6-xJ2YzvL_STiYxsKBPU2uatiDm-",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJbdmOQYm0RIYRhmW-uwG9ld0",
+            "plus_code":{
+                  "compound_code":"67F3+5M Austin, TX, USA",
+                  "global_code":"862467F3+5M"
+            },
+            "rating":4.7,
+            "reference":"ChIJbdmOQYm0RIYRhmW-uwG9ld0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"3401 South Interstate 35 Frontage Road, Austin",
+            "CBG":484530023072,
+            "Radius":458.8575075607
+      }
+]

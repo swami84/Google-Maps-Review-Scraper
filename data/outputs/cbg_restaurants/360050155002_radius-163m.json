@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.835497,
+                        "lng":-73.89065
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8369163803,
+                              "lng":-73.8892624697
+                        },
+                        "southwest":{
+                              "lat":40.8342184197,
+                              "lng":-73.8919604303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107520416555168297995\">Erickson Reyes07<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECeAhRMmE2NxSoECDHg7G1RX8u4tah7gs4c3Ylx1TpagMQ09g0welrFaVxEghPZBS3YShq5NIWYFsLl_5z_7gbdTmu-fHG_hlkcfVesdWpZMHKU1IyIfrb5MYcl3dVm1nyHfF7-GDfScDrkPxvQRL9orl2SQIJQrDFVK-7GH6KT78Cs",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ9UTDy1j0wokRj1Kcv6dt1MA",
+            "plus_code":{
+                  "compound_code":"R4P5+5P New York, NY, USA",
+                  "global_code":"87G8R4P5+5P"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ9UTDy1j0wokRj1Kcv6dt1MA",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1425,
+            "vicinity":"1600 Boston Road, Bronx",
+            "CBG":360050155002,
+            "Radius":162.8867211994
+      }
+]

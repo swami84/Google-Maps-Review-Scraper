@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0591623,
+                        "lng":-82.4590032
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0601956803,
+                              "lng":-82.4577399197
+                        },
+                        "southwest":{
+                              "lat":28.0574977197,
+                              "lng":-82.4604378803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Alvarez Authentic Latin Food 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1884,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118014797411458041991\">Christopher S Crawford<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC5XbBAix4QcS-Bfp_LYe_9u7tkSM5gHsOuLtufdExuCXvwZWQOqqcz1bQHwUUDSXXxS53Ii7oNa1OSvXYe2TNr8RDL2UsF-e0X_XpmbRXJWUnDRHRC_3U82X7BVr45H0KTkp6cObQCKfR7ccs9YgThP1Ak7A5O698C9E0SQDCJkT4",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJ7TcSZxHHwogRLfyOtMvOhzk",
+            "plus_code":{
+                  "compound_code":"3G5R+M9 Tampa, FL, USA",
+                  "global_code":"76WV3G5R+M9"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJ7TcSZxHHwogRLfyOtMvOhzk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":218,
+            "vicinity":"12227 North Florida Avenue, Tampa",
+            "CBG":120570112062,
+            "Radius":481.2265958627
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0649244,
+                        "lng":-82.4589871
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0663325803,
+                              "lng":-82.4576374697
+                        },
+                        "southwest":{
+                              "lat":28.0636346197,
+                              "lng":-82.4603354303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mr. Pepito",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101797803727097118709\">Dave Spen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZOO7J4O8Wtj1hZI3n163HWxxmTCuQSEwFYBQ0WjrsPHz17nTiBl2svDhdaEgukbjP7A7UaekI6W0wLfng50egPO4PxtqmbiRSFK0LGsXz2ptrtfIjAHr5gt4N25BCXuxS_9-bj3P0WDqPei_JwWF9vQwsoWI2UeRzhS6sOo-lrJaE",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJO4hl3-jHwogRjH7CUoF8nX8",
+            "plus_code":{
+                  "compound_code":"3G7R+XC Tampa, FL, USA",
+                  "global_code":"76WV3G7R+XC"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJO4hl3-jHwogRjH7CUoF8nX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"103 East 130th Avenue, Tampa",
+            "CBG":120570112062,
+            "Radius":481.2265958627
+      }
+]

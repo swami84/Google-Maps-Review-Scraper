@@ -1,0 +1,117 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3679837,
+                        "lng":-71.0978914
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3693643803,
+                              "lng":-71.0964923697
+                        },
+                        "southwest":{
+                              "lat":42.3666664197,
+                              "lng":-71.0991903303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Lamplighter Brewing Co.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4139,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109303214451509921948\">Lamplighter Brewing Co.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECm8nrbUDEebE0wh8-IOigtmKYUNcB2x9YD7ERBh4DZTBSQ7scTT0reGlla7uYHV_yPgg9iklleu5ETojX_76pFBCdPVVyVs_LlK9D1DP1AEf6CgN2qPZqS1CxDWDiaAo0g-E0IaOcHWRyVuytGTW3uLn_FkingDcfMGEqjwUZLLRo4",
+                        "width":6208
+                  }
+            ],
+            "place_id":"ChIJZxjosFJ344kRxJpdlnkZgSY",
+            "plus_code":{
+                  "compound_code":"9W92+5R Cambridge, MA, USA",
+                  "global_code":"87JC9W92+5R"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJZxjosFJ344kRxJpdlnkZgSY",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":644,
+            "vicinity":"284 Broadway, Cambridge",
+            "CBG":250173525002,
+            "Radius":182.115293924
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3679959,
+                        "lng":-71.0979376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3693596803,
+                              "lng":-71.0965137697
+                        },
+                        "southwest":{
+                              "lat":42.3666617197,
+                              "lng":-71.0992117303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Pepita Coffee",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":6607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117527202452226090548\">Pepita Coffee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBEijp-E5wrQ2OAuYvEUEj-iPCQZekOOeRjgeb6yiuJwVH-1ct4lqDBqvl6qIV_HQiDtkGrxlMf3kZMBs7HkJ1OoD3N7Q8zUW4ejTtC_rhL_ftMEvernLw68_IPvUSjyD_tLCwFinlA0bVx_NDZdTZKSduLrkop2pR9sWRQq_1DR_MC",
+                        "width":4405
+                  }
+            ],
+            "place_id":"ChIJNxEe3m9344kRyrW9zk6v0iU",
+            "plus_code":{
+                  "compound_code":"9W92+5R Cambridge, MA, USA",
+                  "global_code":"87JC9W92+5R"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJNxEe3m9344kRyrW9zk6v0iU",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"284 Broadway, Cambridge",
+            "CBG":250173525002,
+            "Radius":182.115293924
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.768265,
+                        "lng":-87.563867
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7695372303,
+                              "lng":-87.5626078697
+                        },
+                        "southwest":{
+                              "lat":41.7668392697,
+                              "lng":-87.5653058303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Parrot Cage Restaurant",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109062645224511469514\">David Schwartz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQfPNbZZSRXkqvW6hIqAg5Q-7FJ5etrefpNYN644cEN4mGdBXYdpsl6z_5OjPr9oKW-TUJ7gaCmFgCwcOgUeUaAYE8FDvYqO-gcBx6GNQkommVBgTxIIR2FodVYgreq21Uq_ZNq6ijx-naH6LAg2fHzsC36Yi93zaFQxSMZvUTsE3N",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJb_zmNkkoDogRdvlpb8eskUc",
+            "plus_code":{
+                  "compound_code":"QC9P+8F Chicago, IL, USA",
+                  "global_code":"86HJQC9P+8F"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJb_zmNkkoDogRdvlpb8eskUc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"7059 South South Shore Drive, Chicago",
+            "opening_hours":null,
+            "CBG":170314301021,
+            "Radius":331.6715043621
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.76903,
+                        "lng":-87.566838
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7703151803,
+                              "lng":-87.5654855697
+                        },
+                        "southwest":{
+                              "lat":41.7676172197,
+                              "lng":-87.5681835303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"House of Bing",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":1473,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108000777941210336661\">Make America Love Again<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBxPF4-ecNY1qSMdM5P1qH-rVI2_9P7nvGp8KTBurUqo7-YSfhBxLS2rspSOrcwppUAI77Z9Txk8jFHxs0fuAqJWb7GdRyHm3KtyYen5qTaf0SmBcItxWrkFCMKxlf3HULE88dehJx7Buj-XmDtouM7KmfQqc6cyjlvAASM7JF4h6JL",
+                        "width":1695
+                  }
+            ],
+            "place_id":"ChIJLdpqiE4oDogROKUtSQ69N2E",
+            "plus_code":{
+                  "compound_code":"QC9M+J7 Chicago, IL, USA",
+                  "global_code":"86HJQC9M+J7"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJLdpqiE4oDogROKUtSQ69N2E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":375,
+            "vicinity":"6930 South South Shore Drive #1, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":170314301021,
+            "Radius":331.6715043621
+      }
+]

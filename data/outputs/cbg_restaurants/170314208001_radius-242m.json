@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7787247,
+                        "lng":-87.605568
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7800680303,
+                              "lng":-87.6043849697
+                        },
+                        "southwest":{
+                              "lat":41.7773700697,
+                              "lng":-87.6070829303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JB One",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111881280797794583615\">JB One<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDbDMzaXhpDnf2EdJ32qDIP6OBs9fOz81OtNouLp_q0i-NcA_vSffY45dGOcThiFxQMAW_uCjVa-cBUHaGEeyWuvFQpy1KDbtiAXYL1eGhjCvl7JbAhwi8-sHtJ_XJjhrVgArRRy1oDgWzRbau8kKBN6tKncLekuduQN-6LazWC2bDi",
+                        "width":550
+                  }
+            ],
+            "place_id":"ChIJk-4M8SYpDogRCnAu8VxVSYE",
+            "plus_code":{
+                  "compound_code":"Q9HV+FQ Chicago, IL, USA",
+                  "global_code":"86HJQ9HV+FQ"
+            },
+            "rating":3.6,
+            "reference":"ChIJk-4M8SYpDogRCnAu8VxVSYE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":230,
+            "vicinity":"6359 South Cottage Grove Avenue, Chicago",
+            "CBG":170314208001,
+            "Radius":241.9103882745
+      }
+]

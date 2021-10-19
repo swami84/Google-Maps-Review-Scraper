@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.5232827,
+                        "lng":-70.9216781
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.5246607803,
+                              "lng":-70.9204291697
+                        },
+                        "southwest":{
+                              "lat":42.5219628197,
+                              "lng":-70.9231271303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":707,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107639603289735859038\">A1M LEAKS<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHEOpcALvueGlvtuPmMe2YwrVKceJ6aVPOkasOSqbTXYe84eYPpisH0cYzFKgHyuCTRXIgEVKBUEJ8S8w90GsO2mUqfENQg8pSqrbJtaAfiLcYsspyGHxz1h9VDpSjlmITjqyG9KY9rm6fY78tvf81luWO2ujB5n-85I7YvlVDL4IK",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJK4L3fZsT44kREUgcXdHRgwM",
+            "plus_code":{
+                  "compound_code":"G3FH+88 Peabody, MA, USA",
+                  "global_code":"87JFG3FH+88"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJK4L3fZsT44kREUgcXdHRgwM",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":798,
+            "vicinity":"133 Main Street, Peabody",
+            "CBG":250092107001,
+            "Radius":249.4885634926
+      }
+]

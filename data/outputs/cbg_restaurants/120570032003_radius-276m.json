@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9658333,
+                        "lng":-82.4433333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9672210803,
+                              "lng":-82.4418411697
+                        },
+                        "southwest":{
+                              "lat":27.9645231197,
+                              "lng":-82.4445391303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Segunda Central Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110178879392391273415\">La Segunda Central Bakery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1PB_tohW0egYE__5gzEcPZ_GO2zPYDbOsWTiL2RyfeTxZkGBuzw8-i3J0IIQ5yMWtt_DvZzSCLZTUzJ4C5Ga4iR_rpktSV1J4AJu_cxxVPZkiiMxye9Mb3tYyGz8u3Uo53KQ4CJgYPvfep_BgZfzO-uVKeA9hdmqogeJtOIwwp9I",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJXTeLe0XEwogR-wheRdFeKEY",
+            "plus_code":{
+                  "compound_code":"XH84+8M Tampa, FL, USA",
+                  "global_code":"76VVXH84+8M"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJXTeLe0XEwogR-wheRdFeKEY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2390,
+            "vicinity":"2512 North 15th Street, Tampa",
+            "CBG":120570032003,
+            "Radius":276.1182095206
+      }
+]

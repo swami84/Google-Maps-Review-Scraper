@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":35.1879009,
+                        "lng":-101.9030735
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":35.1891817803,
+                              "lng":-101.9017240197
+                        },
+                        "southwest":{
+                              "lat":35.1864838197,
+                              "lng":-101.9044219803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Active Nutrition Amarillo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1112,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101135811512722628312\">Active Nutrition Amarillo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB3CfqTaZngQHde_l7akl4BxgNbGGDt_BExET8iqJfxbX4hjA13ywR2it7ku-x1Fx9r6x01eRWcQW-ZY9naFIvWVUaLNzZiOuavRFUV0NN0UkHaIsEV5jXj26O-T8mIZld3ojDuvsaoGMUN-5fkhq1Y9ewp3Vsb4K8JQejVp4Nh83yY",
+                        "width":1125
+                  }
+            ],
+            "place_id":"ChIJW-8o0P5RAYcRYQy0U6lnwEc",
+            "plus_code":{
+                  "compound_code":"53QW+5Q Amarillo, TX, USA",
+                  "global_code":"857W53QW+5Q"
+            },
+            "rating":5.0,
+            "reference":"ChIJW-8o0P5RAYcRYQy0U6lnwEc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"2300 Bell Street Suite 14, Amarillo",
+            "price_level":null,
+            "CBG":483750101002,
+            "Radius":327.0616310294
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":35.1881671,
+                        "lng":-101.9028483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":35.1893154303,
+                              "lng":-101.9016675697
+                        },
+                        "southwest":{
+                              "lat":35.1866174697,
+                              "lng":-101.9043655303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sumo Japanese steakhouse",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101084702066323946404\">Babette Jinkins<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBSq0CapPIkSNwA_KHnbSjMJHagONZ879ZPGlw9cKXNtkDy2v8B_1j5pMXSi3VI9U8cgUCmytX59iNfXY-JLBZfbdrEOQexagcUPZ2i6YxVfDuUks9e00NWmApc2hzp3utjoGEqOekNP1mpd4ebXmq2ybJbpKRKi5cmzgN_opUgSiP5",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJz3xlg4pRAYcRnp2ZuML5LYQ",
+            "plus_code":{
+                  "compound_code":"53QW+7V Amarillo, TX, USA",
+                  "global_code":"857W53QW+7V"
+            },
+            "rating":4.2,
+            "reference":"ChIJz3xlg4pRAYcRnp2ZuML5LYQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":111,
+            "vicinity":"2300 Bell Street, Amarillo",
+            "price_level":2.0,
+            "CBG":483750101002,
+            "Radius":327.0616310294
+      }
+]

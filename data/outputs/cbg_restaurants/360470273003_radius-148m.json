@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6806789,
+                        "lng":-73.9374311
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6821824803,
+                              "lng":-73.9361130197
+                        },
+                        "southwest":{
+                              "lat":40.6794845197,
+                              "lng":-73.9388109803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Carp\u00e9 Vino Tasting Room",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109772550198525215522\">Carp\u00e9 Vino Tasting Room<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED0xS3bVF2_VrbvWDinShg0HJrjI1emSqiMuL-NC9gy1U6arA0CV2D_eM9NfvMv_R6JBjAQkWuj-R1tX0Ecx4RWif5H3ITPb9MAOaPcSOlhAwdYYq9AuPBgnu1ni5QYgljsXgIKyZYi4ty22XpriaSlsNBHIiVDIaE8zbinD0uv1vCE",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJ8XSF-e1bwokRRCEP1K4rcL4",
+            "plus_code":{
+                  "compound_code":"M3J7+72 Brooklyn, NY, USA",
+                  "global_code":"87G8M3J7+72"
+            },
+            "rating":5.0,
+            "reference":"ChIJ8XSF-e1bwokRRCEP1K4rcL4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"144 Decatur Street, Brooklyn",
+            "CBG":360470273003,
+            "Radius":147.8424328621
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6795326,
+                        "lng":-73.9364765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6809582303,
+                              "lng":-73.9351201697
+                        },
+                        "southwest":{
+                              "lat":40.6782602697,
+                              "lng":-73.9378181303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fulton China",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108358361127670384042\">Patricia Pierce<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBziOHrndL8G2XU_VI-w4WDTROiYbwHWagYh3PJA1olNz-hxnL0k_DQQ-9db2ZBIXOAGUM4mgt1wqolkUvOl6dvoRGR84o0kENFKvs8jPeIQ1sJwE9EiiFVrlWKnZNEA3xCMeZFzMvwkxv-FGK_xobegPjOu8yQgnQs44OVw9Mkvmdu",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJka2cBohbwokR9hzZ6VyEv7g",
+            "plus_code":{
+                  "compound_code":"M3H7+RC Brooklyn, NY, USA",
+                  "global_code":"87G8M3H7+RC"
+            },
+            "rating":3.6,
+            "reference":"ChIJka2cBohbwokR9hzZ6VyEv7g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"1610 Fulton Street, Brooklyn",
+            "CBG":360470273003,
+            "Radius":147.8424328621
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4182688,
+                        "lng":-71.0065806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4196547303,
+                              "lng":-71.0053190697
+                        },
+                        "southwest":{
+                              "lat":42.4169567697,
+                              "lng":-71.0080170303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"B.W.'s Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115622243561024473339\">Ivan B.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBSoWgAnXmr4Iu6Gjr6-UPaGpp4EYBrt5kMF_oiUrjvU-1PUKFSvx7VPc2ERp95uxInJKcz6yT5SAZ8dh2mQJu4d58az8VoYM2j7dMkUyrDsEvobfkTzIepICd8yHhw8urznrDDiy78R1ONz9H03_NIUqe1KuGVNShDsh9bIGS8cwQ",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJsS58av9x44kRCwiL-ZEifN8",
+            "plus_code":{
+                  "compound_code":"CX9V+89 Revere, MA, USA",
+                  "global_code":"87JCCX9V+89"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJsS58av9x44kRCwiL-ZEifN8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":176,
+            "vicinity":"843 Broadway, Revere",
+            "CBG":250251704003,
+            "Radius":242.0873010187
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4182672,
+                        "lng":-71.0065726
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4196540803,
+                              "lng":-71.0053149697
+                        },
+                        "southwest":{
+                              "lat":42.4169561197,
+                              "lng":-71.0080129303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"B&M\u2019s Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2436,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100981311966374030742\">B&amp;M\u2019s Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECF9_yBmcmKBIhI6UUE_U_891UlnIPUfMHw9leQ4u6Dtql080lzFI9cpSng1s5rKH5j6tWnq5r4BXGqiSTScb8k7wtT9d4CtYFLS8EQPQ6En3bvWsLStj-a15S2eaxAoEBxKYlJY7wu1q9cWDb8v4DqEUmAilaZLnWRrxX2B7qfOSkq",
+                        "width":1125
+                  }
+            ],
+            "place_id":"ChIJFWIaCUFx44kR8DXKT6nOf8w",
+            "plus_code":{
+                  "compound_code":"CX9V+89 Revere, MA, USA",
+                  "global_code":"87JCCX9V+89"
+            },
+            "price_level":null,
+            "rating":4.7,
+            "reference":"ChIJFWIaCUFx44kR8DXKT6nOf8w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"843 Broadway, Revere",
+            "CBG":250251704003,
+            "Radius":242.0873010187
+      }
+]

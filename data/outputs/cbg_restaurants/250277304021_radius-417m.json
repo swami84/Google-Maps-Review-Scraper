@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2848035,
+                        "lng":-71.79157
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2861662803,
+                              "lng":-71.7901615697
+                        },
+                        "southwest":{
+                              "lat":42.2834683197,
+                              "lng":-71.7928595303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Salt & Pepper",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103898522219670733399\">San Ai<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAjch3f5HGBV4jLQY5_RQOzr51wrh7I42yz371CVj7i-lCybCO3g6vaU-nmqlv3ha9ZZiN3CcTd0P6yuQNfR8FI0vLf-OKgp_tYu3DV7I6HTQEXzgLvMD1vXM6wKC85XxU0eL_TgHpTTg7RI2ycks_zRwO8ozdc-k__AFS4tCz-scQR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJjaonqrQH5IkRUmUsIXPP7Xk",
+            "plus_code":{
+                  "compound_code":"76M5+W9 Worcester, MA, USA",
+                  "global_code":"87JC76M5+W9"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJjaonqrQH5IkRUmUsIXPP7Xk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":369,
+            "vicinity":"268 Lincoln Street, Worcester",
+            "CBG":250277304021,
+            "Radius":416.5125540591
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.284734,
+                        "lng":-71.791209
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2860829803,
+                              "lng":-71.7898600197
+                        },
+                        "southwest":{
+                              "lat":42.2833850197,
+                              "lng":-71.7925579803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lincoln House of Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100553691296786730884\">Elijah Mercadante<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECl9JTpvZ039A-78YPJsIWjeOExdQY1GRotg3StDEyu82_8YWPm8DYwgavj6lqDwY38oBj0uCEOBSn1Xxe7iMNcESHa7h7ESEl8dqQYAs3wVhJ3OOTqdc5AtLypxnqFUao_Q93zxg8MxH050dVe352PpW833mWobKprbXRQdPrBhb8Z",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJm1TtrbQH5IkRbtwtsCrfRIk",
+            "plus_code":{
+                  "compound_code":"76M5+VG Worcester, MA, USA",
+                  "global_code":"87JC76M5+VG"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJm1TtrbQH5IkRbtwtsCrfRIk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":152,
+            "vicinity":"273 Lincoln Street, Worcester",
+            "CBG":250277304021,
+            "Radius":416.5125540591
+      }
+]

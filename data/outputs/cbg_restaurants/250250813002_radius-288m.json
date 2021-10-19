@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3229395,
+                        "lng":-71.0993686
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3241763803,
+                              "lng":-71.0980202697
+                        },
+                        "southwest":{
+                              "lat":42.3214784197,
+                              "lng":-71.1007182303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jamaica Mi Hungry",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100998205830746333309\">Jamaica Mi Hungry<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA0sbJB1wggWvK-Z5QN7KB-5YFYCFhPvKweeG9ypS4q_XeE9V-CeO6m3efv6-hbrM1owmx8qxLSL4kGP-APW2KJFqu39M1qBHHZekjbGWvW9u9de7j_HufuKyIn_iw1eHGs7kB9SABQTGJpeWyGcDva6A1f9W4zD0_ZHAqIMWriK0Ug",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJ5cBO4VXd4okRyvva4lNWqbQ",
+            "plus_code":{
+                  "compound_code":"8WF2+57 Boston, MA, USA",
+                  "global_code":"87JC8WF2+57"
+            },
+            "rating":4.3,
+            "reference":"ChIJ5cBO4VXd4okRyvva4lNWqbQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":220,
+            "vicinity":"225 Centre Street, Boston",
+            "CBG":250250813002,
+            "Radius":287.7809343707
+      }
+]

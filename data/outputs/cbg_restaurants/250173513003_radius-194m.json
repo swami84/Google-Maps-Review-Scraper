@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3796539,
+                        "lng":-71.0917052
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3809535303,
+                              "lng":-71.0903322197
+                        },
+                        "southwest":{
+                              "lat":42.3782555697,
+                              "lng":-71.0930301803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"NU Kitchen Somerville",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112628309086184179001\">NU Kitchen Somerville<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDeNjJIVAIcFwdi-Hk19MWB7ed_rDZ5apmIzN5gGccuiAQbYaWB2biRyPj4P6WVd4T0m28Nol-NrWajHC3j9X06irW4loLdHTLOcL1eLnjecqSdpjiFPoLepEczWwdTBqO63Lk4LM0yJcnJnFLfMd1IREfPcMEtoh1wZixZvfqkdbCY",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJlYnnfclw44kRT8BeYjXUmco",
+            "plus_code":{
+                  "compound_code":"9WH5+V8 Somerville, MA, USA",
+                  "global_code":"87JC9WH5+V8"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJlYnnfclw44kRT8BeYjXUmco",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":438.0,
+            "vicinity":"195 Washington Street, Somerville",
+            "CBG":250173513003,
+            "Radius":193.6543248952
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3799841,
+                        "lng":-71.0943572
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3813441803,
+                              "lng":-71.0931170697
+                        },
+                        "southwest":{
+                              "lat":42.3786462197,
+                              "lng":-71.0958150303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Warehouse xi Somerville",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJN1A3HhJx44kR5c6GrjQK8IY",
+            "plus_code":{
+                  "compound_code":"9WH4+X7 Somerville, MA, USA",
+                  "global_code":"87JC9WH4+X7"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJN1A3HhJx44kR5c6GrjQK8IY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"11 Sanborn Court, Somerville",
+            "CBG":250173513003,
+            "Radius":193.6543248952
+      }
+]

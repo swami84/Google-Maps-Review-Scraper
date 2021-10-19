@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4740658,
+                        "lng":-71.1004273
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4753932303,
+                              "lng":-71.0992613197
+                        },
+                        "southwest":{
+                              "lat":42.4726952697,
+                              "lng":-71.1019592803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Andrea's Pizza Stoneham",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2913,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109641459826422473828\">Shaun Tufts<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDn2LuOKZBTD8RqZL_0VvqY3f7GqrHHt1y_iXME7G4c4NQMyb8OtLSypp62rBd6U6x0GNRJCXN-f387bXRacz8iHyKA2ZoKQq-NXOukEwz1bRX0C5Qb8IKx31J1wQfvPfBp1wzpGMYYfr6wIWrAzxI8Y7eqzoJcuMRxyCkaEnM_P3PZ",
+                        "width":2717
+                  }
+            ],
+            "place_id":"ChIJo2x0APd144kROgrHnZBrtsE",
+            "plus_code":{
+                  "compound_code":"FVFX+JR Stoneham, MA, USA",
+                  "global_code":"87JCFVFX+JR"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJo2x0APd144kROgrHnZBrtsE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":186,
+            "vicinity":"498 Main Street, Stoneham",
+            "CBG":250173373003,
+            "Radius":464.4092552286
+      }
+]

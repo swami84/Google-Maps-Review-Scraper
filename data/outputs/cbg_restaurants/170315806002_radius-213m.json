@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8187055,
+                        "lng":-87.6923787
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8200803803,
+                              "lng":-87.6909822697
+                        },
+                        "southwest":{
+                              "lat":41.8173824197,
+                              "lng":-87.6936802303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JEFRITA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100480583681811224692\">JEFRITA<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECtiqnj7KydBct86LZw4SD3f5iT9KGOch-l58BpVSGTWsUAF6H9XrNevGbQvAZSB3GOcN6Xi81QVxb2OpyMva6MODv1WxKpiG6BZGILti-m9ongCv0o_Y1XW0o27qi9hjt8WYZCLgL9RIdYWCMAodu93yJjv2SxPgPNkRIqGVgFc1fr",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJd-X1ah0tDogRoa7QB0Y00wI",
+            "plus_code":{
+                  "compound_code":"R895+F2 Chicago, IL, USA",
+                  "global_code":"86HJR895+F2"
+            },
+            "reference":"ChIJd-X1ah0tDogRoa7QB0Y00wI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Chicago",
+            "CBG":170315806002,
+            "Radius":213.4822113764
+      }
+]

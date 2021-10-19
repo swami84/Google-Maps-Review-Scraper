@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":36.8518096,
+                        "lng":-76.2832484
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":36.8532227303,
+                              "lng":-76.2818862697
+                        },
+                        "southwest":{
+                              "lat":36.8505247697,
+                              "lng":-76.2845842303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Intuitive Veggies",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102603868892649459963\">Intuitive veggies<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC7UEFyRr1m0Noowq4UyF8O-eKu7fgZj1IT5gwsSNihWvLsxMzyTGOiKIa5JrMfck52z-ckQljIqa7QDSyr75tKcBA-eHvoaywbKOOalUH_ZWzmi2F7TkN_gDISyM7yxc4EUyhgI1B_5SlinSf0AQRpsVhvl_l0W5xgjlc3h982q7I6",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ14bxXC2YuokRNRQrIuuv7B4",
+            "plus_code":{
+                  "compound_code":"VP28+PP Norfolk, VA, USA",
+                  "global_code":"8785VP28+PP"
+            },
+            "rating":3.7,
+            "reference":"ChIJ14bxXC2YuokRNRQrIuuv7B4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"541 Posey Lane, Norfolk",
+            "CBG":517100049002,
+            "Radius":269.8531222571
+      }
+]

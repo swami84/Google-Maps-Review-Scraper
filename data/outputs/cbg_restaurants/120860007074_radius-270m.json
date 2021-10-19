@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8555717,
+                        "lng":-80.306333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8568778303,
+                              "lng":-80.3049864697
+                        },
+                        "southwest":{
+                              "lat":25.8541798697,
+                              "lng":-80.3076844303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Asere Batidos 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEANCJ76MGwIrU7sZI2HI-gZYaFlU6ngm9-JWXE6EA4AZaDaXMlI8sxXDh5zqNfma7rQ9rqf5zZy3EW-2HN8TadZlL4tAfm639RKGooZzdrVK9r1OAzyd2BeaZdC4eQfAKb9rvH_JgPLt7ze4M342obSuOPAqYG4xoS9a9A1ERdceLGu",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJV8QL8ly72YgRonAN3trahOM",
+            "plus_code":{
+                  "compound_code":"VM4V+6F Hialeah, FL, USA",
+                  "global_code":"76QXVM4V+6F"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJV8QL8ly72YgRonAN3trahOM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"1197 West 37th Street, Hialeah",
+            "permanently_closed":null,
+            "CBG":120860007074,
+            "Radius":269.639536072
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":25.8555717,
+                        "lng":-80.306333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8568778303,
+                              "lng":-80.3049864697
+                        },
+                        "southwest":{
+                              "lat":25.8541798697,
+                              "lng":-80.3076844303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rancho Algibe",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105367923736451441446\">Rancho Algibe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1Nj-7lgAbaVqsIIAKgQpBOAItvXZWQEPVHF2sZVs1UMHAjSwd3DqFepiV2JGH9L16nOUB9o7PUIXfU4Nmc8kpKOd1BJX6yBw-aX54ruRiaJSVv-H27S-_m70nyy2PC7cC-R24WM7gClWXeYlBl7-59KnBCv03kecggsgTPCKlZmsh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ_TrU2-S72YgR-DR2UekXQ0U",
+            "plus_code":{
+                  "compound_code":"VM4V+6F Hialeah, FL, USA",
+                  "global_code":"76QXVM4V+6F"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJ_TrU2-S72YgR-DR2UekXQ0U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":150,
+            "vicinity":"1197 West 37th Street, Hialeah",
+            "permanently_closed":true,
+            "CBG":120860007074,
+            "Radius":269.639536072
+      }
+]

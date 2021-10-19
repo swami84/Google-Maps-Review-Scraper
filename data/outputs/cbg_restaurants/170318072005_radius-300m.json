@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0403973,
+                        "lng":-87.7291412
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0418348803,
+                              "lng":-87.7278837697
+                        },
+                        "southwest":{
+                              "lat":42.0391369197,
+                              "lng":-87.7305817303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"My Little Kitchen Mexican Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103294255836923058116\">My Little Kitchen Mexican Food<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAKxotVqxrlBo2MkLZhcltuJVYLhRGxvIAWr8NVvk-3eH8oTDMiBlGrZ2X2Mx8CReAlABOpFULXvPM8CfK8rpjiNAWWAxCxuD--2J3WDTG8FkGF9GLoxeHW5XDJqoHKteLoJEJlN36_jmlJCTP7ERNHJFAOlMCr0CAFuUQmpJZWWhm1",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJdRpxHHbPD4gRDPH1EQHv-Iw",
+            "plus_code":{
+                  "compound_code":"27RC+58 Skokie, IL, USA",
+                  "global_code":"86JJ27RC+58"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJdRpxHHbPD4gRDPH1EQHv-Iw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":167,
+            "vicinity":"4031 Dempster Street, Skokie",
+            "CBG":170318072005,
+            "Radius":299.5660744681
+      }
+]

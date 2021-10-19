@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8809033,
+                        "lng":-87.8384943
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8823077303,
+                              "lng":-87.8373596197
+                        },
+                        "southwest":{
+                              "lat":41.8796097697,
+                              "lng":-87.8400575803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Shark Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118285680842423796558\">Michael Johnson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECt9Vg8M5ES6ISISndjus3tsRjn0Qic9hionvm4pBoK6iCgFN4zn7auMMUXwmGhyQpXkCFMjLODq17FkWdP7k9aWy5YF11ObZxSpPKAfKNGtSo3N38mnK_-xFgka1FBacbCQvf__I4PMbijart8kfRpGvIjBEY7Cm6evR1BMpl29e0J",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJyx5Sc0E1DogRj0Cg4W7d4s0",
+            "plus_code":{
+                  "compound_code":"V5J6+9J Maywood, IL, USA",
+                  "global_code":"86HJV5J6+9J"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJyx5Sc0E1DogRj0Cg4W7d4s0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"715 South 5th Avenue, Maywood",
+            "CBG":170318175004,
+            "Radius":327.3879906552
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8808987,
+                        "lng":-87.8392811
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8821752803,
+                              "lng":-87.8379847697
+                        },
+                        "southwest":{
+                              "lat":41.8794773197,
+                              "lng":-87.8406827303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"T & JJ's Supreme Steaks & Catering Service",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109970738201543075587\">Stormybman<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGdk_WwECmIoGDpKLToc_zdq-obYkIUQr1Txpm86yMK7sOvT9IzulgOg7aUnzNN97139ReggKwnBo6pVPuYQ7e1D-Y8QO9YajJBPKxCXVHar8cHvddw0y-zglOcRUkdXBzuWhJC5rP4WJlEJE4hNnVU7JToKboR1d96bIkBHNurLD7",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJVbCclUE1DogRwsftecfdXFQ",
+            "plus_code":{
+                  "compound_code":"V5J6+97 Maywood, IL, USA",
+                  "global_code":"86HJV5J6+97"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJVbCclUE1DogRwsftecfdXFQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":260,
+            "vicinity":"718 South 5th Avenue, Maywood",
+            "CBG":170318175004,
+            "Radius":327.3879906552
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9764839,
+                        "lng":-87.8372661
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9778288803,
+                              "lng":-87.8357848197
+                        },
+                        "southwest":{
+                              "lat":41.9751309197,
+                              "lng":-87.8384827803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"China Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114174631052098915233\">\ubd88\uace0\uba54<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAYUDd0a929yqT13oiCNcpf3XcAAH4WiXw-en0k8ckXyxJv9xfT__CMxUQtVRSkd-ItXsm_l-NyMKzSl7oAmdywvIh98qiDNefy1k1NtsQ-YZrap5m__HSvVz2nBY8jjDsRteIKPnC45T5IDDt2MSOBQ_q3SiX7hjFTH3GF2MuJhKq0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqdi_oR_KD4gRlD9up15CHBo",
+            "plus_code":{
+                  "compound_code":"X5G7+H3 Chicago, IL, USA",
+                  "global_code":"86HJX5G7+H3"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJqdi_oR_KD4gRlD9up15CHBo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":223,
+            "vicinity":"5332 North Cumberland Avenue, Chicago",
+            "CBG":170317608033,
+            "Radius":197.7957274588
+      }
+]

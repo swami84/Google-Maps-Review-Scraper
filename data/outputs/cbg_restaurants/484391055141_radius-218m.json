@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6704521,
+                        "lng":-97.4005341
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6718470303,
+                              "lng":-97.3990667197
+                        },
+                        "southwest":{
+                              "lat":32.6691490697,
+                              "lng":-97.4017646803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110132484957225394849\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB8FnwmKyIv0gM24Z41d6nUbDy2uyubGLNplBf22p6xD2rfWgNPDo6lzWo7oDNYrO7F6mLVv_gK_CSyR4FYbf307l4oUbbmRZLQe9w8sO4ENGGAdZ7aPgo31COiEvcFnqHG9EGwyHHm4r7Eumz7G5yXVsxXZO9qBzDEh7zFwjEG_6yg",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJkWaN9HltToYR9VTvNexKu0I",
+            "plus_code":{
+                  "compound_code":"MHCX+5Q Fort Worth, TX, USA",
+                  "global_code":"8644MHCX+5Q"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJkWaN9HltToYR9VTvNexKu0I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":142,
+            "vicinity":"5416 South Hulen Street, Fort Worth",
+            "CBG":484391055141,
+            "Radius":218.0357344601
+      }
+]

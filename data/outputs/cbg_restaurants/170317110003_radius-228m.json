@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7361697,
+                        "lng":-87.6507656
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7374102303,
+                              "lng":-87.6494157697
+                        },
+                        "southwest":{
+                              "lat":41.7347122697,
+                              "lng":-87.6521137303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maxwell Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108665615930165178449\">Marc Schlage<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECgSXfDm139728SV11FseoYJypXm_T5yLi_DWBL_9nI1Vf8RBXccrgwLiDTqfado97C9VrVE_jpfZE_FfgLGzudlpLbpwTLiGvOXnHBWp2DYGW2j3EB0ZEmoWB1yFYCA8YmzafPgdylQKpKXYajfJ6omSf0pUf0P88YXswX8ZaQ29BX",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJQeUEeIclDogRumNQVDU4Bvo",
+            "plus_code":{
+                  "compound_code":"P8PX+FM Chicago, IL, USA",
+                  "global_code":"86HJP8PX+FM"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJQeUEeIclDogRumNQVDU4Bvo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"1058 West 87th Street, Chicago",
+            "CBG":170317110003,
+            "Radius":228.153831038
+      }
+]

@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7734491,
+                        "lng":-87.588449
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7747213803,
+                              "lng":-87.5870850697
+                        },
+                        "southwest":{
+                              "lat":41.7720234197,
+                              "lng":-87.5897830303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tasty Spot Food & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100518409411864402766\">Tasty Spot Food &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPWLnwKqO97uz9lVvgl1-49aCpfGZYKu0lBttbxej6KYsSD_VcTcxTBQDLVz5-kH0dE9ueFUn8XhlHinrE1RnDrCLuWtkr33wctQ0Dxu8QaZ5ey8PXjCOz_syXrvLbEmJiikkIupgApzY2cPr6is_5AK0hZD9J3-jkfFJmgnlDQpiI",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJY9SI2rUpDogRtaK_Wr2B234",
+            "plus_code":{
+                  "compound_code":"QCF6+9J Chicago, IL, USA",
+                  "global_code":"86HJQCF6+9J"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJY9SI2rUpDogRtaK_Wr2B234",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "convenience_store",
+                  "grocery_or_supermarket",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"1508 East 67th Street, Chicago",
+            "CBG":170318439002,
+            "Radius":227.6384368275
+      }
+]

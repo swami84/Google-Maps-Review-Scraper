@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7654047,
+                        "lng":-73.86196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7666825303,
+                              "lng":-73.8605811197
+                        },
+                        "southwest":{
+                              "lat":40.7639845697,
+                              "lng":-73.8632790803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108275544038416025794\">Daniel Donnelly<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJcTd_mH4_wAUVHf2uD1GX_IRrqD24vdq3MXlTUtwJwAT6ienTMdPyvjqymUGNowtogVLBK1M3KT8FEbzRTX0cUAKvjSpXXdope-7HLCZyWT7MssS0HOzebHoc2wcyPS2iA7dd0sF4PfbFJGU44GjYQUUqQpTCXLkqrg-EHjAyDGG1",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJV4aQ3JlfwokRP8l21pdIKiM",
+            "plus_code":{
+                  "compound_code":"Q48Q+56 New York, NY, USA",
+                  "global_code":"87G8Q48Q+56"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJV4aQ3JlfwokRP8l21pdIKiM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":74,
+            "vicinity":"Gulf Gas Station, 10801 Grand Central Parkway, Queens",
+            "CBG":360810371001,
+            "Radius":244.2843171438
+      }
+]

@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":25.789748,
+                        "lng":-80.147771
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7915262803,
+                              "lng":-80.1464404197
+                        },
+                        "southwest":{
+                              "lat":25.7888283197,
+                              "lng":-80.1491383803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Costa Brava Restaurant",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115114304782884086786\">Costa Brava Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAnzl-2zPV4oKGJnBKipE3RwIvtyJsNSxSGVB7OrwSb9Rg4cmHvDyUdKGx0sFUCxmNXGxxS8Zid8J7F65KTfIH54OqjYWTWp1AOXZ2xZNypTUVhTlzQ6AUZy0Cn0LWqNaZtXTyj3m3KAy4ncGOa6YsLCGcNzwiFuBgmzc9gbk4XrcGZ",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ70jcr3y02YgR0rTv_4EQ9WI",
+            "plus_code":{
+                  "compound_code":"QVQ2+VV Miami Beach, FL, USA",
+                  "global_code":"76QXQVQ2+VV"
+            },
+            "reference":"ChIJ70jcr3y02YgR0rTv_4EQ9WI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"11 Island Avenue, Miami Beach",
+            "CBG":120860041024,
+            "Radius":152.4627749598
+      }
+]

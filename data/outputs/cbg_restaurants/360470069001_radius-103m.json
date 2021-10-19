@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6856255,
+                        "lng":-73.990996
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6870065803,
+                              "lng":-73.9897327697
+                        },
+                        "southwest":{
+                              "lat":40.6843086197,
+                              "lng":-73.9924307303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Black Forest Brooklyn - Smith Street",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2322,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115650723292464491032\">Disa Bortle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECG-hrJuMTNVAgqwxF7zaVyBXWJ4fsWDqsDJA4roDFGE6RI0UGexWoknUpnD0SFrRJ-WqHfz5JB0erbljKnRFEkz-CdgZbd4SR9NT8LH_qFyI-XYlf9ijoOjFKjZRrW63LDDINjNRSRV2efL9AS115Wi9uiNvazvqhXxiAYGdxdaTq2",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJV2vKuVFawokRhpb9MS8Dljg",
+            "plus_code":{
+                  "compound_code":"M2P5+7J New York, NY, USA",
+                  "global_code":"87G8M2P5+7J"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJV2vKuVFawokRhpb9MS8Dljg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":394,
+            "vicinity":"181 Smith Street, Brooklyn",
+            "CBG":360470069001,
+            "Radius":102.7785575054
+      }
+]

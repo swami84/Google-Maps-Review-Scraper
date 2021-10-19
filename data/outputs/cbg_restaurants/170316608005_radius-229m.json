@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7733753,
+                        "lng":-87.7033055
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7747388303,
+                              "lng":-87.7018056197
+                        },
+                        "southwest":{
+                              "lat":41.7720408697,
+                              "lng":-87.7045035803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"POZOLERIA IGUALA#2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114866173557626133779\">POZOLERIA IGUALA#2<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAG4WtDkfS59gPhXbdqNsqfU7XCq1N35Kapyl9d6bZZ96VH2araK-HsOd-5xacqjzQGz9fvaGCQgM_wOtnmABxtEp_hnreo5nFHLFUv383F9cJjSkenvLcr7qv400cInBo4yGKYT5RbfZCZRZHaq25Zb7Ze6SdeK0b4cSp3xdvvIIQf",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJj3HW2_AxDogR0voxoY2xbQc",
+            "plus_code":{
+                  "compound_code":"Q7FW+9M Chicago, IL, USA",
+                  "global_code":"86HJQ7FW+9M"
+            },
+            "rating":4.6,
+            "reference":"ChIJj3HW2_AxDogR0voxoY2xbQc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"6600 South Kedzie Avenue, Chicago",
+            "CBG":170316608005,
+            "Radius":229.0262275476
+      }
+]

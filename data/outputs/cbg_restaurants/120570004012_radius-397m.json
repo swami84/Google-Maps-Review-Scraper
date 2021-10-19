@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0509618,
+                        "lng":-82.4510923
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0523108303,
+                              "lng":-82.4497264197
+                        },
+                        "southwest":{
+                              "lat":28.0496128697,
+                              "lng":-82.4524243803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Cunado",
+            "place_id":"ChIJyZImKx_HwogRjEcuMTiBYhw",
+            "plus_code":{
+                  "compound_code":"3G2X+9H Tampa, FL, USA",
+                  "global_code":"76WV3G2X+9H"
+            },
+            "reference":"ChIJyZImKx_HwogRjEcuMTiBYhw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"11309 North Nebraska Avenue, Tampa",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":120570004012,
+            "Radius":397.2932352953
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0512559,
+                        "lng":-82.4507972
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0527191303,
+                              "lng":-82.4494859197
+                        },
+                        "southwest":{
+                              "lat":28.0500211697,
+                              "lng":-82.4521838803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Peking Fast Food",
+            "place_id":"ChIJr6mTINjHwogR7nDAVurzyzE",
+            "plus_code":{
+                  "compound_code":"3G2X+GM Tampa, FL, USA",
+                  "global_code":"76WV3G2X+GM"
+            },
+            "reference":"ChIJr6mTINjHwogR7nDAVurzyzE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"11303 North Nebraska Avenue, Tampa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108053252509265891917\">Peking Fast Food<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDYH81txCsY7Zf0tiGql_61xgE6NgYqg_FJydW2NrA-p8iba41oI8rgRy3cn6ucrvLIicpaJpboiGQBAv8NTBa8LKwCzSR2mv7KkZKewNcN-6pX-JX-YcQGeLDD86K9TxggBmS53WoLkumGXGUlfEDxUILScNKFfmsCvX2hcYg7_R-p",
+                        "width":1121
+                  }
+            ],
+            "rating":4.3,
+            "user_ratings_total":34.0,
+            "CBG":120570004012,
+            "Radius":397.2932352953
+      }
+]

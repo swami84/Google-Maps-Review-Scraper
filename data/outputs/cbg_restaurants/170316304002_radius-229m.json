@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.793989,
+                        "lng":-87.694543
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7951847803,
+                              "lng":-87.6931770197
+                        },
+                        "southwest":{
+                              "lat":41.7924868197,
+                              "lng":-87.6958749803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taquer\u00eda 4 Hermanos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107147726105840081972\">Taquer\u00eda 4 Hermanos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECg70J_c8UJLkiSkBrzuK0zWngGTLb-0ctBATU8CdJzXQFc5FVAguh5S1j5FKz3A8RPOc2cAWZR4noUFMyODRCbQX57OcwzyqJ2XOnl7-8TnY_RTBMdPOBTLWIXJclRGmeB_V635Halq7onRer23FT5P3QuEw_WaGuQ-HBUgFtHztr3",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJgyVnGiEuDogRVqqw7l2VJxg",
+            "plus_code":{
+                  "compound_code":"Q8V4+H5 Chicago, IL, USA",
+                  "global_code":"86HJQ8V4+H5"
+            },
+            "rating":4.7,
+            "reference":"ChIJgyVnGiEuDogRVqqw7l2VJxg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":224,
+            "vicinity":"2820 West 55th Street, Chicago",
+            "CBG":170316304002,
+            "Radius":228.7828762047
+      }
+]

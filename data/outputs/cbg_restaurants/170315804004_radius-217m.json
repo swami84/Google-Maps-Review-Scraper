@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8104379,
+                        "lng":-87.7104885
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8118208303,
+                              "lng":-87.7090571697
+                        },
+                        "southwest":{
+                              "lat":41.8091228697,
+                              "lng":-87.7117551303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Leon's Barbecue",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103861524757150956025\">ruben fernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOyyG2wRPRZAOAOKhuEmkImBkF7_cn4jJNSLLTxG3B8BZzIDHjuJcLAPOtvEtP32vsVdn--zhbSaAXULSDmOdXjYnvqBEMUdPoqDjfLTriKW0jf270nN2nN3nXli7AJpFPjXfzMfyfWV798aqfWcoOIqkuG0J1KaZMQCugMs16_eWi",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJ_WGKBfExDogRLv6HGxHFUsI",
+            "plus_code":{
+                  "compound_code":"R76Q+5R Chicago, IL, USA",
+                  "global_code":"86HJR76Q+5R"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ_WGKBfExDogRLv6HGxHFUsI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":709,
+            "vicinity":"4550 South Archer Avenue, Chicago",
+            "CBG":170315804004,
+            "Radius":217.4788021125
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8120967,
+                        "lng":-87.7078323
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8133925803,
+                              "lng":-87.7063953197
+                        },
+                        "southwest":{
+                              "lat":41.8106946197,
+                              "lng":-87.7090932803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Cangrejo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111009732587993494380\">ana c. hernandez casillas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDflyyhbjbVMv1OXa7GP81ZndL7Rtf-AOc296LOJMxhGxEDnlUNrc3Dep3Thy5hxQXf703gPbEv1V_3n3eHkLcyAF0au8mXv1YtXK980z8c4UZ6F_eNRgFwH6bzguI71h4o7a7SA5oiv2Ekm5i42Deyrj75kf7YVvwD2N0ZyXFAc0FJ",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJ--FstJkxDogRHJ03M57gUqo",
+            "plus_code":{
+                  "compound_code":"R76R+RV Chicago, IL, USA",
+                  "global_code":"86HJR76R+RV"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ--FstJkxDogRHJ03M57gUqo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":700,
+            "vicinity":"4472 South Archer Avenue, Chicago",
+            "CBG":170315804004,
+            "Radius":217.4788021125
+      }
+]

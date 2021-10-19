@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9264593,
+                        "lng":-77.0372966
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9278516803,
+                              "lng":-77.0358949697
+                        },
+                        "southwest":{
+                              "lat":38.9251537197,
+                              "lng":-77.0385929303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pica Taco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":912,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100053096321232107759\">Pica Taco<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA89j795yn8iHItE22REapwHo87L36EUA2M6IeVef_9jCdkXuF1CMtI-13vYMjd4wbOj3c470GsXmzNIlKm-plctO1S_0uXDRWTyHyVPsXvP7CfurX0Sf5RW1N7POHvgH4lXpiGpBK2UYAQZ3yslOzjpReooGQ4L0Dpu-A7OQgLQExV",
+                        "width":1620
+                  }
+            ],
+            "place_id":"ChIJey2_Z_62t4kRRewHW1Vekz8",
+            "plus_code":{
+                  "compound_code":"WXG7+H3 Washington, DC, USA",
+                  "global_code":"87C4WXG7+H3"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJey2_Z_62t4kRRewHW1Vekz8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":197,
+            "vicinity":"1629 Columbia Road Northwest, Washington",
+            "CBG":110010039001,
+            "Radius":120.4475391305
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7579758,
+                        "lng":-87.6055301
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7593288303,
+                              "lng":-87.6040903697
+                        },
+                        "southwest":{
+                              "lat":41.7566308697,
+                              "lng":-87.6067883303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Daddy O Jerkpit",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111844619849135006656\">Keith Washington<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDNZ9HQePm_3oRMuQJ3ESVYaAaMnp_yYNi7zBFROGQw5yiPOFiqQ21bzmuIF7pCn_g6w8bcxeWhgX4BKyo-COL51mWSnes_cnMC_q9dZGF2vyZJFmynMOG3TXE96-Ezc45-Y25XWBEErGpIENgzXTsE6oywdC9xP7tkhx1HTzurW8Tz",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJp94fHMcoDogR3675-PIbeiA",
+            "plus_code":{
+                  "compound_code":"Q95V+5Q Chicago, IL, USA",
+                  "global_code":"86HJQ95V+5Q"
+            },
+            "rating":3.9,
+            "reference":"ChIJp94fHMcoDogR3675-PIbeiA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"7518 South Cottage Grove Avenue, Chicago",
+            "CBG":170316914001,
+            "Radius":198.1285696053
+      }
+]

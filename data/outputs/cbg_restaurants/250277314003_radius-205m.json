@@ -1,0 +1,117 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2546483,
+                        "lng":-71.8147019
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2560437303,
+                              "lng":-71.8133021197
+                        },
+                        "southwest":{
+                              "lat":42.2533457697,
+                              "lng":-71.8160000803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"PennyWise Check Cashing",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":413,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103198412744392745474\">PennyWise Check Cashing<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBY0NVC00-XmNt-Pj2SHZvWA7oFj631LdQSWj8AdA0YW3MDSp1xpZNVOmkpWUo-Ec2Io-dE_Yz-RetFG60w_gX_daX9McZh7SR88M_-X7NAnkFjaFcfJhUwocT1TNXGMMCaoh0m-MNZzV6qA1YIsLSN0E6FqcMVHiP26XW1JYHYC5bZ",
+                        "width":620
+                  }
+            ],
+            "place_id":"ChIJYwlnUoEG5IkRZ01NgmVNQQs",
+            "plus_code":{
+                  "compound_code":"753P+V4 Worcester, MA, USA",
+                  "global_code":"87JC753P+V4"
+            },
+            "rating":3.8,
+            "reference":"ChIJYwlnUoEG5IkRZ01NgmVNQQs",
+            "scope":"GOOGLE",
+            "types":[
+                  "atm",
+                  "grocery_or_supermarket",
+                  "meal_takeaway",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":49,
+            "vicinity":"3 May Street, Worcester",
+            "price_level":null,
+            "CBG":250277314003,
+            "Radius":204.9018196058
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2553163,
+                        "lng":-71.8131454
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2566068303,
+                              "lng":-71.8117798697
+                        },
+                        "southwest":{
+                              "lat":42.2539088697,
+                              "lng":-71.8144778303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maria's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114330542953226824066\">Kenjy Optimisitc<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECmRHeoqenQYAhmT8A_jIcJn9296aWFjT_yUatiSoB2tpK1RB71CbDS3n2GTdhIgdWBw7phmtiKuC_Cb65QaGJqH8-zT1hMRbXgRGAcMqShkJbmASWIF0w0HAVKPMU-RALLEz5wwyj9IYMF7pK2TIM3xGRRlC7cE1a-q4Qr6tqnqXNz",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJIdyd0IYG5IkRMWfozfR0m3c",
+            "plus_code":{
+                  "compound_code":"754P+4P Worcester, MA, USA",
+                  "global_code":"87JC754P+4P"
+            },
+            "rating":4.3,
+            "reference":"ChIJIdyd0IYG5IkRMWfozfR0m3c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":550,
+            "vicinity":"826 Main Street, Worcester",
+            "price_level":1.0,
+            "CBG":250277314003,
+            "Radius":204.9018196058
+      }
+]

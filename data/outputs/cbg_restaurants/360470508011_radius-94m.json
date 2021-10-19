@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6514212,
+                        "lng":-73.9627816
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6527924303,
+                              "lng":-73.9615302697
+                        },
+                        "southwest":{
+                              "lat":40.6500944697,
+                              "lng":-73.9642282303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Caton Deli & Luncheonette",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113502460817474383697\">Abdul Alhazred<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAOJCDJl5O5wYLG-4B6Zt3huao1BfGo5BQhpoUVioqSp0zvrpEOs4uMnVc2dkHgUgKp7NNiArxDImSv_mTAF8pv-8l6y4aqsneYKkwlbTOg3b9Y8b2BysKniCeJqbF0Hvp3htq1_Rg6t8rURWr67XKMshew1oF8s1hziDKwrDX_Q4m8",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ2TvYTT5bwokRe7OGtuXul40",
+            "plus_code":{
+                  "compound_code":"M22P+HV Brooklyn, NY, USA",
+                  "global_code":"87G8M22P+HV"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ2TvYTT5bwokRe7OGtuXul40",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"1818 Caton Avenue, Brooklyn",
+            "CBG":360470508011,
+            "Radius":94.1824909327
+      }
+]

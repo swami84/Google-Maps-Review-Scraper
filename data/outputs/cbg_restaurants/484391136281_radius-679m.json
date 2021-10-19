@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8366,
+                        "lng":-97.11332
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8379896803,
+                              "lng":-97.1121144697
+                        },
+                        "southwest":{
+                              "lat":32.8352917197,
+                              "lng":-97.1148124303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Bowlero Euless",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":667,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114362869291453097649\">Bowlero Euless<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB8F1VFxDZDeunzNFv_l_Te0DBI9jz2NWlx02Y7Twar-uTt7ZvHR3qWFJrtG_n8Fh_fHnXbwysDVY_VeZ2S7rhLxyA7MJKA0qytM9Bu83IzWXX_0gB9KFF6I2qiO1vxJ7pwKD3vCRyrWgucKZpFny0LO6rs-VkCVjtBfatIPqtnCM6P",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJL94wEcp_ToYRNT0HRbGdd3Q",
+            "plus_code":{
+                  "compound_code":"RVPP+JM Euless, TX, USA",
+                  "global_code":"8644RVPP+JM"
+            },
+            "rating":4.2,
+            "reference":"ChIJL94wEcp_ToYRNT0HRbGdd3Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "bowling_alley",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1232,
+            "vicinity":"1901 West Airport Freeway, Euless",
+            "CBG":484391136281,
+            "Radius":678.8804431093
+      }
+]

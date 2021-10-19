@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.780527,
+                        "lng":-87.6067744
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7820029303,
+                              "lng":-87.6050021697
+                        },
+                        "southwest":{
+                              "lat":41.7793049697,
+                              "lng":-87.6077001303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Unity Foods",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJJZ4zdCYpDogRxG3NkOHLljk",
+            "plus_code":{
+                  "compound_code":"Q9JV+67 Chicago, IL, USA",
+                  "global_code":"86HJQ9JV+67"
+            },
+            "rating":3,
+            "reference":"ChIJJZ4zdCYpDogRxG3NkOHLljk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"726 East 63rd Street, Chicago",
+            "CBG":170314205002,
+            "Radius":198.1165198704
+      }
+]

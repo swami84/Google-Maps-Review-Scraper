@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7479568,
+                        "lng":-73.9709044
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7493619803,
+                              "lng":-73.9696945697
+                        },
+                        "southwest":{
+                              "lat":40.7466640197,
+                              "lng":-73.9723925303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yassine Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110638760435765027800\">won park<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEByRUKTSQMi2CznFSgi_aNFtobyXQ9hoP9zm85DgjiZPtN715l6RY01mHMbP-6jl9Deut3yesehSX9UlS2LrScs6iksSBGoVRzoNydgo1Yv-gQBM0hDZmjf7TAjLFebLeQZFPRbTCCXlliZRUUhNL6KOp0CPHLecUMZRIZyksUlmLRN",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJHc3SCiNZwokR4MttIVsgtQk",
+            "plus_code":{
+                  "compound_code":"P2XH+5J New York, NY, USA",
+                  "global_code":"87G8P2XH+5J"
+            },
+            "rating":3.7,
+            "reference":"ChIJHc3SCiNZwokR4MttIVsgtQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"5 Tudor City Place, New York",
+            "CBG":360610088007,
+            "Radius":38.136044236
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3146454,
+                        "lng":-71.1039954
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3159540303,
+                              "lng":-71.1027792697
+                        },
+                        "southwest":{
+                              "lat":42.3132560697,
+                              "lng":-71.1054772303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Ula Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106400660685362943318\">Leon Dorado<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBQQ9_QghlrlYxLBfWg_OxwX4fLRiGzF_q8zHLbFwo-3p5TKRt4y1bl3yk3aJQAn6QqE2M7_16VZP4qSXMXSJKkhyzHhQKhGi3YvlB0tGnD54NMhAYPsJZIABnAx-l4EYdT2qquJ3E-nQnY56XyEuTUUN-IKmMtGB_SSW9sTizGakGN",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJWYB2dHt544kRz0iK2CaKUsk",
+            "plus_code":{
+                  "compound_code":"8V7W+VC Jamaica Plain, Boston, MA, USA",
+                  "global_code":"87JC8V7W+VC"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJWYB2dHt544kRz0iK2CaKUsk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":413,
+            "vicinity":"284 Amory Street, Jamaica Plain",
+            "CBG":250251203014,
+            "Radius":273.4434321289
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3144073,
+                        "lng":-71.103012
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3158348303,
+                              "lng":-71.1018632197
+                        },
+                        "southwest":{
+                              "lat":42.3131368697,
+                              "lng":-71.1045611803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fresh City",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":683,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104654475338869580614\">Fresh City<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDwWObgqSUZGb2HK8ZjAM9QUBNtYrG2YUx0E9sK210pATlmFjFpL2s3_U41pm0DIEAnvroXaFO9zqTVtCCiQnDasvkcMMVgsBGtqH6_MfdJzbe7Ie3slQ8C6638ufD8LJqKy6YOIwzkNPKMnNANwDGi9iS3D5Uheg2z_dLNp1rksxnC",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJ2UtGQYaI44kRA1SFayemySw",
+            "plus_code":{
+                  "compound_code":"8V7W+QQ Boston, MA, USA",
+                  "global_code":"87JC8V7W+QQ"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ2UtGQYaI44kRA1SFayemySw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":214,
+            "vicinity":"31 Germania Street, Boston",
+            "CBG":250251203014,
+            "Radius":273.4434321289
+      }
+]

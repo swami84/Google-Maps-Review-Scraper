@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8876715,
+                        "lng":-87.8641153
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8891600303,
+                              "lng":-87.8626162697
+                        },
+                        "southwest":{
+                              "lat":41.8864620697,
+                              "lng":-87.8653142303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Shark's Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100992045054713527367\">Marquest Houston<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDu5BWWWa8dLuqC9ruAc3ZVEg2L9QqxBQy6NI9yxSwuwynn5szF5y5F6XXDRwxzGeeqlgHLSPsr1FuNF26oPFlSDPyQHCQxaDjkj2_NBLAZP5dN-JStsd_5FMhIp3PTrge5pngBFs-DJdp4nQAmI8x1QQBV8JJCB-t7_b7YuZ59C53z",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ8zxpI6VKDogRdjPo2xsp6Lw",
+            "plus_code":{
+                  "compound_code":"V4QP+39 Bellwood, IL, USA",
+                  "global_code":"86HJV4QP+39"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ8zxpI6VKDogRdjPo2xsp6Lw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":476,
+            "vicinity":"2500 Saint Charles Road, Bellwood",
+            "CBG":170318170001,
+            "Radius":239.1764610187
+      }
+]

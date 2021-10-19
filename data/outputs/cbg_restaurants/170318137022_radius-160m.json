@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.851689,
+                        "lng":-87.7461861
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8528427803,
+                              "lng":-87.7451042697
+                        },
+                        "southwest":{
+                              "lat":41.8501448197,
+                              "lng":-87.7478022303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cocula Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106334281601152063894\">Veronica Febres<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECMaOM322O-wTLEe9EtYOypBV-vH8bxKY-pFM3skWI9PbPYozlAvRqnzo7x_Z1Xhe76zYTuej4iFMtEUbF-5BkBl4711FDZ2xwKJdYbDfWWcs2rJg7DoYZ9ne-mAOJGg9V-6Qa-jqHvbWwLXSkLvTSPY958-aOp4k-ZMMyOXPXu4gxs",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqXJPb68zDogRy7_sz_xExQc",
+            "plus_code":{
+                  "compound_code":"V723+MG Cicero, IL, USA",
+                  "global_code":"86HJV723+MG"
+            },
+            "price_level":2.0,
+            "rating":4.1,
+            "reference":"ChIJqXJPb68zDogRy7_sz_xExQc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":712,
+            "vicinity":"4836 West Cermak Road, Cicero",
+            "CBG":170318137022,
+            "Radius":159.6407301644
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8514793,
+                        "lng":-87.7474749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8528472803,
+                              "lng":-87.7460592697
+                        },
+                        "southwest":{
+                              "lat":41.8501493197,
+                              "lng":-87.7487572303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria La Chiquita",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115931359582206213689\">Taqueria La Chiquita<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqWr8ca_TmnL58lscK233Rx9rU6LvdwV2LRmkEOnIt-LBj4iyUdvDKjvSnl0A3HW4Ke3GD1YZUPmeGI3G_QkhDM-0_KFERWVFXRuuIzZ4SO3SQZ4fQsGSckjHZi7h6rf5oYlkBMCp83102IeGH819KiwEQLyVDRi1Esvj6L0gvK1Zc",
+                        "width":1251
+                  }
+            ],
+            "place_id":"ChIJx4L2y6UzDogRHC55RyuLdZs",
+            "plus_code":{
+                  "compound_code":"V723+H2 Cicero, IL, USA",
+                  "global_code":"86HJV723+H2"
+            },
+            "price_level":null,
+            "rating":3.7,
+            "reference":"ChIJx4L2y6UzDogRHC55RyuLdZs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"4914 West Cermak Road, Cicero",
+            "CBG":170318137022,
+            "Radius":159.6407301644
+      }
+]

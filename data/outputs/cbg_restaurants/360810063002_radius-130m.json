@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.765574,
+                        "lng":-73.920984
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7669852803,
+                              "lng":-73.9197681197
+                        },
+                        "southwest":{
+                              "lat":40.7642873197,
+                              "lng":-73.9224660803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Elevated Infusions",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110076708117597336247\">Elevated Infusions<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA3S3oqGc3hvkT4AB7-PvhmmhBH2lRS5oL17jcICPRKgSZDpvYfHDAG9Q4k3d2PZ4OXrS_XS8_DMex4jQ5RFYunMifWBWLb9oR2drcSTwFQMnvbsAI4wz3NXEE3y-pYBIW7wgB0ff0HRcyeVTW7Y_RLZHK9V5iAAgyPgO2uFqEkksdy",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJicqNwfFfwokR2FE3eBKADhE",
+            "plus_code":{
+                  "compound_code":"Q38H+6J New York, NY, USA",
+                  "global_code":"87G8Q38H+6J"
+            },
+            "price_level":2,
+            "rating":5,
+            "reference":"ChIJicqNwfFfwokR2FE3eBKADhE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"30-33 32nd Street, Queens",
+            "CBG":360810063002,
+            "Radius":130.1946160909
+      }
+]

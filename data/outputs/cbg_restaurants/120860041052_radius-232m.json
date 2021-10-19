@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8004333,
+                        "lng":-80.1261517
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8015372803,
+                              "lng":-80.1249510197
+                        },
+                        "southwest":{
+                              "lat":25.7988393197,
+                              "lng":-80.1276489803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/lodging-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/hotel_pinlet",
+            "name":"COMO Metropolitan Miami Beach",
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103035043875328673939\">Nancy Arteaga<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDZXGcRkW8mTowP7Tz9dyvCELNxXPvZ6aT-Jm7edKnPTjx10ZKeYJEANiYqM6jFDc8NHRaHLuFMa7dN0YSe9LGWA-Xiveef7kbKwVmWbCaIiN7N55P2QbUi8Cygrq0MBFSlkeC2pBEkOQG4chcvew8ceyy9K_dx3W9x9wZ3t0GUY2ch",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJLTUS9mGz2YgR1dQdlRc1Ts8",
+            "plus_code":{
+                  "compound_code":"RV2F+5G Miami Beach, FL, USA",
+                  "global_code":"76QXRV2F+5G"
+            },
+            "rating":4.4,
+            "reference":"ChIJLTUS9mGz2YgR1dQdlRc1Ts8",
+            "scope":"GOOGLE",
+            "types":[
+                  "lodging",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":512,
+            "vicinity":"2445 Collins Avenue, Miami Beach",
+            "CBG":120860041052,
+            "Radius":232.0870503497
+      }
+]

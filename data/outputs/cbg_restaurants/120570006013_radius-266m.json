@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0288057,
+                        "lng":-82.4824109
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0300138303,
+                              "lng":-82.4810601197
+                        },
+                        "southwest":{
+                              "lat":28.0273158697,
+                              "lng":-82.4837580803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"CITRUS SPRINGS, FL",
+            "place_id":"ChIJR88ji-vBwogRH1CV0Yw-AxQ",
+            "plus_code":{
+                  "compound_code":"2GH9+G2 Tampa, FL, USA",
+                  "global_code":"76WV2GH9+G2"
+            },
+            "reference":"ChIJR88ji-vBwogRH1CV0Yw-AxQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8525 North Armenia Avenue, Tampa",
+            "CBG":120570006013,
+            "Radius":265.6883705009
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7598122,
+                        "lng":-73.9627259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7612010303,
+                              "lng":-73.9613273197
+                        },
+                        "southwest":{
+                              "lat":40.7585030697,
+                              "lng":-73.9640252803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dardanel Seafood Restaurant",
+            "place_id":"ChIJaX47_uZYwokRekZ4lig-eJs",
+            "plus_code":{
+                  "compound_code":"Q25P+WW New York, NY, USA",
+                  "global_code":"87G8Q25P+WW"
+            },
+            "reference":"ChIJaX47_uZYwokRekZ4lig-eJs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1071 1st Avenue, New York",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360610108001,
+            "Radius":76.2136392195
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.759932,
+                        "lng":-73.963327
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7613803303,
+                              "lng":-73.9619070197
+                        },
+                        "southwest":{
+                              "lat":40.7586823697,
+                              "lng":-73.9646049803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sasabune Express",
+            "place_id":"ChIJ1TuIWeZYwokR0-bXAiDPPXo",
+            "plus_code":{
+                  "compound_code":"Q25P+XM New York, NY, USA",
+                  "global_code":"87G8Q25P+XM"
+            },
+            "reference":"ChIJ1TuIWeZYwokR0-bXAiDPPXo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"322 East 59th Street #2, New York",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104841443206781256682\">Bryan Verona<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC17K-TdG2xByLcm4rxhnqaYwjI_1SbpGpDOQ2sUMkmMsfKV_CsUE88J06chlVy17Qq4JT9-bqvoczRPnF5L-3PHz95RYfB3sb0xJ2BkN7rycQWEzX-6zfCbGXdWWlMJWi0qah17xj1nrAmwUOGWeCmdO8OmrCjzyLL41HL0aP-207n",
+                        "width":2048
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.7,
+            "user_ratings_total":61.0,
+            "CBG":360610108001,
+            "Radius":76.2136392195
+      }
+]

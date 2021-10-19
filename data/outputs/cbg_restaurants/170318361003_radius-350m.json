@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.8024922,
+                        "lng":-87.6137334
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8037938303,
+                              "lng":-87.6121214697
+                        },
+                        "southwest":{
+                              "lat":41.8010958697,
+                              "lng":-87.6148194303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Farmer's Fridge",
+            "permanently_closed":true,
+            "place_id":"ChIJhw0bDHopDogR1cU1PT9pl30",
+            "plus_code":{
+                  "compound_code":"R92P+XG Chicago, IL, USA",
+                  "global_code":"86HJR92P+XG"
+            },
+            "reference":"ChIJhw0bDHopDogR1cU1PT9pl30",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"550 East 51st Street, Chicago",
+            "CBG":170318361003,
+            "Radius":349.6469071459
+      }
+]

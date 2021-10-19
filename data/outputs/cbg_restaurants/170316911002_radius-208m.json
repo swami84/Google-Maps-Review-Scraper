@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.761117,
+                        "lng":-87.630197
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7624780803,
+                              "lng":-87.6287620197
+                        },
+                        "southwest":{
+                              "lat":41.7597801197,
+                              "lng":-87.6314599803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Harold's Chicken Shack #13",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111395680870602525708\">Harold&#39;s Chicken Shack #13<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAroqSRosvh2PGfFgvxYUM1-wzJvBHYEj7MgnWrKDEzymwMyE0Y1ujXzn0BHMpEZaA0vU1ISFSgnHFaBwvrY5cnTY7_TfdQfJkm2CkWdA_Jz1vMaHPLgxM1otM7crW-98SLxTsO9Nq3Xv3ZAMN_zhtG9zzp4qqDGaZYXQqGf91UzPoP",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJtZ7J5hMvDogRpI6e10jqTmU",
+            "plus_code":{
+                  "compound_code":"Q969+CW Chicago, IL, USA",
+                  "global_code":"86HJQ969+CW"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJtZ7J5hMvDogRpI6e10jqTmU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":322,
+            "vicinity":"7318 South Vincennes Avenue, Chicago",
+            "CBG":170316911002,
+            "Radius":208.0873144556
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7586188,
+                        "lng":-87.6314757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7599303303,
+                              "lng":-87.6301172697
+                        },
+                        "southwest":{
+                              "lat":41.7572323697,
+                              "lng":-87.6328152303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Haire's Gulf Shrimp",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110896793540180983795\">Haire&#39;s Gulf Shrimp<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYC5Rob6k8wZ0BPZnRkws1C5oAuENaIUSlAN9I1VAe44_75qixSvmqqKbZJq0IBpz3urzzwd8j-EglNzG6NQBkKb9HD6wzm0PUmDYrpvupBX5IEZFrYpRhUkyiJg9_IiAwk4vcGTC9WMNgU7wUQrsa0rBsmlWiMh-xsYah6-uBkBuX",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJU32jLkMvDogRBozVfskjWWs",
+            "plus_code":{
+                  "compound_code":"Q959+CC Chicago, IL, USA",
+                  "global_code":"86HJQ959+CC"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJU32jLkMvDogRBozVfskjWWs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1054,
+            "vicinity":"7448 South Vincennes Avenue, Chicago",
+            "CBG":170316911002,
+            "Radius":208.0873144556
+      }
+]

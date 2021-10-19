@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9646671,
+                        "lng":-82.4554811
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9660139803,
+                              "lng":-82.4540539697
+                        },
+                        "southwest":{
+                              "lat":27.9633160197,
+                              "lng":-82.4567519303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lee's Grocery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105540160446300926461\">Nhick Ramiro Pacis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDTT1aq468d0kBhuSjT5vpE8SdPgbO-zaCuC1GxjZ3N5VhJfcgofIPTTklXMicFegnP0WqKkXty-6sWgrZW66Y-npeXY-L6noi9K8FMmw04yCK5Jqv3tgaAb4gO_UF02zQf4eS7JRJL00F2Vibmu8_8vdR7VK7E8MYFCBkVvqsortQ3",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJb7ohbmjEwogRWY00WBvFyhA",
+            "plus_code":{
+                  "compound_code":"XG7V+VR Tampa, FL, USA",
+                  "global_code":"76VVXG7V+VR"
+            },
+            "price_level":2,
+            "rating":4.8,
+            "reference":"ChIJb7ohbmjEwogRWY00WBvFyhA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":629,
+            "vicinity":"2210 North Central Avenue, Tampa",
+            "CBG":120570041002,
+            "Radius":381.9700983729
+      }
+]

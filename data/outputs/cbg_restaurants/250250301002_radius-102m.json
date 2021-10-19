@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3665351,
+                        "lng":-71.0578856
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3678478803,
+                              "lng":-71.0565959197
+                        },
+                        "southwest":{
+                              "lat":42.3651499197,
+                              "lng":-71.0592938803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Massimino's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1953,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111720742409403175896\">kyle mcnally<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBvlYMbOHh-nmYtqKHwDO8DGQBZi-PPByM0p5PMuZHHi_6muQ1FqNPP-UPSZX2V1EyuGPuYUrH-CJ-KCDi3e3pt9zwIUU-k5MPbk7VNk3v3dihn9rzQGZA7aPS8KJtNTD8pLXR2v6G7XGlDhg5YA7DvE8aov4Aiv6h5QqGS6HIn7Hdq",
+                        "width":2603
+                  }
+            ],
+            "place_id":"ChIJdZQcKIxw44kRYfAqgZLzx1c",
+            "plus_code":{
+                  "compound_code":"9W8R+JR Boston, MA, USA",
+                  "global_code":"87JC9W8R+JR"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJdZQcKIxw44kRYfAqgZLzx1c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":501,
+            "vicinity":"207 Endicott Street, Boston",
+            "CBG":250250301002,
+            "Radius":101.954537139
+      }
+]

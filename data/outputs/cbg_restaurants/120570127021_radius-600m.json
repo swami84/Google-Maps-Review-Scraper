@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0285666,
+                        "lng":-82.1260376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0299105303,
+                              "lng":-82.1246172197
+                        },
+                        "southwest":{
+                              "lat":28.0272125697,
+                              "lng":-82.1273151803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Strawberry Hut Sandwich Shoppe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3006,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105016759213636028338\">Keith Roberts<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB_LzAxmNfwdNoTTr7Cg8WMxjkC0_v6uL5QDV1k_ELnyyNOVBIYkhfUuEDpaaaHSYWIoeVeMf7NwJcR7LWdkAEKucoYzQOg1q_yOw5Bg1nEsReUCMsd3Y0-JlwavlEjCpwhfiWLdp_-UWsQldYlv1E55KVflybko6KtCHeGqc7Qj2CE",
+                        "width":5344
+                  }
+            ],
+            "place_id":"ChIJa9wauX823YgRyqMcv0Om1VU",
+            "plus_code":{
+                  "compound_code":"2VHF+CH Plant City, FL, USA",
+                  "global_code":"76WV2VHF+CH"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJa9wauX823YgRyqMcv0Om1VU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1199,
+            "vicinity":"1505 North Wheeler Street, Plant City",
+            "CBG":120570127021,
+            "Radius":599.900690956
+      }
+]

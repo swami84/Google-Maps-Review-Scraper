@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8588072,
+                        "lng":-80.1829863
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8600834303,
+                              "lng":-80.1816144697
+                        },
+                        "southwest":{
+                              "lat":25.8573854697,
+                              "lng":-80.1843124303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2fKKB5zpFWwG_glZoeAkkFPaRDVhc8o41WGM8g0JjNyYcGn32T7gHgl3GVwFXY7ayEHMZYcp3pNOmasXUnSMZrHYhEFuJPWAV3R4WAM_PsTnxP9XghIOmShv12FhQUxEAkU4s-gAMD15AwmMYUxuxYSNzTCGFdE73HMUIaZy5q8sU",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJLwpZJymy2YgRUZrlZOQC5KE",
+            "plus_code":{
+                  "compound_code":"VR58+GR Miami Shores, FL, USA",
+                  "global_code":"76QXVR58+GR"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJLwpZJymy2YgRUZrlZOQC5KE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":718,
+            "vicinity":"9099 Biscayne Boulevard, Miami Shores",
+            "CBG":120860012061,
+            "Radius":318.9857256166
+      }
+]

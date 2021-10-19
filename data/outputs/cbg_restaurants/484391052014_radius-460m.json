@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7368844,
+                        "lng":-97.4590918
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7382598303,
+                              "lng":-97.4577224697
+                        },
+                        "southwest":{
+                              "lat":32.7355618697,
+                              "lng":-97.4604204303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"DFW Airport Taxi Latino",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":675,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109983250191785104013\">DFW Airport Taxi Latino<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDQGLWSGrpROHFSLzJKcPZ5XbMd7oNS2mcRQJRo_eo36uAq9uhRcNo1VyivyeD5A4b__mfqNAsSFsVsQ7lGR64PhXHvNj_y9vAzLExG5gz0JfXawitvXtY1dvTXWOAcqyLZKJNCqLL4ymfgX5G3jqXN2hYUkPvRrEddUKC8QJng7sEc",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJmcHVccIMToYRZYSepZeWTnU",
+            "plus_code":{
+                  "compound_code":"PGPR+Q9 Fort Worth, TX, USA",
+                  "global_code":"8644PGPR+Q9"
+            },
+            "rating":3,
+            "reference":"ChIJmcHVccIMToYRZYSepZeWTnU",
+            "scope":"GOOGLE",
+            "types":[
+                  "taxi_stand",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"8302 Porche Drive #1014, Fort Worth",
+            "CBG":484391052014,
+            "Radius":459.7345479369
+      }
+]

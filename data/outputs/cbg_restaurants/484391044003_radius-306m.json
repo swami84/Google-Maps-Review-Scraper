@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7061888,
+                        "lng":-97.3372672
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7074329803,
+                              "lng":-97.3358811697
+                        },
+                        "southwest":{
+                              "lat":32.7047350197,
+                              "lng":-97.3385791303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Tortilandia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1254,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107399520704605592003\">La Tortilandia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBf241FZhU56fG4D49m5PY53skykbJ6qC-QxqdN9nJf_oeSNbrznt34TZOZDTo_x91mDHNQ4YWtFWrBslvnv0khyTxyRcpgmqXM9yPK9O7mum6hgj6HLoLiYXKyhygUo7rlIwwJEd73Yk7yvjRauln_UIaKX2HWXBE9OGBDCEKtAMBE",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJxalMzuxxToYRLg1Zg1Lgvlk",
+            "plus_code":{
+                  "compound_code":"PM47+F3 Fort Worth, TX, USA",
+                  "global_code":"8644PM47+F3"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJxalMzuxxToYRLg1Zg1Lgvlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":698,
+            "vicinity":"1112 West Berry Street, Fort Worth",
+            "CBG":484391044003,
+            "Radius":306.1954122719
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3782657,
+                        "lng":-71.0321122
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3796272303,
+                              "lng":-71.0307007197
+                        },
+                        "southwest":{
+                              "lat":42.3769292697,
+                              "lng":-71.0333986803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rino's Place",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2297,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108304801564157302227\">DeShelle Taylor<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAUtiMcVg7zFveqAIyVjKYc6VtCCMLWbcYkap49wRx-1iYxEes6T40zWB5iooS1BMbFGECTfC-J73YuqerNTkBu9ECoaayCNcEbGiCEp1lLRSD8afU7G-Zv5U_nS3Gyoa9iYKFI3P7vnrx6UdrD1WBrLG7SU-E6SX7mHMD33Huq765B",
+                        "width":2092
+                  }
+            ],
+            "place_id":"ChIJkTf1LU9w44kRK2K_Q62_nxI",
+            "plus_code":{
+                  "compound_code":"9XH9+85 Boston, MA, USA",
+                  "global_code":"87JC9XH9+85"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJkTf1LU9w44kRK2K_Q62_nxI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":870,
+            "vicinity":"258 Saratoga Street, Boston",
+            "CBG":250250502004,
+            "Radius":117.3907573131
+      }
+]

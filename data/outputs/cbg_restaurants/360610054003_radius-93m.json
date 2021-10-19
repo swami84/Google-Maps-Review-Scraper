@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.73711,
+                        "lng":-73.995834
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7383958303,
+                              "lng":-73.9945309697
+                        },
+                        "southwest":{
+                              "lat":40.7356978697,
+                              "lng":-73.9972289303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Krust Caribbean Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109570231286430724648\">Nrupesh NYC<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECiA1M92gUW0dB23wsb2Y7cqThfa3s8mpq-FJxWR4EZkIiLhEsDL90tcK99co2i8_2xEp15sWBVnITXylV76gbcNQ-n4xu61HV9e_BvtIT3vSePI_c3bb_j39EXUTb56AlcirCiWFIHMsSv9VRDVP5LsqcnTVkVvPOp1Snsm2p4mIpT",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJLYiSWL1ZwokR5Cd8c4oU2lc",
+            "plus_code":{
+                  "compound_code":"P2P3+RM New York, NY, USA",
+                  "global_code":"87G8P2P3+RM"
+            },
+            "price_level":1.0,
+            "rating":3.4,
+            "reference":"ChIJLYiSWL1ZwokR5Cd8c4oU2lc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":184,
+            "vicinity":"47 West 14th Street, New York",
+            "CBG":360610054003,
+            "Radius":92.7521498074
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7371905,
+                        "lng":-73.9957521
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7384345803,
+                              "lng":-73.9944808697
+                        },
+                        "southwest":{
+                              "lat":40.7357366197,
+                              "lng":-73.9971788303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Taco Idolo (Mexican Food Truck)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108797309755825154694\">Alessandro Frati<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDR6OUOov0MEoEEF6h_BLP9WPW1vxuQ11iJ7nbYrMhBk2G7DEtp34ozMfflgx9lc292Ewcs3K4FMvu1P6vge2YyP6H27ScYWXSyV8YNKOaOI4GY6OH4bYAGFsei1CER1dtwDCNWPpIEvqNnUkM593SEoYLCvmQDPbP7f-tvE1Q8-tET",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJtYeVehBZwokRBAeHmIV1fgY",
+            "plus_code":{
+                  "compound_code":"P2P3+VM New York, NY, USA",
+                  "global_code":"87G8P2P3+VM"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJtYeVehBZwokRBAeHmIV1fgY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"47 West 14th Street, New York",
+            "CBG":360610054003,
+            "Radius":92.7521498074
+      }
+]

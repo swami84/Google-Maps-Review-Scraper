@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2313259,
+                        "lng":-97.7596026
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2326024803,
+                              "lng":-97.7580920197
+                        },
+                        "southwest":{
+                              "lat":30.2299045197,
+                              "lng":-97.7607899803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sonny Chubs Premium Pies",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2811,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113367663361011162643\">Aryn Black<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBfGFoopimoWSTLSmLxk-1K-mnjPLcmCPA6NzgOIohjPatuF8fyl59Stw9EYSCVVzGxGMbzKDsOUa-zMub-_r5xpE8BBYMN4xrmAK1QRn6qjd-vi89nUZ_jqCRuJljECRRYQQEKwC5t1jN1sS-EgobpbeUE3y_tZIM4nBT5nldu36oY",
+                        "width":3355
+                  }
+            ],
+            "place_id":"ChIJjecJy8i1RIYR94AR1nGtLrU",
+            "plus_code":{
+                  "compound_code":"66JR+G5 Austin, TX, USA",
+                  "global_code":"862466JR+G5"
+            },
+            "rating":4.9,
+            "reference":"ChIJjecJy8i1RIYR94AR1nGtLrU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"3116 South Congress Avenue, Austin",
+            "CBG":484530013082,
+            "Radius":236.2654611243
+      }
+]

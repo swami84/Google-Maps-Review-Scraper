@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.642839,
+                        "lng":-73.902429
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6442149303,
+                              "lng":-73.9010192197
+                        },
+                        "southwest":{
+                              "lat":40.6415169697,
+                              "lng":-73.9037171803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TriniJam",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106252512960896117521\">Selcuk Kaplan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAscKA_62OZkEaRut1908ABDbn0NvLx520CQ10_TqT7zp8FF6BUrRCYhhHhwKpnHBzX-hgUHOxZiERRs9H-EMqR8eDReRz4di-uv0bhDSBbqloo24ZsjFx3ZMK4clPhwaLE5MEQDkUiJil-ABKUtFNTgYmyvLlmfprdo_DGBWg2zAJ5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ171KkZxdwokR2-v8Xlo249w",
+            "plus_code":{
+                  "compound_code":"J3VX+42 Brooklyn, NY, USA",
+                  "global_code":"87G8J3VX+42"
+            },
+            "rating":4.4,
+            "reference":"ChIJ171KkZxdwokR2-v8Xlo249w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":119,
+            "vicinity":"9501 Flatlands Avenue, Brooklyn",
+            "CBG":360470966002,
+            "Radius":183.0288748852
+      }
+]

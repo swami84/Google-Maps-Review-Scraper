@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8189819,
+                        "lng":-73.9430773
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8204125303,
+                              "lng":-73.9416684697
+                        },
+                        "southwest":{
+                              "lat":40.8177145697,
+                              "lng":-73.9443664303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Angie's Cuisne",
+            "place_id":"ChIJuazrfXL3wokRXLY9HAr3klk",
+            "plus_code":{
+                  "compound_code":"R394+HQ New York, NY, USA",
+                  "global_code":"87G8R394+HQ"
+            },
+            "reference":"ChIJuazrfXL3wokRXLY9HAr3klk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"218W West 140th Street, New York",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360610230003,
+            "Radius":117.5749975423
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8178091,
+                        "lng":-73.9423004
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8191580803,
+                              "lng":-73.9409514197
+                        },
+                        "southwest":{
+                              "lat":40.8164601197,
+                              "lng":-73.9436493803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Row Harlem",
+            "place_id":"ChIJUxX5Dy33wokRQAbASxmcU8s",
+            "plus_code":{
+                  "compound_code":"R395+43 New York, NY, USA",
+                  "global_code":"87G8R395+43"
+            },
+            "reference":"ChIJUxX5Dy33wokRQAbASxmcU8s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2374 Adam Clayton Powell Junior Boulevard, New York",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105965178322628756535\">The Row Harlem<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAqdyVADTONg5Ih81KQiAR-3N8K05KPuclFK_y0vncPPpojsLxXErk5c1EKvKtgbZ-WaKhcAOjxvj2ZFVe7pumwA-6UU5WsDsYJFJylq-u6Ah3v3RR1_3vtlwqzAa9XPhBv-I5ZBGz8q4TzDuE9fYq9DzkvfW5VwpmEIX4uHiaonDV8",
+                        "width":2048
+                  }
+            ],
+            "rating":4.3,
+            "user_ratings_total":120.0,
+            "CBG":360610230003,
+            "Radius":117.5749975423
+      }
+]

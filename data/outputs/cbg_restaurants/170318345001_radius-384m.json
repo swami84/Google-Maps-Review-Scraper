@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7876646,
+                        "lng":-87.6259512
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7888571803,
+                              "lng":-87.6245961697
+                        },
+                        "southwest":{
+                              "lat":41.7861592197,
+                              "lng":-87.6272941303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Church's Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100691869505764266709\">Floyydd Mumford<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBoo2JF4slyu3TyDccJzlBDCegtJ336TzIdHHRQf0KrppU75SpNW0etjjoiJKfIbC5eSF0NcQUJnRHohNInSZQ6bKO1XvgFIzZppPkfoT9JSEqppJqr7BuTyCJLDpD9cgEbxQROZK1-lI2I-gI8bx7dGVeg1CASAYN92f8q1OWgdEmg",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJiUJiSc4uDogREkuiqTud3lo",
+            "plus_code":{
+                  "compound_code":"Q9QF+3J Chicago, IL, USA",
+                  "global_code":"86HJQ9QF+3J"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJiUJiSc4uDogREkuiqTud3lo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1238,
+            "vicinity":"6 West 59th Street, Chicago",
+            "CBG":170318345001,
+            "Radius":384.3671713403
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7870201,
+                        "lng":-87.6240924
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7885507303,
+                              "lng":-87.6227481197
+                        },
+                        "southwest":{
+                              "lat":41.7858527697,
+                              "lng":-87.6254460803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chicago sharks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1242,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116172247638645604216\">Chicago sharks<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZzsGhYSXDB_pKH4Q_KquMxPAiNAspJTyDs13OEU86uRoJshJVNSxUoxny2W2FlILEbxVWpToEnhRCYyB7dZ_w5hagKZMb4DuvTGWboTqniqcJUe3FMOor_1SwVDiMmH_k2VZbO-43SGLJUIan8nd4p7bgHM5DI2NQMJ2nPSLyCOIR",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJFw85cs4uDogRbPot1T7vCGU",
+            "plus_code":{
+                  "compound_code":"Q9PG+R9 Chicago, IL, USA",
+                  "global_code":"86HJQ9PG+R9"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJFw85cs4uDogRbPot1T7vCGU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"35 East 59th Street, Chicago",
+            "CBG":170318345001,
+            "Radius":384.3671713403
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3676826,
+                        "lng":-71.1020289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3690315803,
+                              "lng":-71.1006799197
+                        },
+                        "southwest":{
+                              "lat":42.3663336197,
+                              "lng":-71.1033778803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cicada",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114205626872865885361\">Cicada<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBBlV0aa7FRHsOvxjHmZfVVuj2Ha9fG-wSoTZLe8PzwBaUxEeISTJ61xCIOL5-a8eOmYob5sHAav081BvtQ0dzZ9LXD16iCbkJlUk-RnAYm_2IW_3t_SSpufoi_cLs6ji5lcfr5gAtYP32sx7Rmg5gxZlpLDwdWXDRm54YCQi4XsiUF",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJAWdABEB344kRIR59Y5obYGM",
+            "plus_code":{
+                  "compound_code":"9V9X+35 Cambridge, MA, USA",
+                  "global_code":"87JC9V9X+35"
+            },
+            "rating":4.8,
+            "reference":"ChIJAWdABEB344kRIR59Y5obYGM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":148,
+            "vicinity":"106 Prospect Street, Cambridge",
+            "CBG":250173530002,
+            "Radius":176.0606004376
+      }
+]

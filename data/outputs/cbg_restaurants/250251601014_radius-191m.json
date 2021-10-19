@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3941323,
+                        "lng":-71.0298297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3954285803,
+                              "lng":-71.0284870197
+                        },
+                        "southwest":{
+                              "lat":42.3927306197,
+                              "lng":-71.0311849803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cozy Kitchen Company",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ11tsbrdx44kR86zP-kkCB5s",
+            "plus_code":{
+                  "compound_code":"9XVC+M3 Chelsea, MA, USA",
+                  "global_code":"87JC9XVC+M3"
+            },
+            "reference":"ChIJ11tsbrdx44kR86zP-kkCB5s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"22 Gerrish Avenue, Chelsea",
+            "CBG":250251601014,
+            "Radius":190.9496290716
+      }
+]

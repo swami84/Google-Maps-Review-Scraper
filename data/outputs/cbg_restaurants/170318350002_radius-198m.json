@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.780167,
+                        "lng":-87.6838946
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7815063303,
+                              "lng":-87.6824697197
+                        },
+                        "southwest":{
+                              "lat":41.7788083697,
+                              "lng":-87.6851676803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pepe's Mexican Restaurants",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107945718416145839189\">Pepe&#39;s Mexican Restaurants<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2yxbzc77n6hwKmJl2pBWIGSQMSvPlebdpx8PmdZ5cHxnPXFs1TSdlAfkQKN817jQTqFHwsEZWuVdA054pBUXKp9hYKV9qq6DITnul-lSd11HgL9mBuEuISggcoxpqWucNPPNF0TUqOpwEavvYNi47VxbsV7-PuzXltiIpkJGdnhop",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJE1JSmDMuDogRXlvvaZ9E5A0",
+            "plus_code":{
+                  "compound_code":"Q8J8+3C Chicago, IL, USA",
+                  "global_code":"86HJQ8J8+3C"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJE1JSmDMuDogRXlvvaZ9E5A0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":227,
+            "vicinity":"6230 South Western Avenue, Chicago",
+            "CBG":170318350002,
+            "Radius":198.4343875453
+      }
+]

@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4209976,
+                        "lng":-71.0980987
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4223465803,
+                              "lng":-71.0967497197
+                        },
+                        "southwest":{
+                              "lat":42.4196486197,
+                              "lng":-71.0994476803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Eddy's Place",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":746,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107820772947732868560\">Eddy&#39;s Place<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-6pqumXYTy1qpBOwug8mbZLoMb5sLYNCwT4pJLXm43rEnnBzSFpNbB94ctDTgE1xNxVByrvhrnniWqJnbiZieArO1fIdCzC05bwFnL_uBWRYjZviKvqmGpz_Mh_w0wVDggx6wqouq6D3DfLbvysAVFSGhRIKpi_sRTmsJnRin03c-",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJGwnBWbN244kRIZgV2JQ1CNs",
+            "plus_code":{
+                  "compound_code":"CWC2+9Q Medford, MA, USA",
+                  "global_code":"87JCCWC2+9Q"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJGwnBWbN244kRIZgV2JQ1CNs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":108,
+            "vicinity":"301 Salem Street, Medford",
+            "CBG":250173400003,
+            "Radius":235.9722511648
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4209567,
+                        "lng":-71.0981294
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4223056803,
+                              "lng":-71.0967804197
+                        },
+                        "southwest":{
+                              "lat":42.4196077197,
+                              "lng":-71.0994783803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"House of Bread Bakery-casa do pao",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110976946738830142801\">Andrea D&#39;Ambrosio<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAD4mEHdKonLTlNgDPtNM5xmIkHzXKw4E8VRgxfkmymjhOJOO0URDV4NrT-yLYM9PnauVbABJcTHEiA_kaX02RdHIT-fQLS6eCvrZnlNHWd_J_WyuNfuMJPxW0X8LoNdeW6NpkFI1XfEGmzQ5xOXC9KdGvzJtsc_g1At4j9uYuAoS95",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9cb_WLN244kRoQvIxJcN2E8",
+            "plus_code":{
+                  "compound_code":"CWC2+9P Medford, MA, USA",
+                  "global_code":"87JCCWC2+9P"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJ9cb_WLN244kRoQvIxJcN2E8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"295 Salem Street, Medford",
+            "CBG":250173400003,
+            "Radius":235.9722511648
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8423566,
+                        "lng":-87.7054493
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8437625303,
+                              "lng":-87.7038678197
+                        },
+                        "southwest":{
+                              "lat":41.8410645697,
+                              "lng":-87.7065657803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101792582891451651364\">MI007<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAevpyT4clJdEnevakvlkV_jO5LJzPhNaz0vEHgQJhXNm_DisqY5MMuMElr7dbRJWOlsNcy2zhKbjgSHMqg11qdievvi_yqGttfLecYDtD2t8ti3u0oJAjKAugMfJmmY-dcCHi80oIe_E3T4fmxMm4gPfn7JrTHq9LyREGFFOwX4FY9",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJd2e_hnEyDogRordOmBsAXpQ",
+            "plus_code":{
+                  "compound_code":"R7RV+WR Chicago, IL, USA",
+                  "global_code":"86HJR7RV+WR"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJd2e_hnEyDogRordOmBsAXpQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":515,
+            "vicinity":"2700 South Kedzie Avenue, Chicago",
+            "CBG":170318408001,
+            "Radius":228.5657274397
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8443375,
+                        "lng":-87.7072164
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8457574303,
+                              "lng":-87.7058689197
+                        },
+                        "southwest":{
+                              "lat":41.8430594697,
+                              "lng":-87.7085668803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dennis Carry-Outs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103723595772386834299\">Teresa Lara<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1hj_bXDgHBTGQFWX0g9oNXB_-G8tLlcPDyGXUMFMiVanl3f1ejLrusXo-IHHJDUVHORvHp5NzxGobdnWc9FceEpwCYEfZDHUvHMTLZJQRr0tVoMpgzWHD7gqAXLbFzR97JypZQk-xMcsS781UFAWdXqUlDASHRNF3-W1xtmO4nJjW",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJK1cZ13EyDogR07Xb_2HBPgc",
+            "plus_code":{
+                  "compound_code":"R7VV+P4 Chicago, IL, USA",
+                  "global_code":"86HJR7VV+P4"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJK1cZ13EyDogR07Xb_2HBPgc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":74,
+            "vicinity":"3257 West 26th Street, Chicago",
+            "CBG":170318408001,
+            "Radius":228.5657274397
+      }
+]

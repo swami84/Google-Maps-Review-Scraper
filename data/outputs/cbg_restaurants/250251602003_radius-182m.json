@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3900135,
+                        "lng":-71.0363819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3913379303,
+                              "lng":-71.0351398697
+                        },
+                        "southwest":{
+                              "lat":42.3886399697,
+                              "lng":-71.0378378303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Katz Bagel Bakery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114563636351210986970\">Stephen Averill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDyzFsUB1ORZUlDf9FfaBVIi1K4NKmiBr-MdntsUXtX-JMDxYob4jEzcD-DwDQX477UeQcPEss9qK5IwSQNIF7_YCL9YdMXVUhY0mPKEXMMTmkg1Rgcp5IdF6eXJ9w-3ywqo_iQsPIxlOADhNlExTyqjBMa39tBeyKSqCcw0VjC1ZGM",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ81OSQLJx44kRGzAGZLUiqMo",
+            "plus_code":{
+                  "compound_code":"9XR7+2C Chelsea, MA, USA",
+                  "global_code":"87JC9XR7+2C"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJ81OSQLJx44kRGzAGZLUiqMo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bakery",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":359,
+            "vicinity":"139 Park Street, Chelsea",
+            "CBG":250251602003,
+            "Radius":182.0549831751
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3901049,
+                        "lng":-71.0371396
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3914086303,
+                              "lng":-71.0357130197
+                        },
+                        "southwest":{
+                              "lat":42.3887106697,
+                              "lng":-71.0384109803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria El Charrito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116834167232007994478\">willie ramos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAEfLyCXm5xL09CizTGflcpasb0dhkgWFyJewa_5aR1nyGqPOsisIdyUUQy3_YZHKNpY6FbAy8eZRkpmMjGZtC-WLOQfKmS_6oq_SXrn_tl0KBtUZyB2IpgZZwRm8M-k2-qZZ09R3zqBkf_EmGt87ticNirKa39wOyfVqWf-0bdT57H",
+                        "width":1932
+                  }
+            ],
+            "place_id":"ChIJD1eObbJx44kRd5HSHV2O9GE",
+            "plus_code":{
+                  "compound_code":"9XR7+24 Chelsea, MA, USA",
+                  "global_code":"87JC9XR7+24"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJD1eObbJx44kRd5HSHV2O9GE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":235,
+            "vicinity":"128 Pearl Street, Chelsea",
+            "CBG":250251602003,
+            "Radius":182.0549831751
+      }
+]

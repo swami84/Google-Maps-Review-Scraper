@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2892189,
+                        "lng":-71.0728725
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2906127803,
+                              "lng":-71.0715728197
+                        },
+                        "southwest":{
+                              "lat":42.2879148197,
+                              "lng":-71.0742707803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taste Of Eden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":596,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103238994781163359801\">Taste Of Eden<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAmwYS_iEFLzFVb3EX9ry37tBPRS5-bv3uICCpzLV67DcrHvwk9jaF8zyoTDzj2aL-sI7IXQMB80Sz7uHs0k2pKmgCIQOCPS48jmgh4jSYCOqwTVdhQ09WTRTZP1rWIyBhmy2N-uEJMOdb4IKobDkaRrtOwTzh3e5nOoi5CzKstEWRD",
+                        "width":1060
+                  }
+            ],
+            "place_id":"ChIJ4aIFt5J744kRsJvoz6inRz4",
+            "plus_code":{
+                  "compound_code":"7WQG+MV Boston, MA, USA",
+                  "global_code":"87JC7WQG+MV"
+            },
+            "rating":4.1,
+            "reference":"ChIJ4aIFt5J744kRsJvoz6inRz4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":218,
+            "vicinity":"38 Norfolk Street, Boston",
+            "CBG":250251005005,
+            "Radius":229.4670775567
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2888239,
+                        "lng":-71.0712992
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2901664803,
+                              "lng":-71.0698717697
+                        },
+                        "southwest":{
+                              "lat":42.2874685197,
+                              "lng":-71.0725697303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Next Step Soul Food Cafe",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110918348916893229611\">Next Step Soul Food Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC81fjmOYv52q19fMqPvZrxDiHEpMhBIiXzEnhScPpIsUpfmkDZzTdVEnheqv2Ber9Ens3hayEapQyfWtJxlyjtWEBOtyxBFo-Sf41o7casmlP-0hYwkOmeSfl0hg-KafY2TB8H8X7bsQiW9itQ0kSoKcZO_2kl05q161QCH1Qnu0KF",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJL5KukZJ744kRnbuhmGFtgLM",
+            "plus_code":{
+                  "compound_code":"7WQH+GF Boston, MA, USA",
+                  "global_code":"87JC7WQH+GF"
+            },
+            "rating":4.5,
+            "reference":"ChIJL5KukZJ744kRnbuhmGFtgLM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":140,
+            "vicinity":"657 Washington Street, Boston",
+            "CBG":250251005005,
+            "Radius":229.4670775567
+      }
+]

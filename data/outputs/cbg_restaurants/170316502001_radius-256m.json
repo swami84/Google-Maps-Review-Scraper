@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.785073,
+                        "lng":-87.723315
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7864247803,
+                              "lng":-87.7218070697
+                        },
+                        "southwest":{
+                              "lat":41.7837268197,
+                              "lng":-87.7245050303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tamales Rebe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101065021346284629722\">Tamales Rebe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAo7KEoEz2sf-vI4h_jY-TfMRTbfD3ZaH8_xluzSE8Xxl4zmoEONNA1wPs3euOyuzeJPJBFGBtMxPTbn-Ryz5PFJ5eO8MyCRzGAQRueGar0Cz_3ZsTm9kERKE-Dh59eo-TKIYFWjt7uiBt0CXmAgAFLQyZqZiRUaAQoIeYAj2JhP3f2",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJIW9Z3aIxDogRvlUFV7Uv3CM",
+            "plus_code":{
+                  "compound_code":"Q7PG+2M Chicago, IL, USA",
+                  "global_code":"86HJQ7PG+2M"
+            },
+            "rating":4.5,
+            "reference":"ChIJIW9Z3aIxDogRvlUFV7Uv3CM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"5926 South Pulaski Road, Chicago",
+            "price_level":null,
+            "CBG":170316502001,
+            "Radius":255.8162741506
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.78514,
+                        "lng":-87.723317
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7865105303,
+                              "lng":-87.7218097197
+                        },
+                        "southwest":{
+                              "lat":41.7838125697,
+                              "lng":-87.7245076803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Haciendita Taqueria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2981,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103944410067670270369\">Joshua Hernandez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECnX96zqUwWP8NdrHAo4qNwl2YE_T59Q9yc5WxSNDgk8i7pW01-l8axsu1weTAcdQ_brAy9unYHPRgY8OCKQdWYIS4rWLNOcDGzZolGo8MD3RMBroRvtBcb2gG2DcGxYpOAZ5LQYWTG-OGMl_Cji4FKTZRJTDRyKeIl8NrK7y86_ZJC",
+                        "width":2997
+                  }
+            ],
+            "place_id":"ChIJh0GOIbExDogRj5_6Y2W-S8I",
+            "plus_code":{
+                  "compound_code":"Q7PG+3M Chicago, IL, USA",
+                  "global_code":"86HJQ7PG+3M"
+            },
+            "rating":4.3,
+            "reference":"ChIJh0GOIbExDogRj5_6Y2W-S8I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":794,
+            "vicinity":"5924 South Pulaski Road, Chicago",
+            "price_level":2.0,
+            "CBG":170316502001,
+            "Radius":255.8162741506
+      }
+]

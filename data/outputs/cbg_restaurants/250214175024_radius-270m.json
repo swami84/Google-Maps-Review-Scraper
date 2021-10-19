@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2838265,
+                        "lng":-71.0247749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2852372803,
+                              "lng":-71.0233819697
+                        },
+                        "southwest":{
+                              "lat":42.2825393197,
+                              "lng":-71.0260799303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Matteo's Pizza & Subs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103701613290581025986\">Matteo&#39;s Pizza &amp; Subs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtJF9O4H0EqsuxoWKgW4UxAOgmSEqEjEZtFysCDgHzhvkG1OstNe0AndYwmKEWrWPzuidstAa47NKfV8z9_J-c1j26HzDn1RazWvwsmia2MAOPEwtWNnN2ARCcK6wZX817SymZ-v8_O039recS2j6HCgKesyLxxekpaujwmRFNSvRR",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJobNAFEJ744kRH-EcY-0fZos",
+            "plus_code":{
+                  "compound_code":"7XMG+G3 Quincy, MA, USA",
+                  "global_code":"87JC7XMG+G3"
+            },
+            "rating":4.3,
+            "reference":"ChIJobNAFEJ744kRH-EcY-0fZos",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"243 Atlantic Street, Quincy",
+            "price_level":null,
+            "CBG":250214175024,
+            "Radius":269.7374999036
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2814055,
+                        "lng":-71.0289908
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2827275803,
+                              "lng":-71.0277269197
+                        },
+                        "southwest":{
+                              "lat":42.2800296197,
+                              "lng":-71.0304248803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"I Love Italian Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104118489149321106728\">I Love Italian Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDF392VWNVRAQQ8bK-YX2Fo54c3nQCPfRBH9xCv7Pq_MqQjLoihEKgGwzh7ncWOMZ9NFrxpYkrnHzbOgw_ZQOLLf7_qjyhLwHARnKm5VU4gWku-9pcSHQdYKpG-N0mqPkK_vnQze6VRPFchF6UW0JjGrkv4173HxIpLMzI1sRZpVvn0",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJf03Ih2h744kRnFjiRp7oSoo",
+            "plus_code":{
+                  "compound_code":"7XJC+HC Quincy, MA, USA",
+                  "global_code":"87JC7XJC+HC"
+            },
+            "rating":4.3,
+            "reference":"ChIJf03Ih2h744kRnFjiRp7oSoo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":188,
+            "vicinity":"68 Newbury Avenue, Quincy",
+            "price_level":1.0,
+            "CBG":250214175024,
+            "Radius":269.7374999036
+      }
+]

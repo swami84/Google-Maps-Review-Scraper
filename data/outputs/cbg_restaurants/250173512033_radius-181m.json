@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3746215,
+                        "lng":-71.100497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3759467303,
+                              "lng":-71.0990458697
+                        },
+                        "southwest":{
+                              "lat":42.3732487697,
+                              "lng":-71.1017438303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Alex's Kitchen Somerville",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114194078196047366783\">Peggy Sah<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB72AGWpOfajip3-4oRZnTTa2U-S0KwgRSo9t-cbBw3k2y2Yp-GMbxkK8wz7lCLKNxATcaVSxRTFzfVsMNGr8Ze9IFVb4X8l0ZnVP4OXueEl2-0b6l42L0ryKSXaSfHeQ451xJbOQ0TsJMx5bKMsB_V551oFEm6ryq2ZAb71q69sscw",
+                        "width":4640
+                  }
+            ],
+            "place_id":"ChIJ2zpbfc1344kRwghgLvl-nvc",
+            "plus_code":{
+                  "compound_code":"9VFX+RR Somerville, MA, USA",
+                  "global_code":"87JC9VFX+RR"
+            },
+            "rating":4.6,
+            "reference":"ChIJ2zpbfc1344kRwghgLvl-nvc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"26 Springfield Street, Somerville",
+            "CBG":250173512033,
+            "Radius":180.9457236103
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2464869,
+                        "lng":-71.0327971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2478631803,
+                              "lng":-71.0313985197
+                        },
+                        "southwest":{
+                              "lat":42.2451652197,
+                              "lng":-71.0340964803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Old Railroad Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110724075806283460037\">Liz Feitelberg<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAF2Ent1IpBvcuRpAipPcKiNbBJnNf3eJFOoZOZwdrJAJb9y5R7IbqeSqEuO54_nsZOoJx7AxW7d470L1_5B-6urwG2EfvOm8qlahgPrJyyst434vURPY6M20o8jCkUeXvsXq0YorpCZsHLT8pqXIdmplgUFpW8D4Nk__tloTvo-Dv9",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJg_Knxe5844kRh0CNhzMEoTQ",
+            "plus_code":{
+                  "compound_code":"6XW8+HV Quincy, MA, USA",
+                  "global_code":"87JC6XW8+HV"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJg_Knxe5844kRh0CNhzMEoTQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":161,
+            "vicinity":"273 Willard Street, Quincy",
+            "CBG":250214182002,
+            "Radius":470.1588513797
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2471389,
+                        "lng":-71.0329416
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2483282803,
+                              "lng":-71.0315321697
+                        },
+                        "southwest":{
+                              "lat":42.2456303197,
+                              "lng":-71.0342301303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Emma Lisa\u2019s Breakfast & Lunch",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114913815482859934472\">Emma Lisa\u2019s Breakfast &amp; Lunch<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECK7zfAN-Dvvymk4C0lXb4kCIHmQV5yNPH0KJ1nquvGkCDSSlbVT5s9pSkMbw_6lRb-RrHcQJJ_afjRk-oX5h_prsmW-8BAMtmxrul9NZFhGqtsDIwscp-Rx18OLl-dre5Vbok0dD2cLVx3qh5pyz1MnllXLvy3m3ii-M4xDa-5477u",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ1R00se5844kRuqdBIpRqd58",
+            "plus_code":{
+                  "compound_code":"6XW8+VR Quincy, MA, USA",
+                  "global_code":"87JC6XW8+VR"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ1R00se5844kRuqdBIpRqd58",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":315,
+            "vicinity":"258 Willard Street #1, Quincy",
+            "CBG":250214182002,
+            "Radius":470.1588513797
+      }
+]

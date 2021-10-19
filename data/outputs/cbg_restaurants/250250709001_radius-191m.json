@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3388959,
+                        "lng":-71.0759505
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3401767303,
+                              "lng":-71.0745773697
+                        },
+                        "southwest":{
+                              "lat":42.3374787697,
+                              "lng":-71.0772753303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Orinoco: A Latin Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":321,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110561458485556650281\">Orinoco: A Latin Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFLdJrLhT5oX51tZOesbFz0tJ7NLeatlIn5nH9p9J8Fagy9YEwVDoT3i0jSKW9UPBVgItNgkPiWOjiFB_FQkWI-dTZMTjKerxYOzINyKV9db-gAZLjrnNT7Ad45fg79zZYa-bjNj8Dlzfq0ZRVcHIgrdkeyzzXirsCjAsDWRW_VYAB",
+                        "width":440
+                  }
+            ],
+            "place_id":"ChIJmfIW_RR644kRw7ysBAwbClE",
+            "plus_code":{
+                  "compound_code":"8WQF+HJ Boston, MA, USA",
+                  "global_code":"87JC8WQF+HJ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJmfIW_RR644kRw7ysBAwbClE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":413,
+            "vicinity":"477 Shawmut Avenue, Boston",
+            "CBG":250250709001,
+            "Radius":190.9587972609
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3386197,
+                        "lng":-71.075928
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3400077303,
+                              "lng":-71.0745565697
+                        },
+                        "southwest":{
+                              "lat":42.3373097697,
+                              "lng":-71.0772545303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Centro Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115194489872256613971\">Mike Waldvogel<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAakcWc6YlYF5iO9dVQBBKdkiJD6twckOieA0bPAsCWrSpVq46XlMHd3zNO_dLV4j7XmX74sAeW9Q-Wft08QMCVK_kIFD8CKYNSqXlDBj_ctlHQx0i5onGcpffZjw9IRqWfPA_Ydvv7xsqoTPbQmjr8y_i_pPSvH8qjzUbCzL1qHoP9",
+                        "width":5472
+                  }
+            ],
+            "place_id":"ChIJ7d30AhV644kRqQo3cGWmRf0",
+            "plus_code":{
+                  "compound_code":"8WQF+CJ Boston, MA, USA",
+                  "global_code":"87JC8WQF+CJ"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ7d30AhV644kRqQo3cGWmRf0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":503,
+            "vicinity":"472 Shawmut Avenue, Boston",
+            "CBG":250250709001,
+            "Radius":190.9587972609
+      }
+]

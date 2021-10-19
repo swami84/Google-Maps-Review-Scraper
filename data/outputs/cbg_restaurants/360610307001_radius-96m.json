@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8697277,
+                        "lng":-73.9155126
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8712209303,
+                              "lng":-73.9142345697
+                        },
+                        "southwest":{
+                              "lat":40.8685229697,
+                              "lng":-73.9169325303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brown Sugar Bar & Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1079,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105233168109426373403\">Brown Sugar Bar &amp; Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDlXTDHKckLPc6lLpM_NOmnU33zTy1m0rbeLghmt-mDUxqtB64lSIfFgMG9o676Czapb7FvjrIOJPv7Q3qkCREEn1BkXrWh1_OOuHmxbPmG91RER0swz8TpYi8g5_dcdxw-bgRppNawTdELTEwKwGvkz-4yXrTSpIZDBQlMwbSGyjg3",
+                        "width":1079
+                  }
+            ],
+            "place_id":"ChIJT40YdfPzwokRohbdynCkc5g",
+            "plus_code":{
+                  "compound_code":"V39M+VQ New York, NY, USA",
+                  "global_code":"87G8V39M+VQ"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJT40YdfPzwokRohbdynCkc5g",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":754,
+            "vicinity":"5060 Broadway, New York",
+            "CBG":360610307001,
+            "Radius":95.9271624707
+      }
+]

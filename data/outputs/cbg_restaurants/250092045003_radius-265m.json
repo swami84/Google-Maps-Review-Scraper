@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.521326,
+                        "lng":-70.897472
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.5227330803,
+                              "lng":-70.8960984197
+                        },
+                        "southwest":{
+                              "lat":42.5200351197,
+                              "lng":-70.8987963803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Life Alive Organic Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":6403,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106356682543234955394\">Beth O&#39;Grady<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA3lCHaQA1pBl85wZyEmZuqeYv8_zJqoxjLsqefatQgw7HlTGpL2f--y9nUZxj3WhSHrkNFsuDhO6D8X7GrM3uu-DjwrsQGkyeHhPkPYA23eTl9nSgZ6XLTXXsI2_BuLnxMBCRQHreiD9K5zdj51oFvL3qxYbOK9VvHU2RdWl1fyDVs",
+                        "width":8537
+                  }
+            ],
+            "place_id":"ChIJ3eYyA3sU44kRkvYkXJfTIzk",
+            "plus_code":{
+                  "compound_code":"G4C3+G2 Salem, MA, USA",
+                  "global_code":"87JFG4C3+G2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ3eYyA3sU44kRkvYkXJfTIzk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":672,
+            "vicinity":"281 Essex Street, Salem",
+            "CBG":250092045003,
+            "Radius":264.6867035183
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.521347,
+                        "lng":-70.898188
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.5227403803,
+                              "lng":-70.8968544197
+                        },
+                        "southwest":{
+                              "lat":42.5200424197,
+                              "lng":-70.8995523803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bonchon Salem",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2694,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105800472749273332155\">H Boomer<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEANZQjJvBGlis29YVlLas8Qt0UgfneuWj_XENoBbfWWwD9Shudl9g81T8CD0zj_yXg6I_xrq4CmeXTcoyonXij8_5gV_WSld6haN6iFJksNT7--hTOnDC1dJBa-ZjPEb9plTBN1an3XzhLlkyWoS58CyCUtUibxVYpkztFFoYLcZCXD",
+                        "width":2956
+                  }
+            ],
+            "place_id":"ChIJY7F9B3sU44kRuKQgiV7P_1Q",
+            "plus_code":{
+                  "compound_code":"G4C2+GP Salem, MA, USA",
+                  "global_code":"87JFG4C2+GP"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJY7F9B3sU44kRuKQgiV7P_1Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":266,
+            "vicinity":"299 Essex Street, Salem",
+            "CBG":250092045003,
+            "Radius":264.6867035183
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.350895,
+                        "lng":-71.116849
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3523706303,
+                              "lng":-71.1154677197
+                        },
+                        "southwest":{
+                              "lat":42.3496726697,
+                              "lng":-71.1181656803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Sunset Cantina",
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114261182207172538653\">Mike Legenthal<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED59Cwzb3FjyvFdGkQTa3TAZCJBDUYWoILnfoh6JpxeYL8_ztewqBUhZAnOgxWbZfsljEZb6_8LOlUF0E6EWgSYXi-nSitML0JO81-1sibzY73bNtT1UtOxgd2wS6fQSKnVd26nxkSiRopxGXsXtD1uJ5mujkp7HZlI8MGoJ6D-WPSq",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ-Qb26Oh544kRmJqL94sN3pE",
+            "plus_code":{
+                  "compound_code":"9V2M+97 Boston, MA, USA",
+                  "global_code":"87JC9V2M+97"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJ-Qb26Oh544kRmJqL94sN3pE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":767,
+            "vicinity":"916 Commonwealth Avenue, Boston",
+            "CBG":250214002001,
+            "Radius":198.9790362905
+      }
+]

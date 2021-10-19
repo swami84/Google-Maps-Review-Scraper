@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.775252,
+                        "lng":-73.9825923
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7765472303,
+                              "lng":-73.9810888197
+                        },
+                        "southwest":{
+                              "lat":40.7738492697,
+                              "lng":-73.9837867803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sugar Factory",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102067261536557769834\">Omar Resto<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDuY1M1tyMar_00qnIq2cMNe-tjOA4bvj1PW1kcnf7vbUUlopWp08TR7V6804SgNzl1qz42avTn0X4oDMgeKi1XnEURXKbVkYiy9wcANuh2BkYqTu24r0WbsmvV5DqQKJGwHXnPMVXkv7Qw1uahaE4Sw_x8dKFvHn2-AdO2fRM0Y8KT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJMYAqr4pYwokR1FCuC1aXyTQ",
+            "plus_code":{
+                  "compound_code":"Q2G8+4X New York, NY, USA",
+                  "global_code":"87G8Q2G8+4X"
+            },
+            "price_level":3,
+            "rating":3.8,
+            "reference":"ChIJMYAqr4pYwokR1FCuC1aXyTQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1766,
+            "vicinity":"1991 Broadway, New York",
+            "CBG":360610153003,
+            "Radius":83.6581105902
+      }
+]

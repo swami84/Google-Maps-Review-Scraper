@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0629295,
+                        "lng":-88.0835149
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0643666303,
+                              "lng":-88.0821673697
+                        },
+                        "southwest":{
+                              "lat":42.0616686697,
+                              "lng":-88.0848653303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Cogensia",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJXT5AQ1avD4gRZuiOmUNgmYk",
+            "plus_code":{
+                  "compound_code":"3W78+5H Schaumburg, IL, USA",
+                  "global_code":"86JH3W78+5H"
+            },
+            "rating":4.7,
+            "reference":"ChIJXT5AQ1avD4gRZuiOmUNgmYk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"100 Hillcrest Boulevard #406, Schaumburg",
+            "CBG":170318047142,
+            "Radius":588.1737968418
+      }
+]

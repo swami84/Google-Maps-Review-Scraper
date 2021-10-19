@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8433847,
+                        "lng":-87.7757674
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8447317303,
+                              "lng":-87.7745235197
+                        },
+                        "southwest":{
+                              "lat":41.8420337697,
+                              "lng":-87.7772214803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Energy Fit Nutrition",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115586713720349737328\">Energy Fit Nutrition<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAGSJXgbS2u0erCbx5HpxymHLQ7x-2YkzxMq8X9aGbBvbHRo_S3BcGhfsY0Gi96OXqVDeesO2w-jAE6imruVnQ4ouAdqxS482YTGkSNiVkwkbxrY_z3oZYS3QVQ8kKO0XNMr5BA40piFXe7HRqdJnx7oMZcuu3SyL4iQhIUirZ2JGPa",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ90Q97MgzDogRxufsk_-2e8U",
+            "plus_code":{
+                  "compound_code":"R6VF+9M Cicero, IL, USA",
+                  "global_code":"86HJR6VF+9M"
+            },
+            "rating":5,
+            "reference":"ChIJ90Q97MgzDogRxufsk_-2e8U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6047 West 26th Street, Cicero",
+            "CBG":170318140004,
+            "Radius":229.5260247178
+      }
+]

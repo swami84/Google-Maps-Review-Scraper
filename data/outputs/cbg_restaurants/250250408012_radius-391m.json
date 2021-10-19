@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.383121,
+                        "lng":-71.0500472
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3843303803,
+                              "lng":-71.0485436697
+                        },
+                        "southwest":{
+                              "lat":42.3816324197,
+                              "lng":-71.0512416303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ozone Bos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJg7qhofhw44kRzfRCtzQoOKw",
+            "plus_code":{
+                  "compound_code":"9WMX+6X Boston, MA, USA",
+                  "global_code":"87JC9WMX+6X"
+            },
+            "reference":"ChIJg7qhofhw44kRzfRCtzQoOKw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"200 Terminal Street, Boston",
+            "CBG":250250408012,
+            "Radius":390.9320880719
+      }
+]

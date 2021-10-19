@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8163668,
+                        "lng":-80.2407435
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8177157803,
+                              "lng":-80.2393945197
+                        },
+                        "southwest":{
+                              "lat":25.8150178197,
+                              "lng":-80.2420924803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brother And Sister Bar-B-Que Pit",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1816,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105227236599363227709\">Juan H<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECg0ec1b_Oc3noNsyeHYWfVBqRlkhRy4mOkzCEwXMTCXCpmSWMz8LrIOa3SC3sGe2WzjHDEitXqStsHtxJfYM_RulpwZbrGxfAqN1iZqe7hVqztfKzlExoxtFlDjb8M7zxYoyX0Ihhm1eYmd916MJCB2Se2uCYet-5ZSFThVKu4NMWs",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJkSxQVtCw2YgRAAWYUtHbCSA",
+            "plus_code":{
+                  "compound_code":"RQ85+GP Miami, FL, USA",
+                  "global_code":"76QXRQ85+GP"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJkSxQVtCw2YgRAAWYUtHbCSA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":169,
+            "vicinity":"4530 Northwest 27th Avenue, Miami",
+            "CBG":120860017022,
+            "Radius":276.5283028332
+      }
+]

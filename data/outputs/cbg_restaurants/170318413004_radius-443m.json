@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8452905,
+                        "lng":-87.6807636
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8465927803,
+                              "lng":-87.6794042197
+                        },
+                        "southwest":{
+                              "lat":41.8438948197,
+                              "lng":-87.6821021803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Truck (Good out Door Tacos)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101750915005049170603\">Veronica Flores<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAjDiZ7OOdji0RpJGCgDapQiuuZ8fzVrUDYuc8rEQzA3MMerHf0yNrgznGzoH0dTRavFU_vYv41M1j2ZCdXP9R8GPqZhZ9NlemjaQtlPE74tJpIwgYwmbxrRH3gLNvTgSZdZt5NpRppgrfr9D8553y22YGtS-u32YOAK_qaP8DVt9rn",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJzR-rg5ctDogRgAl8gvXTwXk",
+            "plus_code":{
+                  "compound_code":"R8W9+4M Chicago, IL, USA",
+                  "global_code":"86HJR8W9+4M"
+            },
+            "rating":4.6,
+            "reference":"ChIJzR-rg5ctDogRgAl8gvXTwXk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"2501-2523 South Leavitt Street, Chicago",
+            "CBG":170318413004,
+            "Radius":442.6120321469
+      }
+]

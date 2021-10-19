@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.879759,
+                        "lng":-87.7805152
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8810360803,
+                              "lng":-87.7792947197
+                        },
+                        "southwest":{
+                              "lat":41.8783381197,
+                              "lng":-87.7819926803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":690,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110424201642105441167\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECZeBi8OyCFtvMG0M4Z1dYJQtVUoV-Y0bZccxUiAKT9JXpXSY8QAoV6TDzUOimuUz-WH2kejorGA8ldeYv2unwcgvsz4YB_kosTxjMubsCG4c0QqsZftfsC6DV-dDG9Z_LL2OfdGO_dVwxZgYTYGFvzkTzpT4AlCqFfJI2axboddPg",
+                        "width":1227
+                  }
+            ],
+            "place_id":"ChIJJZwHZ6A0DogR5oz77CzsxiY",
+            "plus_code":{
+                  "compound_code":"V6H9+WQ Oak Park, IL, USA",
+                  "global_code":"86HJV6H9+WQ"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJJZwHZ6A0DogR5oz77CzsxiY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":398,
+            "vicinity":"217 West Madison Street, Oak Park",
+            "CBG":170318130004,
+            "Radius":231.0871222194
+      }
+]

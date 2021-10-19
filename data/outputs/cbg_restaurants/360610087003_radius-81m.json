@@ -1,0 +1,80 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7420251,
+                        "lng":-73.9985548
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7434105803,
+                              "lng":-73.9971921697
+                        },
+                        "southwest":{
+                              "lat":40.7407126197,
+                              "lng":-73.9998901303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\u041a\u043b\u0443\u0431 \u0431\u0430\u0440",
+            "place_id":"ChIJI73JBWVZwokRQKandpW41_s",
+            "plus_code":{
+                  "compound_code":"P2R2+RH New York, NY, USA",
+                  "global_code":"87G8P2R2+RH"
+            },
+            "reference":"ChIJI73JBWVZwokRQKandpW41_s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"238 West 19th Street, New York",
+            "CBG":360610087003,
+            "Radius":80.5981895407
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7414977,
+                        "lng":-73.9993703
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7429233303,
+                              "lng":-73.9979674197
+                        },
+                        "southwest":{
+                              "lat":40.7402253697,
+                              "lng":-74.0006653803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sanyuu West",
+            "place_id":"ChIJeTRXkt1ZwokRzC-G7wRz4X0",
+            "plus_code":{
+                  "compound_code":"P2R2+H7 New York, NY, USA",
+                  "global_code":"87G8P2R2+H7"
+            },
+            "reference":"ChIJeTRXkt1ZwokRzC-G7wRz4X0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"228 West 18th Street, New York",
+            "CBG":360610087003,
+            "Radius":80.5981895407
+      }
+]

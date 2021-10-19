@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6062822,
+                        "lng":-73.9615235
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6076265303,
+                              "lng":-73.9602786697
+                        },
+                        "southwest":{
+                              "lat":40.6049285697,
+                              "lng":-73.9629766303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Edo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3006,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115354096318086584445\">Igor Katrach - Director of Photography<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDvTR9m8pNuO-Dx2c68oVzXsAYA5a36mmYCT5zCpMsXeUk4qmB48J8zUYXrqz0OrqOFMfbboEy2a4Tm0WKUXd6sJa_NlMxbZF77m-7vNirRT96ypGNULMwAEWCoszpVPsOPeTC17BUZHo0Y_B2b3sII1xCjNqY5BKOUr8LiK_vcIrZh",
+                        "width":5344
+                  }
+            ],
+            "place_id":"ChIJJaj_4uxEwokRNO-qxGTKjz0",
+            "plus_code":{
+                  "compound_code":"J24Q+G9 New York, NY, USA",
+                  "global_code":"87G8J24Q+G9"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJJaj_4uxEwokRNO-qxGTKjz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"2087 Coney Island Avenue, Brooklyn",
+            "CBG":360470554002,
+            "Radius":116.6727143879
+      }
+]

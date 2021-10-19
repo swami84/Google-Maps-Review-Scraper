@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8436568,
+                        "lng":-87.6429284
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8450057803,
+                              "lng":-87.6415794197
+                        },
+                        "southwest":{
+                              "lat":41.8423078197,
+                              "lng":-87.6442773803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gio's Cafe and Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2087,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112539205923934464353\">Chip Krusemark<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBdLYgYgw46yVVOSN7RmtxBRlBe3FHiTdSNhu86qfRiB04ILfh7e6CwhBMpSz59DmTgZWpgKgysxik3-UNYsHVA4siEZe61j0ELlzHpZ7UbPP4JGQqNyJ-Zo5poJETrt7T3uBuX1AqviKtbJsQfiWk1lZwH0lnZtFA-66zGRF11JcLX",
+                        "width":2790
+                  }
+            ],
+            "place_id":"ChIJ4UuNfkMsDogR--A-7WnaG_0",
+            "plus_code":{
+                  "compound_code":"R9V4+FR Chicago, IL, USA",
+                  "global_code":"86HJR9V4+FR"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ4UuNfkMsDogR--A-7WnaG_0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":378,
+            "vicinity":"2724 South Lowe Avenue, Chicago",
+            "CBG":170316004003,
+            "Radius":197.1953572875
+      }
+]

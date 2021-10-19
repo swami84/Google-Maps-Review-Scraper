@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7587261,
+                        "lng":-73.9644708
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7601599303,
+                              "lng":-73.9630447197
+                        },
+                        "southwest":{
+                              "lat":40.7574619697,
+                              "lng":-73.9657426803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mr Chow",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3168,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106886372059998223043\">Mr Chow<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC0jmwrTh9Y1-k9aLPZUhiSrzB5xMLF2YT7-mAg5aALQgjVjHkxgIkGpuGebRETTIl3jFvKkcgXxCwx_e8RbeRRHBmRPKxc1YC-9EP719aCmJESfZbvEDNTfp3fqQlRcAzoyQ66CA49TXJ5MuYlDrjIrMgBwMCeKs5C2uxgE9aMpytN",
+                        "width":4752
+                  }
+            ],
+            "place_id":"ChIJj1En45dcwokR4BRFTdCs-k4",
+            "plus_code":{
+                  "compound_code":"Q25P+F6 New York, NY, USA",
+                  "global_code":"87G8Q25P+F6"
+            },
+            "price_level":4,
+            "rating":4,
+            "reference":"ChIJj1En45dcwokR4BRFTdCs-k4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":386,
+            "vicinity":"324 East 57th Street, New York",
+            "CBG":360610108002,
+            "Radius":79.0087031785
+      }
+]

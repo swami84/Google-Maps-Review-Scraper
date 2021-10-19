@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3349865,
+                        "lng":-71.046156
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3364111303,
+                              "lng":-71.0449179697
+                        },
+                        "southwest":{
+                              "lat":42.3337131697,
+                              "lng":-71.0476159303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fat Baby",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113520055853205814900\">Lucia Conchello<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBya7zxbzYuDxJUjOn0mldwhx2lfPgp2_zAhiK2cfmTdmO_A5vjQAxyNxkdw-IRXlOr0lNZUV29cGPR0ALuvWw0ocD3kheQid7yDztEXbRiEy54pw7xLfa-p7me7qrWwqoRb3sJ8XTDU5axQW6kE2DpRQSfBMWDRSvP2qqSrbkK8NUR",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJGX2JyIt644kRjBPFOiqG2VQ",
+            "plus_code":{
+                  "compound_code":"8XM3+XG Boston, MA, USA",
+                  "global_code":"87JC8XM3+XG"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJGX2JyIt644kRjBPFOiqG2VQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":337,
+            "vicinity":"118 Dorchester Street, Boston",
+            "CBG":250250604005,
+            "Radius":166.4722608149
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3351112,
+                        "lng":-71.0460167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3365301303,
+                              "lng":-71.0447276697
+                        },
+                        "southwest":{
+                              "lat":42.3338321697,
+                              "lng":-71.0474256303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hunter's Kitchen and Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112757767986529524384\">Balanced Flyer<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAcUjWkkRTV-KpnVzajKhC2QuzhhMsZ9ucyFB4jmy5-_Hxb75oqiudlMm5dnPu9HzgHkYDBDpWpsjELvVI3PdX_4dL4WTYm6uOxOmQGBhg35GJH_csdXZcnoBuGfH2fyZNsI-oZJqqC5-htgxk4meAGLddMJgcoZSuB3w7v9vnZ1og7",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJSWuwwsp744kRv1oSU1E7F1A",
+            "plus_code":{
+                  "compound_code":"8XP3+2H Boston, MA, USA",
+                  "global_code":"87JC8XP3+2H"
+            },
+            "price_level":null,
+            "rating":3.3,
+            "reference":"ChIJSWuwwsp744kRv1oSU1E7F1A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":37,
+            "vicinity":"110 Dorchester Street, Boston",
+            "CBG":250250604005,
+            "Radius":166.4722608149
+      }
+]

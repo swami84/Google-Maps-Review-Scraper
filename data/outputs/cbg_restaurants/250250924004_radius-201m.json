@@ -1,0 +1,88 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.294887,
+                        "lng":-71.088316
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2962118303,
+                              "lng":-71.0868354697
+                        },
+                        "southwest":{
+                              "lat":42.2935138697,
+                              "lng":-71.0895334303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Daisy Duke's BBQ Pit and Royal",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJG6yoN65744kR_5IGo3sNyeI",
+            "plus_code":{
+                  "compound_code":"7WV6+XM Boston, MA, USA",
+                  "global_code":"87JC7WV6+XM"
+            },
+            "rating":5,
+            "reference":"ChIJG6yoN65744kR_5IGo3sNyeI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"881 Blue Hill Avenue, Boston",
+            "CBG":250250924004,
+            "Radius":200.6850185223
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2952295,
+                        "lng":-71.0880893
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2966066303,
+                              "lng":-71.0866504197
+                        },
+                        "southwest":{
+                              "lat":42.2939086697,
+                              "lng":-71.0893483803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Royalty Iron Grill",
+            "opening_hours":null,
+            "place_id":"ChIJXejdzOV744kR7x7qjF5B8gs",
+            "plus_code":{
+                  "compound_code":"7WW6+3Q Boston, MA, USA",
+                  "global_code":"87JC7WW6+3Q"
+            },
+            "rating":5,
+            "reference":"ChIJXejdzOV744kR7x7qjF5B8gs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"881 Blue Hill Avenue, Boston",
+            "CBG":250250924004,
+            "Radius":200.6850185223
+      }
+]

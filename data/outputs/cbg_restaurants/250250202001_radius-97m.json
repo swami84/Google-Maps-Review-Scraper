@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.361031,
+                        "lng":-71.066483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3624239803,
+                              "lng":-71.0651497197
+                        },
+                        "southwest":{
+                              "lat":42.3597260197,
+                              "lng":-71.0678476803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101874508321852019583\">Charlie&#39;s Cooking Show<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECFD16--kT7eaPLCZfNsfF5jVtJcHsN1fkDpvtvUmoQsPTn0Z3DHD7oFUW9Yf1eOJOcRJSLoG-qR0zUwEebGQaU0_2CUcEvFeoE3DCcS5nd4TbgQ2-7IruBIRhL6YrVky5BLvWypwxozrSPbg7SG1yU3JRkktan3CJvGs9u9BDBf-tF",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-2Skf4Zw44kR4kw-UYafqDk",
+            "plus_code":{
+                  "compound_code":"9W6M+CC Boston, MA, USA",
+                  "global_code":"87JC9W6M+CC"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ-2Skf4Zw44kR4kw-UYafqDk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":304,
+            "vicinity":"222 Cambridge Street, Boston",
+            "CBG":250250202001,
+            "Radius":97.412196449
+      }
+]

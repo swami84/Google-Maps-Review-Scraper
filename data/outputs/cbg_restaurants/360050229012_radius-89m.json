@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.845524,
+                        "lng":-73.9051794
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8468625803,
+                              "lng":-73.9036368697
+                        },
+                        "southwest":{
+                              "lat":40.8441646197,
+                              "lng":-73.9063348303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mslab",
+            "place_id":"ChIJ8zjtGof1wokRkDA8HGnjQps",
+            "plus_code":{
+                  "compound_code":"R3WV+6W New York, NY, USA",
+                  "global_code":"87G8R3WV+6W"
+            },
+            "reference":"ChIJ8zjtGof1wokRkDA8HGnjQps",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1755 Clay Avenue, Bronx",
+            "opening_hours":null,
+            "CBG":360050229012,
+            "Radius":89.4431795581
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8461493,
+                        "lng":-73.9042441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8473579803,
+                              "lng":-73.9029591697
+                        },
+                        "southwest":{
+                              "lat":40.8446600197,
+                              "lng":-73.9056571303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jayz cruz",
+            "place_id":"ChIJkbBMV_X1wokRbu-r4E9E0iM",
+            "plus_code":{
+                  "compound_code":"R3WW+F8 New York, NY, USA",
+                  "global_code":"87G8R3WW+F8"
+            },
+            "reference":"ChIJkbBMV_X1wokRbu-r4E9E0iM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1776 Clay Avenue, Bronx",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360050229012,
+            "Radius":89.4431795581
+      }
+]

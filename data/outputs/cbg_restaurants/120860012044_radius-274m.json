@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8825858,
+                        "lng":-80.165665
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8839853803,
+                              "lng":-80.1644595697
+                        },
+                        "southwest":{
+                              "lat":25.8812874197,
+                              "lng":-80.1671575303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Miami Kleaning Services The Restaurant Cleaning Experts",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1272,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113286108402666524034\">Miami Kleaning Services The Restaurant Cleaning Experts<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJ1ZKGFRmHkCz_88l8_gOF5oqzcP1zq-lJNIUzGhL_IQ8E8rlUc5vdZWz0H-7UjMzXyVk0o5qSDHagke7cbAnYHRkOdk6lYrIClorYem-uRqyn37tlIVOSzEyYKlBKeEVhBSiXiR5p3O-UItsnaXagbKho6-A00S4NTwGwu6NzSDoy",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJrwKOdlKz2YgRB1zUPIvk-mo",
+            "plus_code":{
+                  "compound_code":"VRMM+2P Miami, FL, USA",
+                  "global_code":"76QXVRMM+2P"
+            },
+            "rating":3.7,
+            "reference":"ChIJrwKOdlKz2YgRB1zUPIvk-mo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"11601 Biscayne Boulevard STE 300, Miami",
+            "CBG":120860012044,
+            "Radius":273.6336929313
+      }
+]

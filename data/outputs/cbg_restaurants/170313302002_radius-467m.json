@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8660148,
+                        "lng":-87.627117
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8673274803,
+                              "lng":-87.6258697697
+                        },
+                        "southwest":{
+                              "lat":41.8646295197,
+                              "lng":-87.6285677303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kai Sushi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105769848292489217734\">A HacK<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAMSTw-0kow0ZgiIG34WRdPnDwlIcvfpG4mqzzFZt3VDlJ632qjT9da7ynz42SsXYtHSo_doSP31tBfZjlXeiSZ8RcSfmfEIy9aPlSL5lDz8jFusQY3MlkDNAHScop4vnBttau9vyiml6khw4CSEAB-X0hIPVkxXH1Ja7VVIWENu6kS",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJgz3hw5osDogR0d4_YPtmEJM",
+            "plus_code":{
+                  "compound_code":"V98F+C5 Chicago, IL, USA",
+                  "global_code":"86HJV98F+C5"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJgz3hw5osDogR0d4_YPtmEJM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":518,
+            "vicinity":"1255 South State Street, Chicago",
+            "CBG":170313302002,
+            "Radius":467.4973754183
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8678078,
+                        "lng":-87.6327524
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8691461303,
+                              "lng":-87.6314431197
+                        },
+                        "southwest":{
+                              "lat":41.8664481697,
+                              "lng":-87.6341410803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The X Pot - Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1502,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111256277083697470610\">The X Pot - Chicago<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBQljGcQYGkPCF4Fj60TsZkPys0HH6A4WFxT7Tv9vIC-BGOJ0yDW6n6LmfaWyA-f2sQVFAiVIqZmnQCzh0UaIVgUjm90GITZdhigltq4Pz5SLuxQE-6lvktOQOvv1XREfbE0raCvslXZP10vvIkM6ZJNS4O48I-zyXOdGNitHdGk3BC",
+                        "width":2324
+                  }
+            ],
+            "place_id":"ChIJFSy84_0tDogRCibwjlnDRts",
+            "plus_code":{
+                  "compound_code":"V998+4V Chicago, IL, USA",
+                  "global_code":"86HJV998+4V"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJFSy84_0tDogRCibwjlnDRts",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":22,
+            "vicinity":"1147 South Delano Court East, Chicago",
+            "CBG":170313302002,
+            "Radius":467.4973754183
+      }
+]

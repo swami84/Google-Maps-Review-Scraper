@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3032728,
+                        "lng":-71.0849527
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3046493803,
+                              "lng":-71.0836806197
+                        },
+                        "southwest":{
+                              "lat":42.3019514197,
+                              "lng":-71.0863785803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Stash's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2502,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111555170240291436349\">Anthony Craig Evans<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECAB4K-kaPZUOLNmsLSpSQI5rQteZ9VRJB7zvdyyNk4lQ5VbhS4A-Kr8UZecIKcfYgzXs4xHFF_BHb24mrzJhb0ft3_KjEVacPbGTLphklbManTKpjwE7l_KvxRP3QRP0eiQXjzWiQBWFc_8HX-G1XK_ZmwXYX17j-ZMH-rovEYROwG",
+                        "width":2502
+                  }
+            ],
+            "place_id":"ChIJPUJfNsN744kRpHXXLF2ifek",
+            "plus_code":{
+                  "compound_code":"8W38+82 Boston, MA, USA",
+                  "global_code":"87JC8W38+82"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJPUJfNsN744kRpHXXLF2ifek",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":937,
+            "vicinity":"612 Blue Hill Avenue, Boston",
+            "CBG":250250901003,
+            "Radius":168.298802468
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3029242,
+                        "lng":-71.0850371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3042886803,
+                              "lng":-71.0837801197
+                        },
+                        "southwest":{
+                              "lat":42.3015907197,
+                              "lng":-71.0864780803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Esquina Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111041003238076090770\">La Esquina Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAsJPVf40NoGOayrvI9oB0HKSGKNSnV_Ov7_jshCP0TyveSeT3pTAtz3gn2Eg26o0Wzwg9R-XWFRxUzWcnJLKOoTqs6G5lnbZOLVUJV4tYbeXvjvZiJgtlEo0Bu_y65JFeb2OKhP0_EdjyttjtPtrHIWQ91ZF6LcH9AV6Q-vJp97ZY",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJe7Y-UBR744kR2BtzeoxPxQ4",
+            "plus_code":{
+                  "compound_code":"8W37+5X Boston, MA, USA",
+                  "global_code":"87JC8W37+5X"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJe7Y-UBR744kR2BtzeoxPxQ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":85,
+            "vicinity":"624 Blue Hill Avenue, Boston",
+            "CBG":250250901003,
+            "Radius":168.298802468
+      }
+]

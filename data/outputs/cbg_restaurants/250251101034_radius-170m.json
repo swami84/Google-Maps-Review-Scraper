@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2924979,
+                        "lng":-71.1175789
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2938521303,
+                              "lng":-71.1162896197
+                        },
+                        "southwest":{
+                              "lat":42.2911541697,
+                              "lng":-71.1189875803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mang\u00fa Dominican Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113337839890187175210\">Mang\u00fa Dominican Bistro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDZvWMMv2E7BvK-BOxD7H9PNCqo0KIi5yAebXzv8Ogqed_8tCUeIT9M1gMfkKtFnnmPa4CVksyfDPZ185-OG9ZZLtoFjiB4G6eitABFDRz0UD7RdYROY8uqrYDujwjBwaOD8hQCNQogNUZGJFguKCwl4q8hlS_A9B3hrbtHkSGeiTrE",
+                        "width":900
+                  }
+            ],
+            "place_id":"ChIJDVCXDEl544kRAd0KMpDkZ6E",
+            "plus_code":{
+                  "compound_code":"7VRJ+XX Boston, MA, USA",
+                  "global_code":"87JC7VRJ+XX"
+            },
+            "rating":4.7,
+            "reference":"ChIJDVCXDEl544kRAd0KMpDkZ6E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"264 Hyde Park Avenue, Boston",
+            "CBG":250251101034,
+            "Radius":169.7498231127
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2931951,
+                        "lng":-71.1173494
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2945559303,
+                              "lng":-71.1161133697
+                        },
+                        "southwest":{
+                              "lat":42.2918579697,
+                              "lng":-71.1188113303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fat Chowda Food Truck",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJVVWpHEl544kRgxaaDsJ5tXo",
+            "plus_code":{
+                  "compound_code":"7VVM+73 Boston, MA, USA",
+                  "global_code":"87JC7VVM+73"
+            },
+            "rating":5.0,
+            "reference":"ChIJVVWpHEl544kRgxaaDsJ5tXo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"246 Hyde Park Avenue, Boston",
+            "CBG":250251101034,
+            "Radius":169.7498231127
+      }
+]

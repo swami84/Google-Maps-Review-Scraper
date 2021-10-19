@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4668348,
+                        "lng":-70.9255446
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4682607803,
+                              "lng":-70.9240757197
+                        },
+                        "southwest":{
+                              "lat":42.4655628197,
+                              "lng":-70.9267736803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Christophers Cafe & Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":635,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112541236748634991903\">Christophers Cafe &amp; Catering<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED6-gunLB2U8zZDemNfn-oID2VVt5OCKC3GSO3TdLgBjIDl59IXc_P9sWFQaXf5rLzB9jMJhkpJbk7Xmv2KwGrIko0sBg-C2KA6Wtgq6wzE2LSw9IxDIXECQ44uH2oTePiIFTut3TLfNcdAma5sDEVgzUSyCNTY4mnXgC_NQfxs9YIu",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJTywGrL5s44kRIWdaUDoR550",
+            "plus_code":{
+                  "compound_code":"F38F+PQ Lynn, MA, USA",
+                  "global_code":"87JFF38F+PQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJTywGrL5s44kRIWdaUDoR550",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":156,
+            "vicinity":"2 Lewis Street, Lynn",
+            "CBG":250092066002,
+            "Radius":203.9590213881
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.467028,
+                        "lng":-70.925949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4683031303,
+                              "lng":-70.9245735697
+                        },
+                        "southwest":{
+                              "lat":42.4656051697,
+                              "lng":-70.9272715303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Giovanni's Pizza & Roast Beef",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107519148874050382231\">Giovanni&#39;s Pizza &amp; Roast Beef<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAyNbWqQ1Cl_ShCo7Nuvmx7T_h5-nDELRwxpgwY7Jmk-K3PFbO9gVEoIupNAeNuCNM2K9NvEtTpeWQcicCidn8WrUSEAs1ZuaQQM7ezz3Jxwc0gaPCsw_EodQYo8zUKrjkyCyav2ZtJ_EnE17MLt-R4IStdyeBU5l2usS4EjQzDqCHL",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJoSpwsb5s44kRFyNEUHKX1wc",
+            "plus_code":{
+                  "compound_code":"F38F+RJ Lynn, MA, USA",
+                  "global_code":"87JFF38F+RJ"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJoSpwsb5s44kRFyNEUHKX1wc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":191,
+            "vicinity":"4806, 15 Lewis Street, Lynn",
+            "CBG":250092066002,
+            "Radius":203.9590213881
+      }
+]

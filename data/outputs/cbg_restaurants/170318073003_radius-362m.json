@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.033848,
+                        "lng":-87.756806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0350963803,
+                              "lng":-87.7554811197
+                        },
+                        "southwest":{
+                              "lat":42.0323984197,
+                              "lng":-87.7581790803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Halal Market Skokie",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100737013165145083093\">Halal Mart Skokie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDkbKZoSPUiLQ3nklNjn6Kc8eClLHelaVjR_2zTXPTivh4mAlqvdVMWhCI9OXR9ke7DFt1uU3ohB9lAzWXGpnDMhL3C5q_UULdfKfjIZlIQvhZ0B9edE30bstu6CeICaxlPoDCMtxZz9En4gTRM55_QAEkzgRD6huedCi1WSIIeAEM3",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ7RFDvUPPD4gRZDbnVNf1rqw",
+            "plus_code":{
+                  "compound_code":"26MV+G7 Skokie, IL, USA",
+                  "global_code":"86JJ26MV+G7"
+            },
+            "rating":4.5,
+            "reference":"ChIJ7RFDvUPPD4gRZDbnVNf1rqw",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":49,
+            "vicinity":"5158 Main Street, Skokie",
+            "CBG":170318073003,
+            "Radius":362.383673258
+      }
+]

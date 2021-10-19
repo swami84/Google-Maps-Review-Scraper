@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.728085,
+                        "lng":-87.5858495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7294350303,
+                              "lng":-87.5843047697
+                        },
+                        "southwest":{
+                              "lat":41.7267370697,
+                              "lng":-87.5870027303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nipsey's Restaurant & Lounge",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3028,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114217316162338673158\">Nipsey&#39;s Restaurant &amp; Lounge<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDJZfCtGqemDmrx4JH1tdtjCPNVFGuOc_B08OiHPnVbYZ-KkUxn94zc58TpAmcZCUETTgUEi5wPfAjDppbMoSiHnvyvm-q08TnL1_VEc9by2F_Uy-bTkbFIp7nFNQdIvfWUl_A3XXwVJp028L5tyAWTfVUm6Lzd5SMCYfl8QaQxafS5",
+                        "width":3029
+                  }
+            ],
+            "place_id":"ChIJE3zwLjQnDogR-im0RDGtXvA",
+            "plus_code":{
+                  "compound_code":"PCH7+6M Chicago, IL, USA",
+                  "global_code":"86HJPCH7+6M"
+            },
+            "rating":3.6,
+            "reference":"ChIJE3zwLjQnDogR-im0RDGtXvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"9156 South Stony Island Avenue, Chicago",
+            "CBG":170314803002,
+            "Radius":255.6986616152
+      }
+]

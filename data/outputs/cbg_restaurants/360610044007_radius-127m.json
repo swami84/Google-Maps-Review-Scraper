@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7322043,
+                        "lng":-73.9815645
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7335133803,
+                              "lng":-73.9803099697
+                        },
+                        "southwest":{
+                              "lat":40.7308154197,
+                              "lng":-73.9830079303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1060,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107081759431075357196\">Marek Rygielski<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAhpCUE2FRj6sS_tS7MRAfeFy4U6jn8MgSSj9XJ6q5job1jEDNcTEPyLe7vbfoQ_9Y4SR7iC-HVqVrhHmEarSWRi7DT2Y0C8z1tcyACfncRAM_hF0Atg3m3I8w4KFIgfet6Cyvdpaq2RRUFQ-Z-Yz2LF5BLGU3PvoFhWEm28NRfgCUW",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJUb5wmXVZwokRRdkeA5brzzA",
+            "plus_code":{
+                  "compound_code":"P2J9+V9 New York, NY, USA",
+                  "global_code":"87G8P2J9+V9"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJUb5wmXVZwokRRdkeA5brzzA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":216,
+            "vicinity":"266 1st Avenue, New York",
+            "CBG":360610044007,
+            "Radius":126.6263159724
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8673268,
+                        "lng":-80.276236
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8686509803,
+                              "lng":-80.2748949697
+                        },
+                        "southwest":{
+                              "lat":25.8659530197,
+                              "lng":-80.2775929303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fritanga El Malecon",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101367515961573542848\">Yasmine Sargent<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC4a6BUoeRTy5rUlQ4FBOGQacDzm7ODqBGPgSjfiC740uG8pabQ921pSwqXdpYsAB6zWSRzH9g_9qnhXBk7XqU_cUvBZQP9bTPfmtuoGQOC9Azlo_xSZOvauo3pzENAVz35LJ1wWG45OboeaL8SMzm9YoCtn9_cLeilkbiZT7PMxmK-",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJrfGVBXiw2YgRfdEJfULVTPM",
+            "plus_code":{
+                  "compound_code":"VP8F+WG Hialeah, FL, USA",
+                  "global_code":"76QXVP8F+WG"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJrfGVBXiw2YgRfdEJfULVTPM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":250,
+            "vicinity":"315 East 49th Street, Hialeah",
+            "CBG":120860006031,
+            "Radius":349.1845860605
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8674208,
+                        "lng":-80.2757857
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8687682803,
+                              "lng":-80.2744914197
+                        },
+                        "southwest":{
+                              "lat":25.8660703197,
+                              "lng":-80.2771893803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cuban Buffet",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108866620824694068556\">antonio delgado<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDeRMdiQU4uqy0RF52gDGOPooLIQvpGYXl5JA0sbJj6Jmcp8tRQdjnMQU9P9oQPW-Muu7rqxh9ohld_lDHVeXsIlhhQXkpvEpFe-L9KyFbX_46Fj9tHa3_QW9YbJ42QihIQy5JFRoVNhSy1oHdhAmGU2Iod9_XcW6c-eFky_djr8j4a",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJLShBGniw2YgRx6P8l2LzHTU",
+            "plus_code":{
+                  "compound_code":"VP8F+XM Hialeah, FL, USA",
+                  "global_code":"76QXVP8F+XM"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJLShBGniw2YgRx6P8l2LzHTU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"345 East 49th Street, Hialeah",
+            "CBG":120860006031,
+            "Radius":349.1845860605
+      }
+]

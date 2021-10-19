@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.1310239,
+                        "lng":-88.0056864
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.1323072803,
+                              "lng":-88.0042712697
+                        },
+                        "southwest":{
+                              "lat":42.1296093197,
+                              "lng":-88.0069692303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pedro's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114285245774247770173\">Pedro&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAKYI-i4DS5xkp1Ba9zdFUdvLCEazYoLy9Z_Shdq3PgsnEQ9zANwlpYcxOzLs86Tp4pV4X_7a4p1PtjP8Gqvlg1zGe2QupkiO6pWA6uVDTl1jgJBFq4TdpDkVSHbOkrWSVttIkv9qlOJaJrdUW_OEKFHBWLDHFwCjtJP-fsZjFobHS9",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ-5dGb6ikD4gRTL-eYeIvuno",
+            "plus_code":{
+                  "compound_code":"4XJV+CP Palatine, IL, USA",
+                  "global_code":"86JH4XJV+CP"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ-5dGb6ikD4gRTL-eYeIvuno",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"1513 North Rand Road, Palatine",
+            "CBG":170318030173,
+            "Radius":440.9014353137
+      }
+]

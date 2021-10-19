@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":42.4226998,
+                        "lng":-71.0590392
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4241201803,
+                              "lng":-71.0577914697
+                        },
+                        "southwest":{
+                              "lat":42.4214222197,
+                              "lng":-71.0604894303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sushukospark",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112595195421108304073\">Sushukospark<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAUfjMEi-LviW6EFvEp40qTNnbmH2y0pSIVv5QaGYUYj8eyp_AdIItvM1JulLQhNCv7hIG6bjqmHEpZ3nKjIrmW_EauDsJOz83JuU332C5eiBSQ6d2EjTt2QxBXv3TzJSZCXzACiYCwjlKQ3TTDM3QW2vuVSurhGESYErVnzxR2O07H",
+                        "width":2422
+                  }
+            ],
+            "place_id":"ChIJi0Ea_-Rx44kR6qzIB6RFqWM",
+            "plus_code":{
+                  "compound_code":"CWFR+39 Malden, MA, USA",
+                  "global_code":"87JCCWFR+39"
+            },
+            "reference":"ChIJi0Ea_-Rx44kR6qzIB6RFqWM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"19 Upham Street, Malden",
+            "CBG":250173415004,
+            "Radius":188.1096403896
+      }
+]

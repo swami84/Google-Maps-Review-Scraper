@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9738899,
+                        "lng":-82.4908035
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9752989803,
+                              "lng":-82.4894546197
+                        },
+                        "southwest":{
+                              "lat":27.9726010197,
+                              "lng":-82.4921525803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Ideal Sandwich Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2918,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101963221530474370210\">Daniel McKnight<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZFNMX0GN5I3CrBNyvEGRHn4UFWtNHQrdSKS98dVgDL9OByAEVgDGvm9wsRdr43-hatufrGfU6oNxByiKKkB5m4vdvyhRz9tT58fFHTD-A1wwVVCR7axu7GCjITxnz1RNvzRVKcbiJO7U5DnOlkM_Vt_AojnywkLJeBcanwwDagHzF",
+                        "width":3896
+                  }
+            ],
+            "place_id":"ChIJk_d0h5PDwogRpXiofN_fPds",
+            "plus_code":{
+                  "compound_code":"XGF5+HM Tampa, FL, USA",
+                  "global_code":"76VVXGF5+HM"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJk_d0h5PDwogRpXiofN_fPds",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":146,
+            "vicinity":"2924 West Tampa Bay Boulevard, Tampa",
+            "CBG":120570027003,
+            "Radius":361.7454086637
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9739027,
+                        "lng":-82.4908853
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9753053303,
+                              "lng":-82.4895364197
+                        },
+                        "southwest":{
+                              "lat":27.9726073697,
+                              "lng":-82.4922343803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Los Gringos Tampa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107401703536517035058\">Mark Flynn<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAXfD9RLZIxuxiDb4O0op2eT46ZhC5y7uFMIS0lJvO-KZBlG26_kserJZPaZm040YY_pYFTnA9YP_B-TdoriDyaHyhyFv2sT9_WPNy2Gc7yY60zyRtWg6GMbo79_SjLmG3pimdvoO2GP8yT0Sv3bN85MVwEeATpLux7Txy0TPmjVieg",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq_JOI1XDwogRnKcY6TbjeME",
+            "plus_code":{
+                  "compound_code":"XGF5+HJ Tampa, FL, USA",
+                  "global_code":"76VVXGF5+HJ"
+            },
+            "price_level":null,
+            "rating":4.7,
+            "reference":"ChIJq_JOI1XDwogRnKcY6TbjeME",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"2924 West Tampa Bay Boulevard, Tampa",
+            "CBG":120570027003,
+            "Radius":361.7454086637
+      }
+]

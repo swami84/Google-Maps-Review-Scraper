@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7935413,
+                        "lng":-87.7164385
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7948902803,
+                              "lng":-87.7150895197
+                        },
+                        "southwest":{
+                              "lat":41.7921923197,
+                              "lng":-87.7177874803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gorditas Santiago 2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101121118436832787346\">Gorditas Santiago 2<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDZP4BmYjBdJ-79I2oSrYHtwMjXP1HoQD7anY_XJ-RQuC9mIwsNrgb6KE7V5QY_jO4bDoQpyzP62MA2i-LxXoVYffkCls96zoATiVeFATh_Ei-FA6TKYp4O1JGboTBmVXydEYPCEsq1HT30soPQ6CSv4ChdJVonZcD1Qxfkm0-srWu1",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJBeG1u8AxDogRaZNJRWDBJVE",
+            "plus_code":{
+                  "compound_code":"Q7VM+CC Chicago, IL, USA",
+                  "global_code":"86HJQ7VM+CC"
+            },
+            "rating":4.6,
+            "reference":"ChIJBeG1u8AxDogRaZNJRWDBJVE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":255,
+            "vicinity":"3710 West 55th Street, Chicago",
+            "CBG":170316201003,
+            "Radius":230.0032859207
+      }
+]

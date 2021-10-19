@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8373245,
+                        "lng":-87.70666
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8386090803,
+                              "lng":-87.7053085197
+                        },
+                        "southwest":{
+                              "lat":41.8359111197,
+                              "lng":-87.7080064803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Mixteca Food Truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115061643129171035242\">La Mixteca Food Truck<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB82O428i8M6PeACXmUdyRk9nI7dCobTKs5AHjK_5SQi2aGSF_NKJqiMb7E7ECbF8rkOWR8q81psDZnZ63wVwUAysxnvyUT0qjN7Be0tbkXk_4LbhTWxHu78vYvQmIrQrtu0Tf8cRhYD2YUeuvECoy_nyNu3xePjuWAlXCZbBqAJibu",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJiX0ghgMzDogRqnN5TrH3sWw",
+            "plus_code":{
+                  "compound_code":"R7PV+W8 Chicago, IL, USA",
+                  "global_code":"86HJR7PV+W8"
+            },
+            "rating":5.0,
+            "reference":"ChIJiX0ghgMzDogRqnN5TrH3sWw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"3244 West 31st Street, Chicago",
+            "CBG":170318408002,
+            "Radius":228.8656446935
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.837284,
+                        "lng":-87.706406
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8385915303,
+                              "lng":-87.7050554197
+                        },
+                        "southwest":{
+                              "lat":41.8358935697,
+                              "lng":-87.7077533803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108604760418971463333\">Evelyn Diaz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECF2KrFKODKZ94M_rd7S1VW2df2JRZ7m5xb6qVkS-p0BDwISSkldogYHqTF08Pv9V3ODz45OJ6yE4SRRdpub4TfCHQk0i8QgLtGmnww8wmJVDK41txzAAC_7PRH15rd6NRdY5RK0_unzDTs8e3jeC8p3FYgH5knD-RMIiStz48ShdOR",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJM6wZVGYzDogR-3VApZ1WWMI",
+            "plus_code":{
+                  "compound_code":"R7PV+WC Chicago, IL, USA",
+                  "global_code":"86HJR7PV+WC"
+            },
+            "rating":4.6,
+            "reference":"ChIJM6wZVGYzDogR-3VApZ1WWMI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"3244 West 31st Street, Chicago",
+            "CBG":170318408002,
+            "Radius":228.8656446935
+      }
+]

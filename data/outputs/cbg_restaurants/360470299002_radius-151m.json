@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6788949,
+                        "lng":-73.9272464
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6802393803,
+                              "lng":-73.9259669197
+                        },
+                        "southwest":{
+                              "lat":40.6775414197,
+                              "lng":-73.9286648803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mama Kitchen NY",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1820,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116021828496036620068\">Mama Kitchen NY<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA6TRRihAsp3fqmjqAVJ6AHDYAnJdn3s-FwIwkydrcjFiVcsevu7OHqh-iWZ6sWrx8j0WrnuGVG6qlK-FBaBYHpgETeUibiTKXwSkftqe7EEHhkHWL82kn-cDau7IwPev5uXctzXtFgyugA6JMu0OnDR_hSfgZUNju6D4DwiY74Gzy2",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJp0h3iXBcwokRqOvjsrktKBE",
+            "plus_code":{
+                  "compound_code":"M3HF+H4 New York, NY, USA",
+                  "global_code":"87G8M3HF+H4"
+            },
+            "price_level":2.0,
+            "rating":4.8,
+            "reference":"ChIJp0h3iXBcwokRqOvjsrktKBE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":344,
+            "vicinity":"7 Rochester Avenue, Brooklyn",
+            "CBG":360470299002,
+            "Radius":150.8750969864
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6788858,
+                        "lng":-73.9272807
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6802374303,
+                              "lng":-73.9259841197
+                        },
+                        "southwest":{
+                              "lat":40.6775394697,
+                              "lng":-73.9286820803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Island Chef Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJ9VmJiXBcwokRQkbP7_7T2bY",
+            "plus_code":{
+                  "compound_code":"M3HF+H3 New York, NY, USA",
+                  "global_code":"87G8M3HF+H3"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ9VmJiXBcwokRQkbP7_7T2bY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"7 Rochester Avenue, Brooklyn",
+            "CBG":360470299002,
+            "Radius":150.8750969864
+      }
+]

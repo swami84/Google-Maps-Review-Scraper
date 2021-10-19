@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8003921,
+                        "lng":-87.603826
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8017402303,
+                              "lng":-87.6025356697
+                        },
+                        "southwest":{
+                              "lat":41.7990422697,
+                              "lng":-87.6052336303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Aint Ya Mamas Cooking",
+            "place_id":"ChIJ_88jnLMpDogRxF5P757JGVc",
+            "plus_code":{
+                  "compound_code":"R92W+5F Chicago, IL, USA",
+                  "global_code":"86HJR92W+5F"
+            },
+            "reference":"ChIJ_88jnLMpDogRxF5P757JGVc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Delivery only, Chicago",
+            "CBG":170318363001,
+            "Radius":154.9971623928
+      }
+]

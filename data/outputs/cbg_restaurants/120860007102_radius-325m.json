@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8452979,
+                        "lng":-80.3066066
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8466496803,
+                              "lng":-80.3050702197
+                        },
+                        "southwest":{
+                              "lat":25.8439517197,
+                              "lng":-80.3077681803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Fiesta Cafeteria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116191037969310483027\">Cesar Liccardo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDc78T5s41tFdDcLx-BM39Zdw0wYVi8BonZjd18o1jvxh7epROFxnJT-SUCkbAk1oeCDJNP4WFiuaJQ_5JAe0Dg8YaKYgpXUEqBM1eys6Ja109fs78xqYJmp1o0MDJlz9btxfAtwfPrmQ9hYqZIrpZJFhxTPg4Cz1V-ZKdUYE_sKOcs",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJhzi260S62YgRIOPB0NxNrXc",
+            "plus_code":{
+                  "compound_code":"RMWV+49 Hialeah, FL, USA",
+                  "global_code":"76QXRMWV+49"
+            },
+            "rating":3.9,
+            "reference":"ChIJhzi260S62YgRIOPB0NxNrXc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"2570 West 12th Avenue, Hialeah",
+            "price_level":null,
+            "CBG":120860007102,
+            "Radius":324.6341176729
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8458733,
+                        "lng":-80.3065771
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8471430303,
+                              "lng":-80.3051762197
+                        },
+                        "southwest":{
+                              "lat":25.8444450697,
+                              "lng":-80.3078741803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"A 90 Millas Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115060819795663568959\">A 90 Millas Caf\u00e9<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBW6YIvqg45E2faxXzRbU3BfpMpccjsgFSPAtTbD4LRv5xpSrHDI9FxIe-oW9m1mT536hHylnKlr2qaO-MVIO4h--hnybnhIn2Fyu8OVnGJ1CMq7uUJvO1Vzdwjj-uTjv1ozaQ0GFhXjLmngq6uP7BI-Gf5BNPm7f9CHAk454PIvVvR",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJ-Y6Uz0S62YgRiqKBhZD5jMU",
+            "plus_code":{
+                  "compound_code":"RMWV+89 Hialeah, FL, USA",
+                  "global_code":"76QXRMWV+89"
+            },
+            "rating":4.5,
+            "reference":"ChIJ-Y6Uz0S62YgRiqKBhZD5jMU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"2676 West 12th Avenue, Hialeah",
+            "price_level":1.0,
+            "CBG":120860007102,
+            "Radius":324.6341176729
+      }
+]

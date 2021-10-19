@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7931278,
+                        "lng":-88.0374307
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7944866303,
+                              "lng":-88.0361549197
+                        },
+                        "southwest":{
+                              "lat":41.7917886697,
+                              "lng":-88.0388528803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Low Carb Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":539,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115473027182133619493\">Low Carb Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBvlEm5FoFw_0hpRBxPCiyb6pzX57D_aiUPFd1G7imHhge25s2d7i3Gfy-7m7lhpwtuuOKKjez6rUJ7ZGRFpnePCfU8KK2zA6wDGZgd8p4vRqQiT6JFqJnlhdePMOmGoCH78u_pZHnGkZ101T1yUmQDFLgwhqyrxtH1uDdqH2GRxwO5",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJ8TVoehdPDogR9jzLicNHAuk",
+            "plus_code":{
+                  "compound_code":"QXV7+72 Downers Grove, IL, USA",
+                  "global_code":"86HHQXV7+72"
+            },
+            "rating":5.0,
+            "reference":"ChIJ8TVoehdPDogR9jzLicNHAuk",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":34.0,
+            "vicinity":"5129 Belmont Road, Downers Grove",
+            "CBG":170438460021,
+            "Radius":580.2491697642
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.793017,
+                        "lng":-88.037257
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7944272803,
+                              "lng":-88.0360615197
+                        },
+                        "southwest":{
+                              "lat":41.7917293197,
+                              "lng":-88.0387594803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dinner By Design",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":1008,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114812393509640799769\">Dinner By Design<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7r29SOEtrYyzm4VEquBF6pp8vnuSWzCuNFMDchIExZOwVCVpqorxemQVzAzzFlabmTJNLM3CEiFOmvE0qw0fdvmeMS4buBwGzDylbYa8Ycn8hGmYHxtgmNocsFfQmjcicjBIw_Y9EA7M9Ld7iHzATo4GSDRSEw09TJKAccsqm-c8i",
+                        "width":756
+                  }
+            ],
+            "place_id":"ChIJAUn0btdPDogRrkMzTdSEzGU",
+            "plus_code":{
+                  "compound_code":"QXV7+63 Downers Grove, IL, USA",
+                  "global_code":"86HHQXV7+63"
+            },
+            "rating":null,
+            "reference":"ChIJAUn0btdPDogRrkMzTdSEzGU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"5129 Belmont Road, Downers Grove",
+            "CBG":170438460021,
+            "Radius":580.2491697642
+      }
+]

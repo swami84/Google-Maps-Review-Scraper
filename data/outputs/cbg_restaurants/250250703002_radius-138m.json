@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3485484,
+                        "lng":-71.0679318
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3499295303,
+                              "lng":-71.0665582197
+                        },
+                        "southwest":{
+                              "lat":42.3472315697,
+                              "lng":-71.0692561803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mike & Patty's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2553,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115324424503277771680\">Mike &amp; Patty&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJ9qmDsw9Yi3sAa3vvvpZRZalu-C22sfUsOaSGfZVrcgzW8Q96_O7la8lLskUgdY9pnDgycsyLbfbSPu348v5SUHAd3oWkGTbzPMGXU5ygwdTZP_N5RmBb5W1R5DRS85OTptwEAzod836Bq83lTUrJTY3YEIIbTHzD52n9bsFSCh-t",
+                        "width":2916
+                  }
+            ],
+            "place_id":"ChIJQ3od43N644kRdwiyxb3lYaQ",
+            "plus_code":{
+                  "compound_code":"8WXJ+CR Boston, MA, USA",
+                  "global_code":"87JC8WXJ+CR"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJQ3od43N644kRdwiyxb3lYaQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1295,
+            "vicinity":"12 Church Street, Boston",
+            "CBG":250250703002,
+            "Radius":137.8967522849
+      }
+]

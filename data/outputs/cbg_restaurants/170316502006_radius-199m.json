@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.77876,
+                        "lng":-87.735416
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7799815803,
+                              "lng":-87.7342059197
+                        },
+                        "southwest":{
+                              "lat":41.7772836197,
+                              "lng":-87.7369038803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Valentina Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100012410020654856923\">Helmi Ansari<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBVSWfZqkbM4VEFhEBhgXmFC_1JwyqRuLDmGc-mN8C9GFYfZQMeXcAx_NGtbQTFcbIz3QcPzXa01Pf-Cfrvocp6fo3698x-mtrd3RpLH1CQ80YtWYcp67xy4g5KIw3tVRTW0Ku792DXesnw7d8LblrGw7hYgrjkg5bNc3j26IdOgL5l",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJb-AryaoxDogRpZ28ePtY530",
+            "plus_code":{
+                  "compound_code":"Q7H7+GR Chicago, IL, USA",
+                  "global_code":"86HJQ7H7+GR"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJb-AryaoxDogRpZ28ePtY530",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":431,
+            "vicinity":"4506 West 63rd Street, Chicago",
+            "CBG":170316502006,
+            "Radius":198.978236431
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3432851,
+                        "lng":-71.1423429
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3446798303,
+                              "lng":-71.1409428197
+                        },
+                        "southwest":{
+                              "lat":42.3419818697,
+                              "lng":-71.1436407803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Milano Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102715691180123441645\">Adrian Brown<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuM--c4dtt_HxsFcP8IP0cNFlpc4k9p8y9UPL3QZta-T9XgwC3PssIRpACm3lPf7QSvETfcjLTnzdG0GlNLizUfu8ZHSOARyk2Nscx5NWas89wQJYHDyxgtEDxJ7h-ZWXQi3pmsqidxGI16Wgy9ebPMDUuOEjD5g8_h5IWcHzJQytZ",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJiWxkg7R544kR78-Xz1v7Uro",
+            "plus_code":{
+                  "compound_code":"8VV5+83 Boston, MA, USA",
+                  "global_code":"87JC8VV5+83"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJiWxkg7R544kR78-Xz1v7Uro",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":149,
+            "vicinity":"60 Washington Street, Boston",
+            "CBG":250250005041,
+            "Radius":176.0072576435
+      }
+]

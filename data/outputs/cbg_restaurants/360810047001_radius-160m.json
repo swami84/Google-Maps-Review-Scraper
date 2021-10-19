@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.759635,
+                        "lng":-73.930166
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7610552303,
+                              "lng":-73.9289735197
+                        },
+                        "southwest":{
+                              "lat":40.7583572697,
+                              "lng":-73.9316714803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"CGNYConsulting",
+            "place_id":"ChIJ8UgcKjJfwokRFoOjkmEhZt8",
+            "plus_code":{
+                  "compound_code":"Q359+VW New York, NY, USA",
+                  "global_code":"87G8Q359+VW"
+            },
+            "reference":"ChIJ8UgcKjJfwokRFoOjkmEhZt8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3439 28th Street, Queens",
+            "CBG":360810047001,
+            "Radius":159.7772548951
+      }
+]

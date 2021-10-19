@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3465566,
+                        "lng":-71.2465397
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3478908803,
+                              "lng":-71.2452838197
+                        },
+                        "southwest":{
+                              "lat":42.3451929197,
+                              "lng":-71.2479817803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ward 4",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116319289803070244635\">Ward 4<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBZ0vlCQ2bp7lTNbfajFLMugurb_4zV_hd7PizKYN9HEkVv4lJCzL6x-eFSm_haxrfPVrYoI84dkBWSuFZnHCv9zFsGD46qQa_g0ZZLdcFIPxlRP8Xy1xII7gG_6EtEaotW-nSzGpOBReG2upQktOfCm73i8oGXPtXiI3jDtsdPX4SA",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ58rTx0iD44kRhGfS20gefbY",
+            "plus_code":{
+                  "compound_code":"8QW3+J9 Auburndale, Newton, MA, USA",
+                  "global_code":"87JC8QW3+J9"
+            },
+            "rating":4.5,
+            "reference":"ChIJ58rTx0iD44kRhGfS20gefbY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"277 Auburn Street, Auburndale",
+            "CBG":250173748001,
+            "Radius":406.1377410566
+      }
+]

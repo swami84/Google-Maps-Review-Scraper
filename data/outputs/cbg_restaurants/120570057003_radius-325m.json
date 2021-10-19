@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9405107,
+                        "lng":-82.4936642
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9419527803,
+                              "lng":-82.4922852197
+                        },
+                        "southwest":{
+                              "lat":27.9392548197,
+                              "lng":-82.4949831803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gio's Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102011111232372606067\">Magaly Martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBxSXdbyQF0jtPvyrEFAU_SUZ6tM1UUykpd6slk6Jh2qb2OISDzg61q4YiiZQ9QlyoGIELOgpkYebcM_KlkcLqaX1az5n42cdCOusZ_qqfGK4I4XyGi0hSpHZ17cmyTWYGHckfeQPKeBBpcex1MEdZgjS7pJL-LdRK2OE5YEBqpd39V",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJpaW4r23DwogRx_eA9eVZvec",
+            "plus_code":{
+                  "compound_code":"WGR4+6G Tampa, FL, USA",
+                  "global_code":"76VVWGR4+6G"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJpaW4r23DwogRx_eA9eVZvec",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":541,
+            "vicinity":"411 South MacDill Avenue, Tampa",
+            "CBG":120570057003,
+            "Radius":324.736075627
+      }
+]

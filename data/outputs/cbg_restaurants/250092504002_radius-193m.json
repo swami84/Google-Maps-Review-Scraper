@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.7161111,
+                        "lng":-71.1730556
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.7174025303,
+                              "lng":-71.1716787197
+                        },
+                        "southwest":{
+                              "lat":42.7147045697,
+                              "lng":-71.1743766803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Escosesa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113591761094823001016\">Zenaida Arroyo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDd9sGFrmGhnEoDXTzrVor4WJ2lk49UqV-OLIg1vL1kyJdpD5e5m7kGSG9YxrL-SCEPsreVhjd30VS7YstUgPDi6hxtwWQ9EHo0SiJIoYjbgXF9BOWn2vXPJW-zE6Z7Ru0JRW4JdQo0g8iPN4dHU-puxHaFHxete5EO9k-O3LzzBf01",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJ71cYRnQH44kRoIXPbwzoLTQ",
+            "plus_code":{
+                  "compound_code":"PR8G+CQ Lawrence, MA, USA",
+                  "global_code":"87JCPR8G+CQ"
+            },
+            "rating":4.6,
+            "reference":"ChIJ71cYRnQH44kRoIXPbwzoLTQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"66 Willow Street, Lawrence",
+            "CBG":250092504002,
+            "Radius":193.2264899278
+      }
+]

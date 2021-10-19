@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":25.7835092,
+                        "lng":-80.1982828
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7848621303,
+                              "lng":-80.1968030697
+                        },
+                        "southwest":{
+                              "lat":25.7821641697,
+                              "lng":-80.1995010303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"ViceBurger",
+            "permanently_closed":true,
+            "place_id":"ChIJJT6d-sK32YgRM30VdgMPxpE",
+            "plus_code":{
+                  "compound_code":"QRM2+CM Miami, FL, USA",
+                  "global_code":"76QXQRM2+CM"
+            },
+            "reference":"ChIJJT6d-sK32YgRM30VdgMPxpE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"936 Northwest 2nd Avenue, Miami",
+            "CBG":120860034002,
+            "Radius":193.0080938458
+      }
+]

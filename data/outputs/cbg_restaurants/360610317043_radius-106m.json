@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7096597,
+                        "lng":-74.0167409
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7110086803,
+                              "lng":-74.0153919197
+                        },
+                        "southwest":{
+                              "lat":40.7083107197,
+                              "lng":-74.0180898803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Benvenuti Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107298389957955802591\">Kimberly Conrad<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdB1f9s8NSowvN5pqLf5_5yHTANCtN1Xjs_Asb6sbPTdRZLb41OHC1tdjLtiwz2TUGX698US_89cbpBfaTum9ygOZGvVgaLemhv0C7Sksu08GIEYBkaBvdsyHZ2wLPK7QqU-ZzH5REzon6bUqN-rL_4nZDs0nanEP82nwfvGorao-f",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJE_M_ERBawokRoZx6yFsblFQ",
+            "plus_code":{
+                  "compound_code":"PX5M+V8 New York, NY, USA",
+                  "global_code":"87G7PX5M+V8"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJE_M_ERBawokRoZx6yFsblFQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":146,
+            "vicinity":"235 South End Avenue, New York",
+            "CBG":360610317043,
+            "Radius":105.7821617235
+      }
+]

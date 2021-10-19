@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.7498651,
+                        "lng":-87.6753919
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7513811803,
+                              "lng":-87.6740474197
+                        },
+                        "southwest":{
+                              "lat":41.7486832197,
+                              "lng":-87.6767453803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Vicky\u2019s cafe",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117426257729042051058\">Vicky\u2019s cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7z8TARdJIdkP4_HsahHSoMjxFmI63gT7af7pryGdHaBkOBdDe8oh10fRPHz97UvEHOU-wja6vB4026N9rl0OV8X-xs5Xug7_8e1vBRWlykNZSKf_kUXHl1owiUy-mmDHMS3e5WwYbxBLoAOO2IUAbeGkMKZLZGdIzjN7f1QNYF7Dv",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJZzeqXZElDogRgENyP7XPtCU",
+            "plus_code":{
+                  "compound_code":"P8XF+WR Chicago, IL, USA",
+                  "global_code":"86HJP8XF+WR"
+            },
+            "rating":4.0,
+            "reference":"ChIJZzeqXZElDogRgENyP7XPtCU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":20.0,
+            "vicinity":"2055 West 79th Street, Chicago",
+            "opening_hours":null,
+            "CBG":170317104006,
+            "Radius":271.366392409
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7498555,
+                        "lng":-87.6752967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7513770803,
+                              "lng":-87.6739523697
+                        },
+                        "southwest":{
+                              "lat":41.7486791197,
+                              "lng":-87.6766503303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Stella's BBQ Jerk Food",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJKbRWqJMvDogRu9DRXmkPeSQ",
+            "plus_code":{
+                  "compound_code":"P8XF+WV Chicago, IL, USA",
+                  "global_code":"86HJP8XF+WV"
+            },
+            "rating":null,
+            "reference":"ChIJKbRWqJMvDogRu9DRXmkPeSQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2053 West 79th Street, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":170317104006,
+            "Radius":271.366392409
+      }
+]

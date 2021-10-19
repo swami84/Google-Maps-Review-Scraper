@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4632721,
+                        "lng":-70.967308
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4646971803,
+                              "lng":-70.9659959197
+                        },
+                        "southwest":{
+                              "lat":42.4619992197,
+                              "lng":-70.9686938803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lechonera Bonao",
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109965983297748344432\">Gerson Bido<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBSuKdKqEkvzdhJFEHh0OtbRmr89QYJS2C6L-Y2ABdK0CXlkRW2A1GB6E0pbHYoCxGhz4tWLrdI5pbmYogZwEyEiiKyr2Ymf1_KYoaiGEwYIp2RFFmgxGWMGHt6q4dt1QVY2MfLgdY_mNoQSeN21uNr2lp-0lwWgbQG9_4PtTCtrsw_",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJedj86Wlt44kRXXoBJPfK1QQ",
+            "plus_code":{
+                  "compound_code":"F27M+83 Lynn, MA, USA",
+                  "global_code":"87JFF27M+83"
+            },
+            "rating":1,
+            "reference":"ChIJedj86Wlt44kRXXoBJPfK1QQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"40 Federal Street, Lynn",
+            "CBG":250092058001,
+            "Radius":292.45271956
+      }
+]

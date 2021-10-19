@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7565989,
+                        "lng":-87.5921112
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7579997303,
+                              "lng":-87.5910258697
+                        },
+                        "southwest":{
+                              "lat":41.7553017697,
+                              "lng":-87.5937238303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"bp",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117137503997410827466\">Majic 07<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBAvP_lgFcFKqRyRhhLmr9b-G9hwPF5An0SSMq_4aATxAX8HnW34TKi_aPzLAymCFBPfpJKc6KwUp6DtdIgPZjq-GnNBebjT7i8EoXZEdeq8A0eFk8CytXUXH4zwk01Vh822YwEuDj0Whd9nm07Yeuk1VoZEAe21cvMQdLRKdTNazIQ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJXf-swuwoDogREwJXVGKpa-I",
+            "plus_code":{
+                  "compound_code":"QC45+J5 Chicago, IL, USA",
+                  "global_code":"86HJQC45+J5"
+            },
+            "rating":3.9,
+            "reference":"ChIJXf-swuwoDogREwJXVGKpa-I",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "car_wash",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"7603 South South Chicago Avenue, Chicago",
+            "CBG":170318342004,
+            "Radius":314.0990916309
+      }
+]

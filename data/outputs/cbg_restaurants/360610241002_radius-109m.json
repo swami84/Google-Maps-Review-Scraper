@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.834068,
+                        "lng":-73.945523
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8354169803,
+                              "lng":-73.9441740197
+                        },
+                        "southwest":{
+                              "lat":40.8327190197,
+                              "lng":-73.9468719803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tropical",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107877051766907127092\">Juan Brito<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1VrhWHWGbL4S7qfJSorD6HfrH_EyNvbNxBvhV7HLzHKo9x1dZn2f0hiUDIVaO4mBKaerzCxPZ_q2ksDXmyGAyFvAtynsh0j_Nfo_foBkFvPs8LjXl86cZTi8fmC2X3JvqRipfe3fXmHnxc94HeQa20r-SFlyXwwXY3frSzCX4YOQ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJs2Md1IX2wokRmGjrL0xSNro",
+            "plus_code":{
+                  "compound_code":"R3M3+JQ New York, NY, USA",
+                  "global_code":"87G8R3M3+JQ"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJs2Md1IX2wokRmGjrL0xSNro",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":280,
+            "vicinity":"3771 Broadway, New York",
+            "CBG":360610241002,
+            "Radius":109.034654762
+      }
+]

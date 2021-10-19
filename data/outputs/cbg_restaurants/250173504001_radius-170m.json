@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4039274,
+                        "lng":-71.1144333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4052442303,
+                              "lng":-71.1131665197
+                        },
+                        "southwest":{
+                              "lat":42.4025462697,
+                              "lng":-71.1158644803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Semolina Kitchen + Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":621,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108949696863956648487\">Semolina Kitchen + Bar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBEhXvNBPWwDpQPY-Nb5HvI_8hbPHt9wHzuzAXh19WELBYUAWabIIy7DLBnWfBPxL9B3Uta7Q10GkTUyeGKAUpWiFTfkqj5p9M32c-nDKgDtkzycr90TrTOXmLxyazifDPG4krMspGKrEyvwejFtjmwjAHwlux4mfWvcALwwLl1Wxs-",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJbxWWT9l244kRHR9aBGENL-0",
+            "plus_code":{
+                  "compound_code":"CV3P+H6 Medford, MA, USA",
+                  "global_code":"87JCCV3P+H6"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJbxWWT9l244kRHR9aBGENL-0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":471,
+            "vicinity":"572 Boston Avenue, Medford",
+            "CBG":250173504001,
+            "Radius":170.3656372391
+      }
+]

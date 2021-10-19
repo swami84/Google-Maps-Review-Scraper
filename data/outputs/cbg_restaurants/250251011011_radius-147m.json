@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2852304,
+                        "lng":-71.0933034
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2865642803,
+                              "lng":-71.0918146697
+                        },
+                        "southwest":{
+                              "lat":42.2838663197,
+                              "lng":-71.0945126303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Flames",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115291164569739109728\">Spaced<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECHu6V4lV98bdRiNkZzsznios_AkDkNAVhvzOGmIRcn6uww86AgO_w_FoTsfJspdnHcjnRh-YNYPmgku63mr7JTkgD_IuRQMZh5nRkJjPDewrLzx2UCK0UFddBISy6N47isREDgbDffXzE1iWuZ0Gi17ScNJhV9AAlIiGPIGIZCLk7t",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ6xNW7_5744kR5ErHMlhNsoY",
+            "plus_code":{
+                  "compound_code":"7WP4+3M Mattapan, Boston, MA, USA",
+                  "global_code":"87JC7WP4+3M"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ6xNW7_5744kR5ErHMlhNsoY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":785,
+            "vicinity":"663 Morton Street, Mattapan",
+            "CBG":250251011011,
+            "Radius":147.2026738618
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.828173,
+                        "lng":-73.920008
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8294710803,
+                              "lng":-73.9186966697
+                        },
+                        "southwest":{
+                              "lat":40.8267731197,
+                              "lng":-73.9213946303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Happy Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116909866061875365072\">Happy Deli<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDuhY76r7jc3CRAJAiR43K0ItwNSN9YxUh_qqvhd56qFuyJaQyD919oCUmeD0DPnP3LzmcnogP2Ly_9I3KPrJ_cmjdrK9ecMsJ7QwNCmYLyZB6tEEsWpnCF2t1O3WELrXtjE3yinuakGkjex5RG7vc5tvYJOheOorqwN5wK0-RGQJmF",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJEWh7ozP0wokRAjzqLeF9F5Y",
+            "plus_code":{
+                  "compound_code":"R3HH+7X Bronx, NY, USA",
+                  "global_code":"87G8R3HH+7X"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJEWh7ozP0wokRAjzqLeF9F5Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":138,
+            "vicinity":"201 East 163rd Street, Bronx",
+            "CBG":360050183021,
+            "Radius":96.9273763738
+      }
+]

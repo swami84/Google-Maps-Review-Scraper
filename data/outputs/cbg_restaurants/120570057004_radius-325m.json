@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9408967,
+                        "lng":-82.4852697
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9422122803,
+                              "lng":-82.4838107697
+                        },
+                        "southwest":{
+                              "lat":27.9395143197,
+                              "lng":-82.4865087303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Mill South Tampa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3404,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116446729914251755276\">The Mill South Tampa<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAIhpKDu_PAUCsxQwO757q8psH5flMIBtGhID096Ge828DeVtU5O4-fMSY8Qx7fo5eje8aU_0p3k2jLXRGvMg3rbv1cekBEeydJtbhgUU3NlnacwyUWZ5td8ZdBRZrBeHEvKy_ZiTaRw51QUyE_LJuV3yuumQRi7wxMQq8uHovvOq8A",
+                        "width":4488
+                  }
+            ],
+            "place_id":"ChIJu_V5OnLDwogRuiIoe3hPqSs",
+            "plus_code":{
+                  "compound_code":"WGR7+9V Tampa, FL, USA",
+                  "global_code":"76VVWGR7+9V"
+            },
+            "rating":4.2,
+            "reference":"ChIJu_V5OnLDwogRuiIoe3hPqSs",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":320,
+            "vicinity":"2500 West Azeele Street, Tampa",
+            "CBG":120570057004,
+            "Radius":324.5350701546
+      }
+]

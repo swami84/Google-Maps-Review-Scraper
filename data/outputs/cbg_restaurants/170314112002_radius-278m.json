@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7912735,
+                        "lng":-87.5937411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7927128303,
+                              "lng":-87.5924080697
+                        },
+                        "southwest":{
+                              "lat":41.7900148697,
+                              "lng":-87.5951060303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Medici On 57th",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115908719686318191197\">Gia Dragoi<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED05tlLz_QPxS4uDr_zbEKAcNNX46atLAeOmoIvcDQcY7c-e-93g7YCaT-0sdyOstoJCmGrW-URVwA2krydiq0MkmyD4pY3PI9HSPHlKcaSDljkpS8Bl2R3DvEr3tXTgVzwIwKp9pYxZix4kRbcXUAaS8YbWEe7qlm4GSFEsxX0VyDG",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJE4Eh9BMpDogRUeTqOGZo8bc",
+            "plus_code":{
+                  "compound_code":"QCR4+GG Chicago, IL, USA",
+                  "global_code":"86HJQCR4+GG"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJE4Eh9BMpDogRUeTqOGZo8bc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2125,
+            "vicinity":"1327-1331, 1327 East 57th Street, Chicago",
+            "CBG":170314112002,
+            "Radius":277.7394783206
+      }
+]

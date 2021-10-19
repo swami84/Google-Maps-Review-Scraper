@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.871485,
+                        "lng":-73.8769084
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8727871803,
+                              "lng":-73.8756484697
+                        },
+                        "southwest":{
+                              "lat":40.8700892197,
+                              "lng":-73.8783464303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lona's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103607049062918221768\">Gary Wilson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECzKeUw5_UmofWyrn4yf3V4jcODqRdcWKlMCaR5lMJd4hNS9yLtE7OfPHa8V2E5OKpztn_FQ_XxcKNre1mzWrZ8qRzeyQvBBBmB3liAk85ZrHF6DNyrkqZrejuh62Y2YdcQh-YubELFPJnbxfUuAjBFFyNmOH7jSZpaxaXErpGaULyN",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJde1IJm7zwokR8DRz3hfpZqY",
+            "plus_code":{
+                  "compound_code":"V4CF+H6 New York, NY, USA",
+                  "global_code":"87G8V4CF+H6"
+            },
+            "rating":4.6,
+            "reference":"ChIJde1IJm7zwokR8DRz3hfpZqY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"373 East 204th Street, Bronx",
+            "CBG":360050425005,
+            "Radius":114.3538663282
+      }
+]

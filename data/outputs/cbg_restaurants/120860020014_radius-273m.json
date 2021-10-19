@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8340402,
+                        "lng":-80.2036156
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8353905803,
+                              "lng":-80.2021925697
+                        },
+                        "southwest":{
+                              "lat":25.8326926197,
+                              "lng":-80.2048905303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jkt's Wings & Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1868,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114931608631154801127\">Utahtravels<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAvinmQoBjHVLGBMHp4K8mYmKWkPi2qjHOdOcdimFKsCa268zHSEcMPGW1awKBe0wetnubAeOyJH1Wo4cVGW9kLKklSd6N-Ws0g82BKwUNuSgV3piam9XMtDBp48Te8xTwqNYsXe1AuLDM7MmzGjaH3GVOzpsSIe059MD9iVugVUOpI",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJX5YhNVyx2YgRzZtd6_PqD3M",
+            "plus_code":{
+                  "compound_code":"RQMW+JH Miami, FL, USA",
+                  "global_code":"76QXRQMW+JH"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJX5YhNVyx2YgRzZtd6_PqD3M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"6338 Northwest 4th Avenue, Miami",
+            "CBG":120860020014,
+            "Radius":272.8753532942
+      }
+]

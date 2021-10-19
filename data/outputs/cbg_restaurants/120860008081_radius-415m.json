@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8386495,
+                        "lng":-80.2881041
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8400759803,
+                              "lng":-80.2867585197
+                        },
+                        "southwest":{
+                              "lat":25.8373780197,
+                              "lng":-80.2894564803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Osmani Bahia",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJcZPk9m262YgR9-iYcfROV4g",
+            "plus_code":{
+                  "compound_code":"RPQ6+FQ Hialeah, FL, USA",
+                  "global_code":"76QXRPQ6+FQ"
+            },
+            "rating":4.8,
+            "reference":"ChIJcZPk9m262YgR9-iYcfROV4g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"304 West 19th Street, Hialeah",
+            "CBG":120860008081,
+            "Radius":415.1768372465
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8668707,
+                        "lng":-73.9239955
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8682118803,
+                              "lng":-73.9224685197
+                        },
+                        "southwest":{
+                              "lat":40.8655139197,
+                              "lng":-73.9251664803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bocaditos Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117590868281475633412\">Ninoska Velez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAPUqDg878NPEPCXz_FVNe4LOudXkDIivQG_SzrwrTHFdc3YBmm0IC3PtMPvdbJ42XZQZT4s_1VOrofWrTPKWaY3e9kT3gmFzQ2sU5R4OLLcqoP2jfWJFdi7QFnK9mqcQ49xhXXOJQlMZ9WeTKvUnWrrHdVFQSfKY-HK4cd-z3DUqVX",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJD6voiPfzwokR8Z2OcFVNnLU",
+            "plus_code":{
+                  "compound_code":"V38G+PC New York, NY, USA",
+                  "global_code":"87G8V38G+PC"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJD6voiPfzwokR8Z2OcFVNnLU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":555,
+            "vicinity":"4863 Broadway, New York",
+            "CBG":360610291002,
+            "Radius":81.7568914525
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8662653,
+                        "lng":-73.9246295
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8677023303,
+                              "lng":-73.9233356697
+                        },
+                        "southwest":{
+                              "lat":40.8650043697,
+                              "lng":-73.9260336303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Beans and Vines express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114304251169173410491\">Beans and Vines express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNzR3V7m3GgTqHq3VrdjLMSPWNSN3smFMZ8HLJ5fpOAcv_sXUVbkuy-nWVQPiyJUkwuasWIB5NhuY5ewtFQmnhCBP7Ys5R8S6G_q4uvBsFP5FdpJUlZUuKhqGZ0XfgtEUeICEq4EwLEqgSOHfsoSUy2hP2jiOM3i_yIF77r0-JYmXb",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJCcU0ovHzwokRVntsP5G6yns",
+            "plus_code":{
+                  "compound_code":"V38G+G4 New York, NY, USA",
+                  "global_code":"87G8V38G+G4"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJCcU0ovHzwokRVntsP5G6yns",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"4842 Broadway, New York",
+            "CBG":360610291002,
+            "Radius":81.7568914525
+      }
+]

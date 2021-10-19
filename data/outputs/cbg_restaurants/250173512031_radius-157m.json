@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3773062,
+                        "lng":-71.1048723
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3785976303,
+                              "lng":-71.1035521697
+                        },
+                        "southwest":{
+                              "lat":42.3758996697,
+                              "lng":-71.1062501303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Thai Hut Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111320653920279995581\">Megan Xu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBYKSMztlODwIEWon8lZ1RcH8RPCKm0to-fJ4yb7GTI8on6fU3atgvfiITMxQ62nnedmMbSsI_iXHrJvmPuYPXqTN7gGPkcaVtwr8VNtWSvrkl1xLcdAxwDRcZHcDZIacHCFQCRfizN1-92dU3ByxmyufK1R3U_G5my3T8G7xEsnTbT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJD_LIHb5344kR615bl1m2Ylk",
+            "plus_code":{
+                  "compound_code":"9VGW+W3 Somerville, MA, USA",
+                  "global_code":"87JC9VGW+W3"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJD_LIHb5344kR615bl1m2Ylk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":57,
+            "vicinity":"93 Beacon Street, Somerville",
+            "CBG":250173512031,
+            "Radius":157.0110316671
+      }
+]

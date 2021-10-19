@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7813954,
+                        "lng":-73.9737168
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7830020803,
+                              "lng":-73.9720247697
+                        },
+                        "southwest":{
+                              "lat":40.7803041197,
+                              "lng":-73.9747227303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Starlight Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108427399698816213863\">Satish Shikhare<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB2dOa3FnTEm6hD4RbZwfZczDGGNoiOl2Ctw1CZtts3mN06xSQ-WKr-OOCY-9JtB3yVUrCsf75T00Mb7cLRkdasE1LsSn_kvRB8PGSmaGv8A-1FCDp3fblDL1uOp5X2G_JEXU5Yx9bZKGT0TjUyqgnUGTq5CAr0I_MFr11OG88kdYkQ",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJid7hro9YwokRNDRxRjhr130",
+            "plus_code":{
+                  "compound_code":"Q2JG+HG New York, NY, USA",
+                  "global_code":"87G8Q2JG+HG"
+            },
+            "rating":3.1,
+            "reference":"ChIJid7hro9YwokRNDRxRjhr130",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"200 Central Park West, New York",
+            "price_level":null,
+            "CBG":360610165001,
+            "Radius":189.2685779286
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.782894,
+                        "lng":-73.975184
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7841638803,
+                              "lng":-73.9737125197
+                        },
+                        "southwest":{
+                              "lat":40.7814659197,
+                              "lng":-73.9764104803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Andy's Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111790804495078099080\">Analie C<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBpYjeJcuSwDk4AMaVWal056V48tCtBASBekMBdibVMpdYKHBMSaqv39HIqzML5XV0M8ZOnLC51lRkdgFRrBZQJlxxxTbUy-wO_yzJeoPM1fcqVhxO_oCm28LVa2pB-JNlW8vWAMesM1o3yRsyEMag4ef0s6gG9nZlX8bWv-VZ_j-S7",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJTVpRbo9YwokR8Ws2WCso8Ng",
+            "plus_code":{
+                  "compound_code":"Q2MF+5W New York, NY, USA",
+                  "global_code":"87G8Q2MF+5W"
+            },
+            "rating":4.1,
+            "reference":"ChIJTVpRbo9YwokR8Ws2WCso8Ng",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":95,
+            "vicinity":"418 Columbus Avenue, New York",
+            "price_level":1.0,
+            "CBG":360610165001,
+            "Radius":189.2685779286
+      }
+]

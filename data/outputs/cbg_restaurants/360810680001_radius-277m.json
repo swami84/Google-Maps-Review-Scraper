@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6652059,
+                        "lng":-73.7469698
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6666794303,
+                              "lng":-73.7456141697
+                        },
+                        "southwest":{
+                              "lat":40.6639814697,
+                              "lng":-73.7483121303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Breezes Island Grill Restaurant & Lounge",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108414151592349128632\">Breezes Island Grill Restaurant &amp; Lounge<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhWLQDUJ96ktiSZ60Wcs9fzO7rDPTqRgc_5T_f2vrLnt4S8RLu_YWbXWWY-Uy84CUu47vwFGF6dRZ_ifavP2WRyJZ5adD_C5r4HaD2pvCZg-Zy4pKYubo8P05b_8z_ZjPnd6F2L_fkyuutEnuYfqAVMUbV8Tny06drnG31hv9nUxUP",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJFzfPOh5kwokReRQ6gyLyirQ",
+            "plus_code":{
+                  "compound_code":"M783+36 Rosedale, Queens, NY, USA",
+                  "global_code":"87G8M783+36"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJFzfPOh5kwokReRQ6gyLyirQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":561,
+            "vicinity":"230-06 & 08, South Conduit Avenue, Rosedale",
+            "CBG":360810680001,
+            "Radius":277.4258501114
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6908903,
+                        "lng":-97.4146272
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6922896803,
+                              "lng":-97.4131787197
+                        },
+                        "southwest":{
+                              "lat":32.6895917197,
+                              "lng":-97.4158766803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Perrotti's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":288,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107910777602127948685\">Perrotti&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDlNbdQRWAF6XueT9K0SszTYA8SvZDAr_yBDh2Jr3DFUw6TyS5dhb98QJldd2Lr4Wsz3oWzr4grSGECGBz3x18x59lKtYigpwsomHad3HntaYVL_s43b4-I2i0ZkoV-ej_39nquUrauKt1Yw_qRXyeS7rrEe6dxyzYsNjJmC6TtTNfN",
+                        "width":512
+                  }
+            ],
+            "place_id":"ChIJHxuDPb1yToYR890dugvoYVI",
+            "plus_code":{
+                  "compound_code":"MHRP+94 Fort Worth, TX, USA",
+                  "global_code":"8644MHRP+94"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJHxuDPb1yToYR890dugvoYVI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":222,
+            "vicinity":"6136 Southwest Boulevard, Fort Worth",
+            "CBG":484391054052,
+            "Radius":276.3244841995
+      }
+]

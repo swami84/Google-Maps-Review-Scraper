@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7470143,
+                        "lng":-87.6679765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7483615803,
+                              "lng":-87.6667424197
+                        },
+                        "southwest":{
+                              "lat":41.7456636197,
+                              "lng":-87.6694403803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Keyarre Sandwich Shop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ_____48vDogR5z7llAnvsb4",
+            "reference":"ChIJ_____48vDogR5z7llAnvsb4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Chicago",
+            "CBG":170317105002,
+            "Radius":197.5727156327
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.848907,
+                        "lng":-87.7464481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8502542303,
+                              "lng":-87.7451870697
+                        },
+                        "southwest":{
+                              "lat":41.8475562697,
+                              "lng":-87.7478850303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Barca El Taconazo",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110216694342847867810\">La Barca El Taconazo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFb8mhlwF3E6mSUeravVuQRSTlk1y8dWpONdP_XIJkGaMLzJQTCQEc8rSWws2jMfb5niqjEuxyEo4I6gw42fnc-yjD_VH8yfNDBLP3bTTxioYBENQ7qU_RJg8J4HVe3D3jVIbWgrqSGJlPcWgDZqsqJAny-NoGfyp443XPuytRjX98",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJidAMI70zDogR5iHnzRvTTm4",
+            "plus_code":{
+                  "compound_code":"R7X3+HC Cicero, IL, USA",
+                  "global_code":"86HJR7X3+HC"
+            },
+            "rating":4.3,
+            "reference":"ChIJidAMI70zDogR5iHnzRvTTm4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"2311 South 49th Avenue, Cicero",
+            "CBG":170318138011,
+            "Radius":216.4466847942
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0470982,
+                        "lng":-87.7489158
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0484810303,
+                              "lng":-87.7476772697
+                        },
+                        "southwest":{
+                              "lat":42.0457830697,
+                              "lng":-87.7503752303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"EJ's Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100217802775522839124\">Eli Kally<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJwBacFKtKRsAfjO8yucGrgjBrmhTqAm5bjL2heVeycurNqYP1uLrqDG4tEEbz0GpIpG3TNJHnnHq8n-1liqW-4bIWNUH0G-9Kwk-_mfoBf43janhqVLbmfj4eVZJ5yjtKa9kePiirSpXAA6ft8BGpN5E_VNJfbyyQAj6N5-6XzYVv",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJfxi0nmXPD4gRGKLdDDct4JM",
+            "plus_code":{
+                  "compound_code":"27W2+RC Skokie, IL, USA",
+                  "global_code":"86JJ27W2+RC"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJfxi0nmXPD4gRGKLdDDct4JM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":307,
+            "vicinity":"9149 Gross Point Road, Skokie",
+            "CBG":170318070001,
+            "Radius":273.7017357708
+      }
+]

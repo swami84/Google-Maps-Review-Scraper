@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8689853,
+                        "lng":-87.9328483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8703131803,
+                              "lng":-87.9314987197
+                        },
+                        "southwest":{
+                              "lat":41.8676152197,
+                              "lng":-87.9341966803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bambu Thai Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112103619412569751450\">Meg Hudak<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKFIVorLvkWsYAkah8P4Ygl5xWzNE7givwtjOEjQOSNlVdw_EjfQeUCzpcCz4kdx9Ke849NKxK2ok9Pb_Xvhkd39Gi9Kos0mURT5QiaGUSwPQO4ummR7pOwu37IlZSX4cQhFYeoyLVAK_CGQd8UmtB-62q2OKoioOHdePeCG7nuwZS",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJG4roe31LDogRBJIMbtrttmI",
+            "plus_code":{
+                  "compound_code":"V398+HV Elmhurst, IL, USA",
+                  "global_code":"86HJV398+HV"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJG4roe31LDogRBJIMbtrttmI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":197,
+            "vicinity":"1035 South York Street #102, Elmhurst",
+            "CBG":170438446021,
+            "Radius":585.1502812182
+      }
+]

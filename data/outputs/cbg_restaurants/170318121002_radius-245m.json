@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9019099,
+                        "lng":-87.7747293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9032590303,
+                              "lng":-87.7733717197
+                        },
+                        "southwest":{
+                              "lat":41.9005610697,
+                              "lng":-87.7760696803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tasty Gyros",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111919168884137753907\">Ross Social Media . com<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECeEHpfkzyGulby8P5Sqh39J2A3IPq9QZ26KQGDGTmy8OZGJ48XFM2q_PJiyMpTVChOT9MgwwgjHbbtjGLvzGJLXUTsafIG5MgWv9OHzoQEIjvTpClAakppUYVUipyi6pkViSAQUJEDCWw3-M_9dIMLV-BcLuPfSzd5D3XD1vZFqqPi",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJKdy8OKrMD4gRcW_exdMJoq0",
+            "plus_code":{
+                  "compound_code":"W62G+Q4 Oak Park, IL, USA",
+                  "global_code":"86HJW62G+Q4"
+            },
+            "rating":2.2,
+            "reference":"ChIJKdy8OKrMD4gRcW_exdMJoq0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"4997 Division Street, Oak Park",
+            "price_level":null,
+            "CBG":170318121002,
+            "Radius":244.5128920374
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9018403,
+                        "lng":-87.7746038
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9032250303,
+                              "lng":-87.7733344197
+                        },
+                        "southwest":{
+                              "lat":41.9005270697,
+                              "lng":-87.7760323803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"T J's Gyros",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3492,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117510740007487345232\">waqas aziz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBjJTkrv_qMNf5cGSRfHsJsH596gFMAKynWVheU2j2DYg-NMaiGVkPmcEupQZg02yTzgoIAeZcheQ0He4QTpqlHGO3Yyn4Jixgdf2-1-ENLtn1jUv4L5hJRenyHMEcs-G_n6WF6iNQM5q08AEpKB_rtlzrINis5EC-wn_UnwlHo5YYj",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJVV5IOKrMD4gRV_bp2yJx6Ig",
+            "plus_code":{
+                  "compound_code":"W62G+P5 Chicago, IL, USA",
+                  "global_code":"86HJW62G+P5"
+            },
+            "rating":3.5,
+            "reference":"ChIJVV5IOKrMD4gRV_bp2yJx6Ig",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":108,
+            "vicinity":"5945 West Division Street, Chicago",
+            "price_level":1.0,
+            "CBG":170318121002,
+            "Radius":244.5128920374
+      }
+]

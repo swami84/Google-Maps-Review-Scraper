@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8719623,
+                        "lng":-87.8039551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8733763803,
+                              "lng":-87.8026803197
+                        },
+                        "southwest":{
+                              "lat":41.8706784197,
+                              "lng":-87.8053782803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lola Tining's Cuisine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116364073179779635861\">American Marketing &amp; Publishing<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBqlTzaTeI8vezcFwCXyEhaPyIaDI0LPStKKxPWx581IH7OGDFdueXkYIcne2-J4N2JT-CKIKuxKICZdNoIwkqyS-dY8utbV6JZqFg6hjOLjMI_OJYxQe_ANXb8TCk2_h8N07NpAEU0zRLBaZo_7IPP62cBeCoxgvXeMiPdHYnmIXoZ",
+                        "width":4928
+                  }
+            ],
+            "place_id":"ChIJpxbNGu80DogRacNYHMTifj0",
+            "plus_code":{
+                  "compound_code":"V5CW+QC Oak Park, IL, USA",
+                  "global_code":"86HJV5CW+QC"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJpxbNGu80DogRacNYHMTifj0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":177,
+            "vicinity":"1141 Garfield Street, Oak Park",
+            "CBG":170318132005,
+            "Radius":376.2243571975
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.871658,
+                        "lng":-87.804784
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8729724803,
+                              "lng":-87.8034334697
+                        },
+                        "southwest":{
+                              "lat":41.8702745197,
+                              "lng":-87.8061314303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"White Crane Creative Thai and Sushi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107131391335716361706\">Micah Hewett<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED24D9Vpy-11W_SrEvX-uzElst4hwa40LbOECAUdlDy9-4-hWyPH6kqWv7PhZe68LZKTp8qhPYpi0CQkgRq1rn8AEy_EWNu_bQ-WoKaK2TSgBbIuuBWNvK6Y2tL3vp7Z2d5-_xyj3oPBu0xItFk2TxCqRlqdwus1eoTqh06aklhuZWR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJycBtW1k1DogReZwKB9QmqDc",
+            "plus_code":{
+                  "compound_code":"V5CW+M3 Forest Park, IL, USA",
+                  "global_code":"86HJV5CW+M3"
+            },
+            "price_level":2,
+            "rating":4.9,
+            "reference":"ChIJycBtW1k1DogReZwKB9QmqDc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"819 South Harlem Avenue, Forest Park",
+            "CBG":170318132005,
+            "Radius":376.2243571975
+      }
+]

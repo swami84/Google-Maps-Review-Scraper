@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.885257,
+                        "lng":-73.879103
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8866358303,
+                              "lng":-73.8778430197
+                        },
+                        "southwest":{
+                              "lat":40.8839378697,
+                              "lng":-73.8805409803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Aman",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107542443173392886540\">Al Cohen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNMvCwGMgbdI1auZNsPqOyHxQ2pGrg1qG7H7fBfgjEoUGmazpn3NKdILxGKsfItjNRCl568PuMiSkv6Y5sG6eo9xW5o9vB-EVERH2eW5CXnSJxOOJGQ8WQEpUFlImk9zTCujn3TjpwxFx-uqImAiptq-F05Cp-k2ry2qdpbHOlraDW",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJG7t9Tw7zwokRJr1MzMGVSY8",
+            "plus_code":{
+                  "compound_code":"V4PC+49 New York, NY, USA",
+                  "global_code":"87G8V4PC+49"
+            },
+            "rating":4.2,
+            "reference":"ChIJG7t9Tw7zwokRJr1MzMGVSY8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":306,
+            "vicinity":"3594 Jerome Avenue, Bronx",
+            "CBG":360050431004,
+            "Radius":98.7444602678
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7840251,
+                        "lng":-87.6155427
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7853005303,
+                              "lng":-87.6141923697
+                        },
+                        "southwest":{
+                              "lat":41.7826025697,
+                              "lng":-87.6168903303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fish & Chicken And Other Stores\/Restaurants",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100763798801973921808\">Andre Jones<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDdzP95aNXGmg5kFY8zv02XAJW-CEiYrpm8EkQ_Q8j9FSBEZ5-32qQ17IZLG8I0rWEzGKjl6DCo-EhgX3TvJEcABGkbyNIg30tbfWqrWPbAkgXckFRHuUfUJpVaVDjUEeKGmMzRytXjdo8PTFg8XyLVsXY8fVaVaA9r_RZ-WNC9THbf",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJp8HdX38pDogRETRQOxpHo1Y",
+            "plus_code":{
+                  "compound_code":"Q9MM+JQ Chicago, IL, USA",
+                  "global_code":"86HJQ9MM+JQ"
+            },
+            "reference":"ChIJp8HdX38pDogRETRQOxpHo1Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"400 East 61st Street, Chicago",
+            "CBG":170314008001,
+            "Radius":279.0805847972
+      }
+]

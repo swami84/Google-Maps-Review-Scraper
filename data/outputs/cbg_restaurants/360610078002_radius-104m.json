@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7478735,
+                        "lng":-73.9763077
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7492224803,
+                              "lng":-73.9749587197
+                        },
+                        "southwest":{
+                              "lat":40.7465245197,
+                              "lng":-73.9776566803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Daniels Bagel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101941738990436117323\">Gregory Weiss<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAcH15HZiSBEyEhER45ijFI0ah__qlVuoGpYajDhb0BBMFELNBM7BL6Pg0xBhXvBXghZ-EpM0YFY43a4KLE6HN1_dw1vppCj-u_EXzxUirLMQCIo6tWNrPg75u2Up41ce93aYy058gOXvISDbJxK8bAfnPa-dlAVtEJxNY36avfgklk",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJjfyhIgRZwokRLLSv_EmfZVQ",
+            "plus_code":{
+                  "compound_code":"P2XF+4F New York, NY, USA",
+                  "global_code":"87G8P2XF+4F"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJjfyhIgRZwokRLLSv_EmfZVQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":127,
+            "vicinity":"569 3rd Avenue, New York",
+            "CBG":360610078002,
+            "Radius":103.8629965039
+      }
+]

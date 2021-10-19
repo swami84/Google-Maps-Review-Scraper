@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8588003,
+                        "lng":-73.9001021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8601812303,
+                              "lng":-73.8988484697
+                        },
+                        "southwest":{
+                              "lat":40.8574832697,
+                              "lng":-73.9015464303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Zona AMD",
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112723133271716409468\">Luzy Figon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECWDmgAjjZ1SJc4FTjH-6bGRlb6XuLQoniAWf-oTPgAxcmflarnDMsHi7wK-qqFi1wzWC6O-IK99GHCVnLmQeZafXyWlf8mcpFBNWgM7S_Geahpn7BMO9gYFLQCLqcef30dmeAktTrI5Uqm1vG5XIHdnWXw71kLae9czPRGlROI9WHO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAbt62hH1wokRRd3SIoZbJlk",
+            "plus_code":{
+                  "compound_code":"V35X+GX New York, NY, USA",
+                  "global_code":"87G8V35X+GX"
+            },
+            "reference":"ChIJAbt62hH1wokRRd3SIoZbJlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2330 Creston Avenue, Bronx",
+            "CBG":360050237033,
+            "Radius":81.0314527341
+      }
+]

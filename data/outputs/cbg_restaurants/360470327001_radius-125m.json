@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6628258,
+                        "lng":-73.9540552
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6642250803,
+                              "lng":-73.9527116697
+                        },
+                        "southwest":{
+                              "lat":40.6615271197,
+                              "lng":-73.9554096303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Corner Pizza and Wine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104698298377143866696\">Corner Pizza and Wine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDKm1lm40tH5wR8blbbrc_cbvsd_7yzqlQfQSpGSVh4NiwiT-ufOYjhD80es6UG6Hh_T_sFhPATliWjD7TBv8tr4UjJ4PnxWBUDp99kuTVAz_BUIe7rKaUTqzuTJ6RqcgfOftp_Qf2wFtx8L7vF7pD5-jetycSX-brzBHZTTx15AaZl",
+                        "width":3096
+                  }
+            ],
+            "place_id":"ChIJXQqaTi9bwokRcq68WTUP6Qc",
+            "plus_code":{
+                  "compound_code":"M27W+49 New York, NY, USA",
+                  "global_code":"87G8M27W+49"
+            },
+            "rating":3.5,
+            "reference":"ChIJXQqaTi9bwokRcq68WTUP6Qc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bakery",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"406 Roger's Ave, Brooklyn",
+            "price_level":null,
+            "CBG":360470327001,
+            "Radius":124.9918698307
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6628271,
+                        "lng":-73.9539855
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6641760803,
+                              "lng":-73.9526365197
+                        },
+                        "southwest":{
+                              "lat":40.6614781197,
+                              "lng":-73.9553344803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Glou \ud83c\udf77",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101176273902736945955\">Glou \ud83c\udf77<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECh5zFQdkmqog4BgLzbRWBwQrqn-D8C2BkXd-RdZXFMpki1xSXlTuDrx8jv1UN_rHInxjYWjkCxY1yOeQIaoR3UWNit-pn7in4uNfB9yIlfwCY6fPy4CoMcNF42BkdWgYMK-WchFswFNd9-3eewDkKWMmzCWiorlskReWSvrVw88h2t",
+                        "width":3036
+                  }
+            ],
+            "place_id":"ChIJv0m9G3JbwokRq476pqnbOY8",
+            "plus_code":{
+                  "compound_code":"M27W+4C Brooklyn, NY, USA",
+                  "global_code":"87G8M27W+4C"
+            },
+            "rating":4.7,
+            "reference":"ChIJv0m9G3JbwokRq476pqnbOY8",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"406 Rogers Avenue, Brooklyn",
+            "price_level":2.0,
+            "CBG":360470327001,
+            "Radius":124.9918698307
+      }
+]

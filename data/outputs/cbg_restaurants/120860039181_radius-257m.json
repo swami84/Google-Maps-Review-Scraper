@@ -1,0 +1,63 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8487995,
+                        "lng":-80.1578939
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8502019803,
+                              "lng":-80.1566375197
+                        },
+                        "southwest":{
+                              "lat":25.8475040197,
+                              "lng":-80.1593354803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"Shell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2097,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104646699583986020404\">Michael Guava<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjgwMw4yPVROqD50xNhj_N2ChSgAzSWEsb2TaExlXhfqJNddFkyZGdgsDzKwI6YkYzD_X5tx4XtFMVUVyrMJuSaHS9RS7nknCceI558qtsJii4Py-OZweCBUVCLxSP3MT6xmXboen882XR8k6irdZ6WH5uTxWItWoqJleuj6vMsy-k",
+                        "width":4193
+                  }
+            ],
+            "place_id":"ChIJJa9IyUyy2YgRTI0FMJ8jNuM",
+            "plus_code":{
+                  "compound_code":"RRXR+GR North Bay Village, FL, USA",
+                  "global_code":"76QXRRXR+GR"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJJa9IyUyy2YgRTI0FMJ8jNuM",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "car_wash",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"1345 John F Kennedy Causeway, North Bay Village",
+            "CBG":120860039181,
+            "Radius":256.8711245293
+      }
+]

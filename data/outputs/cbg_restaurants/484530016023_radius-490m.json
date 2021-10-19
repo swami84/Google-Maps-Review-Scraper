@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.282847,
+                        "lng":-97.775627
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2839880803,
+                              "lng":-97.7744126197
+                        },
+                        "southwest":{
+                              "lat":30.2812901197,
+                              "lng":-97.7771105803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maudie's Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113186245079904787173\">Thomas Krajewski<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDavTTbXVxHS2onE8t9-euiEiPK8XLOpyClpPkZFPcaJSjSpalLAUAEZmI3fX2IL37qdix9S0zyYA1I5dX7043izHKm7gVRONgByXQsxtmg17sPqnX9wTCUmZWVreKqpI-q-369njT9V9z_9gnjWl7XqDzue8DwQFm0zfD3bi5Tg9rL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJcbQNoE-1RIYR_Xr-21Y29Rg",
+            "plus_code":{
+                  "compound_code":"76MF+4P Austin, TX, USA",
+                  "global_code":"862476MF+4P"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJcbQNoE-1RIYR_Xr-21Y29Rg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":811,
+            "vicinity":"2608 West 7th Street, Austin",
+            "CBG":484530016023,
+            "Radius":489.9576447242
+      }
+]

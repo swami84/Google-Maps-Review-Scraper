@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8211059,
+                        "lng":-87.7042969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8224520303,
+                              "lng":-87.7030354197
+                        },
+                        "southwest":{
+                              "lat":41.8197540697,
+                              "lng":-87.7057333803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cilangos tacos",
+            "place_id":"ChIJrXk_yuEzDogRf90FTZsj0DE",
+            "plus_code":{
+                  "compound_code":"R7CW+C7 Chicago, IL, USA",
+                  "global_code":"86HJR7CW+C7"
+            },
+            "reference":"ChIJrXk_yuEzDogRf90FTZsj0DE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3951 South Kedzie Avenue, Chicago",
+            "CBG":170315805011,
+            "Radius":198.0072354765
+      }
+]

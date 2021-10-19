@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8371396,
+                        "lng":-73.8874655
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8385271303,
+                              "lng":-73.8860262197
+                        },
+                        "southwest":{
+                              "lat":40.8358291697,
+                              "lng":-73.8887241803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Gran Valle",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111285921194263242579\">Jeffrey Zabala<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECgVk0l70TfD-KDkVnHe7qwZTpFvDiThfyshJMZ0HFEWpqVJv18uPBpXU9Ctz9hWCkT5L6n3lpQx8CRUjAcYFmpSIGpMs9j0S2jM1Gngz9ByHJmqAJ8l2NjeSwdqtvr2rHPhyO1hJ9fG1RTvDVsPIppC3nOQ0gz7ra-AcFQaI6EiTRo",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJr2SpovX0wokRl6YOJjXIiUk",
+            "plus_code":{
+                  "compound_code":"R4P7+V2 New York, NY, USA",
+                  "global_code":"87G8R4P7+V2"
+            },
+            "price_level":2.0,
+            "rating":3.8,
+            "reference":"ChIJr2SpovX0wokRl6YOJjXIiUk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":176,
+            "vicinity":"920 East 174th Street, Bronx",
+            "CBG":360050161004,
+            "Radius":103.7924842559
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8360725,
+                        "lng":-73.8883223
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8374214803,
+                              "lng":-73.8869733197
+                        },
+                        "southwest":{
+                              "lat":40.8347235197,
+                              "lng":-73.8896712803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Alayna's Nail Lounge & Salad Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":929,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100210002381758826892\">Alayna&#39;s Nail Lounge &amp; Salad Bar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGSfhk6eq3oB-XBtLzTROS8RNk6OVisE-scuYeoEpoG4MjnkVSPfBsKEldDSSfj9jzEBIRZ5dY35jJcg8baKpM4RDCSGk1m7HRKI99NgyJYoPorCBrX6154I3VrPtukEAJ8q87I8tOGQq6Thd-pLkYSV9_EwCcEfdmUQ9RPzTTengU",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJHRD78PX0wokRNgRGurhf4jg",
+            "plus_code":{
+                  "compound_code":"R4P6+CM Bronx, NY, USA",
+                  "global_code":"87G8R4P6+CM"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJHRD78PX0wokRNgRGurhf4jg",
+            "scope":"GOOGLE",
+            "types":[
+                  "beauty_salon",
+                  "hair_care",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"1670 Southern Boulevard, Bronx",
+            "CBG":360050161004,
+            "Radius":103.7924842559
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7223642,
+                        "lng":-87.5543846
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7238918303,
+                              "lng":-87.5530306197
+                        },
+                        "southwest":{
+                              "lat":41.7211938697,
+                              "lng":-87.5557285803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tacos Nietos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":348,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105688297895684010693\">Tacos Nietos<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDTQt5D6cEp5xQiMXAfrLOO-_lEb83eQUVy4OGXkEb2ngYgDHeSqqRNwUAnXAjiIjN27sMmwNaammFKUMski_zs7y9vweuUt1gQc4I-CV4SPgZj7yr2WilYHHzVSgS3EBZ8HIkLK5vgZPjkzHXtSm5OZCMpFBikKeQDPD_-wEqWtIwz",
+                        "width":348
+                  }
+            ],
+            "place_id":"ChIJdag3LO8nDogRCMULIVfPivg",
+            "plus_code":{
+                  "compound_code":"PCCW+W6 Chicago, IL, USA",
+                  "global_code":"86HJPCCW+W6"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJdag3LO8nDogRCMULIVfPivg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":430,
+            "vicinity":"2863 East 95th Street, Chicago",
+            "CBG":170314805002,
+            "Radius":440.86136513
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9025695,
+                        "lng":-88.0746199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9041061803,
+                              "lng":-88.0732687697
+                        },
+                        "southwest":{
+                              "lat":41.9014082197,
+                              "lng":-88.0759667303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nay Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117075935900527785405\">Marc Dane<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC5D7RJpmytrZZhdcvYYwi6-DBjnOCF587TrFgOaHVhm3ivBV08wqHPcdUKNiCT-ELgG1UOYe3WFdpj4m31-tX8wIUMb1FSd6rLdCDk7DlQLIvvgISpDgjL5Dh0v-teWK__c-4h4FgX4GE3yuWAMkPrVJXgAdUMdFCwgXd_lOp5UqCR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJvcJxQUtTDogRPVTch4xHrUg",
+            "plus_code":{
+                  "compound_code":"WW3G+25 Glendale Heights, IL, USA",
+                  "global_code":"86HHWW3G+25"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJvcJxQUtTDogRPVTch4xHrUg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":523,
+            "vicinity":"365 East North Avenue, Glendale Heights",
+            "CBG":170438409101,
+            "Radius":560.7956482526
+      }
+]

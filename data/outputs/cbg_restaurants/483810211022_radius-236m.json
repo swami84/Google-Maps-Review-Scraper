@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":35.1633408,
+                        "lng":-101.8823844
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":35.1647074803,
+                              "lng":-101.8811395197
+                        },
+                        "southwest":{
+                              "lat":35.1620095197,
+                              "lng":-101.8838374803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Whataburger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115888044131892489804\">Charles Reed<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECRyrS8Q1Onk23yH-_akIq4ujxfiaqEjJqCDfqlHGOJjO8jk84sjhjnKPkOCwhIKL9lgeDuK0lV50Sd8ueUvk_ABoVLOm_kZo1A-4FjxSTpikz99p60Vazvtg5qpHBwIU-3Qj9yZo4UQRd-roCoaIczOX9KrRYRHuZWCK_G9ZlHk_8H",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJnWYkbPtPAYcR3hNI0uyPtu0",
+            "plus_code":{
+                  "compound_code":"5479+82 Amarillo, TX, USA",
+                  "global_code":"857W5479+82"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJnWYkbPtPAYcR3hNI0uyPtu0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_takeaway",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1316,
+            "vicinity":"4111 Southwest 45th Avenue, Amarillo",
+            "CBG":483810211022,
+            "Radius":235.7860254366
+      }
+]

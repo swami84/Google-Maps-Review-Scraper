@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0883769,
+                        "lng":-72.5643585
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0895808803,
+                              "lng":-72.5629514197
+                        },
+                        "southwest":{
+                              "lat":42.0868829197,
+                              "lng":-72.5656493803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Sabor De Juan",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":955,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112593099668931597892\">El Sabor De Juan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAyY21LY7QEYthLeQpO6JntHgA09NodhwuyMZ-y0_Xica0-PpxGJ13A-YTqlOk7_rUYrAjnZpxUoeSIqnVDz6HngE6KKW9lI2_ePCYL5eBWCrAC_xQJBdQPjIFE7qcyTrVraPeN1z9ztmrEhQ7SmrWmALNDS9fFkJ8ngrmqmOGmK2cr",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ-cPgJObn5okR8SN-7ha6V90",
+            "plus_code":{
+                  "compound_code":"3CQP+97 Springfield, MA, USA",
+                  "global_code":"87J93CQP+97"
+            },
+            "rating":4.4,
+            "reference":"ChIJ-cPgJObn5okR8SN-7ha6V90",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"355 Belmont Avenue, Springfield",
+            "price_level":null,
+            "CBG":250138021004,
+            "Radius":277.7629718359
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0869315,
+                        "lng":-72.5615465
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0882255303,
+                              "lng":-72.5602159697
+                        },
+                        "southwest":{
+                              "lat":42.0855275697,
+                              "lng":-72.5629139303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Luigis Springfield Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105292494592049250375\">Luigis Springfield Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB1ALlafREH0t9R3B04cEjKvspXrPcSylT6mlMYMQVhH5D9irdsWte4MPXIea-0w7_findj7zO7JV7AheNGL7JsLi4YW5_J85A-T3SpP0Sn1I3LnNDzAIm8q77tWjnvCT25bwL5gspkt29KXW3S07eAQq3WkV_jTYJjPoKxbcah6jnV",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJcaaD11fn5okRBJmy8atyCDc",
+            "plus_code":{
+                  "compound_code":"3CPQ+Q9 Springfield, MA, USA",
+                  "global_code":"87J93CPQ+Q9"
+            },
+            "rating":4.2,
+            "reference":"ChIJcaaD11fn5okRBJmy8atyCDc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"453 Belmont Avenue, Springfield",
+            "price_level":1.0,
+            "CBG":250138021004,
+            "Radius":277.7629718359
+      }
+]

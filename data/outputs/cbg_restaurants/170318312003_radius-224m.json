@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9171756,
+                        "lng":-87.7277662
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9185245803,
+                              "lng":-87.7264172197
+                        },
+                        "southwest":{
+                              "lat":41.9158266197,
+                              "lng":-87.7291151803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tarantino\u2019s",
+            "place_id":"ChIJZ0zbFy3ND4gRHpSfbt_GzGc",
+            "plus_code":{
+                  "compound_code":"W78C+VV Chicago, IL, USA",
+                  "global_code":"86HJW78C+VV"
+            },
+            "reference":"ChIJZ0zbFy3ND4gRHpSfbt_GzGc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"West Armitage Avenue, Chicago",
+            "CBG":170318312003,
+            "Radius":224.4623844316
+      }
+]

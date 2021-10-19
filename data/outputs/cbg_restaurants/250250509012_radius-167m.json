@@ -1,0 +1,48 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3796482,
+                        "lng":-71.0300616
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3810285303,
+                              "lng":-71.0287340197
+                        },
+                        "southwest":{
+                              "lat":42.3783305697,
+                              "lng":-71.0314319803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Tienda Y Taqueria San Antonio",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJE4VjbElw44kRynMzvTG2IYo",
+            "plus_code":{
+                  "compound_code":"9XH9+VX Boston, MA, USA",
+                  "global_code":"87JC9XH9+VX"
+            },
+            "rating":4.6,
+            "reference":"ChIJE4VjbElw44kRynMzvTG2IYo",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"257 Princeton Street, Boston",
+            "CBG":250250509012,
+            "Radius":166.6795934304
+      }
+]

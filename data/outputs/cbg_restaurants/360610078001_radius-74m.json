@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.748279,
+                        "lng":-73.9748775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7496669803,
+                              "lng":-73.9734309197
+                        },
+                        "southwest":{
+                              "lat":40.7469690197,
+                              "lng":-73.9761288803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tempura Matsui",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104616968993187546571\">Jeannie Tai<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB0O9xdauhOgQ0HITcUNAuPkUgW4skQkGhSSj3RpUEazSRb9Z6x-tJSNWYtsPLNPwmFZ68gJOtGP6-0qA3GHrGLB_cFOGLVAvw68NEXqVweJEUM_nB7p0x6S7XxlHPfmUGqYmaYV9-gEFJUR6g4gcEDb0vaTIWkDHtFUWlnki99vLJG",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJ3aiOZQRZwokRyTh5pEHCyXY",
+            "plus_code":{
+                  "compound_code":"P2XG+82 New York, NY, USA",
+                  "global_code":"87G8P2XG+82"
+            },
+            "price_level":4.0,
+            "rating":4.8,
+            "reference":"ChIJ3aiOZQRZwokRyTh5pEHCyXY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":203,
+            "vicinity":"222 East 39th Street, New York",
+            "CBG":360610078001,
+            "Radius":73.7147750932
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7483656,
+                        "lng":-73.975209
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7498199303,
+                              "lng":-73.9737863197
+                        },
+                        "southwest":{
+                              "lat":40.7471219697,
+                              "lng":-73.9764842803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sushi Ryusei",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116889949762192180910\">Sushi Ryusei<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDcBrTIoTW6U_-x3ZiLR2ZBX_WDPYfNMbDHE6nzpllxb9XJChIV_xmvdkBrO60VP_Z5vKoU6SsgIG4GjE0SJZpP3aKnCASeEQ4Xp9x-2qMoLQTzDvE3lssF9QFPVcWE85W018oJYCjfGTuYYi8F1KgpNF3NA6HWUHknwXJJkhjMpLLI",
+                        "width":1510
+                  }
+            ],
+            "place_id":"ChIJqTLS3nJZwokRGdkiM6Hj-BU",
+            "plus_code":{
+                  "compound_code":"P2XF+8W New York, NY, USA",
+                  "global_code":"87G8P2XF+8W"
+            },
+            "price_level":null,
+            "rating":4.7,
+            "reference":"ChIJqTLS3nJZwokRGdkiM6Hj-BU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":132,
+            "vicinity":"216 East 39th Street, New York",
+            "CBG":360610078001,
+            "Radius":73.7147750932
+      }
+]

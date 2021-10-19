@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3187785,
+                        "lng":-71.0864201
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3201082803,
+                              "lng":-71.0849156697
+                        },
+                        "southwest":{
+                              "lat":42.3174103197,
+                              "lng":-71.0876136303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ratata Chimi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJKceiLeR744kREANKDhvLX7A",
+            "plus_code":{
+                  "compound_code":"8W97+GC Roxbury, Boston, MA, USA",
+                  "global_code":"87JC8W97+GC"
+            },
+            "rating":5,
+            "reference":"ChIJKceiLeR744kREANKDhvLX7A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"55 Humboldt Avenue, Roxbury",
+            "CBG":250250819001,
+            "Radius":218.797201382
+      }
+]

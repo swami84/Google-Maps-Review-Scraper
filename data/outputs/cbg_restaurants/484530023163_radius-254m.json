@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2337389,
+                        "lng":-97.7242551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2350920303,
+                              "lng":-97.7231134697
+                        },
+                        "southwest":{
+                              "lat":30.2323940697,
+                              "lng":-97.7258114303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Cabana",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118150740902931682830\">Anderson England<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAOjiC2OOxdNgmFPhQDvibx0GZb0QqX6rmdIQSq7yGLjAPB5l3wZ6Rfeg7COx3tL_SpYAACHVh8NtUEZmSWfV9FLoORPfbkMWNkKKY5adyM0O_rc_hcAOs5oGSv5PtBDnkO4448xopTNb1cOa0Y_saDveki6xHw3GzcQh1LXSSRWAq2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJyWvynkG0RIYRj-fSLLmRi4w",
+            "plus_code":{
+                  "compound_code":"67MG+F7 Austin, TX, USA",
+                  "global_code":"862467MG+F7"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJyWvynkG0RIYRj-fSLLmRi4w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1519,
+            "vicinity":"2507 East Riverside Drive, Austin",
+            "CBG":484530023163,
+            "Radius":253.5183241283
+      }
+]

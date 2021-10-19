@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7701989,
+                        "lng":-97.0638743
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7715853303,
+                              "lng":-97.0623901697
+                        },
+                        "southwest":{
+                              "lat":32.7688873697,
+                              "lng":-97.0650881303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cracker Barrel Old Country Store",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103357173176811604343\">Cracker Barrel Old Country Store<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAu_beIn-Ssfk-jEpZsDV0AbADqhvCPYiPJ-Z69oyiP27xu_ojWFCNsdebwYx-K3IDCYIzlM98cI8XkO03gVn-LguaL0d6GKm7biacZ88iPCrOQUOIx7Xb7b_NVXTSGKCCCcwLQbvJtl_36dOyZ6smwhJ1UfoabRyzv04NVkt7zLLu-",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ8-zoUjyHToYRUnomeMG7DQU",
+            "plus_code":{
+                  "compound_code":"QWCP+3F Arlington, TX, USA",
+                  "global_code":"8644QWCP+3F"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJ8-zoUjyHToYRUnomeMG7DQU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":4132.0,
+            "vicinity":"1251 North Watson Road, Arlington",
+            "CBG":484391131152,
+            "Radius":506.4854675358
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7731999,
+                        "lng":-97.0637092
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7746897303,
+                              "lng":-97.0622902697
+                        },
+                        "southwest":{
+                              "lat":32.7719917697,
+                              "lng":-97.0649882303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Brass Spur Bar & Grill",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJFTnCldGHToYRB4moLMwALlo",
+            "plus_code":{
+                  "compound_code":"QWFP+7G Arlington, TX, USA",
+                  "global_code":"8644QWFP+7G"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJFTnCldGHToYRB4moLMwALlo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1507 North Watson Road, Arlington",
+            "CBG":484391131152,
+            "Radius":506.4854675358
+      }
+]

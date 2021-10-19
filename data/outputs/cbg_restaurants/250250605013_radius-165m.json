@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3373202,
+                        "lng":-71.0435749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3387406303,
+                              "lng":-71.0421862197
+                        },
+                        "southwest":{
+                              "lat":42.3360426697,
+                              "lng":-71.0448841803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Publico Street Bistro & Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118030896105920137211\">Publico Street Bistro &amp; Garden<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECEpgD4Mt6kNrBA15JYsGjO6TMcOfUB1asPYgZglJBH4FpuoZhULafVSm6zz8hjqEMN6AbvcD2rf89JfITyzVzq5R38zxPCoaLsU8T4lQ1K0anJHO2dDxz-lSbR3Xg1cLEZIJ7NVyrJMpuNzyvKMVxxM9WUz8t0U6eMfxqUFIByw4bG",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJT6cQzY5644kRiRY2RZl6BaA",
+            "plus_code":{
+                  "compound_code":"8XP4+WH Boston, MA, USA",
+                  "global_code":"87JC8XP4+WH"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJT6cQzY5644kRiRY2RZl6BaA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":303,
+            "vicinity":"11 Dorchester Street, Boston",
+            "CBG":250250605013,
+            "Radius":164.5713066602
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3379415,
+                        "lng":-71.0422916
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3393069303,
+                              "lng":-71.0410485697
+                        },
+                        "southwest":{
+                              "lat":42.3366089697,
+                              "lng":-71.0437465303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"My Diner",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111206718654677993905\">Raul Avila<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBXYKmSvVMKqtwTqAVyfOtgpLO5fr1ILvKoTagmx-Y4DwCoLWUqdjAMUQdpchLwuIP2S3-Gd_tLHIWPv9MmnVV6nq7f18wAPhajl9DsfUsEeAiE0c5G13JpEktJ8CdpfHI-2Gk0eFzS2L4azJLwF0RLF-Tanq43CHSoFro4GsukVa3V",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ96WkHo9644kR7SUJiWMzhEE",
+            "plus_code":{
+                  "compound_code":"8XQ5+53 South Boston, Boston, MA, USA",
+                  "global_code":"87JC8XQ5+53"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ96WkHo9644kR7SUJiWMzhEE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":360,
+            "vicinity":"Second Floor, 455 East 1st Street, South Boston",
+            "CBG":250250605013,
+            "Radius":164.5713066602
+      }
+]

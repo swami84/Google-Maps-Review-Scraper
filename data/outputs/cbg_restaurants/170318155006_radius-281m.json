@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8258954,
+                        "lng":-87.7953728
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8274029303,
+                              "lng":-87.7941206697
+                        },
+                        "southwest":{
+                              "lat":41.8247049697,
+                              "lng":-87.7968186303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Slice Factory - Berwyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108887061320589737523\">Slice Factory - Berwyn<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDlkXcUHCvDsrQlGmvavMC1nnVts5bIJ1zgDp83o68BOfDgc9XN3xdoQ3DE8xUlrUM74Dueu7u6aAi2xmi7rwskNU2Qx9htetwM4gGq2R0KMt6m4iVAc9hcnsEjNYWho34X_uaoZl6niPcyrI6wBx6KW1giVkGLtQ2Ut0v35fKrRlg0",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJ2d-Zghg0DogRR2ffq3MhhpA",
+            "plus_code":{
+                  "compound_code":"R6G3+9V Berwyn, IL, USA",
+                  "global_code":"86HJR6G3+9V"
+            },
+            "price_level":1.0,
+            "rating":4.0,
+            "reference":"ChIJ2d-Zghg0DogRR2ffq3MhhpA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":779.0,
+            "vicinity":"6900 Ogden Avenue, Berwyn",
+            "CBG":170318155006,
+            "Radius":281.1759229931
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8258954,
+                        "lng":-87.7953728
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8274021803,
+                              "lng":-87.7941229197
+                        },
+                        "southwest":{
+                              "lat":41.8247042197,
+                              "lng":-87.7968208803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"SF Berwyn",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJBxXZ2Wg1DogRy0n4V425i_I",
+            "plus_code":{
+                  "compound_code":"R6G3+9V Berwyn, IL, USA",
+                  "global_code":"86HJR6G3+9V"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJBxXZ2Wg1DogRy0n4V425i_I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"6900 Ogden Avenue, Berwyn",
+            "CBG":170318155006,
+            "Radius":281.1759229931
+      }
+]

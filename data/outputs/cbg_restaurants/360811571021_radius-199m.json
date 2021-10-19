@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7339637,
+                        "lng":-73.7248895
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7352197803,
+                              "lng":-73.7235055197
+                        },
+                        "southwest":{
+                              "lat":40.7325218197,
+                              "lng":-73.7262034803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"bp",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111388679009799691958\">J L<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDa0zQH2RloPv3wSio9gWGMgvtHdMX0-vcommB47p25kYY04EbyNJyQRhIxXQ8_VNArk-NwNs08jigF1ZzLTb60d4m2jZzkczqFnrGKN9gPcVQx0b1MR13YtPG2HTwi8xZ4kacFhpyA_qWIt2wAT4rrjtJdm0_Gyp4VuSzV6G-yF2Ya",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ7yOaRoFjwokR0IjW25TrpJo",
+            "plus_code":{
+                  "compound_code":"P7MG+H2 New York, NY, USA",
+                  "global_code":"87G8P7MG+H2"
+            },
+            "rating":3.6,
+            "reference":"ChIJ7yOaRoFjwokR0IjW25TrpJo",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "car_wash",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"241-15 Hillside Avenue, Queens",
+            "CBG":360811571021,
+            "Radius":199.4894907015
+      }
+]

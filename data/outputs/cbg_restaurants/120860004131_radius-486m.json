@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9105475,
+                        "lng":-80.216816
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9119841803,
+                              "lng":-80.2154725197
+                        },
+                        "southwest":{
+                              "lat":25.9092862197,
+                              "lng":-80.2181704803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Habemus Fuego TM",
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104374372210168375723\">Habemus Fuego TM<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDbuyp3wRKHMSZavLCdZMNmrM04lEBqUNFJSSNRLl_6amWuWZGz8P5oocEOQDxTz6anxPJFBjXCYGdTexgqWFwItQcgAPH4MaR_NqwzBOFcTLHBW2Bb-0uyxRn4_Bnk49tjmD_wPVooqPCdXyWLjUDt3xLrCYdpxBmmzQSuaVhyxU5w",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ_aY_Cjav2YgRefY0YqoczUw",
+            "plus_code":{
+                  "compound_code":"WQ6M+67 Miami, FL, USA",
+                  "global_code":"76QXWQ6M+67"
+            },
+            "rating":5,
+            "reference":"ChIJ_aY_Cjav2YgRefY0YqoczUw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1050 Northwest 149th Street, Miami",
+            "CBG":120860004131,
+            "Radius":485.5299648611
+      }
+]

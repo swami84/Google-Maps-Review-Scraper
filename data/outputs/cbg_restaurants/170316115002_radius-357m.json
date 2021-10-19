@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8030228,
+                        "lng":-87.6769759
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8043717803,
+                              "lng":-87.6756269197
+                        },
+                        "southwest":{
+                              "lat":41.8016738197,
+                              "lng":-87.6783248803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mr Martin",
+            "place_id":"ChIJZRTlFEkvDogRa7j2q-w9qwA",
+            "plus_code":{
+                  "compound_code":"R83F+66 Chicago, IL, USA",
+                  "global_code":"86HJR83F+66"
+            },
+            "reference":"ChIJZRTlFEkvDogRa7j2q-w9qwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"W 50th St &, South Hoyne Avenue, Chicago",
+            "opening_hours":null,
+            "CBG":170316115002,
+            "Radius":357.4905725239
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8022826,
+                        "lng":-87.6800909
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8035283303,
+                              "lng":-87.6787389197
+                        },
+                        "southwest":{
+                              "lat":41.8008303697,
+                              "lng":-87.6814368803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cheno Burgers",
+            "place_id":"ChIJIfQcKFkvDogRBC83Gy9DSR4",
+            "plus_code":{
+                  "compound_code":"R829+WX Chicago, IL, USA",
+                  "global_code":"86HJR829+WX"
+            },
+            "reference":"ChIJIfQcKFkvDogRBC83Gy9DSR4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2212 West 50th Place, Chicago",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "CBG":170316115002,
+            "Radius":357.4905725239
+      }
+]

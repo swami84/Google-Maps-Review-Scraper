@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8427818,
+                        "lng":-97.2484767
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8437986303,
+                              "lng":-97.2472626697
+                        },
+                        "southwest":{
+                              "lat":32.8411006697,
+                              "lng":-97.2499606303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Sam's Club Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114788402698739243763\">Sam&#39;s Club Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCcWmI8khCwc6XI9J0VUBpk0zp4-yVRPwPfN2vX2AGqrTqQtxi4_r-XrjrjrU_-U7d2pcG9VJLoyFdkFo3BQZfVzZK9pbxeG4dek8yCMyDJh67LreBndTiDQhwodj5M-Gh0sI5tw-LGbTp7wrIIu45uXbFettbOLoe6CGEZblqrtrc",
+                        "width":1132
+                  }
+            ],
+            "place_id":"ChIJk85XJs55ToYRdxam7h_Hjlg",
+            "plus_code":{
+                  "compound_code":"RQV2+4J North Richland Hills, TX, USA",
+                  "global_code":"8644RQV2+4J"
+            },
+            "reference":"ChIJk85XJs55ToYRdxam7h_Hjlg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"6375 Northeast Loop 820, North Richland Hills",
+            "CBG":484391138112,
+            "Radius":649.0377725033
+      }
+]

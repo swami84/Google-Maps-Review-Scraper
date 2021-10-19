@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3517433,
+                        "lng":-71.0628941
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3530026303,
+                              "lng":-71.0615004697
+                        },
+                        "southwest":{
+                              "lat":42.3503046697,
+                              "lng":-71.0641984303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Jaho Coffee Roaster & Wine Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3373,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109482314425105557743\">Derek McDermott<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDU14FJ7Nyl7UcrLlmr58BVifIpa_TVA6kRHa2B-uDrSJ3-_XRgcvrYkwMMotI2JI6NY7QNFw2JEzjDsXru1BhcI2JsE1DMRAOGwO5RbdR_6wtaXie3WLnYUXkB6e6M-CmmPb7FRYga3izK_wWUYBbmvaBJhSXjaTNcFWpGJnyuzF1T",
+                        "width":2333
+                  }
+            ],
+            "place_id":"ChIJRzjLv3d644kRhkAHf0tdR2g",
+            "plus_code":{
+                  "compound_code":"9W2P+MR Boston, MA, USA",
+                  "global_code":"87JC9W2P+MR"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJRzjLv3d644kRhkAHf0tdR2g",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":999,
+            "vicinity":"665 Washington Street, Boston",
+            "CBG":250250701016,
+            "Radius":65.5990194387
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3522441,
+                        "lng":-71.0642744
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3536442303,
+                              "lng":-71.0629132197
+                        },
+                        "southwest":{
+                              "lat":42.3509462697,
+                              "lng":-71.0656111803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fin's Japanese Sushi & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114492112951716262771\">Chris Lane<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhxLmF6pFqev13cGR_fntXwy5alQrK5wu0QK4jqSAgUJavpmI8IJ5EycMuIHeNiRG33DX11oRS2D-ZS7QZaqdYevJgGUNX9GwAGTyC01HRCg2IAePiTIJwxMz4QDO8xmjOlbCA5u1JiPdfFgvu3WCE5j24hMG527stGqpkcXrHrITo",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJYRlvynd644kRt6ehFB8ALkI",
+            "plus_code":{
+                  "compound_code":"9W2P+V7 Boston, MA, USA",
+                  "global_code":"87JC9W2P+V7"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJYRlvynd644kRt6ehFB8ALkI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":248,
+            "vicinity":"62 Boylston Street, Boston",
+            "CBG":250250701016,
+            "Radius":65.5990194387
+      }
+]

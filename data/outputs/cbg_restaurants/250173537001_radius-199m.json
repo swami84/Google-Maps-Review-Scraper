@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3749198,
+                        "lng":-71.1092598
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3762281303,
+                              "lng":-71.1079730697
+                        },
+                        "southwest":{
+                              "lat":42.3735301697,
+                              "lng":-71.1106710303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Harvard Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":541,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103065698996371512337\">Harvard Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDhPGTP7axolXYnBeSAhe4NcVzyBLCHakNQZIRh_RE8n1GbEoZ_ag0IHYG3B3PiZbrEU_zocFAJUeC3t2yqu9r86dnc7I0fUF_NrN5WMD1FgW5t_jccGHwK9KxL1ny7ZF3ZfWfQo0fGI9vRebG09d1c_jwOK-DDF20i8vgZaypSTKbo",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJwans-EV344kRxc3svUMAA2c",
+            "plus_code":{
+                  "compound_code":"9VFR+X7 Cambridge, MA, USA",
+                  "global_code":"87JC9VFR+X7"
+            },
+            "rating":3.9,
+            "reference":"ChIJwans-EV344kRxc3svUMAA2c",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":37,
+            "vicinity":"1627 Cambridge Street, Cambridge",
+            "price_level":null,
+            "CBG":250173537001,
+            "Radius":199.3610017247
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3749008,
+                        "lng":-71.1091172
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3761988803,
+                              "lng":-71.1077875197
+                        },
+                        "southwest":{
+                              "lat":42.3735009197,
+                              "lng":-71.1104854803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mona Lisa Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101818230409937353735\">Ulrich Palha<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECRn2lJmAZG2MSeZX3FRuo4ew-LOnuEX4ZjYS8Ojketks3Yr6N4yJGeDnd9VJsocR4ut8BjUkh3cvYMq1NIcQzkpwExRfby-x51ZcOIIR0675aDQTfdVhv0bhR7wU4139YiRM1EbrUNYijrbuGQYHTMYKRKqyLR_EPYjGp6674MluCb",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJVeMUVk9344kRDWaBK9rY-Cw",
+            "plus_code":{
+                  "compound_code":"9VFR+X9 Cambridge, MA, USA",
+                  "global_code":"87JC9VFR+X9"
+            },
+            "rating":3.9,
+            "reference":"ChIJVeMUVk9344kRDWaBK9rY-Cw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":136,
+            "vicinity":"1625 Cambridge Street, Cambridge",
+            "price_level":2.0,
+            "CBG":250173537001,
+            "Radius":199.3610017247
+      }
+]

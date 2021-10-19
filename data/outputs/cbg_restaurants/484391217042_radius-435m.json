@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7503332,
+                        "lng":-97.1034143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7515547303,
+                              "lng":-97.1020647197
+                        },
+                        "southwest":{
+                              "lat":32.7488567697,
+                              "lng":-97.1047626803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tu Taco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2217,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107631870584529400038\">Sergio martinez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBIdHP5VybcG5Qt2CAv8jWPYYolUZiDpc7YanqWj-uFbaMMNQz-dXk-wI5CyNqNuA5Va22qoX2jjTr-iUw4itFh4Pw7i9uyx5fd5BpNswJYStHaSYmEUhyGDDMQ0x5KdNFBt4dMm81_sBg7uifU_NV-eY2atdohpwoWDPmCgje0BYxL",
+                        "width":3710
+                  }
+            ],
+            "place_id":"ChIJd9KGCJl9ToYRKMnqQQujHNQ",
+            "plus_code":{
+                  "compound_code":"QV2W+4J Arlington, TX, USA",
+                  "global_code":"8644QV2W+4J"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJd9KGCJl9ToYRKMnqQQujHNQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":741,
+            "vicinity":"309 East Randol Mill Road, Arlington",
+            "CBG":484391217042,
+            "Radius":435.2268299971
+      }
+]

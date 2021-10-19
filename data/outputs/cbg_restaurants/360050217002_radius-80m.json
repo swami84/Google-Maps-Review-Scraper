@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8490663,
+                        "lng":-73.912156
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8504753803,
+                              "lng":-73.9109554197
+                        },
+                        "southwest":{
+                              "lat":40.8477774197,
+                              "lng":-73.9136533803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cache's Kitchen of Flavors",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJNUtO9uL1wokRjk5MTs9tG0c",
+            "plus_code":{
+                  "compound_code":"R3XQ+J4 New York, NY, USA",
+                  "global_code":"87G8R3XQ+J4"
+            },
+            "reference":"ChIJNUtO9uL1wokRjk5MTs9tG0c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1800 Davidson Avenue, Bronx",
+            "CBG":360050217002,
+            "Radius":80.3747419287
+      }
+]

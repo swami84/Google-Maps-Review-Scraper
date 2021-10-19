@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9958502,
+                        "lng":-82.332006
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9971991803,
+                              "lng":-82.3306570197
+                        },
+                        "southwest":{
+                              "lat":27.9945012197,
+                              "lng":-82.3333549803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Stefano Pizza and Pasta",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114528568026743025178\">Anthony Cardullo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDbpC-FpVpi4KSeUMjxWUIXvT7nluI1So-zWPVwCndCVuhIMk5ZZe1y-l8c9JgdTb8RB8HLav5pfmqzmJL-glDGd3yRDTAlLHfrAnp-WehHVkCAeLvaeBREVz55IYoKoTBB78dfILv7xo88qUDPOh17rz8iR75KBYl4qz61QmujUa87",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ37Lsfy3JwogRLVieC_DQ2U0",
+            "plus_code":{
+                  "compound_code":"XMW9+85 Tampa, FL, USA",
+                  "global_code":"76VVXMW9+85"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJ37Lsfy3JwogRLVieC_DQ2U0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_takeaway",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":312,
+            "vicinity":"10203 U.S. 92, Tampa",
+            "permanently_closed":null,
+            "CBG":120570121032,
+            "Radius":852.4284760445
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":27.995675,
+                        "lng":-82.3371079
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9970435803,
+                              "lng":-82.3358453197
+                        },
+                        "southwest":{
+                              "lat":27.9943456197,
+                              "lng":-82.3385432803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taste the Smoke BBQ",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":709,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105107851077778255532\">Taste the Smoke BBQ<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDR3W5phFxlgEw7RSfmDbD6FWUUmlPNYag5xYI1QF8TrB0rKDS0_4Gw5gszWVyQV9C9V-uv0Z9Oec_lVBCk2_jO6q-zHxLAsb5g8zxrIPdSP7BW4nn0gS7RTBM2nNouqMPdM3ZZQNPHsoEfxKieN8Fk5LlSXic22oRp8hYRhEYow5Th",
+                        "width":1260
+                  }
+            ],
+            "place_id":"ChIJl19PteXJwogROsswpUw0k5o",
+            "plus_code":{
+                  "compound_code":"XMW7+75 Tampa, FL, USA",
+                  "global_code":"76VVXMW7+75"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJl19PteXJwogROsswpUw0k5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"LEX auto shop, 9908 US HWY 92 Located in the parking lot of, Tampa",
+            "permanently_closed":true,
+            "CBG":120570121032,
+            "Radius":852.4284760445
+      }
+]

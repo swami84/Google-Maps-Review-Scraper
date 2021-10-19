@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.671525,
+                        "lng":-97.3863904
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6729644803,
+                              "lng":-97.3849339197
+                        },
+                        "southwest":{
+                              "lat":32.6702665197,
+                              "lng":-97.3876318803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tamales cubanos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJT4G-Z8ZtToYRy-BSswiOZ50",
+            "plus_code":{
+                  "compound_code":"MJC7+JC Fort Worth, TX, USA",
+                  "global_code":"8644MJC7+JC"
+            },
+            "rating":4,
+            "reference":"ChIJT4G-Z8ZtToYRy-BSswiOZ50",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"5218 Cordova Avenue, Fort Worth",
+            "CBG":484391055051,
+            "Radius":368.7271371701
+      }
+]

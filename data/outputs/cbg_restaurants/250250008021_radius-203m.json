@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3555235,
+                        "lng":-71.1307738
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3567497803,
+                              "lng":-71.1292296697
+                        },
+                        "southwest":{
+                              "lat":42.3540518197,
+                              "lng":-71.1319276303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Arbat Restaurant Inc",
+            "place_id":"ChIJF1oaztp544kRWZmUKoka5jk",
+            "plus_code":{
+                  "compound_code":"9V49+6M Allston, Boston, MA, USA",
+                  "global_code":"87JC9V49+6M"
+            },
+            "reference":"ChIJF1oaztp544kRWZmUKoka5jk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"20 Linden Street #221, Allston",
+            "CBG":250250008021,
+            "Radius":202.5802031197
+      }
+]

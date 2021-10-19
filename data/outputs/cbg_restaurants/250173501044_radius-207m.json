@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3949008,
+                        "lng":-71.0973639
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3962021803,
+                              "lng":-71.0960675697
+                        },
+                        "southwest":{
+                              "lat":42.3935042197,
+                              "lng":-71.0987655303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Falafel Place",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105117792274492423685\">Kurt Kaiser<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAEGp2CBRoIjjyEUjD6dtK_aqNeydulqr3RKD7g8-eQY-rbARUVc4W2f_zul78DHJpyZuZV-2xVbLZnACzaBT6j0s6T8qf-oYik4ifMUku-p8L3VIA7tIEAkdId37DdCvxiCG-ghb36glPAGifwThsEqezs7BfVCNf-6TbqAs5nQnQ_",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJdSyi1ip344kR-1t35FYXRL8",
+            "plus_code":{
+                  "compound_code":"9WV3+X3 Somerville, MA, USA",
+                  "global_code":"87JC9WV3+X3"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJdSyi1ip344kR-1t35FYXRL8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":260,
+            "vicinity":"1 Main Street, Somerville",
+            "CBG":250173501044,
+            "Radius":207.3648094897
+      }
+]

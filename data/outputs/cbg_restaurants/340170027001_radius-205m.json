@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7286702,
+                        "lng":-74.0805201
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7299449303,
+                              "lng":-74.0792547197
+                        },
+                        "southwest":{
+                              "lat":40.7272469697,
+                              "lng":-74.0819526803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Super Hero Sub Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":12000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110267054570248542319\">Shannon Duffy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC08t1XN9SYvbHAjbPHt-S65J-o0LEV2uyExx-XLUiDaClP3WBm4vtRrVLlqZmx7q0HhdWml2c__SM7oqVUOWftvmWEkBb1gmyXVFWHaRhKiv063Rf0--BWiOU3E0Aykb_fSSwi4qNh7vGao8HTIE_G7OcUq1QcH-9JPQij4LIcZMkj",
+                        "width":9000
+                  }
+            ],
+            "place_id":"ChIJOSycJStRwokRNPzWQ3QF6ig",
+            "plus_code":{
+                  "compound_code":"PWH9+FQ Jersey City, NJ, USA",
+                  "global_code":"87G7PWH9+FQ"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJOSycJStRwokRNPzWQ3QF6ig",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"266 Duncan Avenue, Jersey City",
+            "CBG":340170027001,
+            "Radius":205.0175208386
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7297176,
+                        "lng":-74.0813351
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7310484803,
+                              "lng":-74.0798806697
+                        },
+                        "southwest":{
+                              "lat":40.7283505197,
+                              "lng":-74.0825786303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Sabrosura Latin Food (Food-truck)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113720336050050027454\">La Sabrosura Latin Food (Food-truck)<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED1GU96DJ_dDYRofkuu80BPG9ZvPoC0v0_DrrHpDgrobCr0JKm7c1wzY_WeEfnPUS-hPbuHOngq0vdmG2YduK62fMtjKgyfOmKsDM9q-z50Qspbp-xHHHuVKkfelUycoDM8vrSFLptTn_p3af9PcSk4DxVF5BC1muFY7gcDrzezhxod",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJV_yITnxXwokRg1GRg0lx_d0",
+            "plus_code":{
+                  "compound_code":"PWH9+VF Jersey City, NJ, USA",
+                  "global_code":"87G7PWH9+VF"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJV_yITnxXwokRg1GRg0lx_d0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"209 Plainfield Avenue, Jersey City",
+            "CBG":340170027001,
+            "Radius":205.0175208386
+      }
+]

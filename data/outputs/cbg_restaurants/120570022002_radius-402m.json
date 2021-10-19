@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9871973,
+                        "lng":-82.4592186
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9885560303,
+                              "lng":-82.4579624697
+                        },
+                        "southwest":{
+                              "lat":27.9858580697,
+                              "lng":-82.4606604303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chop Chop Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":697,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108931039664956128550\">John Remick<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECY6MMFG3mywzwNutYwkMWSsvA8n27bAlq_SDaYxGzFpQCKf0EEicQyGVRamw0FBfl6OQSZSjMy6qv8hv3-ky_dSGM8wzhCsIoiwtCQpI6HBjX70i9piA1vlKrrnE9LRsVUEjyqA3cbd7XYPoGV3VsGdVoTmiBFuoaylxapCpAx8u1R",
+                        "width":583
+                  }
+            ],
+            "place_id":"ChIJK42kgKTGwogRyWvAkT2RmgE",
+            "plus_code":{
+                  "compound_code":"XGPR+V8 Tampa, FL, USA",
+                  "global_code":"76VVXGPR+V8"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJK42kgKTGwogRyWvAkT2RmgE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":661,
+            "vicinity":"4603 North Florida Avenue, Tampa",
+            "CBG":120570022002,
+            "Radius":401.5099874561
+      }
+]

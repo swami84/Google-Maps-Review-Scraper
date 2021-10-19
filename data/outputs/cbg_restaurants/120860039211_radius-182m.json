@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.84008,
+                        "lng":-80.1203947
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8414135303,
+                              "lng":-80.1192294697
+                        },
+                        "southwest":{
+                              "lat":25.8387155697,
+                              "lng":-80.1219274303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Oli Caf\u00e9",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108629429608068892175\">Heather Woods<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7Wvrg4B2I0CSSBQSplw5M5SnoTZCYevN7UVjshxWnlDnXLgeShLPH0roZ4jHsbfTFdsU1w9OzNTekEPszM59Gmxa9ouUyEOm6yY2NdyTpE3cPidu4vhDVvg37CQ3ZzpyW-hWiK5MCVF6DOpirPjh25O_5duBNfcM4hiI1Gb2fmqll",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ93mz_yGz2YgRv9KkWpztMLk",
+            "plus_code":{
+                  "compound_code":"RVRH+2R Miami Beach, FL, USA",
+                  "global_code":"76QXRVRH+2R"
+            },
+            "rating":4.8,
+            "reference":"ChIJ93mz_yGz2YgRv9KkWpztMLk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"Inside Corinthian Condominium, 5825 Collins Avenue, Miami Beach",
+            "CBG":120860039211,
+            "Radius":182.1362668946
+      }
+]

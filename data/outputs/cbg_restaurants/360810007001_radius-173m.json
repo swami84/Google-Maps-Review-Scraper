@@ -1,0 +1,62 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7454507,
+                        "lng":-73.9501917
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7468121803,
+                              "lng":-73.9489128697
+                        },
+                        "southwest":{
+                              "lat":40.7441142197,
+                              "lng":-73.9516108303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Communitea",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103901706585127527875\">Communitea<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAFRtZ4wVAYs6wyfx2B1pVFuB2CCeMecBRtFyIH577_cKfiCFKbOzk1RxdkkF8OdLP978VyTM_kWf3aFV76Q9RythBsv3BPDpP_DZV7Sq6EEe41UWNwIkCXXDQCgqjNlTKxODjMJ-zWXBWE9kuN1QZNQwtqxvmGMA_9vqokroAUnlfh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-ZLeBSRZwokRG4LPbDHu5gI",
+            "plus_code":{
+                  "compound_code":"P2WX+5W New York, NY, USA",
+                  "global_code":"87G8P2WX+5W"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ-ZLeBSRZwokRG4LPbDHu5gI",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":320,
+            "vicinity":"11-18 46th Road, Queens",
+            "CBG":360810007001,
+            "Radius":172.9376823488
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8282079,
+                        "lng":-87.617722
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8295593303,
+                              "lng":-87.6161912197
+                        },
+                        "southwest":{
+                              "lat":41.8268613697,
+                              "lng":-87.6188891803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bronzeville B-Q Smokey Proteins Kitchenette",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJXQTOJ6IrDogRyXyao2CdyUU",
+            "plus_code":{
+                  "compound_code":"R9HJ+7W Chicago, IL, USA",
+                  "global_code":"86HJR9HJ+7W"
+            },
+            "reference":"ChIJXQTOJ6IrDogRyXyao2CdyUU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3632 South King Drive, Chicago",
+            "CBG":170318396001,
+            "Radius":175.1824555906
+      }
+]

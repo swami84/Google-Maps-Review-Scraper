@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.285507,
+                        "lng":-71.0913105
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2868382303,
+                              "lng":-71.0898689197
+                        },
+                        "southwest":{
+                              "lat":42.2841402697,
+                              "lng":-71.0925668803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nick's Pizza & Seafood",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":360,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105579724035283140020\">Roman Hradysky<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAW4JHnUjQYMi-ZHJy9n81fskbyBZ0IgNGqe0e3zfSg5a5bSIg3SWwJKY2t1Q6QdqVxcTLHDokRTDxXgzhKQWTjRV5f64lt1QaCUHiveiFPu_7dUCx-cGqAmD_pmI3VomWojpXVxVhTTcJGRH45zVIzhZanH-BtCndDhEZxumOfve2N",
+                        "width":730
+                  }
+            ],
+            "place_id":"ChIJ8dl3Nfl744kRhf9lAVBXaxI",
+            "plus_code":{
+                  "compound_code":"7WP5+6F Boston, MA, USA",
+                  "global_code":"87JC7WP5+6F"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ8dl3Nfl744kRhf9lAVBXaxI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":291,
+            "vicinity":"1143 Blue Hill Avenue, Boston",
+            "CBG":250251001005,
+            "Radius":140.8927231339
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2855984,
+                        "lng":-71.0907059
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2869729303,
+                              "lng":-71.0893723197
+                        },
+                        "southwest":{
+                              "lat":42.2842749697,
+                              "lng":-71.0920702803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Greek Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4201,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101401076635296708414\">Greek Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED_NeZP__ix8IbsGEOidrbuVTQnXYx8KsEFPqwcBqqpyJ8N-Om4Asm_cyfRq0-0MF7Zy97uAKl2ogsq4IPhHiGFYQ9QaWrpcDC4rsVtjcRRvs8OlluA36nIXzdV497ruujIV0FeJMESycjfeEBJILnCuu_RMumDT_WodRKYmlikJZXf",
+                        "width":6301
+                  }
+            ],
+            "place_id":"ChIJf6Th77V744kRN0ROXUMQel0",
+            "plus_code":{
+                  "compound_code":"7WP5+6P Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7WP5+6P"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJf6Th77V744kRN0ROXUMQel0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":106,
+            "vicinity":"1132 Blue Hill Avenue, Dorchester",
+            "CBG":250251001005,
+            "Radius":140.8927231339
+      }
+]

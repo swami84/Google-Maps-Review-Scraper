@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7334688,
+                        "lng":-87.724829
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7347234803,
+                              "lng":-87.7234967697
+                        },
+                        "southwest":{
+                              "lat":41.7320255197,
+                              "lng":-87.7261947303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Plus",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115367848314390319813\">Erika H<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDoGwmNfP7BsUvTi7e7tgBb0XLM6J3OlFoC-IYrP2cbeooQWj0aWv9T_HYuxbUFtuBin5x2e_Rjaaf8WN9MGy3w4L3Kf85ljiKJbtZu9gnmOusVECiCL-HCKBoHqZhzWI7XZ98f3C0fwNU1FcI1fJA0knJF5FfoWzb-bP75Qr_AqQEB",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ8YEUgJs6DogR1baloldxgSo",
+            "plus_code":{
+                  "compound_code":"P7MG+93 Hometown, IL, USA",
+                  "global_code":"86HJP7MG+93"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ8YEUgJs6DogR1baloldxgSo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":257,
+            "vicinity":"4102 Southwest Highway, Hometown",
+            "CBG":170318220001,
+            "Radius":299.3752824184
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7343515,
+                        "lng":-87.7246535
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7354691803,
+                              "lng":-87.7232339197
+                        },
+                        "southwest":{
+                              "lat":41.7327712197,
+                              "lng":-87.7259318803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Playita Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107925839992791232900\">Victor Thompson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDql_tNK7FPwXzdZOOTAG-A_5A7p3xS_UAFDNWob0Vcfs83ePmnZfNpIhTidwtY1ySs61OsVYpS9Q9pbUWVQbWfy7p-awAhOvlnDxsqelkBLxan3poGs1Pj2KONyP-wgCoayPeIlY0BYNonR5pl69HKzS_aZPGZNVwz8nJQ-ii0jikr",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJ17_pcZw6DogRSJZCEO00DyU",
+            "plus_code":{
+                  "compound_code":"P7MG+P4 Hometown, IL, USA",
+                  "global_code":"86HJP7MG+P4"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ17_pcZw6DogRSJZCEO00DyU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":453,
+            "vicinity":"4056 Southwest Highway, Hometown",
+            "CBG":170318220001,
+            "Radius":299.3752824184
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3532416,
+                        "lng":-71.1366229
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3546789303,
+                              "lng":-71.1352444197
+                        },
+                        "southwest":{
+                              "lat":42.3519809697,
+                              "lng":-71.1379423803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria El Carrizal",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100582833158776060433\">Taqueria El Carrizal<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDj2kA1Tl158k659LzlFkoNQGCONrPKFhzDa_Et5B5zSakZ5y0OIRu--EQs2p0j6JGuNvhAwklHoNvbgKxmOC1a5INIuMiPXUg3iL2wiE2V8GIQv5DJcYUySw50497qKqqCfMk2IS6F-yjl3D2twI4UjAtrs-VxUDmmBduYYC0UaX5I",
+                        "width":923
+                  }
+            ],
+            "place_id":"ChIJV4Bh8M5544kRQL5KXyNbjLI",
+            "plus_code":{
+                  "compound_code":"9V37+79 Allston, Boston, MA, USA",
+                  "global_code":"87JC9V37+79"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJV4Bh8M5544kRQL5KXyNbjLI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":212,
+            "vicinity":"254 Brighton Avenue, Allston",
+            "CBG":250250006021,
+            "Radius":229.0095488564
+      }
+]

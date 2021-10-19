@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7619365,
+                        "lng":-73.961382
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7632400303,
+                              "lng":-73.9600663697
+                        },
+                        "southwest":{
+                              "lat":40.7605420697,
+                              "lng":-73.9627643303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Little Gem Catering",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJOzBbnINZwokR2X1JOGTgCvU",
+            "plus_code":{
+                  "compound_code":"Q26Q+QC New York, NY, USA",
+                  "global_code":"87G8Q26Q+QC"
+            },
+            "rating":3,
+            "reference":"ChIJOzBbnINZwokR2X1JOGTgCvU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"345 East 62nd Street, New York",
+            "CBG":360610110005,
+            "Radius":76.0861478853
+      }
+]

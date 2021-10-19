@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7066904,
+                        "lng":-97.0792903
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7077801303,
+                              "lng":-97.0779452197
+                        },
+                        "southwest":{
+                              "lat":32.7050821697,
+                              "lng":-97.0806431803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pham Thi Truoc Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101452684426516755007\">Monica Noltensmeyer<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAGnfRpGUb3oyeFrnAMkBoAgF2qtzHd4NDrMqdUIX6wXzDS0zHgByQKlLRPtKaoDtASG8AihCJ-j8bPcJlZR7M2z5moYuErLC09TAKRxtZlxtZdXK-fjWPCQnWsurYTkUK5gGOR4CAg1DY96p5wwwNcC8N36A_7xgzPiEqbwJGQ2bjG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJCyew9-SHToYRn7gqXK-0zwE",
+            "plus_code":{
+                  "compound_code":"PW4C+M7 Arlington, TX, USA",
+                  "global_code":"8644PW4C+M7"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJCyew9-SHToYRn7gqXK-0zwE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":163,
+            "vicinity":"1901 East Arkansas Lane #111, Arlington",
+            "CBG":484391219054,
+            "Radius":291.9265418354
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7064432,
+                        "lng":-97.0790691
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7076554303,
+                              "lng":-97.0777208197
+                        },
+                        "southwest":{
+                              "lat":32.7049574697,
+                              "lng":-97.0804187803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nearly Famous Burgers and Hot Dogs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112726734927218567166\">Nearly Famous Burgers and Hot Dogs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBiFSDEoA3Za47iSaAHFz9Mk0D73UY8RbHFMnZ55RfYnDKo85c8eM962bfH1GaVAHf3YH2LsIY1pdxv1h_uQhRexEVLtBFVgejpcgGhiTWNLeV_EVWNhG35Hf5Izj2x4W_qs2DUsKD4J-LF2BOTqfO9zcpF0VLMVVyv5NJzPw8eXn1f",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJmb9DzymHToYR0qJ5bopKnMI",
+            "plus_code":{
+                  "compound_code":"PW4C+H9 Arlington, TX, USA",
+                  "global_code":"8644PW4C+H9"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJmb9DzymHToYR0qJ5bopKnMI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":194,
+            "vicinity":"1905 East Arkansas Lane, Arlington",
+            "CBG":484391219054,
+            "Radius":291.9265418354
+      }
+]

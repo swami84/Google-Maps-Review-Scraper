@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2978802,
+                        "lng":-71.0498928
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2992475303,
+                              "lng":-71.0486672697
+                        },
+                        "southwest":{
+                              "lat":42.2965495697,
+                              "lng":-71.0513652303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chau Chow Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114718236956721953290\">Lawrence Hui<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECaYzorD3UyJmy3dXh3_dPwOo_yyGfp9HLqF552EaX0AtVj7ZQ7SEsj_tHnPlfJx-bMHB7NGo9g5GUdOqcAHuAPS1Vz6pAGNJMfNWZlGV9GgCl7CMs36YmdEHE26PhLrAUsHa6EtRyYU8rfpKQXM2InDnFCF5ZJV73sO8p5qCerKMpj",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJgwN7qKB744kRzSb3bUO5TVE",
+            "plus_code":{
+                  "compound_code":"7XX2+52 Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7XX2+52"
+            },
+            "price_level":2.0,
+            "rating":3.9,
+            "reference":"ChIJgwN7qKB744kRzSb3bUO5TVE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":445.0,
+            "vicinity":"699 Morrissey Boulevard, Dorchester",
+            "CBG":250250921013,
+            "Radius":397.7712619276
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2965607,
+                        "lng":-71.0480545
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2978664303,
+                              "lng":-71.0468275197
+                        },
+                        "southwest":{
+                              "lat":42.2951684697,
+                              "lng":-71.0495254803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Old Colony Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJkR6OZwp744kR2p0qmOb6It4",
+            "plus_code":{
+                  "compound_code":"7XW2+JQ Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7XW2+JQ"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJkR6OZwp744kR2p0qmOb6It4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"730 Morrissey Boulevard, Dorchester",
+            "CBG":250250921013,
+            "Radius":397.7712619276
+      }
+]

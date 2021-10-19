@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7918345,
+                        "lng":-87.6647807
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7931834803,
+                              "lng":-87.6634317197
+                        },
+                        "southwest":{
+                              "lat":41.7904855197,
+                              "lng":-87.6661296803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"56th st harold Grill and waffles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115816704706892046033\">Kairi Lewis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA5ETCQwod2TynDeUnDCy8dHnX5aMw9IABxOXSa0t5exWc8NOSj-AmXJtCsfhfA7dA2SaEloAi2xhFLzvtpwv-boZuSNg0F4VMWHj8cztgl5vUqxikMmXI3aoz4KjjclwKmyhnlbe5GTLjb0EJrZCYTNYOImhsgdAGygfJfOl0XNT-E",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe7Mad1wuDogRFCRGxcupuDs",
+            "plus_code":{
+                  "compound_code":"Q8RP+P3 Chicago, IL, USA",
+                  "global_code":"86HJQ8RP+P3"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJe7Mad1wuDogRFCRGxcupuDs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":238,
+            "vicinity":"5608 South Ashland Avenue #1314, Chicago",
+            "CBG":170316702001,
+            "Radius":322.3996694388
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.800663,
+                        "lng":-73.95274
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8020334803,
+                              "lng":-73.9512927697
+                        },
+                        "southwest":{
+                              "lat":40.7993355197,
+                              "lng":-73.9539907303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Seasoned Vegan",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3240,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107196958147184502550\">Seasoned Vegan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGNh_Edv7-wZ9QsLC-ufPd0lxuyELOssjmBZf_6LMocRZYeI2jOMT88em3XOKEyxuTD4qq1HkmCCgiJzZrN5O27sXW4-VgLxvY5L_NLuB7BPQMTgj7kLm4HpwN_mlF-UmUzx-a4trxAM71u4FL4DXwrugw09DC3EDUy-rgbvFI_oha",
+                        "width":4320
+                  }
+            ],
+            "place_id":"ChIJ75sJpRD2wokRGEATt_gZuz0",
+            "plus_code":{
+                  "compound_code":"R22W+7W New York, NY, USA",
+                  "global_code":"87G8R22W+7W"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ75sJpRD2wokRGEATt_gZuz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1688,
+            "vicinity":"55 Saint Nicholas Avenue, New York",
+            "CBG":360610216003,
+            "Radius":83.7018553851
+      }
+]

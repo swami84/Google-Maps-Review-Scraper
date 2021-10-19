@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3382325,
+                        "lng":-71.0989705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3395119803,
+                              "lng":-71.0974413697
+                        },
+                        "southwest":{
+                              "lat":42.3368140197,
+                              "lng":-71.1001393303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Caf\u00e9 G",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3016,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117301593844866427456\">Lourdes Zendejas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBKvCbDWT8B9hs0jU-fEAsu2oEl1p5MlcT2ydHgowVs_PQ1NIcLyjzM9eFUtN19owx8neR0TjcgVzvMKdD9DwWNS8_u7UwtFxpVnj2hQ7804-EafRqSUodNkmHPAE2QM40NK_NFJ9l8Gt_aqMWWv18sxkNfqlkLhQZ0KdxIHFySt8jv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJawbNlop544kRDMWKyyqAOYM",
+            "plus_code":{
+                  "compound_code":"8WQ2+7C Boston, MA, USA",
+                  "global_code":"87JC8WQ2+7C"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJawbNlop544kRDMWKyyqAOYM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"The Isabella Stewart Gardner Museum, 25 Evans Way, Boston",
+            "CBG":250250103001,
+            "Radius":216.0794546578
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3394615,
+                        "lng":-71.0948709
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3406822803,
+                              "lng":-71.0938661197
+                        },
+                        "southwest":{
+                              "lat":42.3379843197,
+                              "lng":-71.0965640803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Garden Cafeteria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110755732303132915603\">Ryan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDW9O217A5Wywmczv0BqryKj_BRg7cqa8RSr7fC4P7wj0yB4Zubm4nj9jdQlCsDO2BIovYOqN1tR2pjXuovY7h_nJKIYKLr4DbAu9eGKDz_PAtdlQJpQk0fC0zXPlyCM5aVliTtqDWNt_66gYXV2abNcVrxOw4yMZ6nBVTQhDB1Evs5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqcSxKSB644kRRqnWHBNyVqE",
+            "plus_code":{
+                  "compound_code":"8WQ4+Q3 Boston, MA, USA",
+                  "global_code":"87JC8WQ4+Q3"
+            },
+            "price_level":null,
+            "rating":3.7,
+            "reference":"ChIJqcSxKSB644kRRqnWHBNyVqE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"465 Huntington Avenue, Boston",
+            "CBG":250250103001,
+            "Radius":216.0794546578
+      }
+]

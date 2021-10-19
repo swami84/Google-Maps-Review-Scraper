@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.350357,
+                        "lng":-97.691989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3517722303,
+                              "lng":-97.6907883197
+                        },
+                        "southwest":{
+                              "lat":30.3490742697,
+                              "lng":-97.6934862803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fujian Grand China Buffet",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100626852898684851983\">Alejandro Descalzo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBOXyxnkDkjjcoNscIyKPoBZdDPOBpFxnVeqQmMmK3vyFbJKJCcq-VEzsIp9D1bdhckzonkNHQhjbvWeauTWVOCiTSGT2pylVizl0l6jIyxxT6_1CoZNZYLS-xSlmGTMVuKHP0r3qe0I6GaAg9H6il_2U7AQDrh1JSSp2ZE8ZiN4Ojo",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ78te13jJRIYRoQxh_3iswvY",
+            "plus_code":{
+                  "compound_code":"9825+46 Austin, TX, USA",
+                  "global_code":"86249825+46"
+            },
+            "price_level":2.0,
+            "rating":3.6,
+            "reference":"ChIJ78te13jJRIYRoQxh_3iswvY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2187.0,
+            "vicinity":"8709 North Interstate Highway 35, Austin",
+            "CBG":484530018131,
+            "Radius":640.5283874426
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3493344,
+                        "lng":-97.6858763
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3506235303,
+                              "lng":-97.6844078697
+                        },
+                        "southwest":{
+                              "lat":30.3479255697,
+                              "lng":-97.6871058303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Langosta 1308 Juan",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJI-D1oILJRIYRyDv-mQoY6Vo",
+            "plus_code":{
+                  "compound_code":"88X7+PJ Austin, TX, USA",
+                  "global_code":"862488X7+PJ"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJI-D1oILJRIYRyDv-mQoY6Vo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1098 Park Plaza Drive, Austin",
+            "CBG":484530018131,
+            "Radius":640.5283874426
+      }
+]

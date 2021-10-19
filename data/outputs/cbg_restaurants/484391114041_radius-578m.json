@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6667164,
+                        "lng":-97.2092622
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6681253803,
+                              "lng":-97.2075237197
+                        },
+                        "southwest":{
+                              "lat":32.6654274197,
+                              "lng":-97.2102216803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":766,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103849820345319982989\">Subway<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECiFoT6AnMd4CDMo_yzsDnH5mPhFmaGUKTj1vMi_ljKkuCrNDdHH2fxP--OXIGc3FoJ9onViyDM6BtanY0I9X0T2eIPL-R7zVm9jf4H5Qpl3n7JGQO-dOGUa8BKiVyeircddVtk8RMvYH3zv9qrglchGfW7sLv5dGskJo-nZ2nJC-Xt",
+                        "width":766
+                  }
+            ],
+            "place_id":"ChIJL7Js0-lkToYRk3-EKrLipz0",
+            "plus_code":{
+                  "compound_code":"MQ8R+M7 Arlington, TX, USA",
+                  "global_code":"8644MQ8R+M7"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJL7Js0-lkToYRk3-EKrLipz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"4800 US 287 Hwym, Suite 100, Arlington",
+            "CBG":484391114041,
+            "Radius":578.0485044038
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7472957,
+                        "lng":-87.6443618
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7486759303,
+                              "lng":-87.6427981197
+                        },
+                        "southwest":{
+                              "lat":41.7459779697,
+                              "lng":-87.6454960803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Italian Fiesta Pizzeria - S Halsted St",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102965573191776798333\">vernon parker<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAWl6wBISFLlpBzmB7D17HzE_eLiuK7Rqc0Gf8kimGHhH5AIINl9tT2n-5aeUEEk7Tpr1x-pgdY5S0dAxonIIsy22EGQQrr2d20R8eolRBvatwUjYA0UpRWie38rOdNVsyC_25HgE4UuTkeiBs_k6gkjIlbhWwt7Wr65kfmomFIcrLc",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJlcZ2Q28vDogRThtrr9i2MIw",
+            "plus_code":{
+                  "compound_code":"P9W4+W7 Chicago, IL, USA",
+                  "global_code":"86HJP9W4+W7"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJlcZ2Q28vDogRThtrr9i2MIw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1350,
+            "vicinity":"8058 South Halsted Street, Chicago",
+            "CBG":170317108002,
+            "Radius":197.499396867
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.748092,
+                        "lng":-87.644252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7495046803,
+                              "lng":-87.6427526197
+                        },
+                        "southwest":{
+                              "lat":41.7468067197,
+                              "lng":-87.6454505803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Billy's Prime Fish & Hoagie",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100065859645405456281\">Michael Hinds<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEANKE7LZFGhvQ0APZcHmEFASSQeqPuIGLIfgTvQPE7bo8jPh716DLKstS3rdd6I-DKia9lYTMMLwzl8M0C4KMKhcXGCFttrKJnVzfzJptl9NalEhE01Cy8eblQIOkOKJDtUGlow6_xKPfdqU05ohtEwYmQ_aqkJS2n8A9yuk9NwgfzB",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJn_piOW8vDogROETsSPNY6no",
+            "plus_code":{
+                  "compound_code":"P9X4+67 Chicago, IL, USA",
+                  "global_code":"86HJP9X4+67"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJn_piOW8vDogROETsSPNY6no",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":133,
+            "vicinity":"8022 South Halsted Street, Chicago",
+            "CBG":170317108002,
+            "Radius":197.499396867
+      }
+]

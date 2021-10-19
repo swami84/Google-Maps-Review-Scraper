@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6437022,
+                        "lng":-73.9486085
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6450798803,
+                              "lng":-73.9472724197
+                        },
+                        "southwest":{
+                              "lat":40.6423819197,
+                              "lng":-73.9499703803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"DONA BELLA PIZZERIA CORP",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":521,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117203607068569641158\">DONA BELLA PIZZERIA CORP<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBfFSD16j087JUo06dKCTfjPXnIcaPpz2p_C4DrUu1pLHppROqU688JD-69UAacqHSuoK-Lq9A54b0FoqMBOZosGQbLQ3XArsy7DtVIdsUy9Fr4upUdQj2OYSrZZGVirUIbu8UXQ7lMwrVvP0BOGDyPCaFVk8UPH8yCWron3xPy_Q2o",
+                        "width":599
+                  }
+            ],
+            "place_id":"ChIJBYF6NIBbwokR_6NRjg_BPiw",
+            "plus_code":{
+                  "compound_code":"J3V2+FH New York, NY, USA",
+                  "global_code":"87G8J3V2+FH"
+            },
+            "rating":5.0,
+            "reference":"ChIJBYF6NIBbwokR_6NRjg_BPiw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"1727 Nostrand Avenue, Brooklyn",
+            "CBG":360470826002,
+            "Radius":128.1679300616
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6436978,
+                        "lng":-73.9486751
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6450718303,
+                              "lng":-73.9473309697
+                        },
+                        "southwest":{
+                              "lat":40.6423738697,
+                              "lng":-73.9500289303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Football Restaurant & Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJN2v0JkVbwokRBHrc_xzFmZQ",
+            "plus_code":{
+                  "compound_code":"J3V2+FG New York, NY, USA",
+                  "global_code":"87G8J3V2+FG"
+            },
+            "rating":3.3,
+            "reference":"ChIJN2v0JkVbwokRBHrc_xzFmZQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"1727 Nostrand Avenue, Brooklyn",
+            "CBG":360470826002,
+            "Radius":128.1679300616
+      }
+]

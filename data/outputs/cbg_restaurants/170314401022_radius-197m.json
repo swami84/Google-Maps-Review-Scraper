@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.738293,
+                        "lng":-87.6045432
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7396393803,
+                              "lng":-87.6033280697
+                        },
+                        "southwest":{
+                              "lat":41.7369414197,
+                              "lng":-87.6060260303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"L A Submarine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112036467354956893034\">Crim Della Crim<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjpx6CrXXuZ-AIA1adERiDGMCyBG5Gy8j91aOzfcWTO80TDzKTgWJKXtS3DFDkTXhvDDvQMltcm5XjqOyikB5GITnN5vuWwoZ_Gqavuc6l1__ptTOP5ALybhH686IgjskFnDk6W_bgrS_JLTpVu43ufH9mMKFLTbO82DXF_FNKChQy",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJCwYQ2KYoDogREipEJyDf910",
+            "plus_code":{
+                  "compound_code":"P9QW+85 Chicago, IL, USA",
+                  "global_code":"86HJP9QW+85"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJCwYQ2KYoDogREipEJyDf910",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":206,
+            "vicinity":"8603 South Cottage Grove Avenue, Chicago",
+            "CBG":170314401022,
+            "Radius":197.3559033906
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7373638,
+                        "lng":-87.6045567
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7387108303,
+                              "lng":-87.6033198197
+                        },
+                        "southwest":{
+                              "lat":41.7360128697,
+                              "lng":-87.6060177803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sizzlin Restaurants - Sizzlin Skillets",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4992,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115028231082882160337\">Cameron Johnson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED2oM0KgbFLj2BR3-nNMK1EFwKgyBYwQooaLOq00vcsRc6RgGdiN7gnn3zMV_ofZgt1UFd8upP-d01vYKqWPj0V_98eLqoHryCfxi4gXEN8rDQf8qcTsMQV5P768zxaoXUDMI0aE95g5sD9Gt-uS_a2odx-M-aunAIsCJQaseiBXpwA",
+                        "width":12096
+                  }
+            ],
+            "place_id":"ChIJw0dzOqcoDogREYpPo2Glcdw",
+            "plus_code":{
+                  "compound_code":"P9PW+W5 Chicago, IL, USA",
+                  "global_code":"86HJP9PW+W5"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJw0dzOqcoDogREYpPo2Glcdw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":327,
+            "vicinity":"8635 South Cottage Grove Avenue, Chicago",
+            "CBG":170314401022,
+            "Radius":197.3559033906
+      }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6551273,
+                        "lng":-73.9074155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6564084303,
+                              "lng":-73.9060376197
+                        },
+                        "southwest":{
+                              "lat":40.6537104697,
+                              "lng":-73.9087355803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":690,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102947650712664426044\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECBLGvvNlFBxSpxnAMK6Z3ikOPE8V2ssMRUfR81DGUIw6tPodRBt4qM3VtwVu_hQq65Cg2_0hh3a-MHhwHd8sSVx4myYTX5opLy9uAxoBDjHwD8RoDyA-JU1VHWmkl6Szxq111-UxM3U6J9Ue2JUSDo5S_7n9383uMPbyCd7zDKYqQs",
+                        "width":1227
+                  }
+            ],
+            "place_id":"ChIJFyRE--1cwokRdvMMp_1JDSQ",
+            "plus_code":{
+                  "compound_code":"M34V+32 New York, NY, USA",
+                  "global_code":"87G8M34V+32"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJFyRE--1cwokRdvMMp_1JDSQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":598,
+            "vicinity":"1427 Linden Boulevard, Brooklyn",
+            "CBG":360470922002,
+            "Radius":158.1422496921
+      }
+]

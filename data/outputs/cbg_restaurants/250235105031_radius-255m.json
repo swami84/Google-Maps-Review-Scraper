@@ -1,0 +1,64 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0999777,
+                        "lng":-71.0633243
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.1014100803,
+                              "lng":-71.0620455197
+                        },
+                        "southwest":{
+                              "lat":42.0987121197,
+                              "lng":-71.0647434803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"7-Eleven",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104161268918006105235\">magen Primo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhBr4e8xE8v6tWp5q0xcC54IYY1rHq3OOKyQGbuvKUBV-aIooctTxeuwJgpHnTUe3ubLrm0AbvyLBa22GOEVtg0dVvzrJlTX5OAFwmp7DPr0_rwe4OFhWKL3EbhytAH2jAL6iINpL2Crk-HxkRAy5vAxsZPaBZT8ohVlTTZjiSwTse",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJuYCypUSE5IkR54atSw1TUN8",
+            "plus_code":{
+                  "compound_code":"3WXP+XM Brockton, MA, USA",
+                  "global_code":"87JC3WXP+XM"
+            },
+            "price_level":1,
+            "rating":2.3,
+            "reference":"ChIJuYCypUSE5IkR54atSw1TUN8",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"65 Oak Street Extension, Brockton",
+            "CBG":250235105031,
+            "Radius":255.1515813624
+      }
+]

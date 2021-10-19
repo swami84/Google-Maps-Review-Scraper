@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0085907,
+                        "lng":-87.9006752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0100323803,
+                              "lng":-87.8993492197
+                        },
+                        "southwest":{
+                              "lat":42.0073344197,
+                              "lng":-87.9020471803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Speedy Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1068,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116237651132311877890\">Speedy Caf\u00e9<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB2IcngOqexBpV20S5IHsbQObLk4M96KuA02aPLGyVb5Tt9TVauvvrjpA9hMxIN074xUrCotL_h3jQgLhiEcY3hK_TEU4lrptxVrF1xSlzWX_TP2I2G16fhTpvNV6fn2d5RYP6S6X_0s170gj3zqSwgN2DXZ8Q_6Fwv-3fzEI2FaINe",
+                        "width":1900
+                  }
+            ],
+            "place_id":"ChIJtX8IlPC2D4gRtZHsXofFEuk",
+            "plus_code":{
+                  "compound_code":"235X+CP Des Plaines, IL, USA",
+                  "global_code":"86JJ235X+CP"
+            },
+            "price_level":1.0,
+            "rating":4.7,
+            "reference":"ChIJtX8IlPC2D4gRtZHsXofFEuk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "convenience_store",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"885 East Touhy Avenue, Des Plaines",
+            "CBG":170317706023,
+            "Radius":512.3863444269
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0065986,
+                        "lng":-87.9003139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0080458803,
+                              "lng":-87.8989054197
+                        },
+                        "southwest":{
+                              "lat":42.0053479197,
+                              "lng":-87.9016033803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"aiport logistic group",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJHZMIWz-3D4gRvh5EaLk3fqA",
+            "plus_code":{
+                  "compound_code":"234X+JV Des Plaines, IL, USA",
+                  "global_code":"86JJ234X+JV"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJHZMIWz-3D4gRvh5EaLk3fqA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"893 Upper Express Drive, Des Plaines",
+            "CBG":170317706023,
+            "Radius":512.3863444269
+      }
+]

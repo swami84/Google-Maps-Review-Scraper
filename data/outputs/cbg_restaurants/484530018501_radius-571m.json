@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.4145784,
+                        "lng":-97.7053103
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.4160445303,
+                              "lng":-97.7040074697
+                        },
+                        "southwest":{
+                              "lat":30.4133465697,
+                              "lng":-97.7067054303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"P. Terry's Burger Stand",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113704750038788401131\">P. Terry&#39;s Burger Stand<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDjO3A39vNWfc4NHc092nvThQigFkKvMMVZZ8f507dZhwcr76BF84VNyJsiHwdD1lbYwZjiClbTdWNTMfmNmGCSM8kSu8Cn0WgDs3hjfNvjtvc3yrUEC56uNm9bZBOa5z83HPhwRjihzXKm0ZDBLi9rs1gmINz6XSzsNApSMIIJiMhe",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJd7F-zRnMRIYRCGKmGTOauDQ",
+            "plus_code":{
+                  "compound_code":"C77V+RV Austin, TX, USA",
+                  "global_code":"8624C77V+RV"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJd7F-zRnMRIYRCGKmGTOauDQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_takeaway",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3042,
+            "vicinity":"12301 North Mopac Expressway, Austin",
+            "CBG":484530018501,
+            "Radius":571.2892457952
+      }
+]

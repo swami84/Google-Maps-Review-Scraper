@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.718568,
+                        "lng":-87.5379081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7199163803,
+                              "lng":-87.5364564697
+                        },
+                        "southwest":{
+                              "lat":41.7172184197,
+                              "lng":-87.5391544303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D.A.W.G.S.",
+            "place_id":"ChIJcZrJOwrYEYgR2tzUINNnEHs",
+            "plus_code":{
+                  "compound_code":"PF96+CR Chicago, IL, USA",
+                  "global_code":"86HJPF96+CR"
+            },
+            "rating":1,
+            "reference":"ChIJcZrJOwrYEYgR2tzUINNnEHs",
+            "scope":"GOOGLE",
+            "types":[
+                  "point_of_interest",
+                  "restaurant",
+                  "food",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"9730 South Avenue M, Chicago",
+            "CBG":170315202003,
+            "Radius":406.4154849656
+      }
+]

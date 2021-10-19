@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8457403,
+                        "lng":-73.8834777
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8470204803,
+                              "lng":-73.8821995697
+                        },
+                        "southwest":{
+                              "lat":40.8443225197,
+                              "lng":-73.8848975303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"EL Nuevo Valle #2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107520416555168297995\">Erickson Reyes07<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDv9JmCTxI53852725OMxU9frF2yVkX6PzM-z1rFSGU97dbTDlpDHcnrodZAxEpC2-gBk9TA_R2YPzQYysru1hFML3Y4aiPUUVI4JaYwryEjFOMBhVN9P_DriNYOxo1R5SSkeeVrkH0s2kAMFSHPqbhwWY7v9VvKokCGb0ZeY-tFrY6",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJsfiQSYn0wokRhYz75EcgkGc",
+            "plus_code":{
+                  "compound_code":"R4W8+7J New York, NY, USA",
+                  "global_code":"87G8R4W8+7J"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJsfiQSYn0wokRhYz75EcgkGc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":492,
+            "vicinity":"855 East 180th Street, Bronx",
+            "CBG":360050363006,
+            "Radius":124.7637369357
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8458255,
+                        "lng":-73.8837733
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8471836803,
+                              "lng":-73.8825335197
+                        },
+                        "southwest":{
+                              "lat":40.8444857197,
+                              "lng":-73.8852314803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Texas Chicken and Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":426,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117799780631568949416\">Texas Chicken and Burgers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7U8Gq_67qBYcOcYch_hnh3Ip1P8Fwd7ohhcTzPlYGb33gHqsuTmdFAn11yApRlfHuZ6lvfD8sdKPeOMN5dSj3chRF1HLk4pgsmILxnIX_OtN4oBqTQ2_S1eJCcqDoajaACdf4IupqZJHXxqgfg7IIKG1kgo-UupDiqPR2eqe6lc_j",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJL328N4n0wokRIH2f4mvI7Po",
+            "plus_code":{
+                  "compound_code":"R4W8+8F Bronx, NY, USA",
+                  "global_code":"87G8R4W8+8F"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJL328N4n0wokRIH2f4mvI7Po",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":289,
+            "vicinity":"2104 Crotona Parkway, Bronx",
+            "CBG":360050363006,
+            "Radius":124.7637369357
+      }
+]

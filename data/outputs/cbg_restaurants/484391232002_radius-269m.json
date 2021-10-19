@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7571203,
+                        "lng":-97.337848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7582623303,
+                              "lng":-97.3364133697
+                        },
+                        "southwest":{
+                              "lat":32.7555643697,
+                              "lng":-97.3391113303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Riverfront Cafe And Coffee shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107204710626810538079\">Hannah Becerra<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBMzgeYiGdbmpBKCyOjLOQNGL1rBMFv1G2EsqMBsR_ML2rp3OIBZnpuEs6zy9bRgOIb3ebZlpSW3vBmco9Favoiqn9ap_s6MUbYZDC1c1QcI_TMUcy1bvOsSpBu6EJL8pgAeB-oV8Yz-yEqmufBwvs_sCJ6wVQJUZfyFDfPg7HFDvZg",
+                        "width":1944
+                  }
+            ],
+            "place_id":"ChIJBzwjeURxToYR99hjC02jgtc",
+            "plus_code":{
+                  "compound_code":"QM46+RV Fort Worth, TX, USA",
+                  "global_code":"8644QM46+RV"
+            },
+            "rating":3.9,
+            "reference":"ChIJBzwjeURxToYR99hjC02jgtc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"TCC TRTR - Trinity Level 4, 300 Trinity Campus Circle, Fort Worth",
+            "CBG":484391232002,
+            "Radius":268.9232006188
+      }
+]

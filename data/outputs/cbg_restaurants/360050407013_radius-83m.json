@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8710981,
+                        "lng":-73.8902928
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8723453803,
+                              "lng":-73.8888273697
+                        },
+                        "southwest":{
+                              "lat":40.8696474197,
+                              "lng":-73.8915253303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Cocoro\u2019s Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1071,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117851395903500041359\">Cocoro\u2019s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAlAsWhjJh1b9NALgojxDOF-u4nXTIKN4LWiwYHgmt5lkbSois6ywj4rwBGmq3PDZzKH1jsZayfTZbV4Litcl2AQGEgZJXx0DuC2o4xzPXAVCRB0WwvOZgPeSbW0kd6xoRr63Yf9v5d0x9VsNmamaXdbERaWy4I5EC22oezYyrLBCyo",
+                        "width":1125
+                  }
+            ],
+            "place_id":"ChIJl_xVar_zwokRe6_2Dl2aIPc",
+            "plus_code":{
+                  "compound_code":"V4C5+CV New York, NY, USA",
+                  "global_code":"87G8V4C5+CV"
+            },
+            "reference":"ChIJl_xVar_zwokRe6_2Dl2aIPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2877 Grand Concourse, Bronx",
+            "CBG":360050407013,
+            "Radius":83.4809957302
+      }
+]

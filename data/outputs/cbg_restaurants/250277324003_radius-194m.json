@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2519238,
+                        "lng":-71.7928398
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2532752803,
+                              "lng":-71.7913825197
+                        },
+                        "southwest":{
+                              "lat":42.2505773197,
+                              "lng":-71.7940804803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Worcester's Best Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118391948673942002002\">Evan Mellichampe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC26fQ3R8WOkM0JMQ9tmTGx_VF9_51WRIzCZrWVJUgIMAyy6uHTjdwQrS4Nhu0s2IGxvfJ7eAhCcADhiMNv6UUlHMFRToIYBKg5Li3_qNOkzTM7cDBiM2ySc1OAgxGJcA7s_hSwAVYIzfAe2TrdoL4WMeh4AhlWKDyFa9jp2ed4IYW_",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJyYnIyRcH5IkR1Eij7jneeuI",
+            "plus_code":{
+                  "compound_code":"7624+QV Worcester, MA, USA",
+                  "global_code":"87JC7624+QV"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJyYnIyRcH5IkR1Eij7jneeuI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"90 Providence Street, Worcester",
+            "CBG":250277324003,
+            "Radius":193.543343249
+      }
+]

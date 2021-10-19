@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8300816,
+                        "lng":-80.2246592
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8314305803,
+                              "lng":-80.2233102197
+                        },
+                        "southwest":{
+                              "lat":25.8287326197,
+                              "lng":-80.2260081803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"MLK(My Little Kitchen) Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106327008227711377606\">Anthony Maben Jr.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBOind3dQCkVPyAwOpnjZ2w92X4CSotf9vcak9EwZMQr9wUmMmG5l_Kn5HTyzcyjI863Xwycoq5ewtnH3NyDLvxlhb4c9pLwCTjW8lKi4PtM6CyqPkwdk4jI9jPMf1vnnp_Nb0v_-_y4_VrSj4NkihY5syvmSU98NVMfNf415tW68gG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJX8n0Q-ew2YgRjBQMgSM7q8o",
+            "plus_code":{
+                  "compound_code":"RQJG+24 Miami, FL, USA",
+                  "global_code":"76QXRQJG+24"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJX8n0Q-ew2YgRjBQMgSM7q8o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":800,
+            "vicinity":"5931 Northwest 17th Avenue, Miami",
+            "CBG":120860019032,
+            "Radius":231.1972915875
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8304386,
+                        "lng":-80.2246924
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8317852303,
+                              "lng":-80.2234214197
+                        },
+                        "southwest":{
+                              "lat":25.8290872697,
+                              "lng":-80.2261193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"3 D's Cafe",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJPRMDdiKx2YgRuFOQXB7NSmI",
+            "plus_code":{
+                  "compound_code":"RQJG+54 Miami, FL, USA",
+                  "global_code":"76QXRQJG+54"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJPRMDdiKx2YgRuFOQXB7NSmI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"5931 Northwest 17th Avenue, Miami",
+            "CBG":120860019032,
+            "Radius":231.1972915875
+      }
+]

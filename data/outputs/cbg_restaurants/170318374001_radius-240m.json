@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8814358,
+                        "lng":-87.6959177
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8826110803,
+                              "lng":-87.6945691197
+                        },
+                        "southwest":{
+                              "lat":41.8799131197,
+                              "lng":-87.6972670803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"NYFC Restaurant & Fresh Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110926043692898603150\">NYFC Restaurant &amp; Fresh Market<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEASgZonP5zAw4GTRsi4PiEll4b7b1SZ3LqorHVdoi-LUxm1V5l_gFOZXGXWA2ryXKNddLEWnIDHo9wtN9QXlk_EjPNNXJ_Cw7_7BMj-oirmf97RXdhzMah36Ja53uSkcoVCsOCehKkxjb7n7ZPmuiS7d0HY_CJQq9Vd6bvgwK3kBhcs",
+                        "width":6960
+                  }
+            ],
+            "place_id":"ChIJDx4zkUEtDogRHiuMY-S53Dk",
+            "plus_code":{
+                  "compound_code":"V8J3+HJ Chicago, IL, USA",
+                  "global_code":"86HJV8J3+HJ"
+            },
+            "rating":3.6,
+            "reference":"ChIJDx4zkUEtDogRHiuMY-S53Dk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "grocery_or_supermarket",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"2748 West Madison Street, Chicago",
+            "CBG":170318374001,
+            "Radius":240.4546617269
+      }
+]

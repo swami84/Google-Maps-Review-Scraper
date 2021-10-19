@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.012072,
+                        "lng":-82.3929101
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0132410303,
+                              "lng":-82.3916748197
+                        },
+                        "southwest":{
+                              "lat":28.0105430697,
+                              "lng":-82.3943727803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wendy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115978922515339305766\">Jennifer Farnsworth<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALkIAspMkkX5-n709UXiqu14UMwQRghJjXRhzWj4EkXSAhRSt81A7SKynT3zVY7PpvdWRUc8KdZ0gCEr50GJK6v3UeldHNe3ZuMHz_x-p-tPWdOWQ-Xs-td0hkyQThFClt5oXNb7fPd0RV3HRkf66STs6JHQIj-QuLeZtVD2TrICvn",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkXcTc5LHwogRQglop7iQ5YQ",
+            "plus_code":{
+                  "compound_code":"2J64+RR Tampa, FL, USA",
+                  "global_code":"76WV2J64+RR"
+            },
+            "price_level":1,
+            "rating":3.1,
+            "reference":"ChIJkXcTc5LHwogRQglop7iQ5YQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":304,
+            "vicinity":"6917 North 56th Street, Tampa",
+            "CBG":120570104022,
+            "Radius":179.4708259939
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7789515,
+                        "lng":-87.7215951
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7801594303,
+                              "lng":-87.7201434697
+                        },
+                        "southwest":{
+                              "lat":41.7774614697,
+                              "lng":-87.7228414303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Indio Cocina Mexicana",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1529,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106851837842717214011\">El Indio Cocina Mexicana<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-4-wr0YplKkXmjdoY-y8OWSzs8JF2xWdr-aFwJ_pSfowlFlTJ7r0DT9SpGCg0RER_QEfr86j2vk6S62NAewRuPKv0Vz9AU-2cTjKnu_LyQrLNt5tjw39ax6FI88Cw6l4AeTHoh2F8VQRIpwvPvqaUvp1rC0pAQzsvx3g8x-5GAiGC",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJTdk5o7QxDogRa4Cv-2tdrM8",
+            "plus_code":{
+                  "compound_code":"Q7HH+H9 Chicago, IL, USA",
+                  "global_code":"86HJQ7HH+H9"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJTdk5o7QxDogRa4Cv-2tdrM8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":937,
+            "vicinity":"3930 West 63rd Street, Chicago",
+            "CBG":170316501003,
+            "Radius":229.1207171977
+      }
+]

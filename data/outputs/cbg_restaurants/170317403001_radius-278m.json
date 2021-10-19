@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6914916,
+                        "lng":-87.7163951
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6927566803,
+                              "lng":-87.7150441197
+                        },
+                        "southwest":{
+                              "lat":41.6900587197,
+                              "lng":-87.7177420803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wise Guy's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106549385459257713791\">Shark Killer sharks<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA9fa3faizFbmIOkINSMM408MC5LKu3lDbv5xZZRPzKCKSmmMhmUSAZ3CjIqzt5NiGpDRp5UuRo3k7hOsXTuUGLSTtLy4rU5GUUnJBL7v4iY0rBMfoqfSj8YKzu4OzvZ8iHv2wu53hvMyR0_ZjnSB4YK5Pk97vyanGKG1r5DDdtljhI",
+                        "width":1944
+                  }
+            ],
+            "place_id":"ChIJ3wnqbiI7DogROMFXtvJa86E",
+            "plus_code":{
+                  "compound_code":"M7RM+HC Chicago, IL, USA",
+                  "global_code":"86HJM7RM+HC"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ3wnqbiI7DogROMFXtvJa86E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":124,
+            "vicinity":"3822 West 111th Street, Chicago",
+            "CBG":170317403001,
+            "Radius":278.4788577087
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.69144,
+                        "lng":-87.7183402
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6927192303,
+                              "lng":-87.7169902197
+                        },
+                        "southwest":{
+                              "lat":41.6900212697,
+                              "lng":-87.7196881803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Firewater Saloon - Mt. Greenwood",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":565,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115103313892897714003\">Firewater Saloon - Mt. Greenwood<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJtTbLi-RG27LTss60T7XppHIgxeB9irdBl9JCtbzeKEzJCa_-crrV1OsI_I6Ig-cTy5GERhUjrKn_OwE4G8yB39zcZVGktoXruNylL99srWaJBASfsXxFaYrXH801xY-TuCOb7nQ1LU4u6-1V8VvuXuO747ZaS4I--I200H-vqDwD",
+                        "width":1006
+                  }
+            ],
+            "place_id":"ChIJVfsb7Rg7DogRoZ5xFCSrzg4",
+            "plus_code":{
+                  "compound_code":"M7RJ+HM Chicago, IL, USA",
+                  "global_code":"86HJM7RJ+HM"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJVfsb7Rg7DogRoZ5xFCSrzg4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":453,
+            "vicinity":"3908 West 111th Street, Chicago",
+            "CBG":170317403001,
+            "Radius":278.4788577087
+      }
+]

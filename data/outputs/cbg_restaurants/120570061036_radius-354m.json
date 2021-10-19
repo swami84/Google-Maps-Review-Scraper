@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9125577,
+                        "lng":-82.4938545
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9138702803,
+                              "lng":-82.4924227697
+                        },
+                        "southwest":{
+                              "lat":27.9111723197,
+                              "lng":-82.4951207303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Coco N'Ice",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2859,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100117605204761088522\">Coco N&#39;Ice<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAfyZ36vFYw5IAh9fFaQtOytimqiKtT3bn6wPiFdUTiccf47O-tl9VP-CJe9elDYcbjEuWIutTyDzUWjKKqI5EOpQUpyJfsZKzYDknFNrelI3N4uDHSat3ATX8sbg3wgW8031SnYL2rvivb8770eKFGdkmGi5veHMRzM1SyDIeI1mOQ",
+                        "width":4028
+                  }
+            ],
+            "place_id":"ChIJSfRqYYnDwogRMCwa59QmIu8",
+            "plus_code":{
+                  "compound_code":"WG74+2F Tampa, FL, USA",
+                  "global_code":"76VVWG74+2F"
+            },
+            "rating":5,
+            "reference":"ChIJSfRqYYnDwogRMCwa59QmIu8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"3407 South MacDill Avenue, Tampa",
+            "CBG":120570061036,
+            "Radius":354.1331323638
+      }
+]

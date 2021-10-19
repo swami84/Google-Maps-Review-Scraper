@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2433705,
+                        "lng":-97.7642297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2448496803,
+                              "lng":-97.7627611197
+                        },
+                        "southwest":{
+                              "lat":30.2421517197,
+                              "lng":-97.7654590803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria la Guera #2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105024032997456165629\">Taqueria la Guera #2<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDEuuTwC27XZXN7AFoxxBSejwtWe--PTJamSiUagls7VCBB7tIczZECq6kWGLU6i3-XPo_5AClfFkzuh6oq3Kgr3OOs7mwb-0FmF8ir2fPJQg8EWGDhg1Iue7l3SexdCmZ1OB4LatjWqzDZ2eXvdrqEwbCAEUEnFKkJuxDT1AJ9nhk4",
+                        "width":622
+                  }
+            ],
+            "place_id":"ChIJxx30KGa1RIYRDDo1c7lYHrk",
+            "plus_code":{
+                  "compound_code":"66VP+88 Austin, TX, USA",
+                  "global_code":"862466VP+88"
+            },
+            "rating":4.0,
+            "reference":"ChIJxx30KGa1RIYRDDo1c7lYHrk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":22.0,
+            "vicinity":"915 West Oltorf Street, Austin",
+            "CBG":484530013072,
+            "Radius":381.3867335399
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2433705,
+                        "lng":-97.7642297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2448496803,
+                              "lng":-97.7627611197
+                        },
+                        "southwest":{
+                              "lat":30.2421517197,
+                              "lng":-97.7654590803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/convenience_pinlet",
+            "name":"Taqueria Mi Tierra",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113918754757436292690\">Ghani Jaini<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdC5n0u_bqQMBQsw-pZf6nP7mz9ucfnkKkvr3sG37yBeRvLnVHNgKR4FFrG3GgIut7pKLRjvifkt1e3-mxkh_Ua6C7DYdIUxy6Y9oUA2m6PhdO5W5Z1vSnI-gjGoyyYQXK4r3jrA2ftdoOVDfdH4JtIXWxYawb-k6MbsbIteK9L8wM",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJif98m920RIYRflLX_KqvoRo",
+            "plus_code":{
+                  "compound_code":"66VP+88 Austin, TX, USA",
+                  "global_code":"862466VP+88"
+            },
+            "rating":null,
+            "reference":"ChIJif98m920RIYRflLX_KqvoRo",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"915 West Oltorf Street, Austin",
+            "CBG":484530013072,
+            "Radius":381.3867335399
+      }
+]

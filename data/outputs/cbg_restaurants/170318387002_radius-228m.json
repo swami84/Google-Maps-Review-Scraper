@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8600629,
+                        "lng":-87.7247452
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8614118803,
+                              "lng":-87.7233962197
+                        },
+                        "southwest":{
+                              "lat":41.8587139197,
+                              "lng":-87.7260941803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fresh Off The Grill Chicken,Fish & More.",
+            "place_id":"ChIJ48DpAPcyDogR6SzQRwfAH1U",
+            "plus_code":{
+                  "compound_code":"V76G+24 Chicago, IL, USA",
+                  "global_code":"86HJV76G+24"
+            },
+            "reference":"ChIJ48DpAPcyDogR6SzQRwfAH1U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1521 South Pulaski Road, Chicago",
+            "CBG":170318387002,
+            "Radius":228.3462812175
+      }
+]

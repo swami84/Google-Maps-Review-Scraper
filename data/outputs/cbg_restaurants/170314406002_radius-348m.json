@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7335522,
+                        "lng":-87.6238873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7348988803,
+                              "lng":-87.6226258697
+                        },
+                        "southwest":{
+                              "lat":41.7322009197,
+                              "lng":-87.6253238303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Tuni",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111645581605870175212\">Liella E<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED1NiE8mn3MuQNqb73j2QV2LZtfVm3ycCh4fq63KKsIuBnz_B4Ze-a00FJnnIGI8SZN8kTVkAylKIYoEeyWmtYhrwc40BOylk35ADZ9ew3T-51QlqwsnvPPX4My42VcOx4BWeE0sL8P1NfZJ0LfnxGG1BXTpthsJlOCP7AERUJstZfD",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJaRd8wdklDogRw67MJy8PEf0",
+            "plus_code":{
+                  "compound_code":"P9MG+CC Chicago, IL, USA",
+                  "global_code":"86HJP9MG+CC"
+            },
+            "reference":"ChIJaRd8wdklDogRw67MJy8PEf0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8831 South State Street, Chicago",
+            "CBG":170314406002,
+            "Radius":347.7651046554
+      }
+]

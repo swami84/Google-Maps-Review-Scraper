@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3916107,
+                        "lng":-71.0911002
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3928793803,
+                              "lng":-71.0897370697
+                        },
+                        "southwest":{
+                              "lat":42.3901814197,
+                              "lng":-71.0924350303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"New Dragon Star Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101376174796864926439\">Christopher wigfall<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED2Q6azKeAFQ_PTeZz3TZPV5EdoJBhfg0AnYtmzbJ2fA7x_EmhsawqsNudIJy_UOGHIknuqXH75LuVha1seo5a3rMdzQR5vaSHMmFkigC7j0pjUuG-xsCMORNbLX6kJqZNKutI_oi5MbWuEiawkpG3m_bUxk1_oAtygv-VtHFkWLIZT",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ7TfartZw44kRxhL5oihZ5lQ",
+            "plus_code":{
+                  "compound_code":"9WR5+JH Somerville, MA, USA",
+                  "global_code":"87JC9WR5+JH"
+            },
+            "rating":3.9,
+            "reference":"ChIJ7TfartZw44kRxhL5oihZ5lQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":96,
+            "vicinity":"273 Broadway, Somerville",
+            "CBG":250173502005,
+            "Radius":166.1583822085
+      }
+]

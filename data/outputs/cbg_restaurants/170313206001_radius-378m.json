@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8675615,
+                        "lng":-87.6158981
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8684553303,
+                              "lng":-87.61343495
+                        },
+                        "southwest":{
+                              "lat":41.8657573697,
+                              "lng":-87.61671915
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kim and Carlo's Hotdog Cart",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2368,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106739300829868961844\">Daniel Langstaff<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC8bBbMd9bmrKuATWJJu_phDa5fBhqAJXEMoDvvgyhzktVYOwI-Was0o0sCmQyU0o_EXzVs1bzapTdo9sHF9QImcqAiYOKhWFcgFH62V8sxwMQAfGvl-JaOD5kwSA3u2kai7tZfhWHThJQAbpMdghLkPBL0bfvwV3gs4ceuHOOEYiMD",
+                        "width":4208
+                  }
+            ],
+            "place_id":"ChIJMdWiMmMrDogRfXJUZul_75E",
+            "plus_code":{
+                  "compound_code":"V99M+2J Chicago, IL, USA",
+                  "global_code":"86HJV99M+2J"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJMdWiMmMrDogRfXJUZul_75E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":107,
+            "vicinity":"499 East McFetridge Drive, Chicago",
+            "CBG":170313206001,
+            "Radius":378.4164682293
+      }
+]

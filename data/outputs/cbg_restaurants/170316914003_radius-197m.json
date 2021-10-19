@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.751383,
+                        "lng":-87.61042
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7526415303,
+                              "lng":-87.6090181197
+                        },
+                        "southwest":{
+                              "lat":41.7499435697,
+                              "lng":-87.6117160803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hollywood Foods & Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJhRdlSLcoDogRgNymiAasBgg",
+            "plus_code":{
+                  "compound_code":"Q92Q+HR Chicago, IL, USA",
+                  "global_code":"86HJQ92Q+HR"
+            },
+            "rating":3.5,
+            "reference":"ChIJhRdlSLcoDogRgNymiAasBgg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"7854 South Saint Lawrence Avenue, Chicago",
+            "CBG":170316914003,
+            "Radius":197.3486453314
+      }
+]

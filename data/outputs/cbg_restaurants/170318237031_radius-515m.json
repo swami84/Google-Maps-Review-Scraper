@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7241112,
+                        "lng":-87.7981195
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7253574303,
+                              "lng":-87.7967817697
+                        },
+                        "southwest":{
+                              "lat":41.7226594697,
+                              "lng":-87.7994797303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Culver's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105920924600221577444\">Sean Paulausky<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-k8w3kDe0Bb9v4uOhXEOgsRZaJF7q1SuzsFV5aqRE_7Q9yCMoSlb2fnVX5csNXMG_HmoU94Gf4Xpo-wN8LTPZfRmmLao5YwbWCckhcv3tXtmE4VNInpa_dWjLZVdiLyO7lZnQqUN7RIIajk_57O9ywCEu3lbcXm-2Mnyz7ADLrlaD",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ8wyrhME5DogR2jWKcVys__Q",
+            "plus_code":{
+                  "compound_code":"P6F2+JQ Bridgeview, IL, USA",
+                  "global_code":"86HJP6F2+JQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ8wyrhME5DogR2jWKcVys__Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1267,
+            "vicinity":"9229 South Harlem Avenue, Bridgeview",
+            "CBG":170318237031,
+            "Radius":514.7069752616
+      }
+]

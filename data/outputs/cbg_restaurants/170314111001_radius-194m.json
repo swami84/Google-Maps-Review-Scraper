@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.791735,
+                        "lng":-87.589628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7929670803,
+                              "lng":-87.5883084697
+                        },
+                        "southwest":{
+                              "lat":41.7902691197,
+                              "lng":-87.5910064303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"B'Gabs - Vegan Scratch Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102603220340101898843\">Arlene Yetnikoff<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECJtjB7ivyDDg3CsfGp7Ne21w0I3PkX8VEiisL6HXaZmjr3ZWaW0SZDurs5qjYHDIpPySjKQ-NlYc-4rcdO3jAGcuJQWXgIL71t40bBSkpoJYK3U9ejaXyjvnoIlz7lYEd2BB40lfGdtgS5qXDtaP2QpiBxnZnIsWV2TL0EyNl6m5mf",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJET0dbRIpDogRXACcBlszDyg",
+            "plus_code":{
+                  "compound_code":"QCR6+M4 Chicago, IL, USA",
+                  "global_code":"86HJQCR6+M4"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJET0dbRIpDogRXACcBlszDyg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":236,
+            "vicinity":"1450 East 57th Street, Chicago",
+            "CBG":170314111001,
+            "Radius":194.0188834627
+      }
+]

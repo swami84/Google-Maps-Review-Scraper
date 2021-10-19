@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9694819,
+                        "lng":-82.4509186
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9708801303,
+                              "lng":-82.4495746697
+                        },
+                        "southwest":{
+                              "lat":27.9681821697,
+                              "lng":-82.4522726303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nebraska Cafeteria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115519623268411475852\">Roni Banegas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEApQ2SsSjOm-o-1K5tQ893PG2trZZYAFCpjfVXAh5fOegOAcsGRZIeutvFPJmh1ompAsgW0cEd96gqEwMP-zRJCUEOkG38nIjTFg9JvAwgfAwgHQ6_F4JKQkD-vJUyNAxkdxhv_mfAnhsjkl0aQ0MvN5ep4zW-sgG4ulh7qRewtEyif",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJTdpL1UPEwogRo4TfL38WQsI",
+            "plus_code":{
+                  "compound_code":"XG9X+QJ Tampa, FL, USA",
+                  "global_code":"76VVXG9X+QJ"
+            },
+            "rating":4.3,
+            "reference":"ChIJTdpL1UPEwogRo4TfL38WQsI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"905 East 20th Avenue, Tampa",
+            "CBG":120570032002,
+            "Radius":283.6072786795
+      }
+]

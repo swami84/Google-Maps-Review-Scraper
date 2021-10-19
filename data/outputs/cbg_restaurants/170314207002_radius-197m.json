@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7734189,
+                        "lng":-87.6084139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7747693303,
+                              "lng":-87.6069584197
+                        },
+                        "southwest":{
+                              "lat":41.7720713697,
+                              "lng":-87.6096563803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wingz avenue",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJxVRWEhwpDogROmwjW186hWA",
+            "plus_code":{
+                  "compound_code":"Q9FR+9J Chicago, IL, USA",
+                  "global_code":"86HJQ9FR+9J"
+            },
+            "rating":3,
+            "reference":"ChIJxVRWEhwpDogROmwjW186hWA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"6652 South Langley Avenue, Chicago",
+            "CBG":170314207002,
+            "Radius":197.4591002424
+      }
+]

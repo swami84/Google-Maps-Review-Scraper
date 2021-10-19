@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3647851,
+                        "lng":-71.1088328
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3661968303,
+                              "lng":-71.1074751697
+                        },
+                        "southwest":{
+                              "lat":42.3634988697,
+                              "lng":-71.1101731303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Beantown Taqueria Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116822639452635183196\">Beantown Taqueria Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAQIIqeaGkuZ2-JUYWQKsCPrksGHTjCutXnJU_c1hpP4ExiAeCsr3G-7F14yVEyH0XeWhKBrsDb7yaKq-nOGcr9pXoFRWoWckUGO-Z7D13XmVUWqozlw0tPRodgS5CR32KULnogZnf_MbxMu74YHDLQdiBNYrcJRs17u6iFI150BLmy",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJM6KQmMp344kRxymTj545fk0",
+            "plus_code":{
+                  "compound_code":"9V7R+WF Cambridge, MA, USA",
+                  "global_code":"87JC9V7R+WF"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJM6KQmMp344kRxymTj545fk0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"150 Western Avenue, Cambridge",
+            "CBG":250173535001,
+            "Radius":155.8379054222
+      }
+]

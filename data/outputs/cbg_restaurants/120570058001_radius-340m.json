@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9450794,
+                        "lng":-82.5143744
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9463561303,
+                              "lng":-82.5128324197
+                        },
+                        "southwest":{
+                              "lat":27.9436581697,
+                              "lng":-82.5155303803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"Shell",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118175782043464237151\">Hany Karas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAsAroiulr7wLyMxIoRk7REtOLbLxs8pt6p8GfGOLXcMkt2JQzTp2YmuQbGOhQIPVQYMHtOULIeYv4VJT1P38Z6BgLGVvSF_GUPxfXtM4T-bugOKqL6uA24QZjtMp6__8fEUhVB-Zj6_Z5NhdgrO0NcKxvyj9_A43Yxw1RM4-9L9c1o",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ6Zj-QAPDwogRVgHUDXfzFi4",
+            "plus_code":{
+                  "compound_code":"WFWP+27 Tampa, FL, USA",
+                  "global_code":"76VVWFWP+27"
+            },
+            "price_level":2,
+            "rating":3.3,
+            "reference":"ChIJ6Zj-QAPDwogRVgHUDXfzFi4",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"4205 West Kennedy Boulevard, Tampa",
+            "CBG":120570058001,
+            "Radius":340.0612640991
+      }
+]

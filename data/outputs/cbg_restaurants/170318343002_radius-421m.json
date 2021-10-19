@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7515437,
+                        "lng":-87.5952526
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7528926803,
+                              "lng":-87.5939036197
+                        },
+                        "southwest":{
+                              "lat":41.7501947197,
+                              "lng":-87.5966015803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Woodlawn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116487017712092388637\">The Woodlawn<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDvzD0o3JmhJc2xOCl1gOm7DuwlwfahR2Dfavvw3OH0zt-zrKbXdItfJdE8TJufji4mV6NnGoansGZij129-aHs3aJO6MS2sfrftf8T8n3CgzIyFfbvUc1rt61_Byg8M8W71kdtmQ3EoALp1KwLRdam8pX1SISyKIAlCe_uZ-z_AyfF",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ2Sk4PpQoDogRBOq3b1T0R1A",
+            "plus_code":{
+                  "compound_code":"QC23+JV Chicago, IL, USA",
+                  "global_code":"86HJQC23+JV"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ2Sk4PpQoDogRBOq3b1T0R1A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"1200 East 79th Street, Chicago",
+            "CBG":170318343002,
+            "Radius":420.9171921529
+      }
+]

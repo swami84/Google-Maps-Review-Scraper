@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.69198,
+                        "lng":-88.0678
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6933268803,
+                              "lng":-88.0665478197
+                        },
+                        "southwest":{
+                              "lat":41.6906289197,
+                              "lng":-88.0692457803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Little Caesars Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100349237785762099292\">Rasha Elias<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALiicguFXkpcINwOi818KU8EGSSsBkCV9sFZTXrhD9umuB3u_9ZdAdzkb-O04O0qLOc7-TB2pSUv0jzrw9BXNEOXw-AfPY13NPCD1x-xqIAY9nCpY8_lzi8MtM68BXXV5vCDAXgVGswhob7z1luRTNtDA9PzBoa5AgA8S74nZWgDEf",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJw3XL47hbDogR1e1ega2doig",
+            "plus_code":{
+                  "compound_code":"MWRJ+QV Bolingbrook, IL, USA",
+                  "global_code":"86HHMWRJ+QV"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJw3XL47hbDogR1e1ega2doig",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":307,
+            "vicinity":"293 South Bolingbrook Drive, Bolingbrook",
+            "CBG":171978801133,
+            "Radius":198.9406394092
+      }
+]

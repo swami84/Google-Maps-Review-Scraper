@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7867761,
+                        "lng":-80.1334056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7881772803,
+                              "lng":-80.1320523697
+                        },
+                        "southwest":{
+                              "lat":25.7854793197,
+                              "lng":-80.1347503303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"\u00c0 la Folie Caf\u00e9",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3168,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108508945380392952838\">Sergio Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECIGRKuGnFOYXm45V4umXV43bkEm-ao_-cbGaJ53LBnlMjnHdCr61nXR0WfpLqyiHv2HiaXTrbtBTbVmVWRojVkbmlMZdWOuHWJ-UmcwybMOkRRLyTI1q0cbKPS3d7qswSeu9G0TrpNPwv9C92QETlzDT3n_OOgF35b8yokvBCsTBO0",
+                        "width":4896
+                  }
+            ],
+            "place_id":"ChIJ70-elY-02YgRi4IIjHvEbJI",
+            "plus_code":{
+                  "compound_code":"QVP8+PJ Miami Beach, FL, USA",
+                  "global_code":"76QXQVP8+PJ"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJ70-elY-02YgRi4IIjHvEbJI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1012,
+            "vicinity":"516 Espa\u00f1ola Way, Miami Beach",
+            "CBG":120860043041,
+            "Radius":161.7680202109
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7868248,
+                        "lng":-80.133231
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7882038303,
+                              "lng":-80.1318832697
+                        },
+                        "southwest":{
+                              "lat":25.7855058697,
+                              "lng":-80.1345812303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#13B5C7",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Espa\u00f1ola Way",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104124756603252043821\">Espa\u00f1ola Way<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDz6Pe70zoyiLeOkKjaPAh6-SasZ_GRKT8X91FCRvC6QS5lsKwYBY8C0NbGuUnyJ9cx306avopTEZ50XLiVJx-PNu4rUWVce_15_P2JCNO_8ihfZeY5cobwioFmQHdS1TBJvxU19cmor0bMNS5YVyNygJ8HS5LzmYSJh4DByinza33y",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJV_Pb6I-02YgRygbxXJGINHQ",
+            "plus_code":{
+                  "compound_code":"QVP8+PP Miami Beach, FL, USA",
+                  "global_code":"76QXQVP8+PP"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJV_Pb6I-02YgRygbxXJGINHQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "shopping_mall",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":394,
+            "vicinity":"401-499 Espa\u00f1ola Way, Miami Beach",
+            "CBG":120860043041,
+            "Radius":161.7680202109
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.400427,
+                        "lng":-71.000335
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4014308803,
+                              "lng":-70.9990005197
+                        },
+                        "southwest":{
+                              "lat":42.3987329197,
+                              "lng":-71.0016984803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Hut Express",
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117496213389417520225\">Pizza Hut Express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA0nWpOUQH4HLs53dWxOd7y_ztKgsgcQ1SuUZe6a4GvxkyUA6WAWbEX7UFkowr4MILfacP8j9fucQEmLBNo6nd_HcfJfKvBk5XMqZNDaNet4xxifg6lMAJus7CeKhSVFas09MxxjtU1vSXsKj7ptn-UUz_RhAU9TYvyNje8e5ORNqtG",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJQz6Glh9u44kRjq94naRe2Bc",
+            "plus_code":{
+                  "compound_code":"CX2X+5V Revere, MA, USA",
+                  "global_code":"87JCCX2X+5V"
+            },
+            "price_level":1,
+            "rating":3,
+            "reference":"ChIJQz6Glh9u44kRjq94naRe2Bc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"36 Furlong Drive, Revere",
+            "CBG":250251707011,
+            "Radius":273.8209153637
+      }
+]

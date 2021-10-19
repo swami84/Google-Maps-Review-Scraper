@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.8630887,
+                        "lng":-75.3506714
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.8644948303,
+                              "lng":-75.3493236197
+                        },
+                        "southwest":{
+                              "lat":39.8617968697,
+                              "lng":-75.3520215803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Maggie May's Campus Pub",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103584693209834906870\">Kenneth Smith Jr<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA7D84b9hZu3VuWpXt4NzQtxA7NF8LB0s7qe5TF0Sw29dwG-zs6Kgjn7qIA1ZXuLWmIv6JbFdyj0X7GkXGvFlpfzccwsxqOrvNHopx0RO6ebIsPJnkUvkFr8ustdEFTbL4GMa6tA_15TyxdUwU2elx4qt9K2LoKBEGT0TdNhQu00mml",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJkcQhXv3nxokREL3hxpoEAgo",
+            "plus_code":{
+                  "compound_code":"VJ7X+6P Chester, PA, USA",
+                  "global_code":"87F6VJ7X+6P"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJkcQhXv3nxokREL3hxpoEAgo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":70,
+            "vicinity":"951 East 14th Street, Chester",
+            "CBG":420454048001,
+            "Radius":210.698184369
+      }
+]

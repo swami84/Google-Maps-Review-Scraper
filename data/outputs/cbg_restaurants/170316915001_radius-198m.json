@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7555251,
+                        "lng":-87.6051481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7568740803,
+                              "lng":-87.6037991197
+                        },
+                        "southwest":{
+                              "lat":41.7541761197,
+                              "lng":-87.6064970803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Best Gyros",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":521,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107619363129236216995\">Best Gyros<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB3jK2ax0heRi5WNJ6EwHKmouayzG1Lf9SENOjh602XlGhOX6nhJy-tSpDsDMM6yylSmPmpIY0oSPMF9yAq2UJOqlrIKdfhQ7g079xIaqawOYzgnvHDgh2aYxLP-UOpRqlXorb1DBycSMw9TlMZD9sE3VkTv2KBlHFxTXHA-EG7eUsK",
+                        "width":466
+                  }
+            ],
+            "place_id":"ChIJB7qoobgoDogRpdvd_We5gkM",
+            "plus_code":{
+                  "compound_code":"Q94V+6W Chicago, IL, USA",
+                  "global_code":"86HJQ94V+6W"
+            },
+            "rating":4,
+            "reference":"ChIJB7qoobgoDogRpdvd_We5gkM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"7643 South Cottage Grove Avenue, Chicago",
+            "CBG":170316915001,
+            "Radius":198.208882451
+      }
+]

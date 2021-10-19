@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9547408,
+                        "lng":-82.480733
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9560907303,
+                              "lng":-82.4794591697
+                        },
+                        "southwest":{
+                              "lat":27.9533927697,
+                              "lng":-82.4821571303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Main Street Eatery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJM3xWyrXDwogRtzOAsqaRsS4",
+            "plus_code":{
+                  "compound_code":"XG39+VP Tampa, FL, USA",
+                  "global_code":"76VVXG39+VP"
+            },
+            "reference":"ChIJM3xWyrXDwogRtzOAsqaRsS4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1307 North Albany Avenue, Tampa",
+            "CBG":120570049002,
+            "Radius":289.4254070877
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8096116,
+                        "lng":-80.2186128
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8110157803,
+                              "lng":-80.2172566197
+                        },
+                        "southwest":{
+                              "lat":25.8083178197,
+                              "lng":-80.2199545803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Club Tipico Dominicano",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2677,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102092836642937844232\">Club Tipico Dominicano<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECUlhuf9paIp-ghZIPNNsNu3_wdqReGt6n0NwmpYYWaxeO-cs8XM7rLwBCAAz4urWO60Siutt_PbFqbeZvtC-oYO0zsXRGs4dhrFRTj5cgNhwP_btI-aqCbKmYKBqE4_37VnLTqV38HEJ-9yJ3QTsmviLQuJK9gljjkI5jRO0eSjFw0",
+                        "width":3325
+                  }
+            ],
+            "place_id":"ChIJkQQySTKx2YgRSfJxTavRARg",
+            "plus_code":{
+                  "compound_code":"RQ5J+RH Miami, FL, USA",
+                  "global_code":"76QXRQ5J+RH"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJkQQySTKx2YgRSfJxTavRARg",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1386.0,
+            "vicinity":"1344 Northwest 36th Street, Miami",
+            "CBG":120860025021,
+            "Radius":278.3570983197
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.809712,
+                        "lng":-80.2177601
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8110757303,
+                              "lng":-80.2164118697
+                        },
+                        "southwest":{
+                              "lat":25.8083777697,
+                              "lng":-80.2191098303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Best Puerto Rican Hotdogs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108677725220554595055\">Daniel Peterson<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDV7Uy80S7JV0OawP0BaxnsJVPgyVYeOJ1ihHnklvYLj-Zssl2-5agYcm55l_-JA5ChOIRQJQwitTQg5DbTnQAJHmgBgL2hY0CV8lJ9TxRSDHWPbGwKXDiShPcJW4ql5vJRcd420oACzxOt22ZZraGFX0RBR19GY-fvFcjyYuwYa-mc",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJzZ7014Gx2YgRghLWBodlI3w",
+            "plus_code":{
+                  "compound_code":"RQ5J+VV Miami, FL, USA",
+                  "global_code":"76QXRQ5J+VV"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJzZ7014Gx2YgRghLWBodlI3w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1322-1300 Northwest 36th Street, Miami",
+            "CBG":120860025021,
+            "Radius":278.3570983197
+      }
+]

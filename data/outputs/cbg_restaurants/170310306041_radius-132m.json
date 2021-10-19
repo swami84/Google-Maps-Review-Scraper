@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9856221,
+                        "lng":-87.6554497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9869545303,
+                              "lng":-87.6540992197
+                        },
+                        "southwest":{
+                              "lat":41.9842565697,
+                              "lng":-87.6567971803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hollywood Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2990,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113923913364202295572\">Robert Gable<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAP1X2Tr9tnum4kePl8Gh1VO1kpHoK3KmHp6YXjs94CRCmZo7d8h5z32c2NDMWuUCM4oTUC2OlKRnDI_XZCREGYqi_RASWqBkGpVruky1wGPfypV9gZ13bplWT3_SFIt022BY2kZGfuqGnFxZEtnfeiHKB-SyzTTCbhm7YN51r91oZj",
+                        "width":3987
+                  }
+            ],
+            "place_id":"ChIJiRWIw-DRD4gRQLNh_zkzqXE",
+            "plus_code":{
+                  "compound_code":"X8PV+6R Chicago, IL, USA",
+                  "global_code":"86HJX8PV+6R"
+            },
+            "rating":4.8,
+            "reference":"ChIJiRWIw-DRD4gRQLNh_zkzqXE",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"5700 North Sheridan Road, Chicago",
+            "CBG":170310306041,
+            "Radius":132.2167184562
+      }
+]

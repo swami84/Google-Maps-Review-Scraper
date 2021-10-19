@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.241297,
+                        "lng":-97.7837
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2427953303,
+                              "lng":-97.7823437197
+                        },
+                        "southwest":{
+                              "lat":30.2400973697,
+                              "lng":-97.7850416803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jersey Mike's Subs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109009831116782265617\">Jersey Mike&#39;s Subs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDG6CRY9AHTrdtuWQLid_IdpoeWxpVM1d1quMTg8VuVCrQmiTz5kD0BAXW0XIRLItpIuaAGgQhbQF_uI64IPq3EBNCvIRR_O5achDhGqeBlj_JaJKgClfhvI1aYSGJZwy5lyTGn-0QnYcmAhIPJRHD3JAn7DTuJ4BB9fdgWieh5FFGt",
+                        "width":4500
+                  }
+            ],
+            "place_id":"ChIJgd5d_sK1RIYRqTaqUP7FwMs",
+            "plus_code":{
+                  "compound_code":"66R8+GG Austin, TX, USA",
+                  "global_code":"862466R8+GG"
+            },
+            "price_level":1,
+            "rating":4.9,
+            "reference":"ChIJgd5d_sK1RIYRqTaqUP7FwMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"3005 South Lamar Boulevard Suite D-111, Austin",
+            "CBG":484530020051,
+            "Radius":530.0091959549
+      }
+]

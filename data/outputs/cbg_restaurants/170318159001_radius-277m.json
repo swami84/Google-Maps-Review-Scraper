@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8855634,
+                        "lng":-87.808387
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8869823803,
+                              "lng":-87.8070679697
+                        },
+                        "southwest":{
+                              "lat":41.8842844197,
+                              "lng":-87.8097659303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Goldyburgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101816712704487553587\">Brooke Mabbitt<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDuHBsogVQOwlJEAPTssqzjnkLhxXiveIezgDkbiComYkpsa4oAW53rvFqufziV8iQtRyr5bniawFIr1z7QG2ZrD84xZchKmZL9_FQdrWUjzQ5p6KfhQZyJArV-Z43YQINHbFkfFEZIKG7h-fYd726U99fDo0FVjM0BFwS1x_88HfWo",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJS_2ep9s0DogRGMvbEsHQFlY",
+            "plus_code":{
+                  "compound_code":"V5PR+6J Forest Park, IL, USA",
+                  "global_code":"86HJV5PR+6J"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJS_2ep9s0DogRGMvbEsHQFlY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":180,
+            "vicinity":"7316 Circle Avenue #1165, Forest Park",
+            "CBG":170318159001,
+            "Radius":277.331749875
+      }
+]

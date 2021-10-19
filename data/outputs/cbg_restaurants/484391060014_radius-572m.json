@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.640944,
+                        "lng":-97.322925
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6424009803,
+                              "lng":-97.3215768197
+                        },
+                        "southwest":{
+                              "lat":32.6397030197,
+                              "lng":-97.3242747803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Kenney Trousdale Inc",
+            "place_id":"ChIJaavQkFhuToYR539XL-x33ds",
+            "plus_code":{
+                  "compound_code":"JMRG+9R Fort Worth, TX, USA",
+                  "global_code":"8644JMRG+9R"
+            },
+            "rating":4.1,
+            "reference":"ChIJaavQkFhuToYR539XL-x33ds",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"7200 South Freeway, Fort Worth",
+            "CBG":484391060014,
+            "Radius":571.978616418
+      }
+]

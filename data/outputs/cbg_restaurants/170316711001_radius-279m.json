@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.777952,
+                        "lng":-87.664531
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7792107303,
+                              "lng":-87.6631138197
+                        },
+                        "southwest":{
+                              "lat":41.7765127697,
+                              "lng":-87.6658117803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101499512437354172003\">McDonald&#39;s<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECsjg7w6xzznK_Z73FnE3gfBW03Gq4xcnuKgeAiyWrZobovJeTvq0x3rEiixvVFJmn-xpS4zoEHQsrpmscsPpnsBWtKZ-U3EHQwyBBxjaSQ_VRk0EtbNsKzIHHm7pPQCJ6YTbqO7wPioHBK-pCIp6DlgFjv8pr8L1rVU5MAu_jmICzw",
+                        "width":1025
+                  }
+            ],
+            "place_id":"ChIJma3HPlMuDogRL4i-L-1IocU",
+            "plus_code":{
+                  "compound_code":"Q8HP+55 Chicago, IL, USA",
+                  "global_code":"86HJQ8HP+55"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJma3HPlMuDogRL4i-L-1IocU",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1059,
+            "vicinity":"6336 South Ashland Avenue, Chicago",
+            "CBG":170316711001,
+            "Radius":279.3701384059
+      }
+]

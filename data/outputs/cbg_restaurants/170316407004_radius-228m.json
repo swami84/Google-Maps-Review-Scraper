@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7767271,
+                        "lng":-87.7614395
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7780962303,
+                              "lng":-87.7602048697
+                        },
+                        "southwest":{
+                              "lat":41.7753982697,
+                              "lng":-87.7629028303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mom and Dad's Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104712986053701906004\">Mom and Dad&#39;s Deli<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCx7RbL-fKdMrRh_YiiK3ddnDsajRltkqX1SkCQMey8pqN73Ux-zpmcwr29vq_oiJccknzuGuq1axhFU5_qoOY8L79e135Jv9X7SD4fwXrSllRr13WkcpzCJM83YnynLqOQNiQn9t3Xva3nfg9iyjrn19oqDr0AyLzZlTLMHTuHJJ7",
+                        "width":1152
+                  }
+            ],
+            "place_id":"ChIJDXLcLd8wDogRB50RBlCkZjs",
+            "plus_code":{
+                  "compound_code":"Q6GQ+MC Chicago, IL, USA",
+                  "global_code":"86HJQ6GQ+MC"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJDXLcLd8wDogRB50RBlCkZjs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":116,
+            "vicinity":"6345 South Central Avenue, Chicago",
+            "CBG":170316407004,
+            "Radius":228.4974778661
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7772621,
+                        "lng":-87.7615572
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7785621803,
+                              "lng":-87.7601985697
+                        },
+                        "southwest":{
+                              "lat":41.7758642197,
+                              "lng":-87.7628965303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tony's Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJ8zxOy9gwDogRUveOJ3YBlBU",
+            "plus_code":{
+                  "compound_code":"Q6GQ+W9 Chicago, IL, USA",
+                  "global_code":"86HJQ6GQ+W9"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ8zxOy9gwDogRUveOJ3YBlBU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"6325 South Central Avenue, Chicago",
+            "CBG":170316407004,
+            "Radius":228.4974778661
+      }
+]

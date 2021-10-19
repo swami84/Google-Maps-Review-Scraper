@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8600696,
+                        "lng":-73.8907132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8614645303,
+                              "lng":-73.8894862197
+                        },
+                        "southwest":{
+                              "lat":40.8587665697,
+                              "lng":-73.8921841803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Applebee's Grill + Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101599940172672974145\">Lisa Almodovar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECOrgMuB_TtEBmQ8vjDxMcMWpSMRblpxL89qSz3hujHdaateAcYx9iAC8FPXavNPzOKjyp9M3tASZmaWB7_lu7Oaw-c3Lz1vmC1UuHBJnmv7LB5jKO1D_7oenKRx1RNwJlVWvVs-I3aACEi5yCGyBslYSff6IvZUzKUhp1AWxO6Cb0B",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJKT_Bi3_0wokRaYRlRY8_XBk",
+            "plus_code":{
+                  "compound_code":"V465+2P New York, NY, USA",
+                  "global_code":"87G8V465+2P"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJKT_Bi3_0wokRaYRlRY8_XBk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2050,
+            "vicinity":"4750-4758 3rd Avenue, Bronx",
+            "CBG":360050387001,
+            "Radius":190.6167757518
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8600668,
+                        "lng":-73.8909248
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8615860803,
+                              "lng":-73.8894640197
+                        },
+                        "southwest":{
+                              "lat":40.8588881197,
+                              "lng":-73.8921619803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chipotle Mexican Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101927883202763440827\">Miguel Felix Orelus<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECdUHyyHyQT-zOQmUtQnAtALvDTzXOJqbFLCGOWbiBsJ55AF3PXzJz9pawu5EGa-ENDczvoQhkubKZ__LFGAtohoYcMNuRoGsHnDFayhIgDP-kSf1weSrX1FlzmQRpNc6Lel_-qaLdaDsjVPnQz2dZkzbuGnGVIcfrTVBlUx3E5Ihsp",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ3z63iX_0wokRFL6B4aME5K8",
+            "plus_code":{
+                  "compound_code":"V465+2J New York, NY, USA",
+                  "global_code":"87G8V465+2J"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ3z63iX_0wokRFL6B4aME5K8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1156,
+            "vicinity":"4760 3rd Avenue, Bronx",
+            "CBG":360050387001,
+            "Radius":190.6167757518
+      }
+]

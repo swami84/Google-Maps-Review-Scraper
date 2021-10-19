@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.868621,
+                        "lng":-80.121602
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8699795803,
+                              "lng":-80.1202531697
+                        },
+                        "southwest":{
+                              "lat":25.8672816197,
+                              "lng":-80.1229511303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rocco's Dough, L.L.C.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102986383841782328710\">Rocco&#39;s Dough, L.L.C.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBo0_nayIrkCbZaU5alYrfb9gD_bLPJ3PC3BKr8N8rb0_885kTqvhQjuhBONmvnS1iMron3Pyi9Mm7hEhMzEm0vyIKElE2s0l1danQ8-zjmbs-DMSz8Hwb8xCBt5vt0dLjX46nuNv49kGRkJH9n7c1Iu1WriBLew5HyBzVXExmLG0Sf",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJR0phHWSz2YgRPNbzfM4u1-o",
+            "plus_code":{
+                  "compound_code":"VV9H+C9 Miami Beach, FL, USA",
+                  "global_code":"76QXVV9H+C9"
+            },
+            "reference":"ChIJR0phHWSz2YgRPNbzfM4u1-o",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8328 Collins Avenue, Miami Beach",
+            "CBG":120860039091,
+            "Radius":395.6698998302
+      }
+]

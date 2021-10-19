@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8302264,
+                        "lng":-87.6238081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8317300803,
+                              "lng":-87.6221744697
+                        },
+                        "southwest":{
+                              "lat":41.8290321197,
+                              "lng":-87.6248724303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"BBC Providers",
+            "place_id":"ChIJL3NYAy4tDogRTbyL4RMJmfo",
+            "plus_code":{
+                  "compound_code":"R9JG+3F Chicago, IL, USA",
+                  "global_code":"86HJR9JG+3F"
+            },
+            "reference":"ChIJL3NYAy4tDogRTbyL4RMJmfo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3510 South Michigan Avenue, Chicago",
+            "CBG":170313514001,
+            "Radius":321.121029829
+      }
+]

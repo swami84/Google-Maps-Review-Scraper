@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8871459,
+                        "lng":-87.7071779
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8886755303,
+                              "lng":-87.7058099697
+                        },
+                        "southwest":{
+                              "lat":41.8859775697,
+                              "lng":-87.7085079303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Bridge Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104261694246321419907\">Thomas The gAzelle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA0FCHnLYrtN6M0cC5UBVY_6ZrreFw_5KpMvQG5QUVaTtsHpmhEZWtCTenYLd0C9HBWwY8qcG0ZAmBcit5XyWAvpU4bGslaB3v1lMoHqvlPUEMpwcjeREdlLXtmsxBpxIErJrDLhPLSe_Oq5N-NwMc0QjacLg74-mGKj96XWqnYCxWd",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJQeNa_a8yDogRhL5E3o-7Wd8",
+            "plus_code":{
+                  "compound_code":"V7PV+V4 Chicago, IL, USA",
+                  "global_code":"86HJV7PV+V4"
+            },
+            "rating":4.7,
+            "reference":"ChIJQeNa_a8yDogRhL5E3o-7Wd8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":23.0,
+            "vicinity":"3219 West Carroll Avenue, Chicago",
+            "CBG":170318368002,
+            "Radius":277.9027458219
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8862028,
+                        "lng":-87.7064018
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8875530303,
+                              "lng":-87.7049875197
+                        },
+                        "southwest":{
+                              "lat":41.8848550697,
+                              "lng":-87.7076854803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wings Of Heaven",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJv8Q_Q6UyDogRtpeFXkXbI7c",
+            "plus_code":{
+                  "compound_code":"V7PV+FC Chicago, IL, USA",
+                  "global_code":"86HJV7PV+FC"
+            },
+            "rating":null,
+            "reference":"ChIJv8Q_Q6UyDogRtpeFXkXbI7c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"264 North Kedzie Avenue, Chicago",
+            "CBG":170318368002,
+            "Radius":277.9027458219
+      }
+]

@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3370672,
+                        "lng":-71.0554123
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3384161803,
+                              "lng":-71.0540633197
+                        },
+                        "southwest":{
+                              "lat":42.3357182197,
+                              "lng":-71.0567612803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chino's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJl7XAU2F644kRTWN51Vq1oJg",
+            "plus_code":{
+                  "compound_code":"8WPV+RR Boston, MA, USA",
+                  "global_code":"87JC8WPV+RR"
+            },
+            "rating":4.8,
+            "reference":"ChIJl7XAU2F644kRTWN51Vq1oJg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"C Street, Boston",
+            "CBG":250250607002,
+            "Radius":111.7266328884
+      }
+]

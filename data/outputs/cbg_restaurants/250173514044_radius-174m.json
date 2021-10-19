@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.38245,
+                        "lng":-71.090102
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3838153303,
+                              "lng":-71.0888138197
+                        },
+                        "southwest":{
+                              "lat":42.3811173697,
+                              "lng":-71.0915117803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mr B's Pizza Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109560331492030435393\">lazmett<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAlCytTOJCl7tI854lsC3nuF6r1U1FJp_M7WD9PwekSXZHCbFL-dgwt-w4sfoBgrddREtM9Uo1-NknBSDldA45x1-brQ4A5pY_RARp2UHsofaA4Y65K_31oOcBSKoHgOwQfzeA0Mr0gvnwwZm2_9gZqCGSnZNUlMQ3qxmIkMVIJoFQJ",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ2xK-vs5w44kRwChyQFxpAPI",
+            "plus_code":{
+                  "compound_code":"9WJ5+XX Somerville, MA, USA",
+                  "global_code":"87JC9WJ5+XX"
+            },
+            "price_level":1,
+            "rating":2.1,
+            "reference":"ChIJ2xK-vs5w44kRwChyQFxpAPI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":137,
+            "vicinity":"142 Cross Street, Somerville",
+            "CBG":250173514044,
+            "Radius":173.5852829186
+      }
+]

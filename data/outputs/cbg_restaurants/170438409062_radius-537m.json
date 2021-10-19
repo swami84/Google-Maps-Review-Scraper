@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9466041,
+                        "lng":-88.0359095
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9482811803,
+                              "lng":-88.0342414697
+                        },
+                        "southwest":{
+                              "lat":41.9455832197,
+                              "lng":-88.0369394303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Sam's Club Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114911800993194819739\">Sam&#39;s Club Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDX8wkAunZfSFInubr3ZJyD4WHdIxvtoJxbWwXHiwKgsitSgBMEYD2EFwtFnJIPDbVYp9pi3ZVCWMb5Et8uLEahJ-_PK-uCOv1PUYuWk36ixYjmuYwDDCvmxwQdkqD4X9Sw31W-_aFjzrdRwKT2v55VzPZBjGm0UTnYTUaO1HEcs9cX",
+                        "width":1132
+                  }
+            ],
+            "place_id":"ChIJc5PadaStD4gR-mG9LGaQoq4",
+            "plus_code":{
+                  "compound_code":"WXW7+JJ Addison, IL, USA",
+                  "global_code":"86HHWXW7+JJ"
+            },
+            "rating":1,
+            "reference":"ChIJc5PadaStD4gR-mG9LGaQoq4",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1006 North Rohlwing Road, Addison",
+            "CBG":170438409062,
+            "Radius":536.7065258428
+      }
+]

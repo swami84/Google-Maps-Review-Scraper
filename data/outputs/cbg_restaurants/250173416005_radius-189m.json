@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4285788,
+                        "lng":-71.0669782
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4299206803,
+                              "lng":-71.0657226697
+                        },
+                        "southwest":{
+                              "lat":42.4272227197,
+                              "lng":-71.0684206303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Habesha Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111199231281467385012\">Nambians<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDzmZhsOqDvk8kLKlVkj-nvlB2WL4QXHDEVOOgcR3bOP0jOCGkIVkKVvhqs3NI27sGUBwL8ZAZQobpPFXDGcjOjV4o0plNlavO19AN13XG07A6lNZtm5jboEI3OI6Tz5h2Dvor1eE8SMz7pI4ADCIQxOj7xvG6umeMLVLxRrQRaAXje",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJg9RjImJx44kRvQgLKrWdOqI",
+            "plus_code":{
+                  "compound_code":"CWHM+C6 Malden, MA, USA",
+                  "global_code":"87JCCWHM+C6"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJg9RjImJx44kRvQgLKrWdOqI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":430,
+            "vicinity":"535 Main Street, Malden",
+            "CBG":250173416005,
+            "Radius":188.9883525486
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4283878,
+                        "lng":-71.0669317
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4296735803,
+                              "lng":-71.0656750697
+                        },
+                        "southwest":{
+                              "lat":42.4269756197,
+                              "lng":-71.0683730303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taste of India",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115211979278279514962\">Kaushal Dave<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECUYuuK4FZBmzxtFOOh3gKNpHNQND5e3aRozCQ_o-7ZMJKlUewVQ_mvXc_yFW2ydH9zJgVRS3nPgJ0FX_Dzr6iyJQn083m6N7EpRMUp8Y60iQkNRpOgS2R_UB-nRL2dmMS2IoAHJ63PqN-oxxB9IZLZyqBoI1YWNoxqC4XLw4GIFQfJ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJeca-I2Jx44kRFtPAHx9gSXY",
+            "plus_code":{
+                  "compound_code":"CWHM+96 Malden, MA, USA",
+                  "global_code":"87JCCWHM+96"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJeca-I2Jx44kRFtPAHx9gSXY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"519 Main Street, Malden",
+            "CBG":250173416005,
+            "Radius":188.9883525486
+      }
+]

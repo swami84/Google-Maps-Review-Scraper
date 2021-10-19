@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2835932,
+                        "lng":-71.0506873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2848809303,
+                              "lng":-71.0492684197
+                        },
+                        "southwest":{
+                              "lat":42.2821829697,
+                              "lng":-71.0519663803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Five Star Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113285279999066245582\">Five Star Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAguVg2VhHfAt11U4UHgxsutFCxNT9nZ9S-V5lvykMl9DXgAL8ykl7FaKnPwYCmT2NPfRIZl4Uy5_xfjOUaB612fs2IusUYfZbwp2_kjRwpiBRSf1gfMst0PcbGvoQIXfb1FVGtv6RxN9jFvEDV1Jns_wtk-p8ciZWezIInFeX6uhUS",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJV55J6oJ744kRUUZaHAGV9_I",
+            "plus_code":{
+                  "compound_code":"7WMX+CP Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7WMX+CP"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJV55J6oJ744kRUUZaHAGV9_I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":191,
+            "vicinity":"616 Gallivan Boulevard, Dorchester",
+            "CBG":250251007003,
+            "Radius":243.3822576519
+      }
+]

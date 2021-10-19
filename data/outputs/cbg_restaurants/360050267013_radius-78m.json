@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8683077,
+                        "lng":-73.9001592
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8696918303,
+                              "lng":-73.8986135697
+                        },
+                        "southwest":{
+                              "lat":40.8669938697,
+                              "lng":-73.9013115303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Kennedy Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117606218579553483268\">Jose Marquez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtafs-avY0unfKsj8nzeXdXCOia1e9UJGWx-UEGhqBzQsFGCRRt9vhYtE4J7_4RA2PDsvWGCSsE3HtsWFs9OiKAWDXAMxu6isXsLzWCVAFG6mBh0SCEFRhQTXqjJ8qs1BlvdkxfBTdnh2W0EuPlms-7qHsEU6iS5_-apxMPoGWYb4e",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJj_iNlIXzwokRg8_5SEp8WHk",
+            "plus_code":{
+                  "compound_code":"V39X+8W New York, NY, USA",
+                  "global_code":"87G8V39X+8W"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJj_iNlIXzwokRg8_5SEp8WHk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":150,
+            "vicinity":"67 West Kingsbridge Road, Bronx",
+            "CBG":360050267013,
+            "Radius":78.3533201264
+      }
+]

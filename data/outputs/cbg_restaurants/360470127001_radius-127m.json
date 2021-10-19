@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6829011,
+                        "lng":-73.9821948
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6842707803,
+                              "lng":-73.9809069197
+                        },
+                        "southwest":{
+                              "lat":40.6815728197,
+                              "lng":-73.9836048803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lano's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107423169886996527565\">valerie lamboy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDVSikjGjLZjS81h5r4cVZC_3uDbQuKMX8Cbq0gIthRAeIzg_43b4A7f_k8VqMv5rq75F-DZfQbBjiZfDe7-fB1qnUy9DFKbPUimoP3l32020d7bkSKQUE7V26BW3jcsd8zqtx4-mRgSRev0gtfb1CHdYY1nXgHF2qw34SZaqtI-8FM",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJ-3lu2qxbwokRv9bS4HAXJaI",
+            "plus_code":{
+                  "compound_code":"M2M9+54 New York, NY, USA",
+                  "global_code":"87G8M2M9+54"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ-3lu2qxbwokRv9bS4HAXJaI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":69,
+            "vicinity":"107 3rd Avenue, Brooklyn",
+            "CBG":360470127001,
+            "Radius":127.0328945583
+      }
+]

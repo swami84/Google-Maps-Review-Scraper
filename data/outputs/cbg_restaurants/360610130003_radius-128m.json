@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7727446,
+                        "lng":-73.9651572
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7740234803,
+                              "lng":-73.9638545197
+                        },
+                        "southwest":{
+                              "lat":40.7713255197,
+                              "lng":-73.9665524803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Via Quadronno",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111935674087935889239\">Caleb<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAGNfxwLAQpo85xRGX-TE-i4gCTfj6oHfrTt01KdThvddV8EVC-gjvff-PBIPNmZ2a5TeLb_B9wUUwNotTU840INzneElm6jrXr9EVF6hrKItURdwRDKRqcggpGdX2wflrc8Gd-cPi0Oe51Rrt9rQiMsZEaHag5pUpNJ4a1YQQZlQ2g",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-ZWIqZRYwokRQ9ZhSMN8FkI",
+            "plus_code":{
+                  "compound_code":"Q2FM+3W New York, NY, USA",
+                  "global_code":"87G8Q2FM+3W"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJ-ZWIqZRYwokRQ9ZhSMN8FkI",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":549,
+            "vicinity":"25 East 73rd Street, New York",
+            "CBG":360610130003,
+            "Radius":128.1045841962
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.772125,
+                        "lng":-73.965012
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7734739803,
+                              "lng":-73.9636630197
+                        },
+                        "southwest":{
+                              "lat":40.7707760197,
+                              "lng":-73.9663609803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Come Prima",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113986518174824875207\">Come Prima<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEALk_oDD7r0-KJXuy248v1opR3i8SON0dEz_6FcUJ9vVCrexa6uKqkGNT6IxNZ0XY-M2Px5Nzva8FvWSUt1KdZ8Orf3ZFFtJE8khxY-bKVTarqdirOOJfKurGvaoHXfcFmP547IrpLqFSslr82Vwur8hrdGtXgJAIE-kkqJKWzmdphh",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJmyy-U-tYwokRc5-kgu-G_N4",
+            "plus_code":{
+                  "compound_code":"Q2CM+RX New York, NY, USA",
+                  "global_code":"87G8Q2CM+RX"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJmyy-U-tYwokRc5-kgu-G_N4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":135,
+            "vicinity":"903 Madison Avenue, New York",
+            "CBG":360610130003,
+            "Radius":128.1045841962
+      }
+]

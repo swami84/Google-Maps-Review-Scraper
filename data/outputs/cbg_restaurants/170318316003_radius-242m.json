@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.92797,
+                        "lng":-87.806081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9293228303,
+                              "lng":-87.8048855197
+                        },
+                        "southwest":{
+                              "lat":41.9266248697,
+                              "lng":-87.8075834803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Cafe #10",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114601444573902986780\">Javier Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDveazAKUBVH5eLJdMUiGwUohdPHvn_KTk0kMCnAm-XBl1pqhtz5_MDxBsNvs_NB_gR9aSXw5q2GKpIw7e7qX3V9LnbsiLa1cAxaC9AOAXuoTZSdaatAt6gwUASoOure-zzSVDiuS-iXx7arNv5Ln3PawyWHujwHixfDYxe1rti0KRr",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ4X6PqBrLD4gR2yzTCfq0Spc",
+            "plus_code":{
+                  "compound_code":"W5HV+5H Chicago, IL, USA",
+                  "global_code":"86HJW5HV+5H"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ4X6PqBrLD4gR2yzTCfq0Spc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":264,
+            "vicinity":"2625 North Harlem Avenue, Chicago",
+            "CBG":170318316003,
+            "Radius":242.248317304
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9287702,
+                        "lng":-87.8059139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9302009803,
+                              "lng":-87.8048155197
+                        },
+                        "southwest":{
+                              "lat":41.9275030197,
+                              "lng":-87.8075134803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"4 Yolks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103679028597060185210\">Adrian C<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBCaBe7xB-m05kceJ23FftUxvOxdPqPDLplcRdpsHSG_TZNdiHoZKjoEgnWeBV0GlLq0w4V2P6Xesymutvb9TDzPwG7u1ASh2hFZcVq8AGmK1FjfwexbjxoXMFTwBg40QfECj21KAgZsfau3CvZImZ-HOtBqUVq8oAEoeipmmxpWHYD",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJtU4nVAXLD4gRCzA_IM8RYw0",
+            "plus_code":{
+                  "compound_code":"W5HV+GJ Chicago, IL, USA",
+                  "global_code":"86HJW5HV+GJ"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJtU4nVAXLD4gRCzA_IM8RYw0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":375,
+            "vicinity":"2661 North Harlem Avenue, Chicago",
+            "CBG":170318316003,
+            "Radius":242.248317304
+      }
+]

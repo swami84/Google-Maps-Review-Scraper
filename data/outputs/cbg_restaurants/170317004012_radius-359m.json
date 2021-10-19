@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7497869,
+                        "lng":-87.7178241
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7510582303,
+                              "lng":-87.7164728697
+                        },
+                        "southwest":{
+                              "lat":41.7483602697,
+                              "lng":-87.7191708303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Caribbean Jerk Palace",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112501903529224894812\">Pheonix Rising<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuIZJ1dmiJ4NNqgWfmF_Wsljb7VN8OyBZFZZrE8OvOSw1Ues8kv_g-Pcqnplua7xcIKOcAsMXSJktYifItF1o0Rug-_J4NVBKF6fpwgeTB_D6gJ51aaometB2mIuemghZEFfP5ZxTv8OMTQWuJ4q20ysoJeWbQJ5XRJMbeA84neJEA",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJZUFCMG0wDogRUnMeZfeojks",
+            "plus_code":{
+                  "compound_code":"P7XJ+WV Chicago, IL, USA",
+                  "global_code":"86HJP7XJ+WV"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJZUFCMG0wDogRUnMeZfeojks",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1050,
+            "vicinity":"3792 West 79th Street, Chicago",
+            "CBG":170317004012,
+            "Radius":359.2979692125
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7497123,
+                        "lng":-87.7196237
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7510612803,
+                              "lng":-87.7182747197
+                        },
+                        "southwest":{
+                              "lat":41.7483633197,
+                              "lng":-87.7209726803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Nova Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112812320366844590223\">Pizza Nova Express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB-HQJo08WIiiwWcq3axwi8tcAKyeB2VFH9DJY5auwHM6zDkYO5udB8Ytj3udIZ38EyGEC624-WphQS71vUreEGmtx3qoTBuN-S6HHogkllmWynKbqyF5AfOXlKWb02xo39cm5Sd8ZNKbHIgS9YAUErHTfrQU3oCkW-vp-SEmMYn8to",
+                        "width":1498
+                  }
+            ],
+            "place_id":"ChIJ45ndCW0wDogRdTMyKtGeaqU",
+            "plus_code":{
+                  "compound_code":"P7XJ+V5 Chicago, IL, USA",
+                  "global_code":"86HJP7XJ+V5"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJ45ndCW0wDogRdTMyKtGeaqU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":263,
+            "vicinity":"3836 West 79th Street, Chicago",
+            "CBG":170317004012,
+            "Radius":359.2979692125
+      }
+]

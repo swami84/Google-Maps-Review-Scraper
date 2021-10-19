@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.5584639,
+                        "lng":-87.714645
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.5598138803,
+                              "lng":-87.7132000197
+                        },
+                        "southwest":{
+                              "lat":41.5571159197,
+                              "lng":-87.7158979803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Meltdown Meals, LLC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102410467527348664592\">Meltdown Meals, LLC<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECwffqW4e8S09sNRBcKO3aRRsG6PspyZafiIiSAdu1Bwm4pRTGpPd5Op2YjSLf3LXnTee_6yAb9nanroV6Xk3WtahgWiIh2o_BxRzX2IaKZUvOawv7iu1x9t8Z7zlx0cSU7aygjO-vMbk3LJMujmoUr54FIytoRfVFAs5vmg0kxxDRc",
+                        "width":1023
+                  }
+            ],
+            "place_id":"ChIJIZ89eDIXDogR0b8vtBtrPEk",
+            "plus_code":{
+                  "compound_code":"H75P+94 Country Club Hills, IL, USA",
+                  "global_code":"86HJH75P+94"
+            },
+            "reference":"ChIJIZ89eDIXDogR0b8vtBtrPEk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4044 183rd Street, Country Club Hills",
+            "CBG":170318255054,
+            "Radius":537.2421063604
+      }
+]

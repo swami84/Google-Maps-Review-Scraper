@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4580248,
+                        "lng":-70.9706215
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4593737803,
+                              "lng":-70.9692725197
+                        },
+                        "southwest":{
+                              "lat":42.4566758197,
+                              "lng":-70.9719704803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bruno's Tequila Bar and Cocina",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115190333916017840943\">Brian Cacchiotti<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBpnRqmqhBAeP9mGVb6FuyGs2DCI84Ol-QJlSUEwo4YLr7OUk2oqU_VTd8yv1N6GGafCLX7_KnmYdtPSvw-pupuvqURDccFv_d_fgUXrqE83yY5tNCi1T5guD8cy4G7uZPPJR0cij3bpnI9fJrWCRsI7kgDf6PGgctd2A2x1eQBG_au",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJiaic8w5t44kRq18aYtiyXGs",
+            "plus_code":{
+                  "compound_code":"F25H+6Q Lynn, MA, USA",
+                  "global_code":"87JFF25H+6Q"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJiaic8w5t44kRq18aYtiyXGs",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":184,
+            "vicinity":"856 Western Avenue, Lynn",
+            "CBG":250092071003,
+            "Radius":163.3618708807
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.458821,
+                        "lng":-70.9701516
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4601367803,
+                              "lng":-70.9687249697
+                        },
+                        "southwest":{
+                              "lat":42.4574388197,
+                              "lng":-70.9714229303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Juan Parrilla Bar & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102622544148026657608\">richard nuttall<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAz0Alnx8NHPfNYzJZn8GeihDmt5Ya_N7uXgQP71290BdB15F2UPQ121594KgqxfNaeI_PkvrluhEhQixP5KdRQz6kvyNPbIF6cHXe8psaX4QAW5bzjgGIaR3LduKcFMZWUlZP5LgYOwIavdMxVy_m6Tm1NSCAM5Hz33qh8FRKtMxZ6",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJuYHK53Jt44kReaDzVKGdGlQ",
+            "plus_code":{
+                  "compound_code":"F25H+GW Lynn, MA, USA",
+                  "global_code":"87JFF25H+GW"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJuYHK53Jt44kReaDzVKGdGlQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":247,
+            "vicinity":"877 Western Avenue, Lynn",
+            "CBG":250092071003,
+            "Radius":163.3618708807
+      }
+]

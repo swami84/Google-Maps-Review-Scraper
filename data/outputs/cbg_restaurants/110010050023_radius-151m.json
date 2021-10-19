@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9091449,
+                        "lng":-77.0282753
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9104808303,
+                              "lng":-77.0268279697
+                        },
+                        "southwest":{
+                              "lat":38.9077828697,
+                              "lng":-77.0295259303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Pizzoli's Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114490026929288589250\">Lorna Schmid<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhwmzdSz6MTG2WX4W6Z_cNhnmBkqb3RXv60NtedtqrT8L4fKIdZnkGsYc34zvwvu3ic0Oryvnbh3ON9_zN-WfbkdTUIY9iLUAZeeRQQ-x-UJqYvuvVBqpMobGTefSgHjOjj3lFrv-UZtgXmt5OBdFgKAZkZSfUZBG2RP84MNAO9690",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ1bcwt_q3t4kRJRFIIyqoWZ8",
+            "plus_code":{
+                  "compound_code":"WX5C+MM Washington, DC, USA",
+                  "global_code":"87C4WX5C+MM"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ1bcwt_q3t4kRJRFIIyqoWZ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":385,
+            "vicinity":"1418 12th Street Northwest, Washington",
+            "CBG":110010050023,
+            "Radius":150.6988292578
+      }
+]

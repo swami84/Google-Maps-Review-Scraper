@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.663379,
+                        "lng":-73.994689
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6647632303,
+                              "lng":-73.9933985697
+                        },
+                        "southwest":{
+                              "lat":40.6620652697,
+                              "lng":-73.9960965303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brothers Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":861,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109856378423508550979\">Brothers Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBz8dEeGH0zvjhlpFCCIABLDRbGYFQc1lROuyucxzsBjVsbbeJi7P2d0CDoWQGC2Twy_XDtBnVYEL9ms6f1iolchSOlaZFvtoewS-X-vIZzlfB8mQP5fyVWVQEbkkRVkTet7dC3P8fVD9hwNx5LoS9x0L5TXyDyHlMKtDJk-ZsYv5Bc",
+                        "width":1385
+                  }
+            ],
+            "place_id":"ChIJpZL09-VawokRnFQ18Rc7onk",
+            "plus_code":{
+                  "compound_code":"M274+94 Brooklyn, NY, USA",
+                  "global_code":"87G8M274+94"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJpZL09-VawokRnFQ18Rc7onk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"647 4th Avenue, Brooklyn",
+            "CBG":360470145004,
+            "Radius":131.745214235
+      }
+]

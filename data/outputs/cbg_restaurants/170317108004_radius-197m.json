@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7506781,
+                        "lng":-87.6490513
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7519607303,
+                              "lng":-87.6478986697
+                        },
+                        "southwest":{
+                              "lat":41.7492627697,
+                              "lng":-87.6505966303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizzahut",
+            "place_id":"ChIJR6ZP6-YvDogRwaxspHJ3DXA",
+            "plus_code":{
+                  "compound_code":"Q922+79 Chicago, IL, USA",
+                  "global_code":"86HJQ922+79"
+            },
+            "rating":5,
+            "reference":"ChIJR6ZP6-YvDogRwaxspHJ3DXA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1000 West 79th Street, Chicago",
+            "CBG":170317108004,
+            "Radius":197.3212235873
+      }
+]

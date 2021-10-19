@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7558721,
+                        "lng":-87.6639306
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7571842303,
+                              "lng":-87.6625873697
+                        },
+                        "southwest":{
+                              "lat":41.7544862697,
+                              "lng":-87.6652853303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104530362911790484640\">Burger King<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDbEjbPmmQwjYbGRiQj5FuURxoRrzsK5T_vP8vPp9cEcE36oxbtlYCpiomlkR5OGI3iAQGktT-pJE9tCy8Xrs_5OA130qUPRl5xuu_2h384OWLE02ezZqGEQRpzVLKYWlDCx6hvjsC4vZ-w-WPEzUsi2tZ4gc6iL4-6xQZTWKFnIv8-",
+                        "width":1400
+                  }
+            ],
+            "place_id":"ChIJIWGdPZIvDogRncKnxDMpPBE",
+            "plus_code":{
+                  "compound_code":"Q84P+8C Chicago, IL, USA",
+                  "global_code":"86HJQ84P+8C"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJIWGdPZIvDogRncKnxDMpPBE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":313,
+            "vicinity":"1606 West 76th Street, Chicago",
+            "CBG":170317103001,
+            "Radius":322.9121720003
+      }
+]

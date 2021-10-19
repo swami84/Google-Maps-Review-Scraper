@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3311028,
+                        "lng":-71.1048143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3323744303,
+                              "lng":-71.1034983197
+                        },
+                        "southwest":{
+                              "lat":42.3296764697,
+                              "lng":-71.1061962803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Indian restaurant boston",
+            "place_id":"ChIJYXetk2R544kRl873EHrn0E0",
+            "plus_code":{
+                  "compound_code":"8VJW+C3 Boston, MA, USA",
+                  "global_code":"87JC8VJW+C3"
+            },
+            "reference":"ChIJYXetk2R544kRl873EHrn0E0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"121 Hillside Street, Boston",
+            "CBG":250250810013,
+            "Radius":161.8132708331
+      }
+]

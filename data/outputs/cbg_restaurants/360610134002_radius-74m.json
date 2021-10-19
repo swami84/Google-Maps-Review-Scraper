@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7723459,
+                        "lng":-73.9570905
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7737497303,
+                              "lng":-73.9556929697
+                        },
+                        "southwest":{
+                              "lat":40.7710517697,
+                              "lng":-73.9583909303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Caffe Buon Gusto",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112089525650627911246\">Edward Madory<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA2CR7XqQdNpy_EU7HtThC5Gqh9zu09X-WFd91bgRz2zPgTXJIEHu0ukqo69K7gPD9L2VnxLbec9ZibNrcGekCxzV6LPq3gKcPV7kjI7CUwiTpMKtRUDmupcZ1mNeSvz0f_MwH2uCUx5ywnyz9fRtqmEevcZ_7cvBopHKKUPaiQS7N_",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJBUeGmL9YwokRNAX5EhAA74o",
+            "plus_code":{
+                  "compound_code":"Q2CV+W5 New York, NY, USA",
+                  "global_code":"87G8Q2CV+W5"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJBUeGmL9YwokRNAX5EhAA74o",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":334,
+            "vicinity":"236 East 77th Street, New York",
+            "CBG":360610134002,
+            "Radius":74.3896321493
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.77256,
+                        "lng":-73.9570193
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7738660303,
+                              "lng":-73.9557002697
+                        },
+                        "southwest":{
+                              "lat":40.7711680697,
+                              "lng":-73.9583982303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sabor A Mexico II",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2796,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109628295143293491274\">Sabor A Mexico II<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEB_2kW_lW5tgsipum_hLutIn8EmSc1vrp29DzoCWcgew7SWT4HuDUXiGEBJTtQQ83t_YXcqKFC61BKB2ngRss2ehERHwU0sFjY9NhgyhRCE_XKpRp3D6fke0Q17YQLDhbJ1Peez-BuZHq-SIip9ZJhYI1B92bqUujpLGCuUaLfZvFtB",
+                        "width":4200
+                  }
+            ],
+            "place_id":"ChIJR_P_or9YwokR2XB0UmWNp9Y",
+            "plus_code":{
+                  "compound_code":"Q2FV+25 New York, NY, USA",
+                  "global_code":"87G8Q2FV+25"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJR_P_or9YwokR2XB0UmWNp9Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":184,
+            "vicinity":"233 East 77th Street, New York",
+            "CBG":360610134002,
+            "Radius":74.3896321493
+      }
+]

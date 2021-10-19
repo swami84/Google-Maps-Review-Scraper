@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7721786,
+                        "lng":-87.6935324
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7733464803,
+                              "lng":-87.6920476197
+                        },
+                        "southwest":{
+                              "lat":41.7706485197,
+                              "lng":-87.6947455803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Red Snapper Marquette",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2190,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112172052974608665085\">Ameer Asmar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECNov__3PUUakWK5kwXBQ-Oa4NtSsLhxPO0sFDxGTQ87wD7AfTjLg3wWJ3XAEz1VEI-Jg5bkzKA_DQfFrN84UQK_epcZA9TxCuM6cI7PVQiwKGGnMOh5WjQZUua3LTzERDB1fqPbZ64o9y6rIJfhsnkFJ55ZvcB87WNuZ-AMGYqRshg",
+                        "width":3527
+                  }
+            ],
+            "place_id":"ChIJKaQApdYvDogRl6FsJIl9q1o",
+            "plus_code":{
+                  "compound_code":"Q8C4+VH Chicago, IL, USA",
+                  "global_code":"86HJQ8C4+VH"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJKaQApdYvDogRl6FsJIl9q1o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":298,
+            "vicinity":"2800 West Marquette Road, Chicago",
+            "CBG":170316608003,
+            "Radius":197.2679822615
+      }
+]

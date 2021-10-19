@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3232457,
+                        "lng":-71.0737293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3246407803,
+                              "lng":-71.0723020697
+                        },
+                        "southwest":{
+                              "lat":42.3219428197,
+                              "lng":-71.0750000303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nos Casa Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101750647553632278247\">Nos Casa Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDMBGAzDUGtgJw54Cn_uAr6JSCWYIjWOll-9d71CG3MDA2yAIb_DvNKuHoRih3Bi30TIFZMKidtAzX0ZFRRVWGUi9_ckZO-yGpTnxm93zwWovg32yBuI2BelUf2yjjLxUnQtdrl-LfKvGgQwbOS8bWoYAkiVgV2zFYcaKTsucJ5ua-f",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJqwugJzZ644kRMfLrhrr3eYI",
+            "plus_code":{
+                  "compound_code":"8WFG+7G Roxbury, Boston, MA, USA",
+                  "global_code":"87JC8WFG+7G"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJqwugJzZ644kRMfLrhrr3eYI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":115,
+            "vicinity":"475 Dudley Street, Roxbury",
+            "CBG":250250906001,
+            "Radius":192.4374499899
+      }
+]

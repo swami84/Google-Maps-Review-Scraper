@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8208156,
+                        "lng":-73.8964644
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8221645803,
+                              "lng":-73.8951154197
+                        },
+                        "southwest":{
+                              "lat":40.8194666197,
+                              "lng":-73.8978133803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Food Bo Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC2xZWYHkNi8WuKa7A7kfPyd-OgMDRBn6MNlk8GGebh9k2PgA0lneLIznddqTAVcCYyY9n3iMn1Nu3fbZ2jWzLmjvLlngdwxBz0rHjz0yt05q6GlkWXkYyXCxXp6h_aFooluBbkM9pDNzZoUxWseswKrrO4zR245Tji891FGjVYdoN2",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ8XyOxqz1wokROLSVBvjahmw",
+            "plus_code":{
+                  "compound_code":"R4C3+8C Bronx, NY, USA",
+                  "global_code":"87G8R4C3+8C"
+            },
+            "rating":4.0,
+            "reference":"ChIJ8XyOxqz1wokROLSVBvjahmw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":97.0,
+            "vicinity":"934 East 163rd Street, Bronx",
+            "CBG":360050087004,
+            "Radius":76.3555097903
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8205554,
+                        "lng":-73.896706
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8219079803,
+                              "lng":-73.8954413197
+                        },
+                        "southwest":{
+                              "lat":40.8192100197,
+                              "lng":-73.8981392803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Remanente Fiel",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115809943545159956628\">FRANCISCO RODR\u00cdGUEZ S\u00c1NCHEZ<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBL78hDLSGhGROlkG9hm1tPThiyhCqp9slK3SGSPIWBzsdU1aj7wl_LGPrkX7uch3mH49uExUceSyEiHza79UlR7t_Pe5KcVX-RlkiFxmJ_a8m7E7c9GE9iKzTbrzQh_eQPuphQ9V-Fsnw9b-Uu5tPU-4dHv490z1R_TjpytEey3nfj",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJc2v96az1wokR8q91zw6IVps",
+            "plus_code":{
+                  "compound_code":"R4C3+68 New York, NY, USA",
+                  "global_code":"87G8R4C3+68"
+            },
+            "rating":null,
+            "reference":"ChIJc2v96az1wokR8q91zw6IVps",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"936 Intervale Avenue, Bronx",
+            "CBG":360050087004,
+            "Radius":76.3555097903
+      }
+]

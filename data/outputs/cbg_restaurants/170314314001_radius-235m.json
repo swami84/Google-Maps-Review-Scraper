@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7601036,
+                        "lng":-87.5584428
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7614223803,
+                              "lng":-87.5570045197
+                        },
+                        "southwest":{
+                              "lat":41.7587244197,
+                              "lng":-87.5597024803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nadia Fish & Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112764380336537281021\">Nadia Fish &amp; Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC2YBDqtfKZJuU8iOHfrcwaGub3dkyCC1N8AJRnsQx0JvampON_womMQQ9UmyjXcpJQoRIv-VpwA_5jMDONpA3_dPBSP5rIBVgfvNv2PZ66klpzEsa3SitfrQeZ-IV4Eh2CRmOOVLtEJHT28v6JfQhMVv-0vesdHbVYJta1XIDOy7kd",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJp_QBtDgoDogRfpqcbsYJQ-c",
+            "plus_code":{
+                  "compound_code":"QC6R+2J Chicago, IL, USA",
+                  "global_code":"86HJQC6R+2J"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJp_QBtDgoDogRfpqcbsYJQ-c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"2704 East 75th Street #3822, Chicago",
+            "CBG":170314314001,
+            "Radius":234.7089696888
+      }
+]

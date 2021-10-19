@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.077301,
+                        "lng":-71.035617
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0785775303,
+                              "lng":-71.0341953697
+                        },
+                        "southwest":{
+                              "lat":42.0758795697,
+                              "lng":-71.0368933303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"John Good Time",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109452081846732237072\">Fred Enobakhare<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqI7JsP5PKiirNItV2LC2MVp0Imy5d1kt1vQcKRM8uysBo2_U2HS9bGcIoFi2xYhFAPm3QRmUcEr-dqQZN8Fip_WGk8JgleRnlpFqO8BQh5PRya418D079KX0btJcbCW0n4UShE1gpvGdAmX1nIbhMjynccjxZP_feYkWzsN-9OazE",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJUahZgxyF5IkRwY5l81i23JY",
+            "plus_code":{
+                  "compound_code":"3XG7+WQ Brockton, MA, USA",
+                  "global_code":"87JC3XG7+WQ"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJUahZgxyF5IkRwY5l81i23JY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":198.0,
+            "vicinity":"379 Belmont Street, Brockton",
+            "CBG":250235107002,
+            "Radius":224.5524156634
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0805757,
+                        "lng":-71.036903
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0819246303,
+                              "lng":-71.0355842697
+                        },
+                        "southwest":{
+                              "lat":42.0792266697,
+                              "lng":-71.0382822303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"LAWYERS corners.com",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ_bm86CaF5IkRKARoU98wtbE",
+            "plus_code":{
+                  "compound_code":"3XJ7+66 Brockton, MA, USA",
+                  "global_code":"87JC3XJ7+66"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJ_bm86CaF5IkRKARoU98wtbE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"Moraine Street, Brockton",
+            "CBG":250235107002,
+            "Radius":224.5524156634
+      }
+]

@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3965385,
+                        "lng":-71.0270493
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3979632803,
+                              "lng":-71.0257796197
+                        },
+                        "southwest":{
+                              "lat":42.3952653197,
+                              "lng":-71.0284775803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Mixed Grill & Cafe",
+            "place_id":"ChIJTe809NNx44kRtMpJYwCGOig",
+            "plus_code":{
+                  "compound_code":"9XWF+J5 Everett, MA, USA",
+                  "global_code":"87JC9XWF+J5"
+            },
+            "rating":5,
+            "reference":"ChIJTe809NNx44kRtMpJYwCGOig",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"741 Broadway, Everett",
+            "CBG":250251605023,
+            "Radius":171.5089936188
+      }
+]

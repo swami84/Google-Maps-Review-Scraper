@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7917609,
+                        "lng":-87.6509704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7931074303,
+                              "lng":-87.6497149697
+                        },
+                        "southwest":{
+                              "lat":41.7904094697,
+                              "lng":-87.6524129303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D.A.W.G.S.",
+            "place_id":"ChIJfyn_0_MuDogRYOaFTL158aE",
+            "plus_code":{
+                  "compound_code":"Q8RX+PJ Chicago, IL, USA",
+                  "global_code":"86HJQ8RX+PJ"
+            },
+            "reference":"ChIJfyn_0_MuDogRYOaFTL158aE",
+            "scope":"GOOGLE",
+            "types":[
+                  "point_of_interest",
+                  "restaurant",
+                  "food",
+                  "establishment"
+            ],
+            "vicinity":"5621 South Carpenter Street, Chicago",
+            "CBG":170316805002,
+            "Radius":267.4020560743
+      }
+]

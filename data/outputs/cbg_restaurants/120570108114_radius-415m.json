@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0548578,
+                        "lng":-82.377638
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0561370803,
+                              "lng":-82.3763571197
+                        },
+                        "southwest":{
+                              "lat":28.0534391197,
+                              "lng":-82.3790550803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bangkok Jazz Thai Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3464,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104231982588162259612\">Vibella Oaks<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBcElZDFRJUsGm7RhbXcNLkfdYL0ad8Rrrul6DBBr9f0Z2k86P5ao8QUhgByQ8vDwCKl5FKEQ1K6j8RCCOS-GjZRu8ouCVaZN3ia8g8zuJSGOoh61pgwvfrQremqlwQC08Ij0qAwgnQx2jaahfdpA2wRgP-uwICK7VwPD6MSS9RWUPL",
+                        "width":4618
+                  }
+            ],
+            "place_id":"ChIJr7yK3G_IwogRR3jtq3qMhcY",
+            "plus_code":{
+                  "compound_code":"3J3C+WW Temple Terrace, FL, USA",
+                  "global_code":"76WV3J3C+WW"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJr7yK3G_IwogRR3jtq3qMhcY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":321,
+            "vicinity":"6840 East Fowler Avenue, Temple Terrace",
+            "CBG":120570108114,
+            "Radius":415.2374009504
+      }
+]

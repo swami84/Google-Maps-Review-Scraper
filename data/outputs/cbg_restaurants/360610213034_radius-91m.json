@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8122086,
+                        "lng":-73.9516596
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8134986803,
+                              "lng":-73.9502575197
+                        },
+                        "southwest":{
+                              "lat":40.8108007197,
+                              "lng":-73.9529554803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maison Harlem",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101435078073084387553\">Ying Kee Perasso<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBoGz-34A1s3XVryntN3ph2-Mk-9eWTrIRXqkWuo12sx_YAOCvK0RXI5vuHXrGabn4M2rpHDVlfTSsNu-CTeZa7nucZPoxCJ6ugur0xE4zzeWMQLH7NuYY_ymyawA4tQRIK23xPkPOkMsecOKNLEv9-08NdPXZCqnoUTuwe4PKszsH9",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJd3H89mz2wokRdk5JHB3Aino",
+            "plus_code":{
+                  "compound_code":"R26X+V8 New York, NY, USA",
+                  "global_code":"87G8R26X+V8"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJd3H89mz2wokRdk5JHB3Aino",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":953,
+            "vicinity":"341 Saint Nicholas Avenue, New York",
+            "CBG":360610213034,
+            "Radius":91.4752987861
+      }
+]

@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2871286,
+                        "lng":-71.0786368
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2885258303,
+                              "lng":-71.0773529697
+                        },
+                        "southwest":{
+                              "lat":42.2858278697,
+                              "lng":-71.0800509303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Only One Jamaican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115765384507650879158\">cleavroy tuitt<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBWeBCvJVlnJzyCZNSKDhdvwXGkOJ6iCPdHSl7nqkXJFPE5POhUqGdnuRUpKO6IPSBh6_CBoXOT7rNcpFjtHIvdhJ8QMmiMMiUN1DLEDsB6f7QqU833ADOx_wFonGG_28F3IbF_RPtrURkpe_CAsG8kZTlkliPROqxSByMP5Ry6y19g",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJr7KyMfJ744kRy-x5pD1j0pY",
+            "plus_code":{
+                  "compound_code":"7WPC+VG Dorchester Center, Boston, MA, USA",
+                  "global_code":"87JC7WPC+VG"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJr7KyMfJ744kRy-x5pD1j0pY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":836,
+            "vicinity":"160 Norfolk Street, Dorchester Center",
+            "CBG":250251005004,
+            "Radius":279.2869509833
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.287818,
+                        "lng":-71.0778253
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2892140803,
+                              "lng":-71.0765333197
+                        },
+                        "southwest":{
+                              "lat":42.2865161197,
+                              "lng":-71.0792312803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Stalex Restaurant & Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114238081273196101905\">jerry alton<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECTzRKnXNIEb1mp-biL8ldQazTfy_6yVI98HrT7eplbBnRyJbq_Z7-Z1j9Y_G_Mq-eKC4E2HZ9Qr5iEChVLxD6d5zTipMvdzFw8bzSP7K9mcc-ci7gZKSdbg-0tzV9_QddrMV8OCvlwwYUhQYq4b5fH80umZejH1lRhOtvPgskzhzy9",
+                        "width":2340
+                  }
+            ],
+            "place_id":"ChIJebfkQPJ744kRU7MAj0z9lBY",
+            "plus_code":{
+                  "compound_code":"7WQC+4V Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7WQC+4V"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJebfkQPJ744kRU7MAj0z9lBY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":215,
+            "vicinity":"140 Norfolk Street, Dorchester",
+            "CBG":250251005004,
+            "Radius":279.2869509833
+      }
+]

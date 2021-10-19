@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3305335,
+                        "lng":-71.0822876
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3318303303,
+                              "lng":-71.0806540697
+                        },
+                        "southwest":{
+                              "lat":42.3291323697,
+                              "lng":-71.0833520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Khadija's Express cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3144,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108929776394911746343\">Khadija&#39;s Express cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAtkD1GDtbXippDF3udrvfDgoOAFGRnVpTdeDEZE9eHKU1j6HnuacjT_LAeeoy2BEUCvPWlHJ_yQVz6WYXGLwpWz7NC8bo3MI6YRAIz7_t6KEQ6HgojW4-G-O6CW-V96anD8jV1_zbAnzDILkpt2Ouj7GnqW0fFCUp8r2bcheNA5N4V",
+                        "width":4192
+                  }
+            ],
+            "place_id":"ChIJi3ZB7Wd744kRW7C4dYHS29U",
+            "plus_code":{
+                  "compound_code":"8WJ9+63 Roxbury, Boston, MA, USA",
+                  "global_code":"87JC8WJ9+63"
+            },
+            "rating":4.1,
+            "reference":"ChIJi3ZB7Wd744kRW7C4dYHS29U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"1127 Harrison Avenue, Roxbury",
+            "CBG":250250804011,
+            "Radius":306.2234792275
+      }
+]

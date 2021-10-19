@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3146958,
+                        "lng":-71.0581803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3161419303,
+                              "lng":-71.0567973197
+                        },
+                        "southwest":{
+                              "lat":42.3134439697,
+                              "lng":-71.0594952803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chef Love Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100876268805810611909\">Chef Love Cuisine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDTwmFmE8A0v_A_o7LrzDaZ6ZOI8C1T-QQFFV_qwzJrvN7Ssg3KiOijpqmDRVRRfhbArEQNjIkIyTc8WMxSB_ybB6yWBam2-4aqcsNbS5vDh2xPz9IwIV104c537FeFzGkCHxTSmv9q0v7dDWfubjlc918YqGEQJ2iz0UMHzaYh66Gw",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJycrSEPp744kROm6uQWNyvK0",
+            "plus_code":{
+                  "compound_code":"8W7R+VP Boston, MA, USA",
+                  "global_code":"87JC8W7R+VP"
+            },
+            "rating":4.0,
+            "reference":"ChIJycrSEPp744kROm6uQWNyvK0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"20 Pearl Street, Boston",
+            "price_level":null,
+            "CBG":250250911004,
+            "Radius":150.1687846614
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3148018,
+                        "lng":-71.0566718
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3161142303,
+                              "lng":-71.0553936697
+                        },
+                        "southwest":{
+                              "lat":42.3134162697,
+                              "lng":-71.0580916303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ba L\u1eb9 Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111170679134487410908\">Aar Bee<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAq_-gL-djaK0MwR9NEJbZouCGrUpd57oDfEapGoQzQiQRrk2urYqe1qN99hpnbv9diwLhdjBp3v4mCznUz2oc-QbIb7v5doeq38EB2yW1J_Tw6s2ODOJg6eL2alxLA9W6nN8tujEZkGMwEglxL2HS2DSppU2dR9zDFvLohcPJexClx",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJK4RKRFN644kRL4MetUQ_zsA",
+            "plus_code":{
+                  "compound_code":"8W7V+W8 Boston, MA, USA",
+                  "global_code":"87JC8W7V+W8"
+            },
+            "rating":4.6,
+            "reference":"ChIJK4RKRFN644kRL4MetUQ_zsA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":765,
+            "vicinity":"1052 Dorchester Avenue, Boston",
+            "price_level":1.0,
+            "CBG":250250911004,
+            "Radius":150.1687846614
+      }
+]

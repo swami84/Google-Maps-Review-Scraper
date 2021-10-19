@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2519587,
+                        "lng":-71.1311286
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2532893303,
+                              "lng":-71.1297279697
+                        },
+                        "southwest":{
+                              "lat":42.2505913697,
+                              "lng":-71.1324259303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Richy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108205944270257475896\">First Last<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA21r_ZIF2nkjRsnEm3p-XnneHSa7ec-fMnj8KiHhXpUsKidvZjv_M06NeQzJ1_-XiIiQqT4plLETfBZvwTLqo1J5h41m8wkrf128UrB-2D7-l8qQUc46mq8ozxZkrk9PpmERQMGY8c1Wea_aDdChL7EpzmyRRXfbXjMy5kw3MBa-Tt",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJY7Zrufd-44kRsffVEiIHWDc",
+            "plus_code":{
+                  "compound_code":"7V29+QG Hyde Park, Boston, MA, USA",
+                  "global_code":"87JC7V29+QG"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJY7Zrufd-44kRsffVEiIHWDc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":149,
+            "vicinity":"1461 River Street, Hyde Park",
+            "CBG":250251401072,
+            "Radius":207.0867838272
+      }
+]

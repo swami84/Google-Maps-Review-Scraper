@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.349372,
+                        "lng":-71.156825
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3506475303,
+                              "lng":-71.1555944197
+                        },
+                        "southwest":{
+                              "lat":42.3479495697,
+                              "lng":-71.1582923803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bangkok Bistro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113250550084820187093\">Alex Podobedov<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED4T5v1J3i6DhUDxnXYRKksCH5KYH6TvtYO83X_xyaGE2ZjSnL8ZI30YJvoUFaOEiv6fTnStl4kTJorhpGT_qa7OBVRAVxpk15_8GFyErxyYxCtgPJ_cNZmKQynyWGk7WAS7BU8sveHlj1Ui9BBfUTVsyoYwKvtVpUzoL2d3ZwfWzHJ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe9YU4kd444kRzJRzIw39AJc",
+            "plus_code":{
+                  "compound_code":"8RXV+P7 Brighton, Boston, MA, USA",
+                  "global_code":"87JC8RXV+P7"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJe9YU4kd444kRzJRzIw39AJc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":170,
+            "vicinity":"433 Washington Street, Brighton",
+            "CBG":250250002022,
+            "Radius":204.4243464161
+      }
+]

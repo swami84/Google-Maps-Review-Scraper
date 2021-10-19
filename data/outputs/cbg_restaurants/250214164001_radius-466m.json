@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2713348,
+                        "lng":-71.0401949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.27269025,
+                              "lng":-71.0389072697
+                        },
+                        "southwest":{
+                              "lat":42.26726845,
+                              "lng":-71.0416052303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The View Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111046102041444866931\">The View Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED4t_j8lJE4MazCdkk6AygK14-ba2FTiA4yRX0XAUjROszPzBb4_P5ZoCU-FY76duvORBF-hMKfngLCIyh7_ZtrChPojRhwnfwYB8xn7Co_Ui1KMTzWvXnd-CAmxmhA4ScDRCIflVgrw7QJyix7ULRwy7rM78OzOL9QTTVWUxRX6_hY",
+                        "width":3872
+                  }
+            ],
+            "place_id":"ChIJr-pUjTd944kRrvjJ7oo6eN0",
+            "plus_code":{
+                  "compound_code":"7XC5+GW Quincy, MA, USA",
+                  "global_code":"87JC7XC5+GW"
+            },
+            "rating":4.3,
+            "reference":"ChIJr-pUjTd944kRrvjJ7oo6eN0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"357 West Squantum Street, Quincy",
+            "CBG":250214164001,
+            "Radius":466.3732518256
+      }
+]

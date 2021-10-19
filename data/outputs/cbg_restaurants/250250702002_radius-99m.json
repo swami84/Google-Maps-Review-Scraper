@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3474809,
+                        "lng":-71.0625966
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3488537303,
+                              "lng":-71.0613248697
+                        },
+                        "southwest":{
+                              "lat":42.3461557697,
+                              "lng":-71.0640228303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chinatown Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112644761140016436794\">Raina H<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDBN_WetjWReH64BnSu7dktP5iMjze-Ht08myPPrwOe_7XixkPC9QlGA7KhU2njhSK0B2r1nbpHpdB01PMih_KzEcDgac1gJ5u32QkcZJczs-lbv8iIjWjNYDzADNqan9o2PWK9kq7GpJkUhtLROF-ABAGOKnPx5pA2cIAHnE_DDDa9",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJmVuRlXB644kROBOLHFPO5jc",
+            "plus_code":{
+                  "compound_code":"8WWP+XX Boston, MA, USA",
+                  "global_code":"87JC8WWP+XX"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJmVuRlXB644kROBOLHFPO5jc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":323,
+            "vicinity":"262 Harrison Avenue, Boston",
+            "CBG":250250702002,
+            "Radius":99.2396487223
+      }
+]

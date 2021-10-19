@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8066238,
+                        "lng":-87.6720757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8080098803,
+                              "lng":-87.6707151697
+                        },
+                        "southwest":{
+                              "lat":41.8053119197,
+                              "lng":-87.6734131303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Carniceria Fruteria Favela,Inc.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJC_SyHW4uDogRYN_FWts4OnQ",
+            "plus_code":{
+                  "compound_code":"R84H+J5 Chicago, IL, USA",
+                  "global_code":"86HJR84H+J5"
+            },
+            "rating":4.7,
+            "reference":"ChIJC_SyHW4uDogRYN_FWts4OnQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"4801 South Wolcott Avenue, Chicago",
+            "CBG":170316114003,
+            "Radius":180.2141994609
+      }
+]

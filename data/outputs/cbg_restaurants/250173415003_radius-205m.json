@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":42.4235561,
+                        "lng":-71.0562725
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4249367803,
+                              "lng":-71.0549702697
+                        },
+                        "southwest":{
+                              "lat":42.4222388197,
+                              "lng":-71.0576682303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Addis Cafe",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118045592044462684467\">Brenda Kumis<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECpxNPWpPxn2rftLSptDD0T4_BP4bX4qqITbVY-5eZRPiEjzQluMDSmMOCCv9G63JrWRRPrqxIxw70RJBYOU7K5zwdBiZ9QJx7SmDQ551gBPf65yaDjF78xPSNnxIckZJjeAttT7tDzKaymZ6Egym-9IycG70eTzmJ7Hl6Ua_WVabom",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJY1S-BXxx44kRyV39i4i4-Zg",
+            "plus_code":{
+                  "compound_code":"CWFV+CF Malden, MA, USA",
+                  "global_code":"87JCCWFV+CF"
+            },
+            "rating":3.9,
+            "reference":"ChIJY1S-BXxx44kRyV39i4i4-Zg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"281 Cross Street, Malden",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":250173415003,
+            "Radius":205.3735330771
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4206339,
+                        "lng":-71.055873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4220034303,
+                              "lng":-71.0545537697
+                        },
+                        "southwest":{
+                              "lat":42.4193054697,
+                              "lng":-71.0572517303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brasil On Ferry",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100494729841212284736\">Paul Miranda<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAmVJ051w30Sdq-Jo19UrUpSgluQqs--gUNrbJIGc3c-_V6EvpMMQVQUQ9o-9W15UIlCApaoSzD8elnZ5CwscEuHQKV5Xly1Bswk1KkADhcRZJv8J7y7dGIFJNsS0-C5yER9lsu1EkkUAxwZwJd4VFCtqJ0kpkPPC-YZ6R-vgPl7TM3",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJr0yWK3px44kRFi8shTCqML8",
+            "plus_code":{
+                  "compound_code":"CWCV+7M Malden, MA, USA",
+                  "global_code":"87JCCWCV+7M"
+            },
+            "rating":4.6,
+            "reference":"ChIJr0yWK3px44kRFi8shTCqML8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":137,
+            "vicinity":"448 Ferry Street, Malden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":250173415003,
+            "Radius":205.3735330771
+      }
+]

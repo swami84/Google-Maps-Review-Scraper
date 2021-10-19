@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.305066,
+                        "lng":-71.114505
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3064253803,
+                              "lng":-71.1132281197
+                        },
+                        "southwest":{
+                              "lat":42.3037274197,
+                              "lng":-71.1159260803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Jeanie Johnston Pub",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114276661105742120088\">Alex Rockwell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAcqg_a2FeXvFL3VUQyrL3lfaY0v6PVLESfXYWxQ4Aam8EsAKTUGd8MWW_qKE-ABuOVGE_Bhi1uRaHBqmNV3uLLdaY-ZMfo0UZdp6zVY2yTHtSB1gq8L2kJrQ-zV2XWKXqwt0ltTKPACQ5l5U_3OEhXGK7A5iPCtxpLdZ8Tfx2u5lbU",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJf7rt_Gl544kR99Oq1WVebN4",
+            "plus_code":{
+                  "compound_code":"8V4P+25 Jamaica Plain, Boston, MA, USA",
+                  "global_code":"87JC8V4P+25"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJf7rt_Gl544kR99Oq1WVebN4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":214,
+            "vicinity":"144 South Street, Jamaica Plain",
+            "CBG":250251202011,
+            "Radius":219.7523859776
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3040153,
+                        "lng":-71.1145127
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3054286803,
+                              "lng":-71.1132586197
+                        },
+                        "southwest":{
+                              "lat":42.3027307197,
+                              "lng":-71.1159565803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Italian Pizza and Subs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":612,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106576222848291589187\">Italian Pizza and Subs<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBsFzRlji54JqDLjf3UxOAzmLGpK5mqnzGCzZX90L3LdGLS8ksRMVNNzWBuom7VztZi_fE2W1p-0mreYqqjWtAvV6RWTohew6GRbXFkrsf2x7HaNF7FzuB4yC_frVY92ajJKDrXMa6q5kID7CD2HviO4Q4iJQBhSm1YFR0Y42tXZFK2",
+                        "width":305
+                  }
+            ],
+            "place_id":"ChIJo0UjGkJ544kRkBI8P5Byie8",
+            "plus_code":{
+                  "compound_code":"8V3P+J5 Jamaica Plain, Boston, MA, USA",
+                  "global_code":"87JC8V3P+J5"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJo0UjGkJ544kRkBI8P5Byie8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"172 South Street, Jamaica Plain",
+            "CBG":250251202011,
+            "Radius":219.7523859776
+      }
+]

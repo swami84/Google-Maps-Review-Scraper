@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.668132,
+                        "lng":-87.6607537
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6694613803,
+                              "lng":-87.6594576197
+                        },
+                        "southwest":{
+                              "lat":41.6667634197,
+                              "lng":-87.6621555803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Miss Dees Inc. Soul Food Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115780737201612282726\">Miss Dees Inc. Soul Food Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEACUhLn3aGPbPA-JCSL96Cpym6xuGRNspxHpPIimcG9V3sNG51syHFUn7aP7oeBR832QQ9OpCWE6xAhCu7UEo0jXT7hUsy5qJ1Wgkwgq7UtdQFzMp8W60Kqh_SQnzkKNhgjeRzeHCJOHrf4HZ8hF8ZwCJ10zE523XJyAyzkGlruSPxd",
+                        "width":1101
+                  }
+            ],
+            "place_id":"ChIJr92MiYgkDogRKo4FGpUcmy8",
+            "plus_code":{
+                  "compound_code":"M89Q+7M Calumet Park, IL, USA",
+                  "global_code":"86HJM89Q+7M"
+            },
+            "rating":3.9,
+            "reference":"ChIJr92MiYgkDogRKo4FGpUcmy8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":324,
+            "vicinity":"12401 South Ashland Avenue, Calumet Park",
+            "price_level":null,
+            "CBG":170318212001,
+            "Radius":537.1615218512
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6681664,
+                        "lng":-87.6607579
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6694712303,
+                              "lng":-87.6595597697
+                        },
+                        "southwest":{
+                              "lat":41.6667732697,
+                              "lng":-87.6622577303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Geno's Kitchen & Catering",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118400235539544402295\">jacardo Dixon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDkcwBsytrjPm5mbB4oRpGHe5LBB1Y6qmY-u_WoKA4mZes7_btL5I4VCvaSXgw7BnLywM1L7CutiXr3D80mMt5AVUXLzYwYuiRdT7OCuj8tlDKqj8p9Nawi-1B1RO3YlS1OPu8QYKdcyNa-U57N3MBjMgnQkwIQeALRKgPubrgdaX5l",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJx0RSiogkDogRHFE7j_xG9lI",
+            "plus_code":{
+                  "compound_code":"M89Q+7M Calumet Park, IL, USA",
+                  "global_code":"86HJM89Q+7M"
+            },
+            "rating":4.1,
+            "reference":"ChIJx0RSiogkDogRHFE7j_xG9lI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":901,
+            "vicinity":"12401 South Ashland Avenue, Calumet Park",
+            "price_level":2.0,
+            "CBG":170318212001,
+            "Radius":537.1615218512
+      }
+]

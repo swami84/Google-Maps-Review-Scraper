@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3705001,
+                        "lng":-71.032005
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3718994303,
+                              "lng":-71.0306597697
+                        },
+                        "southwest":{
+                              "lat":42.3692014697,
+                              "lng":-71.0333577303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"14. Embassy Suites Boston",
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102542442835754682420\">Todd<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBzf49JWBFUmF4JTqPNjl9jf4E9SIFqWxxUyeWj3xM2IWx-jmdZxPOatpp_sNsb6jp-c5RRSvZowGU25fCAMFRIS_f2GF2BQHbj9JgdQWiw8IehW7wpKnhA3MvIrYTsvGPYP7rTG_ofM_SUGzqxNjms7YyYlGPyyRAZZajvtA0_ZMd2",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJz6vnYUFw44kRcbDXTbcPLhM",
+            "plus_code":{
+                  "compound_code":"9XC9+65 Boston, MA, USA",
+                  "global_code":"87JC9XC9+65"
+            },
+            "rating":4.4,
+            "reference":"ChIJz6vnYUFw44kRcbDXTbcPLhM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"207 Porter Street, Boston",
+            "CBG":250250505001,
+            "Radius":191.1370727174
+      }
+]

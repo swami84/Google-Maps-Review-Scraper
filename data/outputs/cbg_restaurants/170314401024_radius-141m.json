@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.74462,
+                        "lng":-87.604638
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7459689803,
+                              "lng":-87.6032890197
+                        },
+                        "southwest":{
+                              "lat":41.7432710197,
+                              "lng":-87.6059869803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jerk it iz",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107177448703727745603\">Jerk it iz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECXRy_sVGM7mvHJIXJTMztfuIPbP8VLnveStLwZ8-n3RvKcdH_lUi4xp6zOdFlW7TEu-rCYWUpWU834UWnhpGW9xE7f8mqXgNitVRo3gt4U7VcUTSkCRDx43KzpQAGsBIYl5sNRO2Vxp80BDtpbIIBoC5nSAsuJg8jhzpz2eI8ZRGk",
+                        "width":2620
+                  }
+            ],
+            "place_id":"ChIJxU3EMZQpDogRtDNI0Tc9TM4",
+            "plus_code":{
+                  "compound_code":"P9VW+R4 Chicago, IL, USA",
+                  "global_code":"86HJP9VW+R4"
+            },
+            "rating":4.3,
+            "reference":"ChIJxU3EMZQpDogRtDNI0Tc9TM4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54.0,
+            "vicinity":"8239 South Cottage Grove Avenue, Chicago",
+            "CBG":170314401024,
+            "Radius":140.5806028707
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.744342,
+                        "lng":-87.604631
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7456645303,
+                              "lng":-87.6031886197
+                        },
+                        "southwest":{
+                              "lat":41.7429665697,
+                              "lng":-87.6058865803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Leon's 83rd",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJaw3BlaQoDogR81ntxYr-8ao",
+            "plus_code":{
+                  "compound_code":"P9VW+P4 Chicago, IL, USA",
+                  "global_code":"86HJP9VW+P4"
+            },
+            "rating":null,
+            "reference":"ChIJaw3BlaQoDogR81ntxYr-8ao",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"8249 South Cottage Grove Avenue, Chicago",
+            "CBG":170314401024,
+            "Radius":140.5806028707
+      }
+]

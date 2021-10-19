@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9797361,
+                        "lng":-82.5531437
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9809024803,
+                              "lng":-82.5517200697
+                        },
+                        "southwest":{
+                              "lat":27.9782045197,
+                              "lng":-82.5544180303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nature's Table Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":562,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102510354341806958831\">Nature&#39;s Table Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECnVrA11TeMB7SaxPbs3z-ZD0oKO6pFa0vD-QMMmTN5eR5ZsYvnLTBQlZD7zlh4JSAOFZiMZVjUWsYUauT1gZZxiM1VJDUBCB1LgNRQW-2_E7qC8xswAmQ0Hasuh4AodWzTDHJ1el0C2bnQmGrX-m7XmMCdHrISKE1DM0-5VRbOeusD",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJZX3f3HLCwogRga0Dfe-vbnc",
+            "plus_code":{
+                  "compound_code":"XCHW+VP Tampa, FL, USA",
+                  "global_code":"76VVXCHW+VP"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJZX3f3HLCwogRga0Dfe-vbnc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"4110 George Road Suite 140, Tampa",
+            "CBG":120570117065,
+            "Radius":577.1521561804
+      }
+]

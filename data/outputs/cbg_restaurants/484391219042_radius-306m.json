@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7211756,
+                        "lng":-97.061062
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7223255803,
+                              "lng":-97.0597174697
+                        },
+                        "southwest":{
+                              "lat":32.7196276197,
+                              "lng":-97.0624154303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sonic Drive-In",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101613732054433439576\">matt roberts<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDh2RRUpgU1wOTMVlaqzJZfkagbiuMh9GA96Zdrf9Fy6C9muzyztfAZtM04NUMDcEFOOUm1_Xm9h8kZzQRWo3WveLrPoDaMbIe6OW83CIxxDLZez2lWbVjLcyxRZ8HthNpRUaW3vkq5DcrxsY07tfwgzUkPewFYopB_adAuSauqprMz",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJJQeJ3ceHToYR56GgSax0pdk",
+            "plus_code":{
+                  "compound_code":"PWCQ+FH Arlington, TX, USA",
+                  "global_code":"8644PWCQ+FH"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJJQeJ3ceHToYR56GgSax0pdk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":749,
+            "vicinity":"2609 East Park Row Drive, Arlington",
+            "CBG":484391219042,
+            "Radius":305.9000334766
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7213717,
+                        "lng":-97.0595483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7225499803,
+                              "lng":-97.0580893197
+                        },
+                        "southwest":{
+                              "lat":32.7198520197,
+                              "lng":-97.0607872803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Pizza Joe Express",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107715546020269516874\">Pizza Joe Express<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAf3kNnW86qdEBj7gfK2Zc71cBBNvyG2XG7_3NHCBZMT5SdxHYYKaFkKUq9TIqoFe5JGMu38vscdBTiZ7EAGyP2Jima7ToZ3_dCnu7Kwap5USL0tiIwACX1A-Wrd14wRtE_GPfClrr7UhhZMAtE5iIuo3JRysVtC4FxmAyqi4EDyLT4",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJfYpEQsiHToYRx30NVe6lXv8",
+            "plus_code":{
+                  "compound_code":"PWCR+G5 Arlington, TX, USA",
+                  "global_code":"8644PWCR+G5"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJfYpEQsiHToYRx30NVe6lXv8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":184,
+            "vicinity":"2807 East Park Row Drive, Arlington",
+            "CBG":484391219042,
+            "Radius":305.9000334766
+      }
+]

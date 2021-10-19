@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3099937,
+                        "lng":-71.0916026
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3112281303,
+                              "lng":-71.0904194697
+                        },
+                        "southwest":{
+                              "lat":42.3085301697,
+                              "lng":-71.0931174303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"EL DUGOUT",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101601825124738448654\">Francisco Mateo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECFnPYjaNs5wTa5TY71i869O4TkGuOatoz1HJrF5EawygOv7qgRVQW1Wxk4gjghG6hsb46JEB8kvBWcHb4DpnixZbWgzQXQWFcf-G1Oc67ffI2qvsfzeOZErIOnlDNLA1a8dHf4joB2kSco5K8Srs-wWyaez7fHHLK6QqP0rAQfY3Rc",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ7dLk-9l744kRcPDrjrA9VK4",
+            "plus_code":{
+                  "compound_code":"8W55+X9 Boston, MA, USA",
+                  "global_code":"87JC8W55+X9"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ7dLk-9l744kRcPDrjrA9VK4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":548,
+            "vicinity":"122 Seaver Street, Boston",
+            "CBG":250250821003,
+            "Radius":233.1980578718
+      }
+]

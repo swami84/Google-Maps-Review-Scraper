@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.7030839,
+                        "lng":-73.8584839
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7043968803,
+                              "lng":-73.8571058697
+                        },
+                        "southwest":{
+                              "lat":40.7016989197,
+                              "lng":-73.8598038303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Superheros Grill & Grocery",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":361,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114577209924425985105\">john schoen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECCK8k1HOfQ6vRjq-E5mRPwHE94PJuNdXPtPjt5PqfJmuQ_D52dY6DTNWWXEtLs4VxgpicVue9KCxg69hULFmj3mwg6UnVwhkgj8jM1Sso9c2Rh8borMeZPJyOG3AfQLhAufl7AHE0b1C1reUBm-enYuDnFHWKqObTVcgQM8fRezYmT",
+                        "width":361
+                  }
+            ],
+            "place_id":"ChIJ3auNsw5ewokRRr0btE6i8Bs",
+            "plus_code":{
+                  "compound_code":"P43R+6J Glendale, Queens, NY, USA",
+                  "global_code":"87G8P43R+6J"
+            },
+            "rating":4.2,
+            "reference":"ChIJ3auNsw5ewokRRr0btE6i8Bs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"88-5 82nd Avenue, Glendale",
+            "CBG":360810639001,
+            "Radius":224.3098869849
+      }
+]

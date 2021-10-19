@@ -1,0 +1,115 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3573611,
+                        "lng":-97.7485722
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3587669803,
+                              "lng":-97.7472428697
+                        },
+                        "southwest":{
+                              "lat":30.3560690197,
+                              "lng":-97.7499408303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Austin Terrier",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103110750404752747729\">Austin Terrier<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDRrPnKKYRRWYLZg2YpgpJe_1pQK8nQMtzrcQsUZyc5hVqkoKxAjScSZzO6ul4R3Z3eaYHjBMmxOFwAdGQ0RpPJalvsGQlOaEMRQ3WRCqNrEzpyPqTaNiOcSqxjDce00e0Tuakcoh8lS7004g4q-Q8o49TTtVwubz5XDLajKtvsSEXS",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJwZ0dQA_LRIYRiQtjV1VWyJU",
+            "plus_code":{
+                  "compound_code":"9742+WH Austin, TX, USA",
+                  "global_code":"86249742+WH"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJwZ0dQA_LRIYRiQtjV1VWyJU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":622,
+            "vicinity":"3435 Greystone Drive, Austin",
+            "CBG":484530017522,
+            "Radius":377.4217474868
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3569634,
+                        "lng":-97.7485307
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3583936803,
+                              "lng":-97.7471815197
+                        },
+                        "southwest":{
+                              "lat":30.3556957197,
+                              "lng":-97.7498794803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Austin's Pizza Greystone",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":431,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115619379713499553829\">Austin&#39;s Pizza Greystone<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDeI8_E0Y9JQtNlXk6u-xobOxDffAG-6BWokwtXj2nCJZYX_9pOHBEc9tLYG7zKd7Ez5psR6m3on-Ju0kWXMIz06pbfwhUqM1miDWREfMWJ3M1jfYeHpRVOHtFSwZByIHHsIofCs2nsoO156ZSyBpJ7gfzzcxRGUUwxzMY2IyGaJlFr",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJN9qBchrLRIYRActr6N6Vdn4",
+            "plus_code":{
+                  "compound_code":"9742+QH Austin, TX, USA",
+                  "global_code":"86249742+QH"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJN9qBchrLRIYRActr6N6Vdn4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":123,
+            "vicinity":"3435 Greystone Drive #101, Austin",
+            "CBG":484530017522,
+            "Radius":377.4217474868
+      }
+]

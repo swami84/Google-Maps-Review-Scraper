@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3227017,
+                        "lng":-71.1067468
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3239745803,
+                              "lng":-71.1053737197
+                        },
+                        "southwest":{
+                              "lat":42.3212766197,
+                              "lng":-71.1080716803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Old Havana Cuban Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117536148620111399202\">Jose<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBfKTEfwySPHbdpSfMmq3siSwvGJW5UzFiWxH4VtWq29nomGZlnht04-05oumnoaP1NIUmzZxk71-5doc-80rrdPWajsQ8fPJmeFmCE3232RqktPtsHmA7Vm0XlEx43Q0T-dAkPjoNBbDJkAp1K5xRS_HpHmszDutuLaHpjdwlohw5r",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJkTQwgoJ544kRhDSUmk5NkJk",
+            "plus_code":{
+                  "compound_code":"8VFV+38 Jamaica Plain, Boston, MA, USA",
+                  "global_code":"87JC8VFV+38"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJkTQwgoJ544kRhDSUmk5NkJk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":262,
+            "vicinity":"349 Centre Street, Jamaica Plain",
+            "CBG":250250812002,
+            "Radius":202.9945967653
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.322778,
+                        "lng":-71.1064265
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3241269803,
+                              "lng":-71.1050775197
+                        },
+                        "southwest":{
+                              "lat":42.3214290197,
+                              "lng":-71.1077754803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rizzo's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104027157178654727357\">Rizzo&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBMPAkak0siBe2TJUZQxNlQ9OEGIwnvEOQrjTtxYOpKsfPzPWaHmKmZWhAvpPvFtj5F7i15iRZV1fOuKT89-CN8zM5JvzIqhSCSBwigWlVfRntz2hIES43IA_Wn9aU7gyVbh1oGZBGDf0uTDtj4iYgcdFXAQNNtnAi-JOYRMCKcSJ4d",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJHXh1gYJ544kRY4JllcFr2Lo",
+            "plus_code":{
+                  "compound_code":"8VFV+4C Jamaica Plain, Boston, MA, USA",
+                  "global_code":"87JC8VFV+4C"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJHXh1gYJ544kRY4JllcFr2Lo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":179,
+            "vicinity":"347 Centre Street, Jamaica Plain",
+            "CBG":250250812002,
+            "Radius":202.9945967653
+      }
+]

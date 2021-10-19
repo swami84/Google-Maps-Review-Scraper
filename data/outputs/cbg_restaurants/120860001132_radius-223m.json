@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9532724,
+                        "lng":-80.1356671
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9546968303,
+                              "lng":-80.1342699697
+                        },
+                        "southwest":{
+                              "lat":25.9519988697,
+                              "lng":-80.1369679303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Miss Arepa Miami",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJNbhsG3Gt2YgRZpjIZOeZzDA",
+            "plus_code":{
+                  "compound_code":"XV37+8P Aventura, FL, USA",
+                  "global_code":"76QXXV37+8P"
+            },
+            "rating":5,
+            "reference":"ChIJNbhsG3Gt2YgRZpjIZOeZzDA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"3300 Northeast 191st Street, Aventura",
+            "CBG":120860001132,
+            "Radius":222.5554496064
+      }
+]

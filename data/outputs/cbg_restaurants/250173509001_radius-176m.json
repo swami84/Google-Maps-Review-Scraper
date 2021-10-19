@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3943472,
+                        "lng":-71.1169675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3956118803,
+                              "lng":-71.1155869697
+                        },
+                        "southwest":{
+                              "lat":42.3929139197,
+                              "lng":-71.1182849303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Davis Square Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2432,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117578208918650505901\">Michael Tarselli<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECcyTrWYVKU8Ld6r6ZWxGTF5GrV7UT8OBwvoYWfscpwsu9vJU5s-cxTD7ZbxCAuGruoeu3xrmqDmczHsvwGlAPI3MI07oOWR9Yr83oisa0YiyHHdINbVyQ5IbHv7BJWoU4HGiYnxjuM5WxedUjtUY3o0y2ZdenhWjcIIoc2byfOgmGG",
+                        "width":3286
+                  }
+            ],
+            "place_id":"ChIJBVcyvyN344kRblB-V1zlXLY",
+            "plus_code":{
+                  "compound_code":"9VVM+P6 Somerville, MA, USA",
+                  "global_code":"87JC9VVM+P6"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJBVcyvyN344kRblB-V1zlXLY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"351 Highland Avenue, Somerville",
+            "CBG":250173509001,
+            "Radius":176.2485276046
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3782584,
+                        "lng":-71.0608269
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3796544803,
+                              "lng":-71.0595710197
+                        },
+                        "southwest":{
+                              "lat":42.3769565197,
+                              "lng":-71.0622689803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Corner Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103038321707247258631\">jesus paniagua<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDx-igOJV4lCqaYlw4ya8NWQx4HcfjvxifCLxkxxFBQxObaqJnze8cIGnO19f3q-00dkVZ9AIzri7scyTnxyMttvjxEzmbgi-nK4R5RUEWYCKe_6F9p00iyAkjO1xRAFEzzOT9kVPBX6t1UzUd0MFnKJ-eCP0hsCcxXw6o3A84oiHRR",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJGaPCBYNx44kR5OhNJPHLObY",
+            "plus_code":{
+                  "compound_code":"9WHQ+8M Boston, MA, USA",
+                  "global_code":"87JC9WHQ+8M"
+            },
+            "rating":4.8,
+            "reference":"ChIJGaPCBYNx44kR5OhNJPHLObY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":21,
+            "vicinity":"156 Bunker Hill Street, Boston",
+            "CBG":250250403001,
+            "Radius":125.5889054427
+      }
+]

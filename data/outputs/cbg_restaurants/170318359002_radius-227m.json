@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8224587,
+                        "lng":-87.6165072
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8238337803,
+                              "lng":-87.6152506197
+                        },
+                        "southwest":{
+                              "lat":41.8211358197,
+                              "lng":-87.6179485803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Chicago's Home of Chicken & Waffles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112915558095283084432\">Janice Temple<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECwfv8vBFrT0plvQSSbraPv7Z4xoVC9-ch7kRy1cowQiXKG1QtBBFtKWQYEJk7HnM-ANZMEW6WRUdTHN9-6Sr6zxmOnvGU8B7GAR02_f07VTPiIJ2f7trVBhHeVerTnNTGs2rQshNEK4eyqWWwz3PYgs5DCv6UDuhB9K8YqGkPCw1_l",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJ_0VX-vgrDogRnZLnFyFz2DE",
+            "plus_code":{
+                  "compound_code":"R9CM+X9 Chicago, IL, USA",
+                  "global_code":"86HJR9CM+X9"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ_0VX-vgrDogRnZLnFyFz2DE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2921,
+            "vicinity":"3947 South King Drive, Chicago",
+            "CBG":170318359002,
+            "Radius":227.0707127826
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7084038,
+                        "lng":-87.643161
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7098307803,
+                              "lng":-87.6417055697
+                        },
+                        "southwest":{
+                              "lat":41.7071328197,
+                              "lng":-87.6444035303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"KFC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103040894571810690817\">Acouple Critics<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECvSzTR9eJChaL9WVryA6mQLLluRs68_LDJ6PnfRjcbWci3S1VfpRynmbcyB1GZ9Yk6kazswKjSOo66POoMwjpItYP_dvaRX4RjYbH2qWP0H46IzHoQRFPM-CmMtdF-wCo4-xlmaInlyf2jpDTpxs59s3_h-9cd1JrFGgUqB-5-IuGs",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJP1c3iLklDogRVvIT43aZf3I",
+            "plus_code":{
+                  "compound_code":"P954+9P Chicago, IL, USA",
+                  "global_code":"86HJP954+9P"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJP1c3iLklDogRVvIT43aZf3I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":600,
+            "vicinity":"10200 South Halsted Street, Chicago",
+            "CBG":170317306003,
+            "Radius":323.0575370463
+      }
+]

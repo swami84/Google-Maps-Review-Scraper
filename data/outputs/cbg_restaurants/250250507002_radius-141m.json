@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3765882,
+                        "lng":-71.0338713
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3779586803,
+                              "lng":-71.0325861697
+                        },
+                        "southwest":{
+                              "lat":42.3752607197,
+                              "lng":-71.0352841303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barney's Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112298759655925227958\">Barney&#39;s Grill<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDnqzgrgdB2TWw2W5uWXhNMuaeWzuBoaS-hl7iAzeppXPkdKSCzd65BINIp2qGpfpPTT5QXaHmfqEoOGDAIkk3qJyHhLCS7v5MEPM3slNxumMAdPAg71-S1bhTIcb-QJYWsoFen0zaQ47CGg8j6wdgEYrCVJL0RrXWDhxW8f0Hm5_SP",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJV9y37nBx44kRkTjUIsX6k3w",
+            "plus_code":{
+                  "compound_code":"9XG8+JF East Boston, Boston, MA, USA",
+                  "global_code":"87JC9XG8+JF"
+            },
+            "rating":4.4,
+            "reference":"ChIJV9y37nBx44kRkTjUIsX6k3w",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"299 Havre Street, East Boston",
+            "CBG":250250507002,
+            "Radius":140.8791670668
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.9266274,
+                        "lng":-80.1887262
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9280031803,
+                              "lng":-80.1873055697
+                        },
+                        "southwest":{
+                              "lat":25.9253052197,
+                              "lng":-80.1900035303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sunny Food Plus",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAA4ip-g5UfHitoQjz5-ZoQbQ8uxuOgi8wDsINdDXcE_XULdqlzEPep6hF-XjKDCarYJr1bqG-e3Tam3KaFY0xw4op4UPBarOecpCiveGzoMQzP28HihprndLl0OpnBbGrBFnsCUPeM7I5wfdS6a0yu6QSW1hiymlW_nGd0ahHP3vV9",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJn2pr4nWu2YgRbTHdKNmmDms",
+            "plus_code":{
+                  "compound_code":"WRG6+MG Miami, FL, USA",
+                  "global_code":"76QXWRG6+MG"
+            },
+            "rating":3.7,
+            "reference":"ChIJn2pr4nWu2YgRbTHdKNmmDms",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"587 Northeast 164th Terrace, Miami",
+            "CBG":120860002151,
+            "Radius":323.7420907051
+      }
+]

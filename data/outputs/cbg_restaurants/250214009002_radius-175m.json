@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3320828,
+                        "lng":-71.1140711
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3334754803,
+                              "lng":-71.1127997697
+                        },
+                        "southwest":{
+                              "lat":42.3307775197,
+                              "lng":-71.1154977303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Punch Bowl",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117924481249290059553\">Punch Bowl<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNGygiYh2ubx-q2QiXQI8DpEq3IvS8sbkackCVnYuJELHpCddDlbCqLQhwZfIFl6Vm7GbcDh5xbIfShgf-XVcm9JwZDpyfMAq9BXA-OurJD_K9YunSGC7AVcaLbAEf5cRNVWludzravjn9k8z-zf4jNl6EWcCmMuGx47g79hXFgmLh",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJsabq7EF544kRPVAFr8jUe5U",
+            "plus_code":{
+                  "compound_code":"8VJP+R9 Brookline, MA, USA",
+                  "global_code":"87JC8VJP+R9"
+            },
+            "rating":4.1,
+            "reference":"ChIJsabq7EF544kRPVAFr8jUe5U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"700 Brookline Avenue, Brookline",
+            "CBG":250214009002,
+            "Radius":174.9533613722
+      }
+]

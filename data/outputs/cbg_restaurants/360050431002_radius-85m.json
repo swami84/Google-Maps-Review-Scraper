@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8799132,
+                        "lng":-73.8755306
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8811746303,
+                              "lng":-73.8742550197
+                        },
+                        "southwest":{
+                              "lat":40.8784766697,
+                              "lng":-73.8769529803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Sing Fei",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104671826816177712949\">micheal w<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDDt80acA-86w837o5EkP8D6qbwDmAmL18h_gBseu-ZQyCilmSx3FtAy9SEd3VBxVm9viZWA5jDckjQderyTfglB1AjZpmzkIz_T9WvYlX1A2Qm3ZCv61vk5yYrFVR8TbmOE1bHIS0Ko6D0zLZh_JU8Klhd2026xyLDXj0UYS5qoM3U",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJL79Y8hLzwokRDDFgMszTVN8",
+            "plus_code":{
+                  "compound_code":"V4HF+XQ New York, NY, USA",
+                  "global_code":"87G8V4HF+XQ"
+            },
+            "rating":3.8,
+            "reference":"ChIJL79Y8hLzwokRDDFgMszTVN8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"263 East Gun Hill Road, Bronx",
+            "CBG":360050431002,
+            "Radius":84.9194351812
+      }
+]

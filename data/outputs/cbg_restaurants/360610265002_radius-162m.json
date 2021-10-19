@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8478526,
+                        "lng":-73.9395199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8492637303,
+                              "lng":-73.9381762697
+                        },
+                        "southwest":{
+                              "lat":40.8465657697,
+                              "lng":-73.9408742303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Farmer's Fridge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109037866893554102337\">Farmer&#39;s Fridge<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDkMWZJdDETBr_bXCs82GxHsPEP8RHjiboN7gcHt4XSY0p6E3vuRAJu-k3iK-EYPU_AnpPDlCSF1ZeyPaCZNyzci40vxuRAgvZfGA0pWB5vcMEviKkEHvkVBy0Ap4qISFKeXf45vm7MEC6g6dee9KaDBvbMMHFL_BFh_Jpgax_1HOdj",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJqZKqAvv3wokReobYJSed53s",
+            "plus_code":{
+                  "compound_code":"R3X6+45 New York, NY, USA",
+                  "global_code":"87G8R3X6+45"
+            },
+            "reference":"ChIJqZKqAvv3wokReobYJSed53s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"177 Fort Washington Avenue, New York",
+            "CBG":360610265002,
+            "Radius":161.9214275665
+      }
+]

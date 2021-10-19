@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7778319,
+                        "lng":-73.9541443
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7792562803,
+                              "lng":-73.9527417197
+                        },
+                        "southwest":{
+                              "lat":40.7765583197,
+                              "lng":-73.9554396803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jacques Brasserie",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4912,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103892536462146764911\">Jacques Brasserie<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAqmhfUvjrsU0g2jFVohvtZdMjI807ZKtqn2S8WdS-gCK1cfG5FcJXb_nZYcgqVe9XmsRNG1uNZw33VU8_W3XteFJcIZEOrmNqgPbHIEsnDdZJoT1orypxY2Kslr5agLZtiGaDAnLkFee4ZPocMROCUFLTdcMSj8gly6Rlw-mXqMcw",
+                        "width":7360
+                  }
+            ],
+            "place_id":"ChIJ_WE-fLxYwokR-5CBMAKtKRg",
+            "plus_code":{
+                  "compound_code":"Q2HW+48 New York, NY, USA",
+                  "global_code":"87G8Q2HW+48"
+            },
+            "price_level":3,
+            "rating":4.4,
+            "reference":"ChIJ_WE-fLxYwokR-5CBMAKtKRg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":306,
+            "vicinity":"206 East 85th Street, New York",
+            "CBG":360610146013,
+            "Radius":74.4772990692
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7773224,
+                        "lng":-73.9527195
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7787018303,
+                              "lng":-73.9513483197
+                        },
+                        "southwest":{
+                              "lat":40.7760038697,
+                              "lng":-73.9540462803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"David's Cuban",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103010570078696643203\">raul rojas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBE2vEt0Ny5I9gXAht9cFfPmlCjXnXR3Q2gp--QXa3B3T-PZtiqOuSeArnVDq3nsTuPk3WHvohi5Rfegsj_AONQpd6uYiDqzJDxc2uGmhbpyNT2UifWd-2uC-JtOgekzsdnYrld93d1BA5EjoFyELHoz9dqvv8HoxIga5o8vmFoxVU6",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJqRBQhYtZwokRFsCZsXyZBWI",
+            "plus_code":{
+                  "compound_code":"Q2GW+WW New York, NY, USA",
+                  "global_code":"87G8Q2GW+WW"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJqRBQhYtZwokRFsCZsXyZBWI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"242 East 85th Street Ground Floor, New York",
+            "CBG":360610146013,
+            "Radius":74.4772990692
+      }
+]

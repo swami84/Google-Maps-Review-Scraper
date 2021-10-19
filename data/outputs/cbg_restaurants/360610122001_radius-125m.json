@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.769837,
+                        "lng":-73.966488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7711340803,
+                              "lng":-73.9651791697
+                        },
+                        "southwest":{
+                              "lat":40.7684361197,
+                              "lng":-73.9678771303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Le Charlot",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110711900061689624906\">Ricardo Gomez-Acebo Calparsoro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDje_2GV8qvnb5qxfrxl46w9bSWCYxobOfg0MbvWxUReKIeBVmELQ6lNLmjEmR5xVP2z1dLDmAo8fa1xVirpe1a3MRai0RQPggl2BgLG6katHVL9V2lNoTkkHyHbYgeNwA2E932MkJ5nrSRazo5wp16jrseZAOYHwgsCMIs3mHV0FV5",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ5dtxYexYwokRYcr75mU0R2g",
+            "plus_code":{
+                  "compound_code":"Q29M+WC New York, NY, USA",
+                  "global_code":"87G8Q29M+WC"
+            },
+            "price_level":3,
+            "rating":4.1,
+            "reference":"ChIJ5dtxYexYwokRYcr75mU0R2g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":218,
+            "vicinity":"19 East 69th Street, New York",
+            "CBG":360610122001,
+            "Radius":125.4697255954
+      }
+]

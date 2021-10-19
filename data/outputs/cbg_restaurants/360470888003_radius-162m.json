@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6527563,
+                        "lng":-73.9195159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6542023303,
+                              "lng":-73.9181401697
+                        },
+                        "southwest":{
+                              "lat":40.6515043697,
+                              "lng":-73.9208381303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114091443709476529531\">Stanislaw Lenart<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDa7Eq0SWyRM-mFpeEGelGW8WklL-JkfAXNbgq2L8eQN1Ly5JutyFHrTBYUXGw6Qb4dTsYIrXzHX2MPAwhnAy4FKSVCHlGP_k4YqA-fWfbVItn3hcMyulVxbML-XhaJ_bcx1-I__xCe5tll9sIWPRx_jHLVBIrfq4KPv002hixW6QuK",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJC4QfOJFcwokRDjEXMqunnwA",
+            "plus_code":{
+                  "compound_code":"M33J+45 New York, NY, USA",
+                  "global_code":"87G8M33J+45"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJC4QfOJFcwokRDjEXMqunnwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1104,
+            "vicinity":"9006 Church Avenue, Brooklyn",
+            "CBG":360470888003,
+            "Radius":162.3131367135
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6540004,
+                        "lng":-73.9178021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6553446303,
+                              "lng":-73.9162698697
+                        },
+                        "southwest":{
+                              "lat":40.6526466697,
+                              "lng":-73.9189678303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106085065828074324134\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBGCtsRC74jVutHKpu4_NTt3S2VPVkFPk63Jk_YbsWh1Srt_Qx5aEGD4L5PaBdZ3NtycBZrDmfqp5dO-2V3ANFHZnqIyq_8QEUuy2Nqpq7sLxFhg26ytKD0bofMGAtz7kfBEUkT8mKoLXxrfbbhJNHDKly7Ht4H1v1wmhEyWwiCUM9J",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJl7KJ0ZNcwokRTTRK0weU0FI",
+            "plus_code":{
+                  "compound_code":"M33J+JV New York, NY, USA",
+                  "global_code":"87G8M33J+JV"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJl7KJ0ZNcwokRTTRK0weU0FI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":843,
+            "vicinity":"9216 Church Avenue, Brooklyn",
+            "CBG":360470888003,
+            "Radius":162.3131367135
+      }
+]

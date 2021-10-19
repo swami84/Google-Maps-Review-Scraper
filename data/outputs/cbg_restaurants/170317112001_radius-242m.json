@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7427683,
+                        "lng":-87.6635606
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7441190303,
+                              "lng":-87.6620892197
+                        },
+                        "southwest":{
+                              "lat":41.7414210697,
+                              "lng":-87.6647871803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Wendy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111652343337698468237\">Nicholas Pellecchia<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJwEAczfZR_lszgJTfsFtAehmc2gayRIWEDnBxyiKQiVf6_e9EP_6zilPPpIFstUnseD5ITJD-4AFeVG6qqRSKsw09aptJwIyx4300zQrDCb8rfA_2_FXYMqDxr1QlET68UmkRBA3bJr47eqlsdTNUNUw7DaNftj7s6mnuQkPlyc1i",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJiWLyDYQvDogRvCR1x4iZIBA",
+            "plus_code":{
+                  "compound_code":"P8VP+4H Chicago, IL, USA",
+                  "global_code":"86HJP8VP+4H"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJiWLyDYQvDogRvCR1x4iZIBA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1446,
+            "vicinity":"8302 South Ashland Avenue, Chicago",
+            "CBG":170317112001,
+            "Radius":241.9485439686
+      }
+]

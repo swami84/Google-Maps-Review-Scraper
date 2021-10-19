@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6802974,
+                        "lng":-97.2396399
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6816474303,
+                              "lng":-97.2383366197
+                        },
+                        "southwest":{
+                              "lat":32.6789494697,
+                              "lng":-97.2410345803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Long John Silver's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113934281811117415459\">SB N<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC-TDlaUsTpemUBXJdy2l7PJhsxsIQ-iOJIZK6VTWDTYAzZ9UUZGjbieMuCbZzyAQ5Um7Fzkjjt1Y3YdTWNFQz9iGyRSu8W9hy2MmeDkr8I68t9Xca99jRiqeY5OLuXL6NXbKmyREqLB6xf8qnvrdFEBqGSEPBXknyhSnMwDcvsHY2g",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe_gDQDdlToYRylKKeMNwrlM",
+            "plus_code":{
+                  "compound_code":"MQJ6+44 Fort Worth, TX, USA",
+                  "global_code":"8644MQJ6+44"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJe_gDQDdlToYRylKKeMNwrlM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":321,
+            "vicinity":"5355 East Loop 820 South, Fort Worth",
+            "CBG":484391064001,
+            "Radius":724.3271454005
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.680289,
+                        "lng":-97.2396027
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6816397803,
+                              "lng":-97.2383192197
+                        },
+                        "southwest":{
+                              "lat":32.6789418197,
+                              "lng":-97.2410171803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"A&W Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108855532251913148383\">U J Nium<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAJN0z8X5HhIgFi0jMxpBTj8kEMGnVlP5MemxMss5-9d--JiyxwzDhZYA8hBBTlsApxItmoKSA911pJN6vzOi98HnLxxZQMCsB2UYexY-pkdwUdL3vtc-lvBVXpjL4xnlfNgYKNqZDdf1Wc31Sky2NYFZ2Fkwa5-t1OtLcjqiBIrfYv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe_gDQDdlToYRmSib6bOvGSU",
+            "plus_code":{
+                  "compound_code":"MQJ6+45 Fort Worth, TX, USA",
+                  "global_code":"8644MQJ6+45"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJe_gDQDdlToYRmSib6bOvGSU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":479,
+            "vicinity":"5355 East Loop 820 South, Fort Worth",
+            "CBG":484391064001,
+            "Radius":724.3271454005
+      }
+]

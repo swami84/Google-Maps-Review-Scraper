@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8675643,
+                        "lng":-80.2728595
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8688471303,
+                              "lng":-80.2715032197
+                        },
+                        "southwest":{
+                              "lat":25.8661491697,
+                              "lng":-80.2742011803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Yoyito Cafe Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2112,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104780460413813933790\">El Mundo Roluz<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAuGj4UjePBzQYwo_rFGipG0fDGvvT_wQXT8xRwRoeZrhOOk04bwL0KP6qFsw0XFuRzl5e3gYNL9iaZKs4d3Gf0dJ8r_aUZhQialuO4IppPc9PZbO4VQObfoiUuTBR8qYS4XHafYki0A6vMNzgfWWdmxecRJjMO5yIZyng1gReiuAB-",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJUdUi3Hmw2YgRlZ8_1ie8pV4",
+            "plus_code":{
+                  "compound_code":"VP9G+2V Hialeah, FL, USA",
+                  "global_code":"76QXVP9G+2V"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJUdUi3Hmw2YgRlZ8_1ie8pV4",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":898,
+            "vicinity":"495 East 49th Street, Hialeah",
+            "CBG":120860006041,
+            "Radius":320.5103373193
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8674175,
+                        "lng":-80.2722823
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8688373303,
+                              "lng":-80.2708922697
+                        },
+                        "southwest":{
+                              "lat":25.8661393697,
+                              "lng":-80.2735902303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":981,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106338037127920016078\">Tayri Marrero<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECjfkrHHlcMsM73w9g0VhY9-SHWhwSts5mUlsyKWlv4ywQibI6zS7UbOh_80TAOEnBi4t0UI2rhK4Rb2KEBgytjczk8-dSaUogzuhAPWcLXZ3gG-kmxcx4-XMoqQap0vUUQOn6Ua1q594wgF1GZHUlh7E-MCItfMY7f4jcONPdLsUg0",
+                        "width":1490
+                  }
+            ],
+            "place_id":"ChIJIYbX5nmw2YgR9LWSe18tITM",
+            "plus_code":{
+                  "compound_code":"VP8H+X3 Hialeah, FL, USA",
+                  "global_code":"76QXVP8H+X3"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJIYbX5nmw2YgR9LWSe18tITM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":891,
+            "vicinity":"501 East 49th Street, Hialeah",
+            "CBG":120860006041,
+            "Radius":320.5103373193
+      }
+]

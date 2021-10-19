@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3501671,
+                        "lng":-71.1321269
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3514645303,
+                              "lng":-71.1307020697
+                        },
+                        "southwest":{
+                              "lat":42.3487665697,
+                              "lng":-71.1334000303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"The Avenue Bar Allston",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107592574993475381296\">Angel Brito<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAbDk2u95wMWZO3SEq-hkWJwtg8x5h2J4CvVAffraUO-yUf7igh53Vp720hKoQ5dcl8nXweRyHWiexxi4bxdP4nt0wp8w6gvrn71wv1mGwYHz1Zq1D4fdIQEvE5faC4Sj0IUz4g0ii-9UKDRKf31NVzXJkN3rna_-6BsrKjUmVqo5Qd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgw3WEcZ544kRl1OnDzjRFns",
+            "plus_code":{
+                  "compound_code":"9V29+34 Boston, MA, USA",
+                  "global_code":"87JC9V29+34"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJgw3WEcZ544kRl1OnDzjRFns",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":638,
+            "vicinity":"1249 Commonwealth Avenue, Boston",
+            "CBG":250250007044,
+            "Radius":124.1640153891
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.349677,
+                        "lng":-71.1331774
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3509579803,
+                              "lng":-71.1317720697
+                        },
+                        "southwest":{
+                              "lat":42.3482600197,
+                              "lng":-71.1344700303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Hopewell Bar & Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102288592920183279515\">Yonghyun Song<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBtU4bte6NQmy8wxXb1TSHmPDqM4fMmSKjAHf9snrQhof1c3N0DMAqsGtt9TzZ3taHdQojyV0npmQhIex9uGMD-Sc8H5DSgYoJd_IA58RQi9LZ2FJO2XnzMik_gwmncFJ_lXWDig1FD2ojyUbF1fJDG03BO4wyLXIGTWVbuk1GY55fU",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJ7YVnn8h544kRfiv1BvK0xAA",
+            "plus_code":{
+                  "compound_code":"8VX8+VP Boston, MA, USA",
+                  "global_code":"87JC8VX8+VP"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ7YVnn8h544kRfiv1BvK0xAA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":759,
+            "vicinity":"1277 Commonwealth Avenue, Boston",
+            "CBG":250250007044,
+            "Radius":124.1640153891
+      }
+]

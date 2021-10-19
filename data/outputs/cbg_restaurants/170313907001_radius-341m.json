@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.8054578,
+                        "lng":-87.5848134
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8069267303,
+                              "lng":-87.5835498697
+                        },
+                        "southwest":{
+                              "lat":41.8042287697,
+                              "lng":-87.5862478303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lake Shore Cafe",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113416154180947832475\">Lake Shore Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECGOLW8d1m2x_yQv5Q4yfNx_6dRG5n6Q9lhK74-rPSyBlLdt6yZzGT3Q1ZvcAlEJ7SgOuji-A_MpeFh-9PxG5wu79icRLFDt09sc4rg-hMZ3ackvU5LmNFn7vzY7AizzsUWn_P_myNG6k238JrF-4GCHPKUkxepl7SvGphHmnZBLefh",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJYYHaa3opDogRzmMA-WMLb6k",
+            "plus_code":{
+                  "compound_code":"RC48+53 Chicago, IL, USA",
+                  "global_code":"86HJRC48+53"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJYYHaa3opDogRzmMA-WMLb6k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":760,
+            "vicinity":"4900 South Lake Shore Drive, Chicago",
+            "CBG":170313907001,
+            "Radius":341.257288053
+      }
+]

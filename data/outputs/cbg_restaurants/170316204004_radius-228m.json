@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7912473,
+                        "lng":-87.7233517
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7925981303,
+                              "lng":-87.7219101197
+                        },
+                        "southwest":{
+                              "lat":41.7899001697,
+                              "lng":-87.7246080803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Solazo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102324404110110481203\">Solazo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDlOqvcq2fpkvK_hjOIkU0ox2iB2SPpX2nWkZypTsT53qspFKO3g3yppYrzMPvX6QChPZ8SI3_oZKfyH8J8uh97VtBNhDlBQkc4MqmxZUCWFH_bWwE3hfoTdhRgiLvKDl9d3oPPNQbzGV2MRcYOCVFrC98pkeJx3GEGm5ljRfxdMErP",
+                        "width":5999
+                  }
+            ],
+            "place_id":"ChIJJy47x7sxDogR4dYsXtnjY60",
+            "plus_code":{
+                  "compound_code":"Q7RG+FM Chicago, IL, USA",
+                  "global_code":"86HJQ7RG+FM"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJJy47x7sxDogR4dYsXtnjY60",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":956,
+            "vicinity":"5600 South Pulaski Road, Chicago",
+            "CBG":170316204004,
+            "Radius":228.4730980776
+      }
+]

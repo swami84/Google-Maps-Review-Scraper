@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.321185,
+                        "lng":-71.077664
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3225175803,
+                              "lng":-71.0762492697
+                        },
+                        "southwest":{
+                              "lat":42.3198196197,
+                              "lng":-71.0789472303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Rey Del Pollo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114908309494751710841\">Rey Del Pollo<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBWGyA2y8DsEezeszqVpIx2zwMAcf0lZJPLacufAO3F3vPEEox6iBDYPRdszeuEXorRBTR5oyrNIV1393xUYyYa2p9duVMr70gbEmMnRK0pp-fUY4bMeroDEI8hy16l4Ajn-Cqa1m2KT5J4dhUigvcZvsQSNt70ZFaL7dAgt0T2x02P",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJtaWqQDR644kRcgnGeBMrU8I",
+            "plus_code":{
+                  "compound_code":"8WCC+FW Boston, MA, USA",
+                  "global_code":"87JC8WCC+FW"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJtaWqQDR644kRcgnGeBMrU8I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":229,
+            "vicinity":"111 Blue Hill Avenue, Boston",
+            "CBG":250250818002,
+            "Radius":184.2957896843
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3193204,
+                        "lng":-71.0779815
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3206698303,
+                              "lng":-71.0765233197
+                        },
+                        "southwest":{
+                              "lat":42.3179718697,
+                              "lng":-71.0792212803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Blue Hill House of Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113988794390317599136\">Blue Hill House of Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBEEQ0aT0cO3PViKHyCitJGTRXj48giix7uOAD8xCyZtMKYVhgcjC6qzjd7GkIWKY-_9MSAyq7vVpE6QPt6KCLHY5XD6LzPKjXpKnMTnjkbxQ9gXVAebAhFEnCutmPVOXxUGfQTVZZcyDZ5mvklMne0vYKftSLFC8XiSWctNraWiZjt",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJSRLi7DR644kRpb7mghTCuy0",
+            "plus_code":{
+                  "compound_code":"8W9C+PR Roxbury, Boston, MA, USA",
+                  "global_code":"87JC8W9C+PR"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJSRLi7DR644kRpb7mghTCuy0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":135,
+            "vicinity":"161 Blue Hill Avenue, Roxbury",
+            "CBG":250250818002,
+            "Radius":184.2957896843
+      }
+]

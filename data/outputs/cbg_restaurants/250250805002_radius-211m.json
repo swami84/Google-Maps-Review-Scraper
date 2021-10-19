@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3353716,
+                        "lng":-71.0806444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3367564303,
+                              "lng":-71.0793564197
+                        },
+                        "southwest":{
+                              "lat":42.3340584697,
+                              "lng":-71.0820543803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Talia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103377000188403849588\">cucho Pimentel<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDpDeJvH1qFyTcFlm1WMKp682xk_sM9tq5o0Jlk4mwJ43hIsiASNVvZK_B7PG9wX9dVCV1VjDT1SZmttifabY-KcGgWoBsGxSGh2GsJlEM3pHdY8u9U2vf5oRCk3dBgNh7tWQMBUt0woD4kU1i_HZ8HshKkHsPDtZBNi3ME7FWPHkVD",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJ5ZsSxj1644kRWieCXebjoZ4",
+            "plus_code":{
+                  "compound_code":"8WP9+4P Boston, MA, USA",
+                  "global_code":"87JC8WP9+4P"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ5ZsSxj1644kRWieCXebjoZ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"618 Shawmut Avenue, Boston",
+            "CBG":250250805002,
+            "Radius":211.065728651
+      }
+]

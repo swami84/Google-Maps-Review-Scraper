@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2793876,
+                        "lng":-97.7600875
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2806945303,
+                              "lng":-97.7586204197
+                        },
+                        "southwest":{
+                              "lat":30.2779965697,
+                              "lng":-97.7613183803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Galaxy Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117581079831801363927\">Barbara Deane<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBOSi_L2gUKP3--pjihpM0kn230xYVe-M-3dlQKE_KX90dwgJtO9hs1USaXJ2dy38L0O_auQs6RVLvm9XKtCTj20FlzFZLBMuVLEsnA8Ulq72StLxcZ1blzslg6ViVkP283OQG3oR552pytOpwibH9I0Ibp9YTu-WXyJheYlUsE59CX",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ1YiayGu1RIYRLqwhTVCmJWs",
+            "plus_code":{
+                  "compound_code":"76HQ+QX Austin, TX, USA",
+                  "global_code":"862476HQ+QX"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ1YiayGu1RIYRLqwhTVCmJWs",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":729,
+            "vicinity":"1000 West Lynn Street, Austin",
+            "CBG":484530012001,
+            "Radius":400.4673144665
+      }
+]

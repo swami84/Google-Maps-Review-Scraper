@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.2896548,
+                        "lng":-97.7473102
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.2909320303,
+                              "lng":-97.7460703697
+                        },
+                        "southwest":{
+                              "lat":30.2882340697,
+                              "lng":-97.7487683303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"ATX Nutrition",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107121120377427500122\">ATX Nutrition<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDaJsXhgX6latzIQ3gW3VZEUQ8wf8l_SXOqnDNdfSiWc3rOatVlwecMk54bFyO3K6vKSL3JxQgoxKy15KFsyAce-a7GeugoNCqr6sfUa7A3w0a6_N3Qry9NENVqvX4xNOsjg5jzTSknSLTbO05RyFEhz6TP_7CYoq9zozcxltY8PJhv",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJGXykVSO1RIYRqCnt8Oie4wk",
+            "plus_code":{
+                  "compound_code":"77Q3+V3 Austin, TX, USA",
+                  "global_code":"862477Q3+V3"
+            },
+            "rating":4.5,
+            "reference":"ChIJGXykVSO1RIYRqCnt8Oie4wk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"910 West 25th Street, Austin",
+            "CBG":484530006032,
+            "Radius":288.4333374679
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2598194,
+                        "lng":-71.0408444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2611705803,
+                              "lng":-71.0396624197
+                        },
+                        "southwest":{
+                              "lat":42.2584726197,
+                              "lng":-71.0423603803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Plate",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108287076400100394206\">Matthew White<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDaqT7PLXpYAuTOXFgFyClkSpwL3EXUEZ4T8UQPLyr-4s97V0K21UwgrQWOibKYfnQuaA1T1UIx37dxDxYw3U0UjPIjSnHaOryGWbTxBbhz-uIqLz0yh3TGXoUcyECpk7yQZUqnY3TPPnAh89B0r_Daw94pUiFxgGJGhvmk5jlzlJJs",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJf5efio5844kR8XExCZ79YDA",
+            "plus_code":{
+                  "compound_code":"7X55+WM Milton, MA, USA",
+                  "global_code":"87JC7X55+WM"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJf5efio5844kR8XExCZ79YDA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":126,
+            "vicinity":"10 Bassett Street #2, Milton",
+            "CBG":250214164002,
+            "Radius":272.1201641786
+      }
+]

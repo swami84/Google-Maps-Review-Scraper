@@ -1,0 +1,48 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9014236,
+                        "lng":-77.0505667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9024462803,
+                              "lng":-77.0494214197
+                        },
+                        "southwest":{
+                              "lat":38.8997483197,
+                              "lng":-77.0521193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJaxYt37O3t4kROOcROE0_B88",
+            "plus_code":{
+                  "compound_code":"WW2X+HQ Washington, DC, USA",
+                  "global_code":"87C4WW2X+HQ"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJaxYt37O3t4kROOcROE0_B88",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"900 23rd Street Northwest, Washington",
+            "CBG":110010056004,
+            "Radius":165.8026387316
+      }
+]

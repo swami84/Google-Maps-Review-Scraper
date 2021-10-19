@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.71907,
+                        "lng":-87.76971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7204506803,
+                              "lng":-87.7683699197
+                        },
+                        "southwest":{
+                              "lat":41.7177527197,
+                              "lng":-87.7710678803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Red Lobster",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1459,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106014173931193994253\">iris velez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAXIS7F_eT7KPag29LI9IBMKq3uTjG1iKrE8WZMNvQbM62bufJMt-XAjltOlGVVx2LvXUi3mIqcHo6H4SyKK_4JpimXcdWxTWxhXuOjjOt6yR1DPtC9KVBti6nOStAODSdGv1VMqTt41N_xt2rqJbfNsTbMQxTTsQV8uh2jqqAH8cvV",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJOZxThxg6DogRWfO2eejRg1w",
+            "plus_code":{
+                  "compound_code":"P69J+J4 Oak Lawn, IL, USA",
+                  "global_code":"86HJP69J+J4"
+            },
+            "price_level":2.0,
+            "rating":3.9,
+            "reference":"ChIJOZxThxg6DogRWfO2eejRg1w",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2888,
+            "vicinity":"9500 Southwest Highway, Oak Lawn",
+            "CBG":170318223022,
+            "Radius":314.1375986963
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7168062,
+                        "lng":-87.7720166
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7181383803,
+                              "lng":-87.7707002197
+                        },
+                        "southwest":{
+                              "lat":41.7154404197,
+                              "lng":-87.7733981803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"JIB's Hot Dogs. THE LUNCH TIME STAND",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104799638456167127207\">JIB&#39;s Hot Dogs.<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECPcJAWF-Fis8MCUruw5cIb1MCWqFV6lYPvsDB-MLt_lH9ajgk7n6emQrlapsb1Q9NzFoMW11dbxgoLIxHe3z78zQ79yPtSpsqbNYOWEoBJI3XefZD518L65c74leQ-6KyiqndnQGdbzg0D2f1fae2Tpwh_HXZP4IHfTOeFqJbi8hI7",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJV-p9MMc7DogRZ_wCfgFwXhs",
+            "plus_code":{
+                  "compound_code":"P68H+P5 Oak Lawn, IL, USA",
+                  "global_code":"86HJP68H+P5"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJV-p9MMc7DogRZ_wCfgFwXhs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":49,
+            "vicinity":"9630 Southwest Highway, Oak Lawn",
+            "CBG":170318223022,
+            "Radius":314.1375986963
+      }
+]

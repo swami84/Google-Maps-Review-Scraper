@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3303891,
+                        "lng":-71.0944155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3316704303,
+                              "lng":-71.0930507197
+                        },
+                        "southwest":{
+                              "lat":42.3289724697,
+                              "lng":-71.0957486803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ashur Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103599159480240017150\">Jessica Fletcher<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDVjscXsugt7tqDeUUCSbOOXqON9N9ZGsSX5azulOZJ6lCb2Gh4rShoL5agKNJpRK1UBI8Af3apTKC5KtT9yDI_JXIoJqU1UTPuWbDSgUjujYaX8pYg7-TWN3UQWXh8lMvkX7aeJYQjhxZ7SFTzFE9I0aByljF63YKx7ceVBGWySy5g",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8bjVLCZ644kRepW9kmM7aaA",
+            "plus_code":{
+                  "compound_code":"8WJ4+56 Roxbury, Boston, MA, USA",
+                  "global_code":"87JC8WJ4+56"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ8bjVLCZ644kRepW9kmM7aaA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":303,
+            "vicinity":"291 Roxbury Street, Roxbury",
+            "CBG":250250814002,
+            "Radius":201.8151170915
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3307665,
+                        "lng":-71.0933313
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3320364803,
+                              "lng":-71.0919817197
+                        },
+                        "southwest":{
+                              "lat":42.3293385197,
+                              "lng":-71.0946796803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ascia Kitchen + Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJUUQXA6B744kRz8nGZx8Cu-M",
+            "plus_code":{
+                  "compound_code":"8WJ4+8M Roxbury, Boston, MA, USA",
+                  "global_code":"87JC8WJ4+8M"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJUUQXA6B744kRz8nGZx8Cu-M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"100 Malcolm X Boulevard, Roxbury",
+            "CBG":250250814002,
+            "Radius":201.8151170915
+      }
+]

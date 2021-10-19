@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6222954,
+                        "lng":-73.9360884
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6235640803,
+                              "lng":-73.9348738197
+                        },
+                        "southwest":{
+                              "lat":40.6208661197,
+                              "lng":-73.9375717803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Bell",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112091362312116258705\">Pizza Bell<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDOntm6a_GPO80stSUPk97ry7uRX6L_-GF3pawLTpFa4nyaj2wy_1B1LiOlalrIs3aHeBQcw9Mcspxgnh0X5veSQPfHiLZOUaCYfefSBVAfKt4X9hwq5TJqdow8RYDWTz3js5Hd5H1I0GRE_hdqcnsyiaX0fv-G3x74eWYgOmRCCzpw",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJaxW-G_JFwokRK9NiV642R-s",
+            "plus_code":{
+                  "compound_code":"J3C7+WH New York, NY, USA",
+                  "global_code":"87G8J3C7+WH"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJaxW-G_JFwokRK9NiV642R-s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"1955 Flatbush Avenue, Brooklyn",
+            "CBG":360470736002,
+            "Radius":128.9046650768
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6221484,
+                        "lng":-73.9359936
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6234879303,
+                              "lng":-73.9345698197
+                        },
+                        "southwest":{
+                              "lat":40.6207899697,
+                              "lng":-73.9372677803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Halal Gyro Pizza Chicken Brooklyn | Jay's Quick Bites",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":683,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100416074281522753852\">Halal Gyro Pizza Chicken Brooklyn | Jay&#39;s Quick Bites<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBlBnsDoiirGvG0a-tcnoyxyRui8-imAsmrYICHXMMqiAuflVFQXZcQRmrNHm5-PChsI1ehGLKbXyuC4oIKpcny3A23EhkjSllvREkFVUby75REjBJW4YLtSDKiLe-ykr0PdIx2qyseAHwLW9G07J6YhxlUQgzpPt91KhlwuVex_ra2",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJDyJAKqhEwokR9E3lutRq5ok",
+            "plus_code":{
+                  "compound_code":"J3C7+VJ New York, NY, USA",
+                  "global_code":"87G8J3C7+VJ"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJDyJAKqhEwokR9E3lutRq5ok",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"1961 Flatbush Avenue, Brooklyn",
+            "CBG":360470736002,
+            "Radius":128.9046650768
+      }
+]

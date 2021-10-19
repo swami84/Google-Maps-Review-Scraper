@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2838253,
+                        "lng":-71.0461339
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2852788303,
+                              "lng":-71.0448762697
+                        },
+                        "southwest":{
+                              "lat":42.2825808697,
+                              "lng":-71.0475742303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100985430073839325327\">Craig Anthony Evans<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC2pmcXbpetvOZsmxk6w5Xc7Y-acD--yJKfuDDLi1X8uVh-S0dz1G80dX--O39Ab0tLplPRZIcX-nhc476Zz0NZ3X8swWAJu0hGaYCO919Dg25KFdIipxJMIbE8-9oDoUBwyBM-R0XXCPpyGvkBgwjYrU_JbeeT_HWLkj22QQ3mOXg6",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJMTRpe3d744kRSD_eOIFaEII",
+            "plus_code":{
+                  "compound_code":"7XM3+GG Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7XM3+GG"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJMTRpe3d744kRSD_eOIFaEII",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":70,
+            "vicinity":"719 Gallivan Boulevard, Dorchester",
+            "CBG":250251007002,
+            "Radius":438.0825852594
+      }
+]

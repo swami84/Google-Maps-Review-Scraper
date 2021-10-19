@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.4571887,
+                        "lng":-97.7914687
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.4585049803,
+                              "lng":-97.7902048697
+                        },
+                        "southwest":{
+                              "lat":30.4558070197,
+                              "lng":-97.7929028303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"COVER 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2848,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106136707249183764326\">COVER 2<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECXWpS46sIDaa7cltVRK2FzjjrmJ_XEjd0ZdoDaeDyGaPej05M-JMFgk3b-gGm8KYwBb6HOoElxQtVGqoa2ipqrQmWERbgMPemKltHXxPQlRFTNNMdVUzcLhRNm8AitLl1fVYzJ-aQVc8ZwesS20ANJExjejH1QiWVMELCUxMh7I4zn",
+                        "width":4272
+                  }
+            ],
+            "place_id":"ChIJ12DeELYyW4YRnvyfos38gaE",
+            "plus_code":{
+                  "compound_code":"F645+VC Austin, TX, USA",
+                  "global_code":"8624F645+VC"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ12DeELYyW4YRnvyfos38gaE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_takeaway",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":969,
+            "vicinity":"13701 Research Boulevard, Austin",
+            "CBG":484910204082,
+            "Radius":521.3939042275
+      }
+]

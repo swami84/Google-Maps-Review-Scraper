@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8000148,
+                        "lng":-73.9338812
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8012943803,
+                              "lng":-73.9323782697
+                        },
+                        "southwest":{
+                              "lat":40.7985964197,
+                              "lng":-73.9350762303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Full moon pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102972742596853933740\">A_ REVIEW<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC_leGrLegKdSDTa3WL5QPzN7gHrwVqNy8Gcj6b7r0xG8j0AoBP7OXoN7QOOz_rSK6ZiDlb6DZhH42QVBMFvmtRu_9X7WibHCRMH0atde3O0OAcUME54UwS8iMgmkE2f9aFy60eRGz7SEAFqebihuFflDZFRgQtU57weeDIOTVv_ws8",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJAUn1IgH1wokRHmlvBSNC6vA",
+            "plus_code":{
+                  "compound_code":"R328+2C New York, NY, USA",
+                  "global_code":"87G8R328+2C"
+            },
+            "reference":"ChIJAUn1IgH1wokRHmlvBSNC6vA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Arthur Ave, Bronx",
+            "CBG":360610194001,
+            "Radius":147.4360272372
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9588042,
+                        "lng":-82.4889181
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9601476803,
+                              "lng":-82.4876629197
+                        },
+                        "southwest":{
+                              "lat":27.9574497197,
+                              "lng":-82.4903608803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tampa Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116875856911691210512\">Jonathan Jacob<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDTw6DmzeIuXhJ1ym138m1NEcEdeEBArnLIIdosgzdrOPWTMN6YBsU8faoa7cNWp_MdXYsMKhBJBoPPtMC8WDckDtx23qvVoJYgtfLz4OteUoi4kByMrKb7RbXbuZ3rf7PWZ9DVPQUdZPRKNojeZGhsqxlNZgyS9ITSvDnftrsNZ7Sm",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJJb6kR7PDwogRTY8F0JY_g_k",
+            "plus_code":{
+                  "compound_code":"XG56+GC Tampa, FL, USA",
+                  "global_code":"76VVXG56+GC"
+            },
+            "rating":5,
+            "reference":"ChIJJb6kR7PDwogRTY8F0JY_g_k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2745 West Chestnut Street, Tampa",
+            "CBG":120570045004,
+            "Radius":324.2372551996
+      }
+]

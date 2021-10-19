@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3497666,
+                        "lng":-71.0979065
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3510451303,
+                              "lng":-71.0964144197
+                        },
+                        "southwest":{
+                              "lat":42.3483471697,
+                              "lng":-71.0991123803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Fresh Food Company at Marciano Commons",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109624847292439428860\">Licia Nguyen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDYFPqAZZB_HW6LlGXPiuUSu7yK41t8-1oji9AjflDNDyeJ3eQ8SrL9QwyETW7rlaYiF_6HpbWwYlF_oXI9yUYBGnOMw2uaa30oG5m6CP0Wz2jbj9qEVX3kMoHyT3r3PZWHRrMCSnUTmU_UNSWY3_13RPnCFB3SJ6jrGEPmDz7bsrE",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJu68FA_h544kRFZ4pbYQVLcI",
+            "plus_code":{
+                  "compound_code":"8WX2+WR Boston, MA, USA",
+                  "global_code":"87JC8WX2+WR"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJu68FA_h544kRFZ4pbYQVLcI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":56,
+            "vicinity":"100 Bay State Road, Boston",
+            "CBG":250250101032,
+            "Radius":112.1971526774
+      }
+]

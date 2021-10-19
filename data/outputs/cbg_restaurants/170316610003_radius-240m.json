@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.761317,
+                        "lng":-87.6835021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7627322303,
+                              "lng":-87.6821132697
+                        },
+                        "southwest":{
+                              "lat":41.7600342697,
+                              "lng":-87.6848112303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115630797537708455003\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECqcqa8Hy29dYeHHFz8uNcoLwz6I6QsOwyp30951h_77NSZvGyDMU2n0OCilywhyPUGpdAgkwfQLNZkyqiqvSJv_X_SFI5erfYvNWQa89vUuwH-8K6MVS1CczNJ9nj2h1_2lN9L-DzLZbIyHgi-VhVwi0W6nGc7xzGi3cVvuEa5Xrr4",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJy6wr6cMvDogRQpoJhVu5zNA",
+            "plus_code":{
+                  "compound_code":"Q868+GH Chicago, IL, USA",
+                  "global_code":"86HJQ868+GH"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJy6wr6cMvDogRQpoJhVu5zNA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1211,
+            "vicinity":"7250 South Western Avenue, Chicago",
+            "CBG":170316610003,
+            "Radius":239.8794517356
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7615792,
+                        "lng":-87.6833822
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7628627803,
+                              "lng":-87.6820368697
+                        },
+                        "southwest":{
+                              "lat":41.7601648197,
+                              "lng":-87.6847348303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fat Johnnie's Famous Red Hots",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2424,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118250714234542194518\">Andrew KPro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAbaXh8cHbD88OLazzGTOuOUNBR5KoAAotC-e9xb2fDT3AlKjfox9rW2CoZFuneIgwGwbV-rK8V-AlcM3-XcRMfhj_GvVz11HDD11w67xh5tXV5QTxm4vKO9RFoiU0lSYMFfb_rP8AbyRR7hmlXHrnOrrzeNWyANukD9qUrMJPYaPmK",
+                        "width":3232
+                  }
+            ],
+            "place_id":"ChIJm3BY5cMvDogRZawEezzFryk",
+            "plus_code":{
+                  "compound_code":"Q868+JJ Chicago, IL, USA",
+                  "global_code":"86HJQ868+JJ"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJm3BY5cMvDogRZawEezzFryk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":245,
+            "vicinity":"7242 South Western Avenue, Chicago",
+            "CBG":170316610003,
+            "Radius":239.8794517356
+      }
+]

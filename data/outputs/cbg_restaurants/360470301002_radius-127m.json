@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6770264,
+                        "lng":-73.9160373
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6783284303,
+                              "lng":-73.9147267697
+                        },
+                        "southwest":{
+                              "lat":40.6756304697,
+                              "lng":-73.9174247303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114286425511037565073\">DeBorah Palmer<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBm3rhi5dzvMTo4GaN0o_ZBziy3lU8-qaQpu5P7ic3ur8Zo0OzeYL7LXPzzicAFomWoJWJsOZq1AbaAxuLeYY-2WRVtedm70tiKOaFIL87-BYzExC82X4r_ASQmZ3iFirQke5Q4KiSvQblclPw0rRAOLaBpJCIHWQmIuQ-Wy8muWyqI",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYSktm2hcwokRTZpAKd2l-38",
+            "plus_code":{
+                  "compound_code":"M3GM+RH New York, NY, USA",
+                  "global_code":"87G8M3GM+RH"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJYSktm2hcwokRTZpAKd2l-38",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":325,
+            "vicinity":"1993 Atlantic Avenue, Brooklyn",
+            "CBG":360470301002,
+            "Radius":126.5043392053
+      }
+]

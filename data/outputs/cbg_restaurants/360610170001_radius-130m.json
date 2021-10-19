@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7911227,
+                        "lng":-73.9423805
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7923703803,
+                              "lng":-73.9409660197
+                        },
+                        "southwest":{
+                              "lat":40.7896724197,
+                              "lng":-73.9436639803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"La Amistad",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102293575260268560328\">Gilberto Montanez III<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDGKi1JEHG1x6YawCBVF1EvOMFwu8xuecDcXvsoDsRdbyufi68Bi8L11aMaRfirOSO4iCUXc_zV5R9_qyuR_W0Ew_QtaZiz63rcU3yfY9qo-XgbZrQKbOCoRQ7dcPW2pa141DHGUwo0NaG2fuVTR1xrkppminKD3DxRJ_vhav3AWvTH",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ68XkLQL2wokROs2Lx11HVFE",
+            "plus_code":{
+                  "compound_code":"Q3R5+C2 New York, NY, USA",
+                  "global_code":"87G8Q3R5+C2"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ68XkLQL2wokROs2Lx11HVFE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"2067 2nd Avenue, New York",
+            "CBG":360610170001,
+            "Radius":129.5229873089
+      }
+]

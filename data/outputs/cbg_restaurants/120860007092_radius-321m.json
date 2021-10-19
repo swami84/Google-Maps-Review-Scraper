@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8537243,
+                        "lng":-80.3060708
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8549762803,
+                              "lng":-80.3046705197
+                        },
+                        "southwest":{
+                              "lat":25.8522783197,
+                              "lng":-80.3073684803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lucy's Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116522084138266967125\">Victor Quintero<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECKlEf3peKEKikXmTNGVkaznvp4rgOiqSRxDEVgk8c3CJhhcytl4jo5LHVnMA_1pz5VGSdaP7mxyy2U7RgdVy2RmnN4hgvaYkfVSQ_V2biXJtuRr0wjCuSSLdgee4unEjb55XlJwczNG1t-JhpylDxjaAPYkJHq5LkiXLApL5_B64qi",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJk5Jpalm62YgRQe-4wcT1b7c",
+            "plus_code":{
+                  "compound_code":"VM3V+FH Hialeah, FL, USA",
+                  "global_code":"76QXVM3V+FH"
+            },
+            "rating":4.9,
+            "reference":"ChIJk5Jpalm62YgRQe-4wcT1b7c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"1183 West 35th Street, Hialeah",
+            "CBG":120860007092,
+            "Radius":321.1656327944
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8493712,
+                        "lng":-80.3060114
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8507010803,
+                              "lng":-80.3047337697
+                        },
+                        "southwest":{
+                              "lat":25.8480031197,
+                              "lng":-80.3074317303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Castle Novo Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103860424887223121539\">Herve Andrieu<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDpum-B9VAPoUOu7w388hxt-oEAGOB5DLBzChzZKMIFm-B_Xkr54et5VC45PvR1l2pY3YG1niq_30PfSu0Oy8uD3hBy5cdOrkGJcgbUEBBcg2DOF9yiSOjzX2Ff0cD0fRY0mft-jN9t-SmamXfZ9PYJquqbnyAqDdyT2VguijmVxghV",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJIYuoDFu62YgRFmUOGs53yfg",
+            "plus_code":{
+                  "compound_code":"RMXV+PH Hialeah, FL, USA",
+                  "global_code":"76QXRMXV+PH"
+            },
+            "rating":4.4,
+            "reference":"ChIJIYuoDFu62YgRFmUOGs53yfg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":195,
+            "vicinity":"3001 West 12th Avenue, Hialeah",
+            "CBG":120860007092,
+            "Radius":321.1656327944
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9560775,
+                        "lng":-87.6637649
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9573569303,
+                              "lng":-87.6623606697
+                        },
+                        "southwest":{
+                              "lat":41.9546589697,
+                              "lng":-87.6650586303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Naughty Chile Taqueria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":771,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111365605292740570283\">Naughty Chile Taqueria<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDFeawdmDy6-rfPD9rr7vp02_tRIExzJLI910ExgDUt29RYt6hA0s-Q0uzKGJu2PVWaWodDJCVyXhgGkyw5G_6zsL0gCVf2T1Do-uXjM4eQgPE1vDOum62sbqL4djCeNZrcSyl2z1P44hBud4YL2pdOv2CiTJFhPkaJ8E38D7V-XBIv",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJB4oDqZDTD4gRB2z7BP0Dbo0",
+            "plus_code":{
+                  "compound_code":"X84P+CF Chicago, IL, USA",
+                  "global_code":"86HJX84P+CF"
+            },
+            "rating":5,
+            "reference":"ChIJB4oDqZDTD4gRB2z7BP0Dbo0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"4070 North Clark Street, Chicago",
+            "CBG":170318307001,
+            "Radius":412.8873363327
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7477139,
+                        "lng":-87.6611256
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7490639303,
+                              "lng":-87.6596833197
+                        },
+                        "southwest":{
+                              "lat":41.7463659697,
+                              "lng":-87.6623812803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"D.A.W.G.S.",
+            "place_id":"ChIJjW8-25wvDogRH2QmydB_2eU",
+            "plus_code":{
+                  "compound_code":"P8XQ+3G Chicago, IL, USA",
+                  "global_code":"86HJP8XQ+3G"
+            },
+            "reference":"ChIJjW8-25wvDogRH2QmydB_2eU",
+            "scope":"GOOGLE",
+            "types":[
+                  "point_of_interest",
+                  "restaurant",
+                  "food",
+                  "establishment"
+            ],
+            "vicinity":"8028 South Laflin Street, Chicago",
+            "CBG":170317106001,
+            "Radius":197.4115396456
+      }
+]

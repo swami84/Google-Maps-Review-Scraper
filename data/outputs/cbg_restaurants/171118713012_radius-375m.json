@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.241335,
+                        "lng":-88.3204925
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2427962803,
+                              "lng":-88.3191121197
+                        },
+                        "southwest":{
+                              "lat":42.2400983197,
+                              "lng":-88.3218100803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Cottage",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":956,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109530198199560961566\">Ron Laroche<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBFCY4rSKODDuDZw828tsnh45HWTVyrdwMTBXEXwkR97ZAj6_fKNmat6YbuSmnRJnIurOYoJV--fu2kLWTdLJ77DBBvX0m6-6oge8H8Jp7D00r-UDtzlj3CNzSRdUj7F6TuqySyXLwsTzmZ6G8UcENU3K1O9Q0KLdEMR4HOBOgHhr4J",
+                        "width":1948
+                  }
+            ],
+            "place_id":"ChIJZ_nJoaFyD4gR9EtFFMOj5E4",
+            "plus_code":{
+                  "compound_code":"6MRH+GR Crystal Lake, IL, USA",
+                  "global_code":"86JH6MRH+GR"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJZ_nJoaFyD4gR9EtFFMOj5E4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":943,
+            "vicinity":"6 East Crystal Lake Avenue, Crystal Lake",
+            "CBG":171118713012,
+            "Radius":374.7811651967
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.760236,
+                        "lng":-87.6139246
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7615849803,
+                              "lng":-87.6125756197
+                        },
+                        "southwest":{
+                              "lat":41.7588870197,
+                              "lng":-87.6152735803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TLK Fast Food And Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1246,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102556028679971031826\">TLK Fast Food And Catering<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDMUkX8YRpwrhLiEgAzWY9x-NzfUk82pD5oTbwVmm-7oJsNKXeED20623n0a8xf-IbFlzE-zBHSOGrFjIPMTz8TUKMo8d_3Vxq90UOi57bBdDOPj1VZ3u6e-tsRxHPcG6dN2fvJ6HSlz9gn7yCc0t6qNsElL7KE-9pg9J_3j45k1EmY",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJz7av_OIpDogRSpZ686zrSwc",
+            "plus_code":{
+                  "compound_code":"Q96P+3C Chicago, IL, USA",
+                  "global_code":"86HJQ96P+3C"
+            },
+            "reference":"ChIJz7av_OIpDogRSpZ686zrSwc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"74th South Vernon Avenue, Chicago",
+            "CBG":170316909005,
+            "Radius":229.1623914223
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.721603,
+                        "lng":-73.84358
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7229104803,
+                              "lng":-73.8422623697
+                        },
+                        "southwest":{
+                              "lat":40.7202125197,
+                              "lng":-73.8449603303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2216,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104842433142609722240\">Rob Cooke<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDo3Q88u21PZ4MGogHx7kKC-YZgbiR_1P-Xe6_WunSvWbou7f__5nSB5qUuHVEC4_dYapQogyx9aRLbz6W43D_L4fmP3qWofsSSW9fOuO_IVRVxlqMnD7tMTjhiPDDXxQl3J2XBnCM6WCBLz8nqeaiLzDBRXxLYL1wUCF6i1FonWsS2",
+                        "width":3166
+                  }
+            ],
+            "place_id":"ChIJu80Kn3lfwokR7TxPrwMjTOU",
+            "plus_code":{
+                  "compound_code":"P5C4+JH New York, NY, USA",
+                  "global_code":"87G8P5C4+JH"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJu80Kn3lfwokR7TxPrwMjTOU",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":76,
+            "vicinity":"108-01 Queens Boulevard, Queens",
+            "CBG":360810739004,
+            "Radius":125.7320253055
+      }
+]

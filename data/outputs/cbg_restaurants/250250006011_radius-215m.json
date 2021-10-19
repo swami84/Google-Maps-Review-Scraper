@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3523078,
+                        "lng":-71.1404741
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3537221303,
+                              "lng":-71.1391684197
+                        },
+                        "southwest":{
+                              "lat":42.3510241697,
+                              "lng":-71.1418663803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Rock City Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":428,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105313671540366342623\">Rock City Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAEt1rlstQECGD45_ZnYMF8ubgq42vghKbONBz0WjdceYphUlGasixSIkbm3Ycr1JJnI96Sc6qPBPEm_XPaOjHzNM5rZwvlATXzQP3yaVTSQ_k7qymYfKc720S_qutagFp7Gp9jGgyVd3WcSwPTN4C2kRnAmcVpE2xY6i_SpUOUDR1f",
+                        "width":644
+                  }
+            ],
+            "place_id":"ChIJIVrSDMx544kRamNMmGt-TjI",
+            "plus_code":{
+                  "compound_code":"9V25+WR Boston, MA, USA",
+                  "global_code":"87JC9V25+WR"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJIVrSDMx544kRamNMmGt-TjI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":214,
+            "vicinity":"568 Cambridge Street, Boston",
+            "CBG":250250006011,
+            "Radius":214.7036043413
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.764728,
+                        "lng":-87.628879
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7660769803,
+                              "lng":-87.6275300197
+                        },
+                        "southwest":{
+                              "lat":41.7633790197,
+                              "lng":-87.6302279803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Shark's Fish & Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102954558313953342914\">hasai rush<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECSGCr_L7INnCjWMleWsFCeCygfW405uVCY-NrWnSHPIij72pxMRFamVzgi-2VJua90wgp2DmYBhcf8HKYPcspNmtUcmpH8QZlUFhEf4kYP66nlXczvFQeOGoJ94lJSNpZKJ8Cd5X--_2gU6lWJgAxrZmXpczmI8UEB7St0dSHrUPwB",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ8z4anzovDogR4YpfVTFvXcY",
+            "plus_code":{
+                  "compound_code":"Q97C+VC Chicago, IL, USA",
+                  "global_code":"86HJQ97C+VC"
+            },
+            "rating":4.1,
+            "reference":"ChIJ8z4anzovDogR4YpfVTFvXcY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":126,
+            "vicinity":"7122 South Vincennes Avenue, Chicago",
+            "CBG":170316911004,
+            "Radius":263.8592299613
+      }
+]

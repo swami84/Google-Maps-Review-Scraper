@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3492721,
+                        "lng":-71.1555372
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3505414803,
+                              "lng":-71.1541854197
+                        },
+                        "southwest":{
+                              "lat":42.3478435197,
+                              "lng":-71.1568833803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114634565822659148185\">mir09 com<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDXmybn1rHCuii1cRrXSNeuM_E4XNdDi4oSNjpdOW6JmKjr5pVDuUPyO3YpA2VFSRh1uxAGk9PiEhDyvxk9NC-chBZxVsV3iTg_s3k_uDeqP1eh-D2nuV6vfeCLYumkOIKvotpuBW3v0bJQ7Jn5WBAA3L_5x60O22-MfYRTmEgwiAJt",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJt4m0EEh444kRLWIizuPmzEk",
+            "plus_code":{
+                  "compound_code":"8RXV+PQ Brighton, Boston, MA, USA",
+                  "global_code":"87JC8RXV+PQ"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJt4m0EEh444kRLWIizuPmzEk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"419 Washington Street, Brighton",
+            "CBG":250250004023,
+            "Radius":288.5833856131
+      }
+]

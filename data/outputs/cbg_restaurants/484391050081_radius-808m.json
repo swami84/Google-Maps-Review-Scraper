@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8526425,
+                        "lng":-97.3114979
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8538659303,
+                              "lng":-97.3103303697
+                        },
+                        "southwest":{
+                              "lat":32.8511679697,
+                              "lng":-97.3130283303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Saltgrass Steak House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4374,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105849776590165710548\">REbranding 360<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBPCDJJvo8i3ZL0rS7ERboYQo_ex1fbTfcQcl3ghRDi2ROAt7dVoBv6UIymCNZwT934DLR9QnkSQz40JNEFFBOUmSW7BHbLoNZB_9Up26gvBvaM27XFvHW3Zv9o5aTUxn9TQKE1sIT15NHeBN15qKZjq8XA-bObXC-OKN5RtiF-cq5l",
+                        "width":7239
+                  }
+            ],
+            "place_id":"ChIJz6ZXGjN2ToYRLPwhHWzzGuE",
+            "plus_code":{
+                  "compound_code":"VM3Q+3C Fort Worth, TX, USA",
+                  "global_code":"8644VM3Q+3C"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJz6ZXGjN2ToYRLPwhHWzzGuE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3145.0,
+            "vicinity":"5845 Sandshell Drive, Fort Worth",
+            "CBG":484391050081,
+            "Radius":807.8995870449
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8526983,
+                        "lng":-97.3117219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8538844303,
+                              "lng":-97.3103627197
+                        },
+                        "southwest":{
+                              "lat":32.8511864697,
+                              "lng":-97.3130606803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Original Texas Steak House",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJyeyJZzJ2ToYRnc89bhyvnRI",
+            "plus_code":{
+                  "compound_code":"VM3Q+38 Fort Worth, TX, USA",
+                  "global_code":"8644VM3Q+38"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJyeyJZzJ2ToYRnc89bhyvnRI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"United States",
+            "CBG":484391050081,
+            "Radius":807.8995870449
+      }
+]

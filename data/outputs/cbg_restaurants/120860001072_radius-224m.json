@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.923598,
+                        "lng":-80.1217886
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9249592803,
+                              "lng":-80.1205825697
+                        },
+                        "southwest":{
+                              "lat":25.9222613197,
+                              "lng":-80.1232805303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Sea Salt Beach Bar and Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJq52Om7et2YgRtM_cxeRhko0",
+            "plus_code":{
+                  "compound_code":"WVFH+C7 Sunny Isles Beach, FL, USA",
+                  "global_code":"76QXWVFH+C7"
+            },
+            "rating":4.4,
+            "reference":"ChIJq52Om7et2YgRtM_cxeRhko0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"15901 Collins Avenue, Sunny Isles Beach",
+            "photos":null,
+            "CBG":120860001072,
+            "Radius":223.5202073989
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.923688,
+                        "lng":-80.12177
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.9250321303,
+                              "lng":-80.1205743697
+                        },
+                        "southwest":{
+                              "lat":25.9223341697,
+                              "lng":-80.1232723303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maso at Trump Towers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJH62oPxat2YgRkYi8pD_uVrw",
+            "plus_code":{
+                  "compound_code":"WVFH+F7 Sunny Isles Beach, FL, USA",
+                  "global_code":"76QXWVFH+F7"
+            },
+            "rating":3.6,
+            "reference":"ChIJH62oPxat2YgRkYi8pD_uVrw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"15901 Collins Avenue, Sunny Isles Beach",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100580258468865149669\">Christopher J. Lazaro<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED3K_QeiQaSVORGPi-5S0ZjEnNmYRBbVR9AkaVkmLArUyvsz0YozRWSlQ_AkcQHE196jLCrGkqPY0BEJJlwtIrfbLIyh_afGiqdVh48rp8OX4MG0dzRuiTrfI_JeKfhSunKfZH-BGpnTcWag2tG0p1Yoh3JqU9hodhjC5AuwCuKaK8K",
+                        "width":3024
+                  }
+            ],
+            "CBG":120860001072,
+            "Radius":223.5202073989
+      }
+]

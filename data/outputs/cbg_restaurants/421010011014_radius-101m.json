@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.9459064,
+                        "lng":-75.1639862
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.9472463303,
+                              "lng":-75.1625718697
+                        },
+                        "southwest":{
+                              "lat":39.9445483697,
+                              "lng":-75.1652698303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Dining Image",
+            "place_id":"ChIJPXks7iTGxokRzEZS9O60qiA",
+            "plus_code":{
+                  "compound_code":"WRWP+9C Philadelphia, PA, USA",
+                  "global_code":"87F6WRWP+9C"
+            },
+            "reference":"ChIJPXks7iTGxokRzEZS9O60qiA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"326 South Juniper Street, Philadelphia",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":421010011014,
+            "Radius":100.6995434158
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.9451977,
+                        "lng":-75.1628095
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.9465564303,
+                              "lng":-75.1615348197
+                        },
+                        "southwest":{
+                              "lat":39.9438584697,
+                              "lng":-75.1642327803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"King Tut Restaurant and Hookah Bar",
+            "place_id":"ChIJPZWrFFnHxokRylMOJhRD5OA",
+            "plus_code":{
+                  "compound_code":"WRWP+3V Philadelphia, PA, USA",
+                  "global_code":"87F6WRWP+3V"
+            },
+            "reference":"ChIJPZWrFFnHxokRylMOJhRD5OA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"401 South 13th Street, Philadelphia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110159508859952414375\">Alex McDonald<\/a>"
+                        ],
+                        "photo_reference":"Aap_uED09UiV3Ldq7-ZEiBhOa7sp2Z6JUmnyqtcFWGNLiY-5KYRLhpU7KP3WiwdKEUoMsR2iQ9yyrS5okDZSMoMKdXVf4avNSMSI2fbhqiN4Ua0VNILFCzwzMLB-sJUeN8ikANs4mVgdA2lqSFY98pagTznNTUr-Mb-6IP5CDzlxw-WjyBBe",
+                        "width":2448
+                  }
+            ],
+            "rating":3.5,
+            "user_ratings_total":17.0,
+            "CBG":421010011014,
+            "Radius":100.6995434158
+      }
+]

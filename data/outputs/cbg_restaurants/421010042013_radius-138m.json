@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.9215082,
+                        "lng":-75.1485218
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.9228571803,
+                              "lng":-75.1471728197
+                        },
+                        "southwest":{
+                              "lat":39.9201592197,
+                              "lng":-75.1498707803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"City Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104840626185215451274\">Jim Pappas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAYJJCj8qQYFWziGlDYNZZ6UMpPxPj5tB3miSlT_Oxy_VZVmG12pNR4b6wDMdAL_2axqVq24kKNG6hxbzRSBeWIRDVl31VyCwCKqPOpVNWfefzZ1sQA7Y-k5-dhJ4WYVS2wRbHnPTa9YbzoQCHs1IUo2KeqzHdP768LxU7vsZmSBAKU",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ5xBLBqzIxokR8NXU4gvwSdU",
+            "plus_code":{
+                  "compound_code":"WVC2+JH Philadelphia, PA, USA",
+                  "global_code":"87F6WVC2+JH"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ5xBLBqzIxokR8NXU4gvwSdU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":322,
+            "vicinity":"100 Snyder Avenue, Philadelphia",
+            "CBG":421010042013,
+            "Radius":137.5060927712
+      }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7673984,
+                        "lng":-73.8649693
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7687774303,
+                              "lng":-73.8635933197
+                        },
+                        "southwest":{
+                              "lat":40.7660794697,
+                              "lng":-73.8662912803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116350530507591208847\">Lem Wiechels<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPe35GgboLcwBkOkf-GlhKgI3d8rwYw-8czd--gZ_SoT3zp_Wq7tassOEkBKlrmE5PKaU_bCVDAgSICSBmhCgHGrej6THV2RobjerapOA6accMCPnMxltKuv24Va9JLsxzBWeW8yNa5TT37F7VXcDvySj1nHbipFRxea80pobT5XV9",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJEbpoUe1fwokRwl1fgHkevWE",
+            "plus_code":{
+                  "compound_code":"Q48P+X2 New York, NY, USA",
+                  "global_code":"87G8Q48P+X2"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJEbpoUe1fwokRwl1fgHkevWE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":302,
+            "vicinity":"East Gulf, 10702 Grand Central Parkway, Queens",
+            "CBG":360810357003,
+            "Radius":257.6815099456
+      }
+]

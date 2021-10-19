@@ -1,0 +1,90 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7647972,
+                        "lng":-87.685051
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7660827303,
+                              "lng":-87.6837000197
+                        },
+                        "southwest":{
+                              "lat":41.7633847697,
+                              "lng":-87.6863979803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jani Fish & Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJkwMvq8UvDogRVC1AHh2OBcw",
+            "plus_code":{
+                  "compound_code":"Q877+WX Chicago, IL, USA",
+                  "global_code":"86HJQ877+WX"
+            },
+            "reference":"ChIJkwMvq8UvDogRVC1AHh2OBcw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2446 West 71st Street, Chicago",
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":170316609002,
+            "Radius":228.7592225647
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.765355,
+                        "lng":-87.683651
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7667072303,
+                              "lng":-87.6821374697
+                        },
+                        "southwest":{
+                              "lat":41.7640092697,
+                              "lng":-87.6848354303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Gobbler's Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJKyNYz8UvDogRP4phhWRLNuE",
+            "plus_code":{
+                  "compound_code":"Q888+4G Chicago, IL, USA",
+                  "global_code":"86HJQ888+4G"
+            },
+            "reference":"ChIJKyNYz8UvDogRP4phhWRLNuE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7036 South Western Avenue, Chicago",
+            "rating":4.0,
+            "user_ratings_total":1.0,
+            "CBG":170316609002,
+            "Radius":228.7592225647
+      }
+]

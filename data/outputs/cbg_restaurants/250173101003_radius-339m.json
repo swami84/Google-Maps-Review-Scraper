@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.6462934,
+                        "lng":-71.3127316
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.6475590803,
+                              "lng":-71.3112895197
+                        },
+                        "southwest":{
+                              "lat":42.6448611197,
+                              "lng":-71.3139874803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Stones Hospitality Group",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJVVUxyECk44kRU4hDkSUkshI",
+            "plus_code":{
+                  "compound_code":"JMWP+GW Lowell, MA, USA",
+                  "global_code":"87JCJMWP+GW"
+            },
+            "reference":"ChIJVVUxyECk44kRU4hDkSUkshI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"91 Dutton Street, Lowell",
+            "CBG":250173101003,
+            "Radius":338.510929169
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.6458569,
+                        "lng":-71.3101473
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.6471276803,
+                              "lng":-71.3088024197
+                        },
+                        "southwest":{
+                              "lat":42.6444297197,
+                              "lng":-71.3115003803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"bb.q Chicken Lowell",
+            "opening_hours":null,
+            "place_id":"ChIJR-e8_sql44kRUI9KoDGngCo",
+            "plus_code":{
+                  "compound_code":"JMWQ+8W Lowell, MA, USA",
+                  "global_code":"87JCJMWQ+8W"
+            },
+            "reference":"ChIJR-e8_sql44kRUI9KoDGngCo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"143 Merrimack Street, Lowell",
+            "CBG":250173101003,
+            "Radius":338.510929169
+      }
+]

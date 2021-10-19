@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.765763,
+                        "lng":-87.585632
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7671108803,
+                              "lng":-87.5842261697
+                        },
+                        "southwest":{
+                              "lat":41.7644129197,
+                              "lng":-87.5869241303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114016805313298686358\">Aqueena Smith<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBhs68eY6guIbD9MnMsJGjbqu-fnsiOJILfeMwXsMpXm5sh50aYAhRiynuMY7FzjcOaZRwXz1yTC4iG6gPQXx5OWCZjd8e7bcaK3edNA0lJhohXj8wbWV4_47kVomepHGuoLDlCMjVY_FT5yTNZ6oSj4DEM5p1JgMZ6SvMhQHpqiiaq",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJG3D-bfooDogRsMe_wmTxAv0",
+            "plus_code":{
+                  "compound_code":"QC87+8P Chicago, IL, USA",
+                  "global_code":"86HJQC87+8P"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJG3D-bfooDogRsMe_wmTxAv0",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1050,
+            "vicinity":"7101 South Stony Island Avenue, Chicago",
+            "CBG":170314305003,
+            "Radius":205.4788997271
+      }
+]

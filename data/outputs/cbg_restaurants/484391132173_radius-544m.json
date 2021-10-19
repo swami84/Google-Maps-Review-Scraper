@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8409332,
+                        "lng":-97.2340401
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8422734803,
+                              "lng":-97.2328241197
+                        },
+                        "southwest":{
+                              "lat":32.8395755197,
+                              "lng":-97.2355220803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Buffet Palace",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102790726362179467188\">John Alden Boyd<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBz71VnXq7pTOulE0kSYr7pyyopB_fAsq1s3Whi6xSUt95k_c8y_R6ZPKXLqsRxdjnWrqSgC4N2tqMC1WhbTFhy2Xg27VOHpJouGv5UqAyxChQ8KOvlc5o04NNhSdWY6-1ucoBP3ajJI5APqtEurpUiHUfdsxxi9GKYMO5D5z4FJzmx",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJbS5BvER4ToYRIZixd7bCuak",
+            "plus_code":{
+                  "compound_code":"RQR8+99 North Richland Hills, TX, USA",
+                  "global_code":"8644RQR8+99"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJbS5BvER4ToYRIZixd7bCuak",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1868,
+            "vicinity":"6835 Northeast Loop 820, North Richland Hills",
+            "CBG":484391132173,
+            "Radius":544.4113759776
+      }
+]

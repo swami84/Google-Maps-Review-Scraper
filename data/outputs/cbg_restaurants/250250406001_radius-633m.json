@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.387182,
+                        "lng":-71.0749984
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3885430803,
+                              "lng":-71.0735873197
+                        },
+                        "southwest":{
+                              "lat":42.3858451197,
+                              "lng":-71.0762852803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Peruvian Taste Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3025,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110335541443150057551\">Peruvian Taste Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDnjnX8c_Ln1qLZLivW5s5GKxQ-YrPJ1jBf7LeASlkD3VfLONF6jJ4BtHm1G2MvPKGmKIFbB6lQ3at5wLrsvitNMBgq6bSAfeGHjzdqwMx_sbcycTXXDwDcAgmoIjCpbgU84dU1YVOeDHSF1otlHsK1ZZKXkgvimHBP84V8tQpw4TP8",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJNQoj8-Rx44kRwbQIyJzMNtY",
+            "plus_code":{
+                  "compound_code":"9WPG+V2 Charlestown, Boston, MA, USA",
+                  "global_code":"87JC9WPG+V2"
+            },
+            "rating":4.6,
+            "reference":"ChIJNQoj8-Rx44kRwbQIyJzMNtY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":158,
+            "vicinity":"78 Arlington Avenue, Charlestown",
+            "CBG":250250406001,
+            "Radius":632.5154055019
+      }
+]

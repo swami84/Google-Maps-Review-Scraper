@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.778825,
+                        "lng":-87.7044345
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7802408303,
+                              "lng":-87.7030884197
+                        },
+                        "southwest":{
+                              "lat":41.7775428697,
+                              "lng":-87.7057863803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pepe's Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114410485673702078631\">Pepe&#39;s Mexican Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC1i97ZFZF_-pcbajsS86iALQjWPSIOMuTrDgCwIykWBJp4ZstwVqGpobhEo2nfO-g716dJ8Cbiqq4rdxLl6JcouKU2os-LDlpreJ8S9-fwiZULLKPwHvLjw3kgDyp5QU8cSr8mQkb4flkrHTOM1kBZvhwloj_OgUmjDYBWdjr8bQGU",
+                        "width":1498
+                  }
+            ],
+            "place_id":"ChIJUU73GNMxDogRseRZXPgU4c8",
+            "plus_code":{
+                  "compound_code":"Q7HW+G6 Chicago, IL, USA",
+                  "global_code":"86HJQ7HW+G6"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJUU73GNMxDogRseRZXPgU4c8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":453,
+            "vicinity":"3231 West 63rd Street, Chicago",
+            "CBG":170316605001,
+            "Radius":228.0987157708
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7773358,
+                        "lng":-87.7033176
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7786869303,
+                              "lng":-87.7018492697
+                        },
+                        "southwest":{
+                              "lat":41.7759889697,
+                              "lng":-87.7045472303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria Carnitas El Ojon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3008,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100995747659584134110\">Taqueria Carnitas El Ojon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAg2C3NLh8zso_8PbfEWBLj4VWw6YH_rfo_7duqOWIFrRnXlvGu-JCKzGnjakUG538WY5qyVsuVidnaWRmH5GgyjVQvFQs8KmTV948U_gBoQ-yzfukl19b0Wk01kw7CiyWgnAjKCh6YEH2dwcjvcBr4hc9GC908MNcwXAHzvGaTX7ON",
+                        "width":2008
+                  }
+            ],
+            "place_id":"ChIJp_yRWwkxDogRS4gKzXDn2GA",
+            "plus_code":{
+                  "compound_code":"Q7GW+WM Chicago, IL, USA",
+                  "global_code":"86HJQ7GW+WM"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJp_yRWwkxDogRS4gKzXDn2GA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":22,
+            "vicinity":"6356 South Kedzie Avenue, Chicago",
+            "CBG":170316605001,
+            "Radius":228.0987157708
+      }
+]

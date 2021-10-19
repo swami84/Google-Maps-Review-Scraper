@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4135867,
+                        "lng":-71.1308576
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4149295803,
+                              "lng":-71.1295902697
+                        },
+                        "southwest":{
+                              "lat":42.4122316197,
+                              "lng":-71.1322882303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":690,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105132165550477518515\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECO5Qh214-6loJby0kDJ6KrML5f7i4LnhtamFP4kjRYFk38XLGNlQpRtmtXQE10070VDzvzdb72jSfrGPkyfUsuja1d4HNO7JAoQaoggotHlMPJ86RLCJzsEjVXF-OiLxX4rCB3WhlY4ybU2LHzT-7w1FMhrcq4j4EsV6sYDUOYYgXP",
+                        "width":1227
+                  }
+            ],
+            "place_id":"ChIJtzNbuu9244kR3THzAPgodMc",
+            "plus_code":{
+                  "compound_code":"CV79+CM Somerville, MA, USA",
+                  "global_code":"87JCCV79+CM"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJtzNbuu9244kR3THzAPgodMc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"Gulf Gas Station, 379 Alewife Brook Parkway, Somerville",
+            "CBG":250173507001,
+            "Radius":252.9614953103
+      }
+]

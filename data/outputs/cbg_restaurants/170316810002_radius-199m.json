@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.772885,
+                        "lng":-87.644963
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7742153803,
+                              "lng":-87.6435572697
+                        },
+                        "southwest":{
+                              "lat":41.7715174197,
+                              "lng":-87.6462552303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"White Castle",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106334429901739298242\">Joe Riddle<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAgs-WOT26L5_UiDMkaVVfjaRX6c3oB9vtCuuhdcnZZgz4r3ySXhyKzmk5zE_U_cuGLUAyC1KwvgN6541oPHRjXuTbjZOZ6FQwcPNr_PZm14X6x6umS_w2i_TbZLn2gyneHn0lBQMSq6d7SGdHiAtJczQ8piUTjcSc14XF1f2J-Aux_",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJndKQQxwvDogRirgwxxVdZ44",
+            "plus_code":{
+                  "compound_code":"Q9F4+52 Chicago, IL, USA",
+                  "global_code":"86HJQ9F4+52"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJndKQQxwvDogRirgwxxVdZ44",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":799,
+            "vicinity":"6646 South Halsted Street, Chicago",
+            "CBG":170316810002,
+            "Radius":199.3362521023
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.366503,
+                        "lng":-71.054759
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3678146303,
+                              "lng":-71.0534163197
+                        },
+                        "southwest":{
+                              "lat":42.3651166697,
+                              "lng":-71.0561142803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Caffe Lil Italy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115060517420023266934\">Caffe Lil Italy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEA9R40N-0clQPRfSfJtvt2kWmLB7f34pMjcvcUHie1ZJDXFmwkjoRcGdpJ2c3inNOL4sU-MKsmwhN4fdFlcM3lOxd4F3s9j3K_IcLScsRhPG5od0gtwyn-5Y9YwrU0JZEeE2A5CeVdyXx-fMHBd2ZXFcU5urPn9f61_KoZcHJ_pDIiz",
+                        "width":1970
+                  }
+            ],
+            "place_id":"ChIJUQ935Ytw44kRyoRQsUj02aM",
+            "plus_code":{
+                  "compound_code":"9W8W+J3 Boston, MA, USA",
+                  "global_code":"87JC9W8W+J3"
+            },
+            "rating":4.1,
+            "reference":"ChIJUQ935Ytw44kRyoRQsUj02aM",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":83,
+            "vicinity":"178 Salem Street, Boston",
+            "CBG":250250301001,
+            "Radius":119.2670624849
+      }
+]

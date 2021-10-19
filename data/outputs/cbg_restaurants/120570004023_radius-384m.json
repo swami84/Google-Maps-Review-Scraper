@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":28.0379657,
+                        "lng":-82.4515312
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0392268803,
+                              "lng":-82.4501593197
+                        },
+                        "southwest":{
+                              "lat":28.0365289197,
+                              "lng":-82.4528572803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Bae\u2019s Fresh Fast Food",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111910200360048353887\">Bae\u2019s Fresh Fast Food<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECt4rn-lEgWs6PPh1HSILZQHA_TW7_Cq_dsvqeOc31w4Y-J4ahGgwL1okLGBmeGhqnoBnvwMnmI5zgYNydTO0O5lhVkCaUD9YwsqVgwOjksndOmuAGd5fm4pxVPLUik0Nt9-f5CdmsBHMwLjSDRfVQEAd2fEErSX41FI5pEmNt_C2rd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJv6wrzf7HwogRfcQ0hLpn71Q",
+            "plus_code":{
+                  "compound_code":"2GQX+59 Tampa, FL, USA",
+                  "global_code":"76WV2GQX+59"
+            },
+            "price_level":1.0,
+            "rating":4.8,
+            "reference":"ChIJv6wrzf7HwogRfcQ0hLpn71Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "art_gallery",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129.0,
+            "vicinity":"9714 North Nebraska Avenue suite B, Tampa",
+            "opening_hours":null,
+            "CBG":120570004023,
+            "Radius":384.4189266151
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0380097,
+                        "lng":-82.4511822
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0392469803,
+                              "lng":-82.4498373697
+                        },
+                        "southwest":{
+                              "lat":28.0365490197,
+                              "lng":-82.4525353303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Camelle Cuisine Haitian Restaurant",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJt9Y9JefGwogRijtWcB7XwxA",
+            "plus_code":{
+                  "compound_code":"2GQX+6G Tampa, FL, USA",
+                  "global_code":"76WV2GQX+6G"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJt9Y9JefGwogRijtWcB7XwxA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"East Castle North Court, Tampa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":120570004023,
+            "Radius":384.4189266151
+      }
+]

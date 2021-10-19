@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7766182,
+                        "lng":-73.9773026
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7780411803,
+                              "lng":-73.9759710197
+                        },
+                        "southwest":{
+                              "lat":40.7753432197,
+                              "lng":-73.9786689803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The Ribbon",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107700906005696485915\">The Ribbon<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBE8tIIioxaUTwPv-m_xxRRZbVHLQW-LtPKjNQhui3T_Vh2GWH1heHMFshLCFjS5HN99GnvSbCZuMOC4aRo_sIffs7pmBYrNdi01m9_6Ykenw8rbHx6ArgHBN6sS2r5y1DDXD43XOs45bFvbdhm7TOIq_pNz-7jW8-_ayqK4HW700c",
+                        "width":784
+                  }
+            ],
+            "place_id":"ChIJeXBWf4tYwokRkseOOZT3_mc",
+            "plus_code":{
+                  "compound_code":"Q2GF+J3 New York, NY, USA",
+                  "global_code":"87G8Q2GF+J3"
+            },
+            "price_level":3,
+            "rating":4.3,
+            "reference":"ChIJeXBWf4tYwokRkseOOZT3_mc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":715,
+            "vicinity":"20 West 72nd Street, New York",
+            "CBG":360610157003,
+            "Radius":86.8192265851
+      }
+]

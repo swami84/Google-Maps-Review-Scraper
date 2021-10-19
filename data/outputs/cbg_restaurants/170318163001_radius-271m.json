@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.907605,
+                        "lng":-87.8530352
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9089685303,
+                              "lng":-87.8518030197
+                        },
+                        "southwest":{
+                              "lat":41.9062705697,
+                              "lng":-87.8545009803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117554110330807520815\">Burger King<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAXsz08hPA7n0bsWEPAKFVIACW9tVdZaubZxnjds6zMP97B8g76yGACwafmsuA4pawgL7W7LnGzaiQr31-omfwPwxBZP749n63re-or7p3cmUcLKW98cKXFbkb635CWlsvpvmpgleHeVZIb3sB0lpSTTzJMQ_EP5e5R1TzQgBgX5kDm",
+                        "width":1400
+                  }
+            ],
+            "place_id":"ChIJfb7BUajKD4gR1wGN1EL8-EI",
+            "plus_code":{
+                  "compound_code":"W45W+2Q Melrose Park, IL, USA",
+                  "global_code":"86HJW45W+2Q"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJfb7BUajKD4gR1wGN1EL8-EI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":428,
+            "vicinity":"1550 West North Avenue, Melrose Park",
+            "CBG":170318163001,
+            "Radius":270.6158141989
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9076683,
+                        "lng":-87.8525631
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9090291803,
+                              "lng":-87.8511428697
+                        },
+                        "southwest":{
+                              "lat":41.9063312197,
+                              "lng":-87.8538408303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brown's Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117253514873819429708\">Ryan Egan<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDTRa7ob2IMoHoAWCj9SE5QNQSTazOJrcjJqAAE9ZK4bs0t3NgI_hAdGEVd7NzAP_ZfsFIDt8dit4hYx6JXS32gsT90E8QzYsjy4HUbDT1nw9xOs4NfhnA2zFu0mquPseKPOQXW5aL6Dld1lszIVWJ4ppjhKYQT65GpHqQhD0h3Pyjw",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJrUI5VqjKD4gR5c29WGdOlrc",
+            "plus_code":{
+                  "compound_code":"W45W+3X Melrose Park, IL, USA",
+                  "global_code":"86HJW45W+3X"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJrUI5VqjKD4gR5c29WGdOlrc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":224,
+            "vicinity":"1500 West North Avenue, Melrose Park",
+            "CBG":170318163001,
+            "Radius":270.6158141989
+      }
+]

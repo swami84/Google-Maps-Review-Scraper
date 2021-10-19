@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.6949841,
+                        "lng":-87.6616446
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.6962365803,
+                              "lng":-87.6602209697
+                        },
+                        "southwest":{
+                              "lat":41.6935386197,
+                              "lng":-87.6629189303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jean\u2019s SoulFood Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106562144849802451400\">Darius Mcdonald<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDhU5qIO_v2TNCTiEKVMU90rSOK4dZ_n7EnHpACjOUsnfRQvOMF1l6uFUc-tdXMdR2dSxWpMPFDO5QnvI3GnDa_oiLOeAtTS8iRJ2Ey6ZWUBQGegiJIHV6JsfXL7fUAIz_tOmeBJFG_nkZal_ktZkOJQ3aUhk3_LBfvnjj2-4cl21zI",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJByTUWP4kDogRBD9zp58-3a4",
+            "plus_code":{
+                  "compound_code":"M8VQ+X8 Chicago, IL, USA",
+                  "global_code":"86HJM8VQ+X8"
+            },
+            "rating":4.1,
+            "reference":"ChIJByTUWP4kDogRBD9zp58-3a4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":156,
+            "vicinity":"10936 South Vincennes Avenue, Chicago",
+            "CBG":170317501003,
+            "Radius":343.8350184287
+      }
+]

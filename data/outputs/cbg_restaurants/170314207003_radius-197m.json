@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7732115,
+                        "lng":-87.6111606
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7745170803,
+                              "lng":-87.6098485197
+                        },
+                        "southwest":{
+                              "lat":41.7718191197,
+                              "lng":-87.6125464803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Jerk 48",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103691985805756255690\">Krissie White<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAIgECA-wVUahJNy7O4m5DOwrox8QLHzI9-0dSebi1oRY-6h9mH9B2N_nMviyd6a1dDNU8T93IQXz3Z1ZGlAhGrMehxOPVg7gtN42HVrCTOb5WqF-eKou1guq0bBVVRwsINl5cZKRw7NLoQ1k_j2hfadURbpz4uLWicJRU6D9rf24LT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJD1logv4pDogRtw7H37ld5_I",
+            "plus_code":{
+                  "compound_code":"Q9FQ+7G Chicago, IL, USA",
+                  "global_code":"86HJQ9FQ+7G"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJD1logv4pDogRtw7H37ld5_I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1231,
+            "vicinity":"548 East 67th Street, Chicago",
+            "CBG":170314207003,
+            "Radius":197.2316731173
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3557557,
+                        "lng":-71.1482118
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3572208803,
+                              "lng":-71.1469632197
+                        },
+                        "southwest":{
+                              "lat":42.3545229197,
+                              "lng":-71.1496611803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tin Tin Buffet",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104610813426417907309\">Fabiola Zoxie Fontaine<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAth0dDoVzNiSxUloan5cmmXwENSPeGuMjTJriS3tlDLcBH6-KwizMW9lIe8boift39cvu_7FekBwL5rQqf4xynk5dn4Qlv0z4TnFe3UMjo6Rohjq-KZZhZjR3aXexeJVBT53Q5_Rtyoi1BEz3etuhZou_i0B96djhtkNF56DqY7WCN",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ-cbBVDJ444kResydrg8Uiis",
+            "plus_code":{
+                  "compound_code":"9V42+8P Brighton, Boston, MA, USA",
+                  "global_code":"87JC9V42+8P"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJ-cbBVDJ444kResydrg8Uiis",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1141,
+            "vicinity":"200 North Beacon Street, Brighton",
+            "CBG":250250006014,
+            "Radius":167.7484690491
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3556598,
+                        "lng":-71.1479553
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3571025303,
+                              "lng":-71.1465497697
+                        },
+                        "southwest":{
+                              "lat":42.3544045697,
+                              "lng":-71.1492477303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Brato Brewhouse & Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109025342486936280472\">Frank Duran<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEChWPBjyDU4777keMWxwCWHhMh1ljsXyE-kgy6w8dDq0_aQ9mrtr1Ta56gIHIc9Taui_8gWfa426p3e9hyb-lwd6DPoE6H8Nxq_k8ZUMy3GRyPfVS4LsTKOGboG2zzAQI8uXb64PWV39SzAxicOLGQBiHAWqQCcpjFD6P2QkUaGcqp8",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJA4joqjN444kRA_86sBhTtoY",
+            "plus_code":{
+                  "compound_code":"9V42+7R Brighton, Boston, MA, USA",
+                  "global_code":"87JC9V42+7R"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJA4joqjN444kRA_86sBhTtoY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":252,
+            "vicinity":"190 North Beacon Street, Brighton",
+            "CBG":250250006014,
+            "Radius":167.7484690491
+      }
+]

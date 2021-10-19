@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9346746,
+                        "lng":-88.0365952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9360373803,
+                              "lng":-88.0350277197
+                        },
+                        "southwest":{
+                              "lat":41.9333394197,
+                              "lng":-88.0377256803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shopping_pinlet",
+            "name":"Barakaa Caterers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104794648665981754094\">Barakaa Caterers<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECEtp_QUpGKk-2yy7D-UpA-DZqCyeMpqvtKCBeEWPUhtAECBZi56klS7HUv-YIhu8-dVRmJjqXLcmsz9srpQL0JmGckwLAgklH0MKUIXzIpUKzjAJ020L4ISVjdwvwUbZkAWXCsFe1BmIwBTJBUBO75zYg3ZVjKekxP4VpX2WT8tVWn",
+                        "width":473
+                  }
+            ],
+            "place_id":"ChIJg8T7Q1utD4gRPRwu6mIcewE",
+            "plus_code":{
+                  "compound_code":"WXM7+V9 Addison, IL, USA",
+                  "global_code":"86HHWXM7+V9"
+            },
+            "rating":5,
+            "reference":"ChIJg8T7Q1utD4gRPRwu6mIcewE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1860 West Sherry Lane, Addison",
+            "CBG":170438409061,
+            "Radius":532.7963396999
+      }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8150827,
+                        "lng":-73.8972098
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8164738303,
+                              "lng":-73.8959163197
+                        },
+                        "southwest":{
+                              "lat":40.8137758697,
+                              "lng":-73.8986142803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/cafe_pinlet",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":690,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101230439676977690680\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAy0v3VcQgHDELVOS3a2Hdgpd9GPyYh1nODrVEQHu-WMACjaR7iU3KzdBXA2-ll36M-LF6JIcvHFQsCt6tp37z9tcubclURV_KR7WiNbKtzeOSk_hBxQyNv9ji1tsEIzl1fG4p799KoBgQcsDzs_ozMePr_yzOQ6Zn4XN7VCzghkVFu",
+                        "width":1227
+                  }
+            ],
+            "place_id":"ChIJuZJZ7q71wokREyhDcOHSY-U",
+            "plus_code":{
+                  "compound_code":"R483+24 New York, NY, USA",
+                  "global_code":"87G8R483+24"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJuZJZ7q71wokREyhDcOHSY-U",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"In Mobil, 762 Southern Boulevard, Bronx",
+            "CBG":360050085001,
+            "Radius":125.3110661722
+      }
+]

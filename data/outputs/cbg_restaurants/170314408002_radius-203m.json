@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7269181,
+                        "lng":-87.6047618
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7282670803,
+                              "lng":-87.6034128197
+                        },
+                        "southwest":{
+                              "lat":41.7255691197,
+                              "lng":-87.6061107803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"2 Plus",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJu2SrFxomDogRLbdWj-Zni54",
+            "plus_code":{
+                  "compound_code":"P9GW+Q3 Chicago, IL, USA",
+                  "global_code":"86HJP9GW+Q3"
+            },
+            "rating":5,
+            "reference":"ChIJu2SrFxomDogRLbdWj-Zni54",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"9218 South Cottage Grove Avenue, Chicago",
+            "CBG":170314408002,
+            "Radius":203.101197585
+      }
+]

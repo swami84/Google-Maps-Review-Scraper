@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3665041,
+                        "lng":-71.0862116
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3677729803,
+                              "lng":-71.0847696197
+                        },
+                        "southwest":{
+                              "lat":42.3650750197,
+                              "lng":-71.0874675803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "icon_background_color":"#7B9EB0",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/generic_pinlet",
+            "name":"Plaza Catering",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJsW62_a9w44kR_WdZFSmFjDU",
+            "plus_code":{
+                  "compound_code":"9W87+JG Cambridge, MA, USA",
+                  "global_code":"87JC9W87+JG"
+            },
+            "rating":5,
+            "reference":"ChIJsW62_a9w44kR_WdZFSmFjDU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"157 6th Street, Cambridge",
+            "CBG":250173523001,
+            "Radius":315.4657366271
+      }
+]

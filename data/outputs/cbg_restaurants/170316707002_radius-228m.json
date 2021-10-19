@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7795298,
+                        "lng":-87.6671132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7808143303,
+                              "lng":-87.6657629197
+                        },
+                        "southwest":{
+                              "lat":41.7781163697,
+                              "lng":-87.6684608803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"African Jerk",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJYZHGY1IuDogRAH2UMRxWr0A",
+            "plus_code":{
+                  "compound_code":"Q8HM+R5 Chicago, IL, USA",
+                  "global_code":"86HJQ8HM+R5"
+            },
+            "reference":"ChIJYZHGY1IuDogRAH2UMRxWr0A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1708 West 63rd Street, Chicago",
+            "CBG":170316707002,
+            "Radius":228.3114290866
+      }
+]

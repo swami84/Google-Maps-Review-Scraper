@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8261004,
+                        "lng":-73.8624892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8273711803,
+                              "lng":-73.8611146197
+                        },
+                        "southwest":{
+                              "lat":40.8246732197,
+                              "lng":-73.8638125803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111031369481108561173\">SUBHAS SUTRADHAR<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC7F0yKxOHZrx7gqAV8haUnc15YC-7WGQeyQsbjUHBdwapxrEOk8uzwkrdcybWBmXuF1SqFscYD2zffMt5gjWgbAGrCQqOLAb7gNDs3v-QYLHG1qvo9RvFo-iuBC6GQJOe7JyB1rKjV2_mt1WnGktIhyPkjFrpaE4fHsRgAR0WgEI-P",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJox972Nz0wokRr_qPBXhXQqo",
+            "plus_code":{
+                  "compound_code":"R4GQ+C2 New York, NY, USA",
+                  "global_code":"87G8R4GQ+C2"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJox972Nz0wokRr_qPBXhXQqo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":791,
+            "vicinity":"1851-59 Bruckner Boulevard, Bronx",
+            "CBG":360050042003,
+            "Radius":171.6212410757
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7725199,
+                        "lng":-87.6637745
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7738063303,
+                              "lng":-87.6624243197
+                        },
+                        "southwest":{
+                              "lat":41.7711083697,
+                              "lng":-87.6651222803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Louisiana Famous Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1242,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108317153211961428878\">Louisiana Famous Fried Chicken<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAdLZaYY6GPyv8PgxornyWe2QcOQf8R8qi1d0eBaA57hD2G18FbjNefw4TcsWWMsVJjVfvKXYeJD49nCKCAaEKvtHhjbN72blaUK8cbVeH8kQk3Tofj7wOuWZh20S1f8KiAeE8OWy03DNiVdUZ29b380MPGUA3VzcnOJf6Q66T_yco2",
+                        "width":2209
+                  }
+            ],
+            "place_id":"ChIJ6WqVSrMuDogRUfnURSDuCLw",
+            "plus_code":{
+                  "compound_code":"Q8FP+2F Chicago, IL, USA",
+                  "global_code":"86HJQ8FP+2F"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ6WqVSrMuDogRUfnURSDuCLw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":141,
+            "vicinity":"1554 West Marquette Road, Chicago",
+            "CBG":170316716003,
+            "Radius":197.5284053465
+      }
+]

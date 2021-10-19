@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3382861,
+                        "lng":-71.0707611
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3396895803,
+                              "lng":-71.0694502197
+                        },
+                        "southwest":{
+                              "lat":42.3369916197,
+                              "lng":-71.0721481803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Estragon Tapas",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115886423195533197640\">Estragon Tapas<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDX3tJRLAeSqx8db5WvZzYdNtQb5ElDJme_qpeHLx_BgtMViWJSvr_zOeEuMDbb8OVctuqTc0lVR6ERsEf80hjWh2_MonVf_MT51GvZYhm2RU_TouJNSCfO0dnkFx2EC7kQ2cIAYjK05NhDHQggZ55zOWXSR4MnSARIhUThWx4q2L9G",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJU842CGt644kRLdtHJmIeAQY",
+            "plus_code":{
+                  "compound_code":"8WQH+8M Boston, MA, USA",
+                  "global_code":"87JC8WQH+8M"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJU842CGt644kRLdtHJmIeAQY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":339,
+            "vicinity":"700 Harrison Avenue, Boston",
+            "CBG":250250711011,
+            "Radius":210.6037420385
+      }
+]

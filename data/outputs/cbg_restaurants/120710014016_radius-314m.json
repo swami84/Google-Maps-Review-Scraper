@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.5824777,
+                        "lng":-81.8778548
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.5837361303,
+                              "lng":-81.8764938197
+                        },
+                        "southwest":{
+                              "lat":26.5810381697,
+                              "lng":-81.8791917803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Tropical Smoothie Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":630,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111593016615126791140\">Tropical Smoothie Cafe<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDCrUbTgN1IbueChwEHTv6WX8MXGYWD6vbrY2JRCry10-qiaNhbxIXB4VB1sAYZK7DKwAL4jMNYdYn69TIGJOF7knPKnL0vx0sYcM68P5YDeK50mXGYNMmy9V1Itm6_eO_QXjqSb-2vTPTk-SHkzGqCDK7U_AEbEcckycRJ66LmSsAq",
+                        "width":800
+                  }
+            ],
+            "place_id":"ChIJiQx0rRBA24gRvwtaRBhmHsg",
+            "plus_code":{
+                  "compound_code":"H4JC+XV Fort Myers, FL, USA",
+                  "global_code":"76RWH4JC+XV"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJiQx0rRBA24gRvwtaRBhmHsg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":372,
+            "vicinity":"1791 Boy Scout Drive #1, Fort Myers",
+            "CBG":120710014016,
+            "Radius":314.1624231176
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.582474,
+                        "lng":-81.8777615
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.5837488803,
+                              "lng":-81.8763905197
+                        },
+                        "southwest":{
+                              "lat":26.5810509197,
+                              "lng":-81.8790884803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pho 99",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104580654642137012903\">trl1971<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDczy7YUtHiDknAuC3KcH6R2onJaH96ixDKI4YnjtssFuBbJjwrEHFY3lZg5iapdcjNnMrW3VhtikXIObqoqH8I6yt_8K3DREk5-UkfXmq43Ua5B8zcu1fyck1s9nLMdrh_QtJ5sq4BH0AAlqGf1iaeWB0rRX1X-tcS_6JHvHdr_bsf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPwAwrRBA24gRdrxR2JOuB0Y",
+            "plus_code":{
+                  "compound_code":"H4JC+XV Fort Myers, FL, USA",
+                  "global_code":"76RWH4JC+XV"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJPwAwrRBA24gRdrxR2JOuB0Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":352,
+            "vicinity":"1791 Boy Scout Drive #2, Fort Myers",
+            "CBG":120710014016,
+            "Radius":314.1624231176
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3199879,
+                        "lng":-71.0736172
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3214208803,
+                              "lng":-71.0722955697
+                        },
+                        "southwest":{
+                              "lat":42.3187229197,
+                              "lng":-71.0749935303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Pirata Sunspear",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJEUVklyh744kRjXgPPIBGk0o",
+            "plus_code":{
+                  "compound_code":"8W9G+XH Boston, MA, USA",
+                  "global_code":"87JC8W9G+XH"
+            },
+            "reference":"ChIJEUVklyh744kRjXgPPIBGk0o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"95 Brook Avenue #89, Boston",
+            "CBG":250250904004,
+            "Radius":154.0134228193
+      }
+]

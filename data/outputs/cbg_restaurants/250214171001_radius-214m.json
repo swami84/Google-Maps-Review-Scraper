@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2659387,
+                        "lng":-71.0211108
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2673461803,
+                              "lng":-71.0197187697
+                        },
+                        "southwest":{
+                              "lat":42.2646482197,
+                              "lng":-71.0224167303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"big fun cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111746089998751972202\">Eva Princess<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECXYGIe0-S6jON5FE7SLfDDE_k4ZiDc0_5QYkIeENTuBs009oMI0ein9wkusM70-EHm0yKMYdeR3NaIaQ1tyyk9GzIpfDTEqUvt2RMIzMebeI96OnTOkDE-HezHtsrm2J2FnrB78vW0w7PcECUL97xXHIRUxpJDjS7SOAk5wNofr8XG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJJUaIIb1944kRY9TJTc1eXBs",
+            "plus_code":{
+                  "compound_code":"7X8H+9H Quincy, MA, USA",
+                  "global_code":"87JC7X8H+9H"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJJUaIIb1944kRY9TJTc1eXBs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"18 Brook Street, Quincy",
+            "CBG":250214171001,
+            "Radius":213.5858133124
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2660175,
+                        "lng":-71.0210219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2673802303,
+                              "lng":-71.0197011697
+                        },
+                        "southwest":{
+                              "lat":42.2646822697,
+                              "lng":-71.0223991303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Fairy Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112789207135091873114\">Samantha Sheehy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAH5J6aD_klZO3Fe9X-ZDK-nZCDqeJFDKXfvqwZa3HuuIgx8MNDf53LxJexoXl7Zwo1cLQLRCTCasiekS8LyxrJTKGAb6bLKui4Ua92eFoEYkf0_3EiG_hYYRxmtGED3SbKU6vYVOYMqJcG96w3CHCNRPdxO6zz9xnCYb1hkNI8is1D",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJV_sIQ6F844kRWfqfpOa0Hpo",
+            "plus_code":{
+                  "compound_code":"7X8H+CH Quincy, MA, USA",
+                  "global_code":"87JC7X8H+CH"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJV_sIQ6F844kRWfqfpOa0Hpo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":232,
+            "vicinity":"14-16 Brook Street, Quincy",
+            "CBG":250214171001,
+            "Radius":213.5858133124
+      }
+]

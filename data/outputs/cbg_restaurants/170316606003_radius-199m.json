@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7789045,
+                        "lng":-87.693264
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7803662803,
+                              "lng":-87.6918713197
+                        },
+                        "southwest":{
+                              "lat":41.7776683197,
+                              "lng":-87.6945692803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taqueria La fortuna catracha",
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113539858864217381852\">Jose Ramirez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDmxS3vNqWh0r7qd4-VaC4FLudigVrBreUfT-DIsuu2X94k1F8fPeTv6YTykvAdSqJo24xUJ3unw3QFghuB_a3s0YE7Q9czb-8m3WS2rUUM8ZZzfBrOw9INN_LlCOPdXF-KOuzYNJgDO8RUeYGUuGHNT9dRsLRIZtmd57_SqWtWVSDo",
+                        "width":3096
+                  }
+            ],
+            "place_id":"ChIJKYQNiqcvDogRKr7xHoT6i6s",
+            "plus_code":{
+                  "compound_code":"Q8H4+HM Chicago, IL, USA",
+                  "global_code":"86HJQ8H4+HM"
+            },
+            "rating":4.5,
+            "reference":"ChIJKYQNiqcvDogRKr7xHoT6i6s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6311 South California Avenue, Chicago",
+            "CBG":170316606003,
+            "Radius":198.6740567272
+      }
+]

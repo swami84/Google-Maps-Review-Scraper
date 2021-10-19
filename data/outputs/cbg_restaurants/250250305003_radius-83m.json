@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3662036,
+                        "lng":-71.0525382
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3675894803,
+                              "lng":-71.0511945197
+                        },
+                        "southwest":{
+                              "lat":42.3648915197,
+                              "lng":-71.0538924803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Maria Ss Della Cava",
+            "place_id":"ChIJRyp5Mopw44kRSi7iCssOJ9I",
+            "plus_code":{
+                  "compound_code":"9W8W+FX Boston, MA, USA",
+                  "global_code":"87JC9W8W+FX"
+            },
+            "reference":"ChIJRyp5Mopw44kRSi7iCssOJ9I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Battery Street, Boston",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":250250305003,
+            "Radius":82.5916512786
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3661463,
+                        "lng":-71.0525857
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3675065303,
+                              "lng":-71.0513361197
+                        },
+                        "southwest":{
+                              "lat":42.3648085697,
+                              "lng":-71.0540340803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Table Boston",
+            "place_id":"ChIJyehqNe9x44kRU12jOb5EiEE",
+            "plus_code":{
+                  "compound_code":"9W8W+FX Boston, MA, USA",
+                  "global_code":"87JC9W8W+FX"
+            },
+            "reference":"ChIJyehqNe9x44kRU12jOb5EiEE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"445 Hanover Street, Boston",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2091,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116988748468826719131\">Table Boston<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECk8xIBwaOqLfYfD44JIr4SR96k-0j5Gdbg2b4vJzes6aaHKl0AXYMfG_B1MO26zWBMdRWsgN3EsdZpnkIIgKlYWqzPauBkOQJDTmJyDiNIxenakfS93ph5f32GthdwRlpnfEwXvv67uzAaTYFYG2gAwDdi36t4RV3WyvBMCly4qWZo",
+                        "width":3718
+                  }
+            ],
+            "price_level":3.0,
+            "rating":4.8,
+            "user_ratings_total":562.0,
+            "CBG":250250305003,
+            "Radius":82.5916512786
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7514244,
+                        "lng":-87.6070732
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7526902803,
+                              "lng":-87.6057218697
+                        },
+                        "southwest":{
+                              "lat":41.7499923197,
+                              "lng":-87.6084198303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Let's Cook It Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ1zw26YYpDogRC-gT4Z-goTY",
+            "plus_code":{
+                  "compound_code":"Q92V+H5 Chicago, IL, USA",
+                  "global_code":"86HJQ92V+H5"
+            },
+            "reference":"ChIJ1zw26YYpDogRC-gT4Z-goTY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"712 East 79th Street, Chicago",
+            "CBG":170316914002,
+            "Radius":198.3597825696
+      }
+]

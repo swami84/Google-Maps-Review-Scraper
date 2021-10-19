@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2865957,
+                        "lng":-89.0261705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2877724303,
+                              "lng":-89.0250012197
+                        },
+                        "southwest":{
+                              "lat":42.2850744697,
+                              "lng":-89.0276991803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lucha Cantina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117265301839080995200\">Lucha Cantina<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDAYaJSHKXCFXWa-jMVpLezgk2FXaez0-qC2t-t_TOGzef-9d38wipduQP5hPd4dH81rI2ENCFdfHpL6TorQZIJw2AvoBBOvDYgeOpMBdtj0YsoXAjU9si0hoCh8ux1n-FUCW4dnd2_lZaRKyyQIxz3JePVaCRxwnLS8CeKHXj_Ad6Y",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJxdZ-WtS_CIgRhxp_hVoAFxs",
+            "plus_code":{
+                  "compound_code":"7XPF+JG Rockford, IL, USA",
+                  "global_code":"86JG7XPF+JG"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJxdZ-WtS_CIgRhxp_hVoAFxs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":925,
+            "vicinity":"1641 North Alpine Road, Rockford",
+            "CBG":172010005065,
+            "Radius":412.9752137332
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2863019,
+                        "lng":-89.0264408
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2876598303,
+                              "lng":-89.0248681197
+                        },
+                        "southwest":{
+                              "lat":42.2849618697,
+                              "lng":-89.0275660803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Ranchero Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109091630556713901382\">Ranchero Pizza<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBNVk_qERZdZ7tUY7TpjzMjo_sm8w2JYMJ-hTHP6_mxQYEPdUUyclQcfa3HOVMA-7pmXECmq2koH-G8K9xRJGAOp85oY-9Cs_n_rImvFIyozRziUceHzzG7toMKNdonFkVFIa8fDl1AvwBWZSRxRAkxQiSciI4DazGE0fRBqbiCx4Aa",
+                        "width":1907
+                  }
+            ],
+            "place_id":"ChIJ49YM41a_CIgR-15GBAT_kpA",
+            "plus_code":{
+                  "compound_code":"7XPF+GC Rockford, IL, USA",
+                  "global_code":"86JG7XPF+GC"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ49YM41a_CIgR-15GBAT_kpA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"1641 North Alpine Road, Rockford",
+            "CBG":172010005065,
+            "Radius":412.9752137332
+      }
+]

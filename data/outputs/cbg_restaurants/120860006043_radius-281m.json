@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8587865,
+                        "lng":-80.2684371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8602339803,
+                              "lng":-80.2670913697
+                        },
+                        "southwest":{
+                              "lat":25.8575360197,
+                              "lng":-80.2697893303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Public Toilet",
+            "place_id":"ChIJ3USiaTmx2YgRyOp2kGIa9Qs",
+            "plus_code":{
+                  "compound_code":"VP5J+GJ Hialeah, FL, USA",
+                  "global_code":"76QXVP5J+GJ"
+            },
+            "reference":"ChIJ3USiaTmx2YgRyOp2kGIa9Qs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"706 East 40th Street, Hialeah",
+            "CBG":120860006043,
+            "Radius":281.0819457559
+      }
+]

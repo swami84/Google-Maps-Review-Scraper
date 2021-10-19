@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.614802,
+                        "lng":-73.9808057
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6160787803,
+                              "lng":-73.9793454697
+                        },
+                        "southwest":{
+                              "lat":40.6133808197,
+                              "lng":-73.9820434303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Golden Dynasty",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105527029443995611331\">Alexey Altukhov<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDk6FkIglo9XTQnojfmy29xzupKHSpL799y0D-DdVehBdJprsSLAySm0tRw40pp4m_IBfqEzvxijkQ7QwQ370o4ixR9-yRZKtKf1LwxVktV2QmC79ZzlUMiK5bZ6PfLI0hmeS4oWLb8C-qjYuilmuStYopsoc6Ifd0ODov9hZ8B-U2C",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJNbpEQ-BEwokRdlNMRGinEyk",
+            "plus_code":{
+                  "compound_code":"J279+WM Brooklyn, NY, USA",
+                  "global_code":"87G8J279+WM"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJNbpEQ-BEwokRdlNMRGinEyk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":105,
+            "vicinity":"6316 Bay Parkway, Brooklyn",
+            "CBG":360470254001,
+            "Radius":137.5708940977
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6141505,
+                        "lng":-73.9815222
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6154994803,
+                              "lng":-73.9801732197
+                        },
+                        "southwest":{
+                              "lat":40.6128015197,
+                              "lng":-73.9828711803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Pizza Daddy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110607783559830444735\">Pizza Daddy<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAZ4pweyuGwNU35-VTRBfmUrvIVkpolGioonD7M-yHeYvdrqg77XFQAsa6-T8sK0MRlofrgjQgwBmSdZBAU2uH-x8HvJYfKliL3JjxTsTHb78p-pybx8Rl_dmrJtPwzxHkzpPnMK4vC209DRO3UJR5cjHEfdESEHh_YxEpC_SvzZte-",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJOU6CNeBEwokRDa6Upx1R45A",
+            "plus_code":{
+                  "compound_code":"J279+M9 New York, NY, USA",
+                  "global_code":"87G8J279+M9"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJOU6CNeBEwokRDa6Upx1R45A",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":519,
+            "vicinity":"6422 Bay Parkway, Brooklyn",
+            "CBG":360470254001,
+            "Radius":137.5708940977
+      }
+]

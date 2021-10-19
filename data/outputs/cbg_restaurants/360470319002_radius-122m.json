@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.667032,
+                        "lng":-73.950514
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6683878803,
+                              "lng":-73.9492899197
+                        },
+                        "southwest":{
+                              "lat":40.6656899197,
+                              "lng":-73.9519878803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Brooklyn Bites",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118285213738551938389\">Brooklyn Bites<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBi54CrXxD9P50S9CVB9RDTuPP_vWI3soFVP-URyyudVpkRyOAC45Lxr4oCLJK7d58OYasTVw7z4reGnoqQpStCtnINozw2JTJB_ONUDcwNPN5T20hGMLZa9hSSQM19Nym33M_RonuxUBiFerUP1A37Y-U_o9zHf3FBWArJVeqwT1Da",
+                        "width":1152
+                  }
+            ],
+            "place_id":"ChIJW318KHdbwokRQU8LM0zW0io",
+            "plus_code":{
+                  "compound_code":"M28X+RQ Brooklyn, NY, USA",
+                  "global_code":"87G8M28X+RQ"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJW318KHdbwokRQU8LM0zW0io",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"867 Nostrand Avenue, Brooklyn",
+            "CBG":360470319002,
+            "Radius":121.7721891397
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6670018,
+                        "lng":-73.950574
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6683567803,
+                              "lng":-73.9493214197
+                        },
+                        "southwest":{
+                              "lat":40.6656588197,
+                              "lng":-73.9520193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"China Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":547,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115804235554735791516\">China Wok<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBk3tsYg_6l7TsraB2JZ1yjCgG0XoU_DMWV-c4fbJLXJtxVOSbKpA1ilhWXG5nzvrO8SurRekZxj2fF2gvPB4ee2EW4_GEsXlkCOFbycr6DVgMcJEfzC42ZA_b4PiNYMo-M-GqaTF2JAn0IqKBvs32sGf-u32aWYPm2zNzj9icUQb2T",
+                        "width":718
+                  }
+            ],
+            "place_id":"ChIJK-FdKHdbwokRqvBFAn9RwJU",
+            "plus_code":{
+                  "compound_code":"M28X+RQ New York, NY, USA",
+                  "global_code":"87G8M28X+RQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJK-FdKHdbwokRqvBFAn9RwJU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"869 Nostrand Avenue, Brooklyn",
+            "CBG":360470319002,
+            "Radius":121.7721891397
+      }
+]

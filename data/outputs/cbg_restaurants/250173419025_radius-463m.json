@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.4439369,
+                        "lng":-71.0252927
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.4452077303,
+                              "lng":-71.0241474697
+                        },
+                        "southwest":{
+                              "lat":42.4425097697,
+                              "lng":-71.0268454303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Glen's Roast Beef",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103486155706502330828\">William paskevich<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBa9BLJPUXexvPJAAeMzDJ6ElCytQOB_mT-B9647Q4Rrs484SR3nLq_dljFh7vOrk_jars-oUjRmMOKJE3J1GkCQmL9qXRLxHEaL5XoqJwUQUcwgqiaWD2r-pHmOeznWIeXPfZHH8pi4gXfDMVGcDVqEw-dRslQ9v-pvv0xYQHyWM_Y",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJJ_FDfWpy44kRp55kAUc0480",
+            "plus_code":{
+                  "compound_code":"CXVF+HV Revere, MA, USA",
+                  "global_code":"87JCCXVF+HV"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJJ_FDfWpy44kRp55kAUc0480",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":357,
+            "vicinity":"325 Bennett Highway, Revere",
+            "CBG":250173419025,
+            "Radius":463.0769669978
+      }
+]

@@ -1,0 +1,50 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3936268,
+                        "lng":-71.1374711
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3950587803,
+                              "lng":-71.1360880697
+                        },
+                        "southwest":{
+                              "lat":42.3923608197,
+                              "lng":-71.1387860303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "icon_background_color":"#4B96F3",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/shoppingcart_pinlet",
+            "name":"Ferro's Foodtown",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJX6D3Zw9344kRfX25PKCMzHE",
+            "plus_code":{
+                  "compound_code":"9VV7+F2 Cambridge, MA, USA",
+                  "global_code":"87JC9VV7+F2"
+            },
+            "rating":2.9,
+            "reference":"ChIJX6D3Zw9344kRfX25PKCMzHE",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "laundry",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"336 Rindge Avenue, Cambridge",
+            "CBG":250173549002,
+            "Radius":236.8984966672
+      }
+]

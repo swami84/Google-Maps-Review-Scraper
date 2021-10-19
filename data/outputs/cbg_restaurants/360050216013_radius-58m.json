@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8404114,
+                        "lng":-73.8664148
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8418259303,
+                              "lng":-73.8651225697
+                        },
+                        "southwest":{
+                              "lat":40.8391279697,
+                              "lng":-73.8678205303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"NEW HONG KONG KITCHEN",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110104618745278872764\">CongFen Li<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBJjh2HIqp2H8KS2uLFbsKKJ9WBUbti3ut61ZXYDfZjz_CGnaanzCqaMt9607uy839JLZXdsF4acbytR8muTgY_vdSdbtRuo5J2FV-oK7iBx5LQGAOc6J20TPvceRwBoMpVJd4ZfqgZs0ulUAoFrjTSbjbLYoOgA9_mNydQmxd0U4cf",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ8d19kZX0wokRPdKLOPxuf64",
+            "plus_code":{
+                  "compound_code":"R4RM+5C New York, NY, USA",
+                  "global_code":"87G8R4RM+5C"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ8d19kZX0wokRPdKLOPxuf64",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"1838 East Tremont Avenue, Bronx",
+            "CBG":360050216013,
+            "Radius":57.79020095
+      }
+]

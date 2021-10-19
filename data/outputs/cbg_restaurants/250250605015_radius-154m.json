@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3358109,
+                        "lng":-71.0453537
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3371181803,
+                              "lng":-71.0438975697
+                        },
+                        "southwest":{
+                              "lat":42.3344202197,
+                              "lng":-71.0465955303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/bar_pinlet",
+            "name":"Stats Bar & Grille",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116352317232839496576\">Stats Bar &amp; Grille<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECbsVh6TKezfUHOfjoUZIYRRdhJAKglrtmv8IZA9rQgQcL80kQbntiAZvtwh8hWR0AwUo3XvVkzgw58PyzTGqLNinrU1Vf4ATxbNvgFerxR05Ihx84_IOoE35jE8eHFeGnVlYdNxNBLKAW8OvwDdMAX9tJmeSihdLNE_yoCGtcoY7hf",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJ9e9P4It644kRo4hnW92Sab8",
+            "plus_code":{
+                  "compound_code":"8XP3+8V Boston, MA, USA",
+                  "global_code":"87JC8XP3+8V"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ9e9P4It644kRo4hnW92Sab8",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":322,
+            "vicinity":"77 Dorchester Street, Boston",
+            "CBG":250250605015,
+            "Radius":154.035122346
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3373202,
+                        "lng":-71.0435749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3387406303,
+                              "lng":-71.0421862197
+                        },
+                        "southwest":{
+                              "lat":42.3360426697,
+                              "lng":-71.0448841803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Publico Street Bistro & Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118030896105920137211\">Publico Street Bistro &amp; Garden<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC72_lvN5ppUypojpmxOtdysconaRYlU1S-rJtT3aQVtGQUMI-6SgAfvTkdPRQiLpfItOW-U4ZpjvCH5_1hrzJReJSBT_P1hk670j3JBC1vJpbfB9xKD86Yj-R7l7h45ECaZ4aYbz5UepS1yfE6dyBv2pWzF4twkKt3L2FwtDm_3hYU",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJT6cQzY5644kRiRY2RZl6BaA",
+            "plus_code":{
+                  "compound_code":"8XP4+WH Boston, MA, USA",
+                  "global_code":"87JC8XP4+WH"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJT6cQzY5644kRiRY2RZl6BaA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":303,
+            "vicinity":"11 Dorchester Street, Boston",
+            "CBG":250250605015,
+            "Radius":154.035122346
+      }
+]

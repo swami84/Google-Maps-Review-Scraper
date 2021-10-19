@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8392805,
+                        "lng":-73.858277
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8405728803,
+                              "lng":-73.8572085697
+                        },
+                        "southwest":{
+                              "lat":40.8378749197,
+                              "lng":-73.8599065303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Xin Xing Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1497,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106049584197170853545\">Xin Xing Chinese Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEAll8BlcuLVulIszIgYN5FQ_zmSMqEwCAImOEzZmwtJVZcXOcDQw8bja4pGD_okZlAAOqFs4K1SFCBrttVo6RiADn0LGlzdtqIlLl2g4zFrlTDhHnTr3QneVzMpv8TnZe_POQ6qPCQwL8zOoxyTr1n8PFuZq0c0Sm9Kpa4JkOSXRnTW",
+                        "width":2659
+                  }
+            ],
+            "place_id":"ChIJf328LHr1wokRthN4r09KHs0",
+            "plus_code":{
+                  "compound_code":"R4QR+PM New York, NY, USA",
+                  "global_code":"87G8R4QR+PM"
+            },
+            "rating":4.7,
+            "reference":"ChIJf328LHr1wokRthN4r09KHs0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"1520 Metropolitan Avenue, Bronx",
+            "CBG":360050210027,
+            "Radius":65.9257399348
+      }
+]

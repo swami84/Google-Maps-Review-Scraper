@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8097955,
+                        "lng":-87.6055744
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8111160803,
+                              "lng":-87.6042867197
+                        },
+                        "southwest":{
+                              "lat":41.8084181197,
+                              "lng":-87.6069846803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115253567817809483854\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC8J3S7DZUdE31JvIHgUmigmR0VTOO12OmqRbdriZpAn0mohmU7h0se24M6fODAb38Pn9XBtxS4EerCs2xvoW3hhb45aj_Cl-FII4eUmSPRTuCnuWNV9eKmjPy16eYKTO270cIKuJKwjCQB6Tsczily2miW6UTYTEK1BmZSm4xFNIhe",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJL2BW2lspDogR-Fv_j87GXjA",
+            "plus_code":{
+                  "compound_code":"R95V+WQ Chicago, IL, USA",
+                  "global_code":"86HJR95V+WQ"
+            },
+            "price_level":1,
+            "rating":3,
+            "reference":"ChIJL2BW2lspDogR-Fv_j87GXjA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":946,
+            "vicinity":"818 East 47th Street, Chicago",
+            "CBG":170313903001,
+            "Radius":141.3461000747
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.809684,
+                        "lng":-87.6030509
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8109705803,
+                              "lng":-87.6018750197
+                        },
+                        "southwest":{
+                              "lat":41.8082726197,
+                              "lng":-87.6045729803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"De Rice Asian Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110883663660505234995\">Sbfx Dv<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECg7PAVqX-e7cap3xTUA680MNuj6Ihj1Mna7TKaVF-jVP5za4ock-VSJLoc9iR9GXvbsQlxncCb_gGn074_m65uuY2A2o-AhtcD6Y2TGf4EprdyHNiONe7Thxlm71wNdZ0CJaK9lelVGCjLKtW4M0o2KXctoaOkLuTmiPDA637VSx8M",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJXWSFEFwpDogRMK0S13doL1s",
+            "plus_code":{
+                  "compound_code":"R95W+VQ Chicago, IL, USA",
+                  "global_code":"86HJR95W+VQ"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJXWSFEFwpDogRMK0S13doL1s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":147,
+            "vicinity":"920 East 47th Street, Chicago",
+            "CBG":170313903001,
+            "Radius":141.3461000747
+      }
+]

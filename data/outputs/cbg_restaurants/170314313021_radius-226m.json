@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7591248,
+                        "lng":-87.5638312
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7604125803,
+                              "lng":-87.5624803697
+                        },
+                        "southwest":{
+                              "lat":41.7577146197,
+                              "lng":-87.5651783303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Nellie's Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJmdAtWkEoDogRn5q09XtPaDc",
+            "plus_code":{
+                  "compound_code":"QC5P+JF Chicago, IL, USA",
+                  "global_code":"86HJQC5P+JF"
+            },
+            "rating":5,
+            "reference":"ChIJmdAtWkEoDogRn5q09XtPaDc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2466 East 75th Street, Chicago",
+            "photos":null,
+            "CBG":170314313021,
+            "Radius":225.6645493453
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.758889,
+                        "lng":-87.5652927
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7602863303,
+                              "lng":-87.5639605697
+                        },
+                        "southwest":{
+                              "lat":41.7575883697,
+                              "lng":-87.5666585303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Lit Vegan Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJw4A9qXcpDogR8AE_nZbwlAU",
+            "plus_code":{
+                  "compound_code":"QC5M+HV Chicago, IL, USA",
+                  "global_code":"86HJQC5M+HV"
+            },
+            "rating":5,
+            "reference":"ChIJw4A9qXcpDogR8AE_nZbwlAU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"2427 East 75th Street, Chicago",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115739923054358411315\">K B<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBve-T64RXI_0pt-R_LekEMSumxFTemJUtfsnahq0207NB3ul22E4qSTLtjLg35QCOVzu-G5lE9Zn0qahr2tSzz2X0hbYi_T7alxCt_DpXfP98Dxlvnd6MGJEVu7opvohBlu_ENsu9g5xPn0x23i-TDI7CO4mH85KGSVtwF39zR2tjy",
+                        "width":4032
+                  }
+            ],
+            "CBG":170314313021,
+            "Radius":225.6645493453
+      }
+]

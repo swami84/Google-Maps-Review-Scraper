@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8164348,
+                        "lng":-80.2479882
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8177204303,
+                              "lng":-80.2466395197
+                        },
+                        "southwest":{
+                              "lat":25.8150224697,
+                              "lng":-80.2493374803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"World Famous Ribs & Seafood II",
+            "place_id":"ChIJC4KA2M6w2YgR-L645IQoHiQ",
+            "plus_code":{
+                  "compound_code":"RQ82+HR Miami, FL, USA",
+                  "global_code":"76QXRQ82+HR"
+            },
+            "rating":3.8,
+            "reference":"ChIJC4KA2M6w2YgR-L645IQoHiQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"3171 Northwest 46th Street, Miami",
+            "CBG":120860017023,
+            "Radius":373.9010836061
+      }
+]

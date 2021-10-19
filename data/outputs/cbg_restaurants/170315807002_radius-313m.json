@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8192759,
+                        "lng":-87.6849469
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8206785303,
+                              "lng":-87.6834842697
+                        },
+                        "southwest":{
+                              "lat":41.8179805697,
+                              "lng":-87.6861822303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"El Pescador Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109285226730269245701\">El Pescador Restaurant<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECMoD8IK8omb150n2mwD_sloknOmHPMl_7k_QtEQ8MOdHoN8vT6gO4eDg8apeDYb4u3h8X0dHANRrDSiHWp2TM80MuXGInIQkD-0XF3FbkG4xDMZ1LaOCmUU_jT68vUSjFPvzaeSMmREI86NddtrZeFBKZEXto9rgO8cTJNCtlp4oNK",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJuWQxVeItDogRVzE1sDoc170",
+            "plus_code":{
+                  "compound_code":"R898+P2 Chicago, IL, USA",
+                  "global_code":"86HJR898+P2"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJuWQxVeItDogRVzE1sDoc170",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":321,
+            "vicinity":"4056 South Western Avenue, Chicago",
+            "CBG":170315807002,
+            "Radius":312.53302223
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.817613,
+                        "lng":-87.6868395
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8189599303,
+                              "lng":-87.6856574697
+                        },
+                        "southwest":{
+                              "lat":41.8162619697,
+                              "lng":-87.6883554303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Barbacoa Carnitas Birria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103715291873865156675\">Thomas Small<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEC4Fth6qmWJn6_NF4hLsTH5DsqnEfxQp3LzINwkfv7H2yTVRdhLKYM0OA6iS8qhu9yoVG9C2hFrtdDC1VMoAJax8thk7Ax3p4mVSJM-2mOHv46P5gR_WxsuAKejwm-54evxaH_OKuTZF8S_Vxn0YNdpmlH_nBotEQQyV6VOquWdzQ8L",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJP4JNpeItDogRvlpK1CCit9Y",
+            "plus_code":{
+                  "compound_code":"R897+27 Chicago, IL, USA",
+                  "global_code":"86HJR897+27"
+            },
+            "price_level":null,
+            "rating":2.5,
+            "reference":"ChIJP4JNpeItDogRvlpK1CCit9Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4159 South Campbell Avenue, Chicago",
+            "CBG":170315807002,
+            "Radius":312.53302223
+      }
+]

@@ -1,0 +1,63 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6763986,
+                        "lng":-97.1928421
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6780152803,
+                              "lng":-97.1917818197
+                        },
+                        "southwest":{
+                              "lat":32.6753173197,
+                              "lng":-97.1944797803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "icon_background_color":"#909CE1",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/gas_pinlet",
+            "name":"Shell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107845644717165369424\">Willi Ju\u00e1rez<\/a>"
+                        ],
+                        "photo_reference":"Aap_uECu89C2dxIvFBHDmpWQWhbz-l6UNZquWEtIoG7HdbO7dyvM2gJgHGa6U887Xzcy4sqmZ4P10lTgLp2_DAYSaqiXrvS7KyDFe6CB9h7rwdmTSrvkDB66SVvAY0PrHV0dxVFUtxziuTW_2HbSA5xY7-AhiQ7eeU2JJ3z9Ur3qvn_piQ2r",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJn8WlhLtkToYRXcmfYz-3ROY",
+            "plus_code":{
+                  "compound_code":"MRG4+HV Arlington, TX, USA",
+                  "global_code":"8644MRG4+HV"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJn8WlhLtkToYRXcmfYz-3ROY",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "car_wash",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"4401 West Green Oaks Boulevard, Arlington",
+            "CBG":484391115464,
+            "Radius":636.6231361749
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.753589,
+                        "lng":-73.901789
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7550206803,
+                              "lng":-73.9005348697
+                        },
+                        "southwest":{
+                              "lat":40.7523227197,
+                              "lng":-73.9032328303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2360,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115138227498496861301\">Jerry JerrBear Ravalohery<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBp5XYmZ_IquOe95HWxDIo67Q9qowjb4zzq36P1bX58T5ayR2imPKmlT1Jq2gX6ij8imD43h5GBU_vBb56WvUO6MCh3t4zw8baQcxlD0eA4TQ88h2U59IJlWDXjFhS8uS8pQTC6WOTuHOCYzun6w6RXU3qmd9t1gz6bmvC18qjcU08U",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJTYWWCxBfwokRxpRpFgCA81A",
+            "plus_code":{
+                  "compound_code":"Q33X+C7 New York, NY, USA",
+                  "global_code":"87G8Q33X+C7"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJTYWWCxBfwokRxpRpFgCA81A",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1694,
+            "vicinity":"60-12 Northern Boulevard, Queens",
+            "CBG":360810297002,
+            "Radius":257.205485858
+      }
+]

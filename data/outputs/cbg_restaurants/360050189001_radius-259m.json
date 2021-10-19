@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8315194,
+                        "lng":-73.930022
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8329126303,
+                              "lng":-73.9286464197
+                        },
+                        "southwest":{
+                              "lat":40.8302146697,
+                              "lng":-73.9313443803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"VicNat Diner",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107892719167115160136\">Quan Southall<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDPAfuZ3BV2nZ4hIoHkAbqRbFb7_DC1MC9CSreeTcZGCVu3vhaEmxkhEXf4HV1EBPpUSq-2MePzdQRRkqsGG0Ld4BLAsLHNGwV3BRFvnl6FOI5ZViK4Trrb6JDNoieOGNjZv6IbccqtmIsjxKunX_QLiKPxBnxCpIlAJSYFwuQi7AKc",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhZfMkKT1wokRoTJDPEnSNOA",
+            "plus_code":{
+                  "compound_code":"R3J9+JX New York, NY, USA",
+                  "global_code":"87G8R3J9+JX"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJhZfMkKT1wokRoTJDPEnSNOA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":79,
+            "vicinity":"948 Ogden Avenue, Bronx",
+            "CBG":360050189001,
+            "Radius":258.5989282237
+      }
+]

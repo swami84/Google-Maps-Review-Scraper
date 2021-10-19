@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3484509,
+                        "lng":-71.2297953
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3497423803,
+                              "lng":-71.2284282197
+                        },
+                        "southwest":{
+                              "lat":42.3470444197,
+                              "lng":-71.2311261803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"The LOCAL Kitchen & Drinks West Newton",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101874508321852019583\">Charlie&#39;s Cooking Show<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEDObYjj_rTED4MJ5o4eO95I8ykDRS-D-8eGeIkoFmuVo1f19wIprtsHi4KLpZ1_zV5evDZRq3Uxy9Zx0fNHa3FReT45cuffLWBzA5T4979KDo6CTMvrE6Xd3bqiasHWWJRF-yx74GK0p-d4MMCCTpvAkjHI9hhIeW82eH-8n0qwNANk",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJUQQgIfqC44kRe6yq2fkrw-Q",
+            "plus_code":{
+                  "compound_code":"8QXC+93 West Newton, Newton, MA, USA",
+                  "global_code":"87JC8QXC+93"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJUQQgIfqC44kRe6yq2fkrw-Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":463.0,
+            "vicinity":"1391 Washington Street, West Newton",
+            "CBG":250173745001,
+            "Radius":360.6667687601
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3476127,
+                        "lng":-71.2288569
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3489666803,
+                              "lng":-71.2274658197
+                        },
+                        "southwest":{
+                              "lat":42.3462687197,
+                              "lng":-71.2301637803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"TeeGee's Pizza",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJEcD4b4SD44kRlaZirU53z88",
+            "plus_code":{
+                  "compound_code":"8QXC+2F Newton, MA, USA",
+                  "global_code":"87JC8QXC+2F"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJEcD4b4SD44kRlaZirU53z88",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1396 Washington Street, Newton",
+            "CBG":250173745001,
+            "Radius":360.6667687601
+      }
+]

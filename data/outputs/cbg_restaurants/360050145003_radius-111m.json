@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8326938,
+                        "lng":-73.905821
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8340872303,
+                              "lng":-73.9046012197
+                        },
+                        "southwest":{
+                              "lat":40.8313892697,
+                              "lng":-73.9072991803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Laith Gourmet Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJITenK1v1wokRRvjquaqccDA",
+            "plus_code":{
+                  "compound_code":"R3MV+3M New York, NY, USA",
+                  "global_code":"87G8R3MV+3M"
+            },
+            "reference":"ChIJITenK1v1wokRRvjquaqccDA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1288 Washington Avenue, Bronx",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050145003,
+            "Radius":111.0321660236
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8314743,
+                        "lng":-73.9058466
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8328129303,
+                              "lng":-73.9044303197
+                        },
+                        "southwest":{
+                              "lat":40.8301149697,
+                              "lng":-73.9071282803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "icon_background_color":"#FF9E67",
+            "icon_mask_base_uri":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v2\/restaurant_pinlet",
+            "name":"Arka Snack Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ6UDiOU_0wokRfyL4GZ6ZLjQ",
+            "plus_code":{
+                  "compound_code":"R3JV+HM New York, NY, USA",
+                  "global_code":"87G8R3JV+HM"
+            },
+            "reference":"ChIJ6UDiOU_0wokRfyL4GZ6ZLjQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3531 3rd Avenue, Bronx",
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105157764034448681899\">Arka Snack Bar<\/a>"
+                        ],
+                        "photo_reference":"Aap_uEBuwP846yxtE7S6pel-D1KR-FhBeFg0uPJD03vZpokXW_ToDSOefioNCp1Iizd8WtMHl6g-oRgd5Nn2C-0AyaTH7udqLFS6tmdPk-4HtsXHz6LPNEWp1g49I7aLXLUiTI2w9QYAzPc8bFwCDRa2wKV0jQxgO-GcCFBwpvYDPetN_t1h",
+                        "width":1440
+                  }
+            ],
+            "rating":4.9,
+            "user_ratings_total":10.0,
+            "CBG":360050145003,
+            "Radius":111.0321660236
+      }
+]
